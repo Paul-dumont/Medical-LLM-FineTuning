@@ -1,30 +1,25 @@
-# Medical-LLM-FineTuning
+# Medical-LLM-FineTuning 🏥 🤖
 
-Dépôt pour le projet de fine-tuning d'un LLM médical.
+**Fine-Tuning Large Language Models for Structured Clinical Information Extraction.**
 
-Contenu:
-- `generate_json.py`, `training.py` et fichiers de données d'entraînement.
+## 📌 Project Overview
+This repository contains a research framework for fine-tuning State-of-the-Art LLMs (Qwen 2.5, Mistral, Llama 3) to perform **Information Extraction (IE)** on complex medical datasets.
 
-Note:
-- Les fichiers de données brutes (ex: gros fichiers `.xlsm`, `.jsonl`) peuvent être volumineux et ne devraient pas forcément être poussés sur GitHub. Si vous voulez, je peux ajouter des règles `.gitignore` pour les exclure.
+The goal is to transform unstructured clinical notes into strict, validated **JSON outputs** using **Chain-of-Thought (CoT)** reasoning. The project focuses on model benchmarking, hyperparameter optimization, and efficient training strategies on limited hardware.
 
-Prochaines étapes recommandées:
-- Choisir un nom de repo GitHub et visibilité (public/private) si vous voulez que je crée et pousse le repo distant.
-- Ou créez le repo manuellement sur GitHub, puis donnez-moi l'URL pour que je l'ajoute en remote et pousse.
+## 🚀 Key Features
+* **Chain-of-Thought (CoT) Extraction:** Implements a "Reasoning + Extraction" approach to improve accuracy on complex medical cases.
+* **Efficient Fine-Tuning:** Utilizes **QLoRA** and **Unsloth** for 2x faster training and 60% less VRAM usage.
+* **Scientific Benchmarking:** A "Fair Comparison" framework to evaluate different architectures (Qwen vs. Mistral vs. Llama) under identical constraints.
+* **Experiment Tracking:** Integrated with **Weights & Biases (WandB)** for real-time monitoring of training and evaluation loss.
 
-Commandes utiles (si vous avez la CLI GitHub `gh` installée):
+## 🛠️ Tech Stack
+* **Model Architecture:** Qwen 2.5 (1.5B/7B/14B), Mistral v0.3
+* **Training Library:** Hugging Face `trl` (SFTTrainer), `peft` (LoRA), `unsloth`
+* **Precision:** Bfloat16 (BF16) on NVIDIA RTX 6000 Ada
+* **Tracking:** Weights & Biases (WandB)
 
-```bash
-# créer et pousser le repo (exemple public)
-# Remplacez `my-repo-name` et choisissez --private si nécessaire
-gh repo create my-repo-name --public --source=. --remote=origin --push
-```
-
-Commandes manuelles si vous préférez le site web GitHub:
-
-```bash
-# après création du repo sur GitHub, par exemple https://github.com/USERNAME/REPO.git
-git branch -M main
-git remote add origin https://github.com/USERNAME/REPO.git
-git push -u origin main
-```
+## 📊 Methodology
+1.  **Data Preparation:** Tokenization with dynamic chat templates (`<|im_start|>`, `[INST]`).
+2.  **Fine-Tuning:** Parameter-Efficient Fine-Tuning (PEFT) with Rank=64 and Alpha=32.
+3.  **Evaluation:** Validation loss monitoring and structured JSON generation tests.

@@ -2,13 +2,22 @@ import warnings
 warnings.filterwarnings("ignore", category=UserWarning, module="openpyxl")
 import pandas as pd
 import json
+from pathlib import Path
 
-# Load table as a Dataframme
-data_file = 'data_training_jonas.xlsm'
-sheets = pd.read_excel(data_file, sheet_name=None)
+# -----------------------------------------------------------------------------
+# 1. Path Configuration
+# -----------------------------------------------------------------------------
+script_folder = Path(__file__).resolve().parent
+project_root = script_folder.parent
 
-# Create List with patients sheets name  
-patients = list(sheets.keys())[1:-2]
+table_path =  project_root/"data"/"xlsm"/"patients_table2.xlsm"
+json_path = project_root/"data"/"json"/"training_data_2.jsonl"
+
+# -----------------------------------------------------------------------------
+# 2. Data Preprocessing
+# -----------------------------------------------------------------------------
+sheets = pd.read_excel(table_path, sheet_name=None) # Load table as a Dataframme
+patients = list(sheets.keys())[1:-2] # Create List with patients sheets name  
 print("\n")
 print(f"Patients found : {len(patients)} ")
 print("\n")
@@ -25,6 +34,10 @@ sheet = sheet.dropna(subset=["Raw Note Text"])
 print(sheet)
 print("\n")
 
+
+# -----------------------------------------------------------------------------
+# 3. Json Construction
+# -----------------------------------------------------------------------------
 # Prompt Strategy : Sparse + Synthetic CoT
 system_prompt = (
     "You are an expert Orthodontist Assistant. "
@@ -58,7 +71,7 @@ for idx, row in sheet.iterrows():
     # Ouput = thought + value 
     final_output_structure = {"thought": thoughts, "extraction": sparse_features}
 
-    # Convert Python Obeject into text (Json String) 
+    # Convert Python Object into text (Json String) 
     json_response = json.dumps(final_output_structure, ensure_ascii=False)
 
     # Chat format (used by OpenAi etc ...)
@@ -70,11 +83,12 @@ for idx, row in sheet.iterrows():
         ]
     })
 
-# Save as .jsonl file
-json_name =  "training_data_CoT.jsonl"
-with open(json_name, "w", encoding="utf-8") as json_file:
+# -----------------------------------------------------------------------------
+# 4. Json save
+# -----------------------------------------------------------------------------
+with open(json_path, "w", encoding="utf-8") as json_file:
     for item in training_data:
         json_file.write(json.dumps(item, ensure_ascii=False) + "\n")
-print(f"Saved as {json_name}")
+print(f"Saved as {json_path}")
 
  
