@@ -7,8 +7,8 @@ from pathlib import Path
 # -----------------------------------------------------------------------------
 # 1. Path Configuration
 # -----------------------------------------------------------------------------
-script_folder = Path(__file__).resolve().parent
-project_root = script_folder.parent
+script_folder = Path(__file__).resolve().parent #.resolve convert Relatif path into absolut path (./../home) into (~user/inux/home), .parent to keep the parent folder of the current file 
+project_root = script_folder.parent # move up one level, to get the root project folder
 
 table_path =  project_root/"data"/"xlsm"/"patients_table2.xlsm"
 json_path = project_root/"data"/"json"/"training_data_2.jsonl"
@@ -16,7 +16,7 @@ json_path = project_root/"data"/"json"/"training_data_2.jsonl"
 # -----------------------------------------------------------------------------
 # 2. Data Preprocessing
 # -----------------------------------------------------------------------------
-sheets = pd.read_excel(table_path, sheet_name=None) # Load table as a Dataframme
+sheets = pd.read_excel(table_path, sheet_name=None) # Load table as a Dataframme, name=None to collect every sheets and not only one specific 
 patients = list(sheets.keys())[1:-2] # Create List with patients sheets name  
 print("\n")
 print(f"Patients found : {len(patients)} ")
@@ -27,10 +27,10 @@ patients_sheets = []
 for patient in patients:
     patients_sheets.append(sheets[patient])
 
-sheet = pd.concat(patients_sheets, ignore_index=True)
-sheet = sheet.drop(sheet.columns[:4], axis=1)
-sheet = sheet.astype(object).where(pd.notnull(sheet), None)
-sheet = sheet.dropna(subset=["Raw Note Text"])
+sheet = pd.concat(patients_sheets, ignore_index=True) # ignore_index = True to adjuste indix with new one and not keep previus index value, not (45 46 1 2 ) but (45 46 47 48)
+sheet = sheet.drop(sheet.columns[:4], axis=1) # Delete 4 first column (we dont care), axis=1 to delete columns and not row
+sheet = sheet.astype(object).where(pd.notnull(sheet), None) # convert blank by None, and convert into obj to dodge issues like mxt value ( Number, text)
+sheet = sheet.dropna(subset=["Raw Note Text"]) # Delete all Row with no Notes (keep only clean table with value)
 print(sheet)
 print("\n")
 

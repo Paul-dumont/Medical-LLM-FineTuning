@@ -6,29 +6,32 @@ from trl import SFTTrainer, DataCollatorForCompletionOnlyLM
 from transformers import TrainingArguments
 import wandb
 from pathlib import Path
+import shutil
+
 
 
 # -----------------------------------------------------------------------------
 # 1. Path Configuration
 # -----------------------------------------------------------------------------
-script_folder = Path(__file__).resolve().parent
-project_root = script_folder.parent
+script_folder = Path(__file__).resolve().parent #.resolve convert Relatif path into absolut path (./../home) into (~user/inux/home), .parent to keep the parent folder of the current file 
+project_root = script_folder.parent # move up one level, to get the root project folder
 
 json_path = str(project_root/"data"/"json"/"training_data_2.jsonl")
 output_dir = str(project_root / "outputs")
 
+
 # -----------------------------------------------------------------------------
 # 1. Global Configuration
 # -----------------------------------------------------------------------------
-max_seq_length = 4096 
-run_name = "Meta-Llama-3.1-8B-Instruct_2"
+max_seq_length = 1024 # 1024 for janson patient 4096 for max patient
+run_name = "Phi-3.5-mini-instruct"
 
 # -------------------- ---------------------------------------------------------
 # 2. Load Model 
 # -----------------------------------------------------------------------------
 print("Load Model...")
 model, tokenizer = FastLanguageModel.from_pretrained(
-    model_name= "unsloth/Meta-Llama-3.1-8B-Instruct",
+    model_name= "unsloth/Phi-3.5-mini-instruct",
     max_seq_length = max_seq_length,
     dtype = None ,  #Unslot will automaticaly chose the best precision (bfloat16)
     load_in_4bit = False, # No compretion (Full 16-bit)
@@ -62,7 +65,7 @@ print("\n")
 def format_single_patient(patient_record):
     conversation = patient_record["messages"]
 
-    # Apply the Qwen chat template to the record
+    # Apply the chat template to the record
     # transforms JSON structure (System/User/Assistant) into a string with special tags (<|im_start|>)
     formatted_texts = tokenizer.apply_chat_template(
         conversation, 
@@ -84,8 +87,7 @@ print(f"{len(dataset['test'])} Evaluation samples")
 # -----------------------------------------------------------------------------
 # 4. Training 
 # -----------------------------------------------------------------------------
-response_template = "<|start_header_id|>assistant<|end_header_id|>\n\n"
-
+response_template = "<|assistant|>\n"
 collator = DataCollatorForCompletionOnlyLM(
     response_template=response_template, 
     tokenizer=tokenizer
@@ -117,7 +119,7 @@ trainer = SFTTrainer(
         optim = "adamw_8bit",
 
         # Time for training
-        num_train_epochs = 4, # Read the whole dataset 3 time (1 for testing) 
+        num_train_epochs = 3, # Read the whole dataset 3 time (1 for testing) 
         warmup_steps = 5, # time of slow training (To not delete previus knowledge) 
         
         # Log (WandB)
@@ -126,13 +128,14 @@ trainer = SFTTrainer(
         run_name = run_name, # Name for log and wanbd 
 
         # Eval and Save
-        eval_strategy = "steps", # Eval after every epoch (the whole dataset) 
-        eval_steps = 5,
-        save_total_limit = 2, # Save disk storage, keep last chekpoint
         group_by_length = True, # group short notes together et logn notes together 
 
-        save_strategy = "no", # "steps" if real run, test mode: "no"
-        load_best_model_at_end = False, # "True if real run, test mode: "False"
+        eval_strategy = "steps", # "steps" if real run, test mode: "no"
+        eval_steps = 5,
+        save_strategy ="steps",
+        save_total_limit = 3, # Save disk storage, keep last chekpoint
+
+        load_best_model_at_end = True, # "True if real run, test mode: "False"
         metric_for_best_model = "eval_loss", # gold standart
 
         # Other 
@@ -149,7 +152,23 @@ trainer_stats = trainer.train()
 # -----------------------------------------------------------------------------
 # 5. Save 
 # -----------------------------------------------------------------------------
-# print("Save Model...")
-# model.save_pretrained("lora_model_qwen")
-# tokenizer.save_pretrained("lora_model_qwen")
+print("Save Merge Model (Lora + Base) ...")
+model_save_path = Path(output_dir)/run_name
+model_save_path.mkdir(parents=True, exist_ok=True) # Create all folder necessary, et if all allready exist, do not create error  
+
+# Save LoRA + base model
+model.save_pretrained_merged(
+    str(model_save_path),
+    tokenizer,
+    save_method = "json"
+)
+
+# clean Checkpoints 
+for folder in Path(output_dir).glob("checkpoint-*"):
+    try:
+        shutil.rmtree(folder)
+    except:
+        pass
 print("Succes")
+
+
