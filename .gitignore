@@ -30,6 +30,10 @@ dist/
 # Temporary files
 tmp/
 
+#output
+outputs/
+wandb/
+unsloth_compiled_cache/
 # (Option) Data files - uncomment if you don't want to push large training data
 # *.xlsm
 # *.jsonl
