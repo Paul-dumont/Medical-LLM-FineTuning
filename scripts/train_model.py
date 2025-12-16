@@ -17,13 +17,12 @@ script_folder = Path(__file__).resolve().parent #.resolve convert Relatif path i
 project_root = script_folder.parent # move up one level, to get the root project folder
 
 json_path = str(project_root/"data"/"json"/"training_data_2.jsonl")
-output_dir = str(project_root / "outputs")
+output_dir = str(project_root / "model")
 
 
 # -----------------------------------------------------------------------------
 # 1. Global Configuration
 # -----------------------------------------------------------------------------
-max_seq_length = 1024 # 1024 for janson patient 4096 for max patient
 run_name = "Phi-3.5-mini-instruct"
 
 # -------------------- ---------------------------------------------------------
@@ -32,7 +31,7 @@ run_name = "Phi-3.5-mini-instruct"
 print("Load Model...")
 model, tokenizer = FastLanguageModel.from_pretrained(
     model_name= "unsloth/Phi-3.5-mini-instruct",
-    max_seq_length = max_seq_length,
+    max_seq_length = 1024, # 1024 for janson patient 4096 for max patient
     dtype = None ,  #Unslot will automaticaly chose the best precision (bfloat16)
     load_in_4bit = False, # No compretion (Full 16-bit)
 )
@@ -101,7 +100,7 @@ trainer = SFTTrainer(
     train_dataset = dataset["train"],
     eval_dataset = dataset["test"],
     dataset_text_field = "text", # Name of the Format column "text"
-    max_seq_length = max_seq_length,
+    max_seq_length = 1024,
     data_collator = collator,
     dataset_num_proc = 12, # Number of CPU Core use for tokenization  
     packing = False, # We dont want to merge patient records to fit the max_seq_length window
@@ -160,7 +159,7 @@ model_save_path.mkdir(parents=True, exist_ok=True) # Create all folder necessary
 model.save_pretrained_merged(
     str(model_save_path),
     tokenizer,
-    save_method = "json"
+    save_method = "merged_16bit"
 )
 
 # clean Checkpoints 
