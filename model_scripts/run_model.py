@@ -12,8 +12,8 @@ script_folder = Path(__file__).resolve().parent #.resolve convert Relatif path i
 project_root = script_folder.parent # move up one level, to get the root project folder
 
 model_path = str(project_root / "model"/"Phi-3.5-mini-instruct")
-json_path = str(project_root / "data"/"json"/"training_data_2.jsonl")
-output_path = str(project_root / "output" / "extraction.jsonl")
+json_path = str(project_root / "data"/"2_input_model"/"training_data_2.jsonl")
+output_path = str(project_root / "data" / "3_output_model" / "extraction.jsonl")
 
 # -----------------------------------------------------------------------------
 # 2. Load Model
@@ -57,7 +57,7 @@ for patient_record in tqdm(eval_dataset): #loop on patient records, tqdm = progr
 
     outputs = model.generate(
         input_ids = input_ids,
-        max_new_tokens = 1024, #a verifier 
+        max_new_tokens = 2048, #a verifier 
         use_cache = True,
         temperature = 0.0,
         do_sample = False
@@ -75,11 +75,10 @@ for patient_record in tqdm(eval_dataset): #loop on patient records, tqdm = progr
 
     # Save result 
     result.append({
-        "orignal_note": prompt[-1]["content"], # notes
-        "extraction": truth, # what we wanted 
+        "original_note": prompt[-1]["content"], # notes
+        "original": truth, # what we wanted 
         "prediction": prediction_json # what we have (model prediction)
     })
-
 
 # -----------------------------------------------------------------------------
 # 5. Save 

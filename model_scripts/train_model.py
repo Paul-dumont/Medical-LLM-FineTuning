@@ -16,7 +16,7 @@ import shutil
 script_folder = Path(__file__).resolve().parent #.resolve convert Relatif path into absolut path (./../home) into (~user/inux/home), .parent to keep the parent folder of the current file 
 project_root = script_folder.parent # move up one level, to get the root project folder
 
-json_path = str(project_root/"data"/"json"/"training_data_2.jsonl")
+json_path = str(project_root/"data"/"2_input_model"/"training_data_2.jsonl")
 output_dir = str(project_root / "model")
 
 
@@ -100,7 +100,7 @@ trainer = SFTTrainer(
     train_dataset = dataset["train"],
     eval_dataset = dataset["test"],
     dataset_text_field = "text", # Name of the Format column "text"
-    max_seq_length = 1024,
+    max_seq_length = 2048,
     data_collator = collator,
     dataset_num_proc = 12, # Number of CPU Core use for tokenization  
     packing = False, # We dont want to merge patient records to fit the max_seq_length window
@@ -139,6 +139,7 @@ trainer = SFTTrainer(
 
         # Other 
         output_dir = output_dir,
+        overwrite_output_dir = True,  
         weight_decay = 0.01, # Counter overfitting  
         lr_scheduler_type = "linear", # gold standart
         seed = 3407,    

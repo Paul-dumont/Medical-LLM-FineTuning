@@ -10,8 +10,8 @@ from pathlib import Path
 script_folder = Path(__file__).resolve().parent #.resolve convert Relatif path into absolut path (./../home) into (~user/inux/home), .parent to keep the parent folder of the current file 
 project_root = script_folder.parent # move up one level, to get the root project folder
 
-table_path =  project_root/"data"/"xlsm"/"patients_table2.xlsm"
-json_path = project_root/"data"/"json"/"training_data_2.jsonl"
+table_path =  project_root/"data"/"1_manual_table"/"patients_table1.xlsm"
+json_path = project_root/"data"/"2_input_model"/"training_data_1.jsonl"
 
 # -----------------------------------------------------------------------------
 # 2. Data Preprocessing
