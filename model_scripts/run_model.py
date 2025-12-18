@@ -15,13 +15,14 @@ model_path = str(project_root / "model"/"Phi-3.5-mini-instruct")
 json_path = str(project_root / "data"/"2_input_model"/"training_data_2.jsonl")
 output_path = str(project_root / "data" / "3_output_model" / "extraction.jsonl")
 
+
 # -----------------------------------------------------------------------------
 # 2. Load Model
 # -----------------------------------------------------------------------------
 print("Load Model...")
 model, tokenizer = FastLanguageModel.from_pretrained(
     model_name = model_path,
-    max_seq_length = 1024, # 1024 for janson patient 4096 for max patient
+    max_seq_length = 2048, # 1024 for janson patient 4096 for max patient
     dtype = None ,  #Unslot will automaticaly chose the best precision (bfloat16)
     load_in_4bit = False, # No compretion (Full 16-bit)
 )

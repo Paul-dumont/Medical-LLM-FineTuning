@@ -2,10 +2,16 @@ import json
 from pathlib import Path
 from collections import Counter
 
+# -----------------------------------------------------------------------------
+# 1. Path Configuration
+# -----------------------------------------------------------------------------
 script_folder = Path(__file__).resolve().parent
 project_root = script_folder.parent
 json_path = project_root / "data" / "2_input_model" / "training_data_2.jsonl"
 
+# -----------------------------------------------------------------------------
+# 2. Process Loop 
+# -----------------------------------------------------------------------------
 feature_counts = Counter()
 total_records = 0
 valid = 0
@@ -13,7 +19,7 @@ corrupted = 0
 
 with open(json_path, "r", encoding="utf-8") as f:
     for line in f:
-        if not line.strip():
+        if not line.strip(): # Ignore empty line
             continue
         try:
             record = json.loads(line)
@@ -39,3 +45,4 @@ for feature, count in feature_counts.most_common():
 
 print("-" * 70)
 print(f"TOTAL: {total_records}")
+    

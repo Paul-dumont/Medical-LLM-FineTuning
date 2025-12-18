@@ -3,7 +3,7 @@
 **Fine-Tuning Large Language Models for Structured Clinical Information Extraction.**
 
 ## 📌 Project Overview
-This repository contains a research framework for fine-tuning State-of-the-Art LLMs (Qwen 2.5, Mistral, Llama 3) to perform **Information Extraction (IE)** on complex medical datasets.
+This repository contains a research framework for fine-tuning LLMs (Qwen 2.5, Mistral, Llama 3) to perform **Information Extraction (IE)** on complex medical datasets.
 
 The goal is to transform unstructured clinical notes into strict, validated **JSON outputs** using **Chain-of-Thought (CoT)** reasoning. The project focuses on model benchmarking, hyperparameter optimization, and efficient training strategies on limited hardware.
 

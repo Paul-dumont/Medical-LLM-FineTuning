@@ -1,125 +1,111 @@
-import json 
+import json
+import pandas as pd
 from pathlib import Path
+from sentence_transformers import SentenceTransformer, util
 
-# -----------------------------------------------------------------------------
-# 1. Path Configuration
-# -----------------------------------------------------------------------------
-script_folder = Path(__file__).resolve().parent #.resolve convert Relatif path into absolut path (./../home) into (~user/inux/home), .parent to keep the parent folder of the current file 
-project_root = script_folder.parent # move up one level, to get the root project folder
+# --- Configuration ---
+project_root = Path(__file__).resolve().parents[1]
+json_path = project_root / "data" / "3_output_model" / "extraction.jsonl"
+semantic_model = SentenceTransformer('all-MiniLM-L6-v2')
 
-json_path = str(project_root / "data" / "3_output_model" / "extraction.jsonl")
-
-
-# -----------------------------------------------------------------------------
-# 2. Function
-# -----------------------------------------------------------------------------
-def get_pairs(dict):
-    if dict is None: return set()
+def get_pairs(d):
+    """Recrée exactement votre logique de set de paires (clé, valeur_norm)"""
+    if not d: return set()
     pairs = set()
-    for key, value in dict.items():
-        key_norm = str(key).lower().strip()
-
-        if isinstance(value, list):
-            sorted_list = sorted([str(x).lower().strip() for x in value])
-            value_norm = str(sorted_list)
-        else: value_norm = str(value).lower().strip()
-        
-        pairs.add((key_norm, value_norm))
+    for k, v in d.items():
+        k_norm = str(k).lower().strip()
+        if isinstance(v, list):
+            v_norm = str(sorted([str(x).lower().strip() for x in v]))
+        else:
+            v_norm = str(v).lower().strip()
+        pairs.add((k_norm, v_norm))
     return pairs
 
-# -----------------------------------------------------------------------------
-# 3. Evaluation Loop 
-# -----------------------------------------------------------------------------
-stats = {}
+# --- 1. Collecte des données ---
+results = []
 total_lines = 0
 
-with open(json_path, "r", encoding="utf-8") as json_file:
-    for i, line in enumerate(json_file): # Loop on records
-        total_lines +=1
-        patient_record = json.loads(line)
+with open(json_path, "r", encoding="utf-8") as f:
+    for i, line in enumerate(f):
+        total_lines += 1
+        record = json.loads(line)
+        try:
+            orig_dict = json.loads(record["original"]).get("extraction", {})
+            pred_dict = json.loads(record["prediction"]).get("extraction", {})
+        except:
+            continue
 
-        original = patient_record["original"]
-        prediction = patient_record["prediction"]
+        s_orig = get_pairs(orig_dict)
+        s_pred = get_pairs(pred_dict)
 
-        # Parsing original (truth) - extract only "extraction" field
-        try : 
-            original_dict = json.loads(original).get("extraction", {})
-        except: 
-            original_dict = {}
-            print(f" ERROR : json not valid for original extraction, line : {i+1}")
+        # TP : intersection des paires (Clé + Valeur identiques)
+        for k, v in s_orig & s_pred:
+            results.append({'feature': k, 'type': 'tp', 'val_orig': v, 'val_pred': v})
 
-        # Parsing prediction - extract only "extraction" field
-        try : 
-            prediction_dict = json.loads(prediction).get("extraction", {})
-        except: 
-            prediction_dict = {}
-            print(f" ERROR : json not valid for prediction extraction, line : {i+1} ")
+        # FP : Dans prédiction mais pas dans original
+        for k, v in s_pred - s_orig:
+            results.append({'feature': k, 'type': 'fp', 'val_orig': orig_dict.get(k, ""), 'val_pred': v})
 
-        original_set = get_pairs(original_dict)
-        prediction_set = get_pairs(prediction_dict)
+        # FN : Dans original mais pas dans prédiction
+        for k, v in s_orig - s_pred:
+            results.append({'feature': k, 'type': 'fn', 'val_orig': v, 'val_pred': pred_dict.get(k, "")})
 
-        for item in original_set.intersection(prediction_set):
-            feature_name = item[0]
-            if feature_name not in stats: stats[feature_name] = {'tp': 0, 'fp': 0, 'fn': 0}
-            stats[feature_name]['tp'] += 1
-        
-        for item in (prediction_set - original_set):
-            feature_name = item[0]
-            if feature_name not in stats: stats[feature_name] = {'tp': 0, 'fp': 0, 'fn': 0}
-            stats[feature_name]['fp'] += 1
+df = pd.DataFrame(results)
 
-        for item in (original_set - prediction_set):
-            feature_name = item[0]
-            if feature_name not in stats: stats[feature_name] = {'tp': 0, 'fp': 0, 'fn': 0}
-            stats[feature_name]['fn'] += 1
-
-
-global_true_positif = 0
-global_false_positif = 0
-global_false_negatif = 0
-
-
-print(f"{'FEATURE':<40} | {'F1':<6} | {'COUNT':<5} | {'COUNT %':<5}" )
-
-# Tri des features par importance (nombre d'occurences)
-sorted_stats = sorted(stats.items(), key=lambda x: (x[1]['tp'] + x[1]['fn']), reverse=True)
-
-for feature, counts in sorted_stats:
-    tp = counts['tp']
-    fp = counts['fp']
-    fn = counts['fn']
+# --- 2. Calcul Sémantique (Optimisé) ---
+# On calcule la similarité uniquement pour les lignes qui ont les deux valeurs
+mask = (df['val_orig'] != "") & (df['val_pred'] != "")
+if not df[mask].empty:
+    # On évite de recalculer 1.0 pour les TP parfaits
+    tp_mask = (df['type'] == 'tp')
+    df.loc[tp_mask, 'sem_score'] = 1.0
     
-    # On ajoute au total global
-    global_true_positif += tp
-    global_false_positif += fp
-    global_false_negatif += fn
+    # Calcul sémantique pour les autres (FP/FN qui auraient une valeur partielle)
+    others_mask = mask & (df['type'] != 'tp')
+    if not df[others_mask].empty:
+        emb1 = semantic_model.encode(df.loc[others_mask, 'val_orig'].astype(str).tolist(), convert_to_tensor=True)
+        emb2 = semantic_model.encode(df.loc[others_mask, 'val_pred'].astype(str).tolist(), convert_to_tensor=True)
+        sims = util.cos_sim(emb1, emb2).diagonal().tolist()
+        df.loc[others_mask, 'sem_score'] = sims
+else:
+    df['sem_score'] = 0.0
 
-    # Calcul métriques locales
+df['sem_score'] = df['sem_score'].fillna(0.0)
+
+# --- 3. Synthèse par Feature ---
+print(f"\n{'FEATURE':<40} | {'F1':<5} | {'SEM':<5} | {'COUNT':<5} | {'%':<5}")
+print("-" * 75)
+
+summary = []
+for feat, group in df.groupby('feature'):
+    tp = len(group[group['type'] == 'tp'])
+    fp = len(group[group['type'] == 'fp'])
+    fn = len(group[group['type'] == 'fn'])
+    
     prec = tp / (tp + fp) if (tp + fp) > 0 else 0
     rec = tp / (tp + fn) if (tp + fn) > 0 else 0
     f1 = 2 * (prec * rec) / (prec + rec) if (prec + rec) > 0 else 0
     
-    count = tp + fn 
-    count_percent = count / total_lines * 100
+    count = tp + fn
+    count_pct = (count / total_lines) * 100
+    avg_sem = group['sem_score'].mean()
+    
+    summary.append({'feat': feat, 'f1': f1, 'sem': avg_sem, 'count': count, 'pct': count_pct, 'tp': tp, 'fp': fp, 'fn': fn})
 
-    print(f"{feature:<40} | {f1:.2f}  | {count:<5} | {count_percent:.0f} %")
+# Tri par occurence (count)
+summary_df = pd.DataFrame(summary).sort_values('count', ascending=False)
 
-print("-" * 65)
+for _, r in summary_df.iterrows():
+    print(f"{r['feat'][:40]:<40} | {r['f1']:.2f}  | {r['sem']:.2f}  | {int(r['count']):<5} | {r['pct']:.0f}%")
 
-# --- CALCUL DU F1 GLOBAL (Comme dans ton code original) ---
-if (global_true_positif + global_false_positif) > 0:
-    precision = global_true_positif / (global_true_positif + global_false_positif)
-else : precision = 0
+# --- 4. Global ---
+g_tp = summary_df['tp'].sum()
+g_fp = summary_df['fp'].sum()
+g_fn = summary_df['fn'].sum()
 
-if (global_true_positif + global_false_negatif) > 0:
-    recall = global_true_positif / (global_true_positif + global_false_negatif)
-else : recall = 0
+g_prec = g_tp / (g_tp + g_fp) if (g_tp + g_fp) > 0 else 0
+g_rec = g_tp / (g_tp + g_fn) if (g_tp + g_fn) > 0 else 0
+g_f1 = 2 * (g_prec * g_rec) / (g_prec + g_rec) if (g_prec + g_rec) > 0 else 0
 
-if (precision + recall) > 0:
-    f1 = 2 * (precision * recall) / (precision + recall)
-else : f1 = 0
-
-print(f"{'TOTAL GLOBAL':<40} | {f1:.4f} | {total_lines}")
-
-
-
+print("-" * 75)
+print(f"{'TOTAL GLOBAL':<40} | {g_f1:.3f} | {df['sem_score'].mean():.3f} | {total_lines} lignes\n")

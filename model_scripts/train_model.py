@@ -9,7 +9,6 @@ from pathlib import Path
 import shutil
 
 
-
 # -----------------------------------------------------------------------------
 # 1. Path Configuration
 # -----------------------------------------------------------------------------
@@ -31,7 +30,7 @@ run_name = "Phi-3.5-mini-instruct"
 print("Load Model...")
 model, tokenizer = FastLanguageModel.from_pretrained(
     model_name= "unsloth/Phi-3.5-mini-instruct",
-    max_seq_length = 1024, # 1024 for janson patient 4096 for max patient
+    max_seq_length = 2048, # 1024 for janson patient 4096 for max patient
     dtype = None ,  #Unslot will automaticaly chose the best precision (bfloat16)
     load_in_4bit = False, # No compretion (Full 16-bit)
 )
