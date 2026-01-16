@@ -2,12 +2,18 @@ import json
 from pathlib import Path
 from collections import Counter
 
+
+#TO RUN:
+table_number = 4 
+mode = "with_cot"
+
+
 # -----------------------------------------------------------------------------
 # 1. Path Configuration
 # -----------------------------------------------------------------------------
 script_folder = Path(__file__).resolve().parent
 project_root = script_folder.parent
-json_path = project_root / "data" / "2_input_model" / "training_data_2.jsonl"
+json_path = str(project_root / "data"/"2_input_model"/f"{mode}"/f"training_data_{mode}{table_number}.jsonl")
 
 # -----------------------------------------------------------------------------
 # 2. Process Loop 

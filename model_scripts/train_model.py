@@ -9,20 +9,20 @@ from pathlib import Path
 import shutil
 
 
+# TO RUN:
+table_number = 2
+mode = "with_cot"
+
+
 # -----------------------------------------------------------------------------
 # 1. Path Configuration
 # -----------------------------------------------------------------------------
 script_folder = Path(__file__).resolve().parent #.resolve convert Relatif path into absolut path (./../home) into (~user/inux/home), .parent to keep the parent folder of the current file 
 project_root = script_folder.parent # move up one level, to get the root project folder
 
-json_path = str(project_root/"data"/"2_input_model"/"training_data_2.jsonl")
+json_path = str(project_root/"data"/"2_input_model"/f"{mode}"/f"training_data_{mode}{table_number}.jsonl")
 output_dir = str(project_root / "model")
-
-
-# -----------------------------------------------------------------------------
-# 1. Global Configuration
-# -----------------------------------------------------------------------------
-run_name = "Phi-3.5-mini-instruct"
+run_name = f"Phi-3.5-mini-instruct_{mode}{table_number}"
 
 # -------------------- ---------------------------------------------------------
 # 2. Load Model 

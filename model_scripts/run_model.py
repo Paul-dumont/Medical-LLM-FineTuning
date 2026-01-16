@@ -5,16 +5,22 @@ from unsloth import FastLanguageModel
 # import torch
 from tqdm import tqdm # Barre de progression
 
+
+#TO RUN:
+table_number = 4
+mode = "with_cot"
+eval_only = False  # Si False, génère sur tout le dataset (train + test)
+
+
 # -----------------------------------------------------------------------------
 # 1. Path Configuration
 # -----------------------------------------------------------------------------
 script_folder = Path(__file__).resolve().parent #.resolve convert Relatif path into absolut path (./../home) into (~user/inux/home), .parent to keep the parent folder of the current file 
 project_root = script_folder.parent # move up one level, to get the root project folder
 
-model_path = str(project_root / "model"/"Phi-3.5-mini-instruct")
-json_path = str(project_root / "data"/"2_input_model"/"training_data_2.jsonl")
-output_path = str(project_root / "data" / "3_output_model" / "extraction.jsonl")
-
+model_path = str(project_root / "model"/f"Phi-3.5-mini-instruct_{mode}{table_number}")
+json_path = str(project_root / "data"/"2_input_model"/f"{mode}"/f"training_data_{mode}{table_number}.jsonl")
+output_path = str(project_root / "data" / "3_output_model" / f"extraction{table_number}.jsonl")
 
 # -----------------------------------------------------------------------------
 # 2. Load Model
@@ -35,9 +41,14 @@ FastLanguageModel.for_inference(model) # Activate inference mode from unsloth (q
 
 print("Load Data...")
 dataset = load_dataset("json", data_files=json_path, split="train") # Convertion in structured format + dataset mapping
-dataset = dataset.train_test_split(test_size=0.1,seed=42)
-eval_dataset = dataset["test"]
-print(f"Eval on {len(dataset['test'])} notes ")
+
+if eval_only:
+    dataset = dataset.train_test_split(test_size=0.1, seed=42)
+    generation_dataset = dataset["test"]
+    print(f"Eval on {len(dataset['test'])} notes")
+else:
+    generation_dataset = dataset
+    print(f"Generation on {len(dataset)} notes (entire dataset)")
 
 # -----------------------------------------------------------------------------
 # 4. Generation 
@@ -45,7 +56,7 @@ print(f"Eval on {len(dataset['test'])} notes ")
 print("Generation...")
 result = []
 
-for patient_record in tqdm(eval_dataset): #loop on patient records, tqdm = progress bar
+for patient_record in tqdm(generation_dataset): #loop on patient records, tqdm = progress bar
     prompt = patient_record["messages"][:-1] # Cut to keep onyl assitant : patient_record["messages"] looks like [System, User, Assistant]
     truth = patient_record["messages"][-1]["content"] # True features 
 
