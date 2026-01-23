@@ -1,0 +1,46 @@
+patient_id: B498
+maximum_opening_without_pain: unknown
+patient_age: 46
+maximum_opening: unknown
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 3
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: very mild
+migraine_history: unknown
+headache_location: left behind the eye | left frontal | temporal | left side
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: 5 | present
+autoimmune_condition: unknown
+pain_onset_date: age of 12
+jaw_crepitus: unknown
+tmj_pain_rating: 2 but can escalate to 9
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+current_medications: hormone replacement | pain medication
+disc_displacement: left disc anteromedially dislocated with reduction | right disc may be slightly anteriorly displaced at the lateral aspect of the joint and also slightly medially displaced
+muscle_pain_location: left masseter | posterior neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontic treatment from about age 34 to 36 | splint therapy x3 | orthodontics as teenager with head gear
+joint_pain_areas: knees | hips | elbows | fingers | left index finger | wrists | shoulder area | left tmj

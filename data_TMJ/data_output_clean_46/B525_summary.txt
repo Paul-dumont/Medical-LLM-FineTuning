@@ -1,0 +1,46 @@
+patient_id: B525
+maximum_opening_without_pain: unknown
+patient_age: 15
+maximum_opening: 48mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: left posterior cross bite | right posterior cross bite
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: environmental | cheap earrings
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: milder
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: present
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: unknown
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior dislocation with reduction | left disc slight medial displacement | right disc possible displacement
+muscle_pain_location: masseter | styloid areas
+joint_arthritis_location: left tmj
+appliance_history: unknown
+joint_pain_areas: tmj | left tmj | right tmj | neck | knees

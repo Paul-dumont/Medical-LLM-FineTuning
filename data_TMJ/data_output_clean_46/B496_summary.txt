@@ -1,0 +1,46 @@
+patient_id: B496
+maximum_opening_without_pain: unknown
+patient_age: 13
+maximum_opening: 50mm
+pain_relieving_factors: unknown
+diet_score: 0
+pain_duration: unknown
+disability_rating: 0
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: false
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: seasonal
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: headgear for about 8 months | full appliances for almost two years
+average_daily_pain_intensity: unknown
+headache_intensity: 0
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 0
+sleep_disorder_type: unknown
+current_medications: claritin
+disc_displacement: left disc anterior displacement without reduction | right disc medial displacement
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj
+appliance_history: orthodontic treatment including a palatal expander
+joint_pain_areas: none

@@ -1,0 +1,46 @@
+patient_id: B272
+maximum_opening_without_pain: unknown
+patient_age: 29
+maximum_opening: 40mm
+pain_relieving_factors: unknown
+diet_score: 5
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxing | anterior open bite
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: kicked in the jaw by brother who was 2 years old at the time
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: mild
+migraine_history: unknown
+headache_location: unknown
+current_appliance: orthodontic retainer | splints
+average_daily_pain_intensity: 3
+headache_intensity: 0
+autoimmune_condition: unknown
+pain_onset_date: 12 years of age
+jaw_crepitus: unknown
+tmj_pain_rating: 3
+sleep_disorder_type: unknown
+current_medications: none
+disc_displacement: left disc displacement without reduction | right disc displacement without reduction | left disc lateral and anterior displacement without reduction | right disc lateral and anterior displacement without reduction
+muscle_pain_location: left temporalis | right retromandibular
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 15 to 17 | orthodontic retainers
+joint_pain_areas: tmjjoint_arthritis_location: left tmj | right tmj

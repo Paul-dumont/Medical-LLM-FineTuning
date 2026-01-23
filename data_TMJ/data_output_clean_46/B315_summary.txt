@@ -1,0 +1,46 @@
+patient_id: B315 | B315  PATIENT_AGE: 33
+maximum_opening_without_pain: 5mm
+patient_age: unknown
+maximum_opening: 22mm
+pain_relieving_factors: unknown
+diet_score: 8
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: physical therapy | physical therapy | arthroscopic surgery
+physical_therapy_status: tmj physical therapy
+earache_present: true
+onset_triggers: motorbike accident where she flipped over the handlebars and struck her chin on the cement
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: continuous
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: high moderate to severe
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 6 on right and 4 on left side | present
+autoimmune_condition: unknown
+pain_onset_date: 2 months ago
+jaw_crepitus: unknown
+tmj_pain_rating: 5
+sleep_disorder_type: unknown
+current_medications: celebrex | hydrocodone | tramadol | cyclobenzaprine | klonopin | zolpidem
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement with early reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: head and neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj | neck

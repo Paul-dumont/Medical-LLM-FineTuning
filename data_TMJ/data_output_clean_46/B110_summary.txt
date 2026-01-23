@@ -1,0 +1,46 @@
+patient_id: B110
+maximum_opening_without_pain: 35mm
+patient_age: 16
+maximum_opening: 46mm
+pain_relieving_factors: unknown
+diet_score: 0
+pain_duration: unknown
+disability_rating: 0
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | clenching | anterior open bite
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: every 1 to 2 weeks
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: temporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 4
+headache_intensity: 6 | present
+autoimmune_condition: increased ana titer without medical diagnosis of autoimmune condition | juvenile rheumatoid arthritis
+pain_onset_date: 10 or 11 years old
+jaw_crepitus: unknown
+tmj_pain_rating: 7
+sleep_disorder_type: daytime somnolence
+current_medications: none
+disc_displacement: unknown
+muscle_pain_location: masseters | shoulder | posterior neck | retromandibular area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 12 to 14 years of age
+joint_pain_areas: hips | fingers | neck | back | wrists | ankles | left tmj | right tmj

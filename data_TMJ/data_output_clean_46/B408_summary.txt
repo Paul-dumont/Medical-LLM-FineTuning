@@ -1,0 +1,46 @@
+patient_id: B408
+maximum_opening_without_pain: unknown
+patient_age: 25
+maximum_opening: unknown
+pain_relieving_factors: local anesthetic to right masseter for temporary relief
+diet_score: 6
+pain_duration: unknown
+disability_rating: 7
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism | splint
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: 3 times a week
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: high moderate to low severe
+migraine_history: true
+headache_location: frontal | temporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 10
+headache_intensity: fairly severe at 8 | severe
+autoimmune_condition: unknown
+pain_onset_date: last year
+jaw_crepitus: right tmj
+tmj_pain_rating: 9 | severe
+sleep_disorder_type: unknown
+current_medications: singulair | flonase | zoloft | allegra | valium | robaxin
+disc_displacement: left disc anterior displacement with early reduction | right disc medial and anterior dislocation with early reduction | left disc medial displacement | right disc dislocation
+muscle_pain_location: right masseter | temporalis muscles | right styloid area | scms
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splints from age of 10 to 20 | orthodontics for 1 year from 2 years ago
+joint_pain_areas: tmj | right tmj

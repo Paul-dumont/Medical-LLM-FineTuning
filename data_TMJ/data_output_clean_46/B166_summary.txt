@@ -1,0 +1,46 @@
+patient_id: B166
+maximum_opening_without_pain: unknown
+patient_age: 40
+maximum_opening: unknown
+pain_relieving_factors: unknown
+diet_score: 6
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: open bite tendency
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: once in seventh grade hit in the jaw with a door | once when patient was 15 was hit in the jaw with a boom on a tiny sailboat
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: mild
+migraine_history: unknown
+headache_location: left temporal | top of head
+current_appliance: orthodontics since 34 years of age
+average_daily_pain_intensity: 4
+headache_intensity: present
+autoimmune_condition: unknown
+pain_onset_date: 18 or 19 years of age
+jaw_crepitus: unknown
+tmj_pain_rating: 5
+sleep_disorder_type: daytime somnolence
+current_medications: celebrex | tramadol | aleve | fish oil | flax seed oil
+disc_displacement: left disc anterior displacement | right disc anterior and medial displacement | left disc dislocation with possible reduction on wide opening | left disc displacement | right disc anterior and medial displacement
+muscle_pain_location: left masseter | retromandibular area | scms | posterior neck | shoulder
+joint_arthritis_location: left tmj | right tmj | right tmj | left timj
+appliance_history: orthodontics as teenager
+joint_pain_areas: left tmj | left tmj | left elbow | wrist

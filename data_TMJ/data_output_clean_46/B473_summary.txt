@@ -1,0 +1,46 @@
+patient_id: B473
+maximum_opening_without_pain: unknown
+patient_age: 32
+maximum_opening: unknown
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 5 to 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: neck
+pain_aggravating_factors: anterior open bite | bruxism
+physical_therapy_status: biofeedback 2 years ago | physical therapy 2 years ago | chiropractic treatment from 8 years ago | injection therapy including botox and lidocaine in around 4 to 3 years ago
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: worse usually in the afternoons | wakes up with pain
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj | neck | shoulder
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: behind the left eye | back of the head
+current_appliance: splint from last year until present
+average_daily_pain_intensity: 7
+headache_intensity: 5 | severe
+autoimmune_condition: possible connective tissue autoimmune disease
+pain_onset_date: 15
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 9 | severe
+sleep_disorder_type: daytime somnolence
+current_medications: advil | vicodin
+disc_displacement: left disc  anteriorly displaced with severe deformation and nonreducing | right disc anteromedially displaced with reduction | left disc anteriorly dislocation without reduction | right disc anteriorly dislocated with reduction | left disc anteriorly displaced | right disc anteriorly displaced
+muscle_pain_location: masseters | styloid areas | shoulders | temporalis | scms | posterior neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint in 28 years ago | splint 14-16 years ago | splint in 17 years ago | splint therapy 2-3 years ago
+joint_pain_areas: tmj | left tmj | right tmj

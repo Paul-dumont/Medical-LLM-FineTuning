@@ -10,9 +10,12 @@ import shutil
 
 
 # TO RUN:
-table_number = 2
+table_number = 4
 mode = "with_cot"
 
+print("-" * 95)
+print(f" {mode}, Table {table_number}")
+print("-" * 95)
 
 # -----------------------------------------------------------------------------
 # 1. Path Configuration
@@ -30,7 +33,7 @@ run_name = f"Phi-3.5-mini-instruct_{mode}{table_number}"
 print("Load Model...")
 model, tokenizer = FastLanguageModel.from_pretrained(
     model_name= "unsloth/Phi-3.5-mini-instruct",
-    max_seq_length = 2048, # 1024 for janson patient 4096 for max patient
+    max_seq_length = 2048, # 1024 for jonas patient 4096 for max patient
     dtype = None ,  #Unslot will automaticaly chose the best precision (bfloat16)
     load_in_4bit = False, # No compretion (Full 16-bit)
 )
@@ -169,5 +172,9 @@ for folder in Path(output_dir).glob("checkpoint-*"):
     except:
         pass
 print("Succes")
+
+print("-" * 95)
+print(f" {mode}, Table {table_number}")
+print("-" * 95)
 
 

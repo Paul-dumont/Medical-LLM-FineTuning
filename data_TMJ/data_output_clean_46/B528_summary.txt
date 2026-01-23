@@ -1,0 +1,46 @@
+patient_id: B528
+maximum_opening_without_pain: unknown
+patient_age: 17
+maximum_opening: 46mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 0
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: false
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: 0
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 2
+sleep_disorder_type: daytime somnolence | daytime somnolence | snoring | sleep apnea symptoms | snoring
+current_medications: unknown
+disc_displacement: left disc dislocation medially and slightly anteriorly | right disc dislocation medially and slightly anteriorly | left disc dislocation with reduction | right disc dislocation without reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontic treatment | orthodontic treatment around the age of 12 with growth appliance to try to grow the mandible
+joint_pain_areas: tmj | left tmj | right tmj

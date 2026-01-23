@@ -1,0 +1,46 @@
+patient_id: B182
+maximum_opening_without_pain: unknown
+patient_age: 47
+maximum_opening: 53mm
+pain_relieving_factors: unknown
+diet_score: 5
+pain_duration: unknown
+disability_rating: 7
+sleep_apnea_diagnosed: false
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: history of trauma at age of 7 when she fell out of a tree and also she had a bike accident with face plant at age 29
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: true
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: true
+headache_location: left frontal | temporal
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: 9 | present
+autoimmune_condition: unknown
+pain_onset_date: 40 years of age but worsened 3 years ago
+jaw_crepitus: false
+tmj_pain_rating: 7
+sleep_disorder_type: snoring | daytime somnolence
+current_medications: prozac | headache medicine that the name is not available today
+disc_displacement: left disc anterior displacement with early reduction | right disc medial displacement with reduction | right disc medial displacement | left disc dislocation
+muscle_pain_location: temporalis | masseters | retromandibulars | scms | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: 2 splints over past 6 years
+joint_pain_areas: left tmj | right tmj | lumbar spine | cervical spine

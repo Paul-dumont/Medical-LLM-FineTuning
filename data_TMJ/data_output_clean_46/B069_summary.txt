@@ -1,0 +1,46 @@
+patient_id: B069
+maximum_opening_without_pain: unknown
+patient_age: 22
+maximum_opening: unknown
+pain_relieving_factors: unknown
+diet_score: 6
+pain_duration: unknown
+disability_rating: 8
+sleep_apnea_diagnosed: false
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching
+physical_therapy_status: unknown
+earache_present: ture
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: true
+headache_frequency: constant
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: masseters | temporalis | posterior neck | shoulder areas
+migraine_history: unknown
+headache_location: frontal | temporal | posterior
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: 7 but almost always hit a level of 9 during the day | present
+autoimmune_condition: unknown
+pain_onset_date: 10 or 11 years of age
+jaw_crepitus: unknown
+tmj_pain_rating: 7
+sleep_disorder_type: daytime somnolence
+current_medications: levoxyl | portia | excedrin
+disc_displacement: right tmj articular disc dislocation | left tmj articular disc dislocation
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics 10 to 14 years of age | splint for 5 to 6 years
+joint_pain_areas: left tmj | right tmj | left shoulder | left hip | right shoulder

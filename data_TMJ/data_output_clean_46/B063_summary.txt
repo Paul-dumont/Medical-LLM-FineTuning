@@ -1,0 +1,46 @@
+patient_id: B063
+maximum_opening_without_pain: 34mm
+patient_age: 20
+maximum_opening: 50mm
+pain_relieving_factors: unknown
+diet_score: 7
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: right subcondylar fracture from trauma when 5 years of age
+adverse_reactions: ceclor
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: daily
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: high to moderate
+migraine_history: unknown
+headache_location: right side | right side | frontal | temporal
+current_appliance: 3 x 3 retainer
+average_daily_pain_intensity: 7
+headache_intensity: 8
+autoimmune_condition: unknown
+pain_onset_date: 2 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 8
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: left tmj medial anterior displacement of the articular disc with early reduction | left tmj medial displacement of the articular disc
+muscle_pain_location: right masseter | right temporalis | right styloid area | right posterior neck
+joint_arthritis_location: unknown
+appliance_history: orthodontics
+joint_pain_areas: right tmj

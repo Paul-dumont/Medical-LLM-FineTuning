@@ -1,0 +1,46 @@
+patient_id: B015
+maximum_opening_without_pain: 26mm
+patient_age: 15
+maximum_opening: 36mm
+pain_relieving_factors: splint
+diet_score: 4
+pain_duration: unknown
+disability_rating: 3
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: false
+pain_aggravating_factors: anterior open bite | clenching | bruxism
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false | true
+depression_present: unknown
+headache_frequency: severe every 2 weeks
+pain_frequency: tmj at least two times per week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 2
+headache_intensity: 4 but can escalate to 8
+autoimmune_condition: unknown
+pain_onset_date: age of 13 or even before
+jaw_crepitus: unknown
+tmj_pain_rating: 3
+sleep_disorder_type: daytime somnolence | snoring
+current_medications: unknown
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: occlusal splint 1 year and 4 months ago, with adjustments every 3 months
+joint_pain_areas: knees | right ankle | left tmj

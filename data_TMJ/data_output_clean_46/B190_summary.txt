@@ -1,0 +1,46 @@
+patient_id: B190
+maximum_opening_without_pain: 29mm
+patient_age: 20
+maximum_opening: 51mm
+pain_relieving_factors: unknown
+diet_score: 4
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: temporal
+current_appliance: orthodontics
+average_daily_pain_intensity: 4
+headache_intensity: 1
+autoimmune_condition: unknown
+pain_onset_date: 12 years of age
+jaw_crepitus: unknown
+tmj_pain_rating: 6
+sleep_disorder_type: unknown
+current_medications: nexium | synthroid | singulair | allegra | celebrex |  nasonex | vicodin | skelaxin
+disc_displacement: left disc anterior and medial displacement without reduction | right disc anterior dislocation with early reduction | right disc anterior displacement without reduction | right disc dislocation without reduction | left disc anterior dislocation with early reduction
+muscle_pain_location: masseters | retromandibular area | temporalis | shoulders
+joint_arthritis_location: left tmj | right tmj | left tmj | right tmjearache_present: false | right tmj
+appliance_history: orthodontics from 9 to 12 with palatal expansion and headgear | 2 splints at age of 13 to 15
+joint_pain_areas: tmj | left tmj | right tmj | right shoulder

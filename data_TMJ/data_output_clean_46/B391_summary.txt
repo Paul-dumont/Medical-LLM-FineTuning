@@ -1,0 +1,46 @@
+patient_id: B391
+maximum_opening_without_pain: 17mm
+patient_age: 39
+maximum_opening: 28mm
+pain_relieving_factors: unknown
+diet_score: 4
+pain_duration: mornings with increased pain but then subsides some during the day
+disability_rating: 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: motor vehicle accident and sustained a whiplash injury
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: rue
+depression_present: unknown
+headache_frequency: constant
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: severe
+migraine_history: unknown
+headache_location: frontal | temporal
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: 7, can escalate to 10 | severe
+autoimmune_condition: unknown
+pain_onset_date: 16 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 6 | severe
+sleep_disorder_type: daytime somnolence | snoring | snoring
+current_medications: norvasc | premarin | lorcet
+disc_displacement: unknown
+muscle_pain_location: masseter | left medial pterygoid | right medial pterygoid | left styloid | temporalis | right styloid | scms | posterior neck | shoulder
+joint_arthritis_location: unknown
+appliance_history: splints
+joint_pain_areas: tmj | left tmj | right tmj

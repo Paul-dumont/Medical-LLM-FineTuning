@@ -1,0 +1,722 @@
+[
+  {
+    "feature": "Upper Wire Size",
+    "precision": 0.55,
+    "recall": 0.61,
+    "f1_score": 0.58,
+    "sem": 0.52,
+    "count": 85,
+    "percentage": "58%"
+  },
+  {
+    "feature": "Upper Wire Material",
+    "precision": 0.55,
+    "recall": 0.61,
+    "f1_score": 0.58,
+    "sem": 0.53,
+    "count": 82,
+    "percentage": "56%"
+  },
+  {
+    "feature": "Lower Wire Size",
+    "precision": 0.53,
+    "recall": 0.58,
+    "f1_score": 0.55,
+    "sem": 0.50,
+    "count": 80,
+    "percentage": "55%"
+  },
+  {
+    "feature": "Lower Wire Material",
+    "precision": 0.52,
+    "recall": 0.58,
+    "f1_score": 0.55,
+    "sem": 0.51,
+    "count": 77,
+    "percentage": "53%"
+  },
+  {
+    "feature": "Changed Upper Arch Wire",
+    "precision": 0.48,
+    "recall": 0.46,
+    "f1_score": 0.47,
+    "sem": 0.31,
+    "count": 97,
+    "percentage": "66%"
+  },
+  {
+    "feature": "Changed Lower Arch Wire",
+    "precision": 0.45,
+    "recall": 0.47,
+    "f1_score": 0.46,
+    "sem": 0.34,
+    "count": 86,
+    "percentage": "59%"
+  },
+  {
+    "feature": "Ligature Method",
+    "precision": 0.24,
+    "recall": 0.25,
+    "f1_score": 0.24,
+    "sem": 0.19,
+    "count": 55,
+    "percentage": "38%"
+  },
+  {
+    "feature": "Oral Hygiene",
+    "precision": 0.23,
+    "recall": 0.26,
+    "f1_score": 0.24,
+    "sem": 0.21,
+    "count": 40,
+    "percentage": "27%"
+  },
+  {
+    "feature": "Elastic Pattern Left",
+    "precision": 0.22,
+    "recall": 0.24,
+    "f1_score": 0.23,
+    "sem": 0.21,
+    "count": 38,
+    "percentage": "26%"
+  },
+  {
+    "feature": "Right Canine Class",
+    "precision": 0.22,
+    "recall": 0.22,
+    "f1_score": 0.22,
+    "sem": 0.21,
+    "count": 39,
+    "percentage": "27%"
+  },
+  {
+    "feature": "Left Canine Class",
+    "precision": 0.20,
+    "recall": 0.20,
+    "f1_score": 0.20,
+    "sem": 0.18,
+    "count": 37,
+    "percentage": "25%"
+  },
+  {
+    "feature": "Right Molar Class",
+    "precision": 0.23,
+    "recall": 0.22,
+    "f1_score": 0.23,
+    "sem": 0.21,
+    "count": 42,
+    "percentage": "29%"
+  },
+  {
+    "feature": "Left Molar Class",
+    "precision": 0.22,
+    "recall": 0.22,
+    "f1_score": 0.22,
+    "sem": 0.21,
+    "count": 40,
+    "percentage": "27%"
+  },
+  {
+    "feature": "Class II elastic",
+    "precision": 0.21,
+    "recall": 0.21,
+    "f1_score": 0.21,
+    "sem": 0.19,
+    "count": 41,
+    "percentage": "28%"
+  },
+  {
+    "feature": "Elastic Pattern Right",
+    "precision": 0.19,
+    "recall": 0.21,
+    "f1_score": 0.20,
+    "sem": 0.18,
+    "count": 34,
+    "percentage": "23%"
+  },
+  {
+    "feature": "Compliance",
+    "precision": 0.16,
+    "recall": 0.17,
+    "f1_score": 0.16,
+    "sem": 0.14,
+    "count": 33,
+    "percentage": "23%"
+  },
+  {
+    "feature": "Overjet (mm)",
+    "precision": 0.15,
+    "recall": 0.15,
+    "f1_score": 0.15,
+    "sem": 0.14,
+    "count": 25,
+    "percentage": "17%"
+  },
+  {
+    "feature": "Elastic Type Left",
+    "precision": 0.14,
+    "recall": 0.14,
+    "f1_score": 0.14,
+    "sem": 0.14,
+    "count": 25,
+    "percentage": "17%"
+  },
+  {
+    "feature": "Elastic Type Right",
+    "precision": 0.13,
+    "recall": 0.14,
+    "f1_score": 0.14,
+    "sem": 0.13,
+    "count": 24,
+    "percentage": "16%"
+  },
+  {
+    "feature": "Overbite (mm)",
+    "precision": 0.12,
+    "recall": 0.12,
+    "f1_score": 0.12,
+    "sem": 0.12,
+    "count": 22,
+    "percentage": "15%"
+  },
+  {
+    "feature": "Debonded Bracket",
+    "precision": 0.04,
+    "recall": 0.04,
+    "f1_score": 0.04,
+    "sem": 0.04,
+    "count": 16,
+    "percentage": "11%"
+  },
+  {
+    "feature": "Lower Retainer",
+    "precision": 0.09,
+    "recall": 0.09,
+    "f1_score": 0.09,
+    "sem": 0.08,
+    "count": 17,
+    "percentage": "12%"
+  },
+  {
+    "feature": "Emergency Type",
+    "precision": 0.04,
+    "recall": 0.04,
+    "f1_score": 0.04,
+    "sem": 0.04,
+    "count": 14,
+    "percentage": "10%"
+  },
+  {
+    "feature": "Upper Retainer",
+    "precision": 0.08,
+    "recall": 0.08,
+    "f1_score": 0.08,
+    "sem": 0.08,
+    "count": 17,
+    "percentage": "12%"
+  },
+  {
+    "feature": "Space closure sliding mechanics",
+    "precision": 0.04,
+    "recall": 0.04,
+    "f1_score": 0.04,
+    "sem": 0.04,
+    "count": 13,
+    "percentage": "9%"
+  },
+  {
+    "feature": "Photos taken",
+    "precision": 0.11,
+    "recall": 0.11,
+    "f1_score": 0.11,
+    "sem": 0.11,
+    "count": 21,
+    "percentage": "14%"
+  },
+  {
+    "feature": "Upper Arch Bends",
+    "precision": 0.07,
+    "recall": 0.08,
+    "f1_score": 0.08,
+    "sem": 0.07,
+    "count": 17,
+    "percentage": "12%"
+  },
+  {
+    "feature": "Class I elastic",
+    "precision": 0.03,
+    "recall": 0.03,
+    "f1_score": 0.03,
+    "sem": 0.03,
+    "count": 8,
+    "percentage": "5%"
+  },
+  {
+    "feature": "Class III elastic",
+    "precision": 0.04,
+    "recall": 0.04,
+    "f1_score": 0.04,
+    "sem": 0.04,
+    "count": 12,
+    "percentage": "8%"
+  },
+  {
+    "feature": "Appliance",
+    "precision": 0.03,
+    "recall": 0.03,
+    "f1_score": 0.03,
+    "sem": 0.03,
+    "count": 10,
+    "percentage": "7%"
+  },
+  {
+    "feature": "Lower Arch Bends",
+    "precision": 0.03,
+    "recall": 0.03,
+    "f1_score": 0.03,
+    "sem": 0.03,
+    "count": 11,
+    "percentage": "8%"
+  },
+  {
+    "feature": "Retainer Check",
+    "precision": 0.05,
+    "recall": 0.05,
+    "f1_score": 0.05,
+    "sem": 0.05,
+    "count": 11,
+    "percentage": "8%"
+  },
+  {
+    "feature": "Xrays taken",
+    "precision": 0.06,
+    "recall": 0.06,
+    "f1_score": 0.06,
+    "sem": 0.06,
+    "count": 12,
+    "percentage": "8%"
+  },
+  {
+    "feature": "Intra Oral Scanning Taken",
+    "precision": 0.05,
+    "recall": 0.05,
+    "f1_score": 0.05,
+    "sem": 0.05,
+    "count": 10,
+    "percentage": "7%"
+  },
+  {
+    "feature": "EMERGENCY",
+    "precision": 0.01,
+    "recall": 0.01,
+    "f1_score": 0.01,
+    "sem": 0.01,
+    "count": 7,
+    "percentage": "5%"
+  },
+  {
+    "feature": "Lower Arch Reverse Curve of Spee",
+    "precision": 0.01,
+    "recall": 0.01,
+    "f1_score": 0.01,
+    "sem": 0.01,
+    "count": 9,
+    "percentage": "6%"
+  },
+  {
+    "feature": "Bracket OR BAND Repositioning",
+    "precision": 0.01,
+    "recall": 0.01,
+    "f1_score": 0.01,
+    "sem": 0.01,
+    "count": 7,
+    "percentage": "5%"
+  },
+  {
+    "feature": "Open Spring",
+    "precision": 0.04,
+    "recall": 0.04,
+    "f1_score": 0.04,
+    "sem": 0.04,
+    "count": 8,
+    "percentage": "5%"
+  },
+  {
+    "feature": "Upper Bonding",
+    "precision": 0.02,
+    "recall": 0.02,
+    "f1_score": 0.02,
+    "sem": 0.02,
+    "count": 3,
+    "percentage": "2%"
+  },
+  {
+    "feature": "IPR",
+    "precision": 0.04,
+    "recall": 0.04,
+    "f1_score": 0.04,
+    "sem": 0.04,
+    "count": 7,
+    "percentage": "5%"
+  },
+  {
+    "feature": "Re-tie Appointment",
+    "precision": 0.01,
+    "recall": 0.01,
+    "f1_score": 0.01,
+    "sem": 0.01,
+    "count": 4,
+    "percentage": "3%"
+  },
+  {
+    "feature": "Lower Bonding",
+    "precision": 0.01,
+    "recall": 0.01,
+    "f1_score": 0.01,
+    "sem": 0.01,
+    "count": 3,
+    "percentage": "2%"
+  },
+  {
+    "feature": "Posterior Bite Turbos",
+    "precision": 0.03,
+    "recall": 0.03,
+    "f1_score": 0.03,
+    "sem": 0.03,
+    "count": 6,
+    "percentage": "4%"
+  },
+  {
+    "feature": "Cross Elastic",
+    "precision": 0.01,
+    "recall": 0.01,
+    "f1_score": 0.01,
+    "sem": 0.01,
+    "count": 5,
+    "percentage": "3%"
+  },
+  {
+    "feature": "Upper Arch Accentuated Curve of Spee",
+    "precision": 0.01,
+    "recall": 0.01,
+    "f1_score": 0.01,
+    "sem": 0.01,
+    "count": 4,
+    "percentage": "3%"
+  },
+  {
+    "feature": "Upper Debond",
+    "precision": 0.04,
+    "recall": 0.03,
+    "f1_score": 0.04,
+    "sem": 0.03,
+    "count": 9,
+    "percentage": "6%"
+  },
+  {
+    "feature": "Lower Debond",
+    "precision": 0.03,
+    "recall": 0.03,
+    "f1_score": 0.03,
+    "sem": 0.03,
+    "count": 8,
+    "percentage": "5%"
+  },
+  {
+    "feature": "TADs",
+    "precision": 0.01,
+    "recall": 0.01,
+    "f1_score": 0.01,
+    "sem": 0.01,
+    "count": 2,
+    "percentage": "1%"
+  },
+  {
+    "feature": "Prescription and Bracket Slot",
+    "precision": 0.02,
+    "recall": 0.02,
+    "f1_score": 0.02,
+    "sem": 0.02,
+    "count": 3,
+    "percentage": "2%"
+  },
+  {
+    "feature": "TMJ symptoms",
+    "precision": 0.01,
+    "recall": 0.01,
+    "f1_score": 0.01,
+    "sem": 0.01,
+    "count": 5,
+    "percentage": "3%"
+  },
+  {
+    "feature": "Enameloplasty",
+    "precision": 0.00,
+    "recall": 0.00,
+    "f1_score": 0.00,
+    "sem": 0.00,
+    "count": 1,
+    "percentage": "1%"
+  },
+  {
+    "feature": "Referral",
+    "precision": 0.01,
+    "recall": 0.01,
+    "f1_score": 0.01,
+    "sem": 0.01,
+    "count": 5,
+    "percentage": "3%"
+  },
+  {
+    "feature": "Unilateral Posterior Crossbite",
+    "precision": 0.00,
+    "recall": 0.00,
+    "f1_score": 0.00,
+    "sem": 0.00,
+    "count": 5,
+    "percentage": "3%"
+  },
+  {
+    "feature": "Extractions",
+    "precision": 0.01,
+    "recall": 0.01,
+    "f1_score": 0.01,
+    "sem": 0.01,
+    "count": 3,
+    "percentage": "2%"
+  },
+  {
+    "feature": "TPA",
+    "precision": 0.01,
+    "recall": 0.01,
+    "f1_score": 0.01,
+    "sem": 0.01,
+    "count": 1,
+    "percentage": "1%"
+  },
+  {
+    "feature": "Space closure loop mechanics",
+    "precision": null,
+    "recall": null,
+    "f1_score": null,
+    "sem": null,
+    "count": null,
+    "percentage": null
+  },
+  {
+    "feature": "Upper Banding",
+    "precision": 0.00,
+    "recall": 0.00,
+    "f1_score": 0.00,
+    "sem": 0.00,
+    "count": 0,
+    "percentage": "0%"
+  },
+  {
+    "feature": "Relapse",
+    "precision": 0.00,
+    "recall": 0.00,
+    "f1_score": 0.00,
+    "sem": 0.00,
+    "count": 2,
+    "percentage": "1%"
+  },
+  {
+    "feature": "Upper Active movement",
+    "precision": 0.00,
+    "recall": 0.00,
+    "f1_score": 0.00,
+    "sem": 0.00,
+    "count": 4,
+    "percentage": "3%"
+  },
+  {
+    "feature": "Lower Active movement",
+    "precision": 0.00,
+    "recall": 0.00,
+    "f1_score": 0.00,
+    "sem": 0.00,
+    "count": 2,
+    "percentage": "1%"
+  },
+  {
+    "feature": "Closed Spring",
+    "precision": 0.00,
+    "recall": 0.00,
+    "f1_score": 0.00,
+    "sem": 0.00,
+    "count": 3,
+    "percentage": "2%"
+  },
+  {
+    "feature": "Lower Banding",
+    "precision": 0.00,
+    "recall": 0.00,
+    "f1_score": 0.00,
+    "sem": 0.00,
+    "count": 0,
+    "percentage": "0%"
+  },
+  {
+    "feature": "Patient ID.1",
+    "precision": null,
+    "recall": null,
+    "f1_score": null,
+    "sem": null,
+    "count": null,
+    "percentage": null
+  },
+  {
+    "feature": "NiTi Closing Spring",
+    "precision": 0.00,
+    "recall": 0.00,
+    "f1_score": 0.00,
+    "sem": 0.00,
+    "count": 3,
+    "percentage": "2%"
+  },
+  {
+    "feature": "Anterior Bite Turbos",
+    "precision": 0.00,
+    "recall": 0.00,
+    "f1_score": 0.00,
+    "sem": 0.00,
+    "count": 0,
+    "percentage": "0%"
+  },
+  {
+    "feature": "TADs.1",
+    "precision": 0.01,
+    "recall": 0.01,
+    "f1_score": 0.01,
+    "sem": 0.01,
+    "count": 2,
+    "percentage": "1%"
+  },
+  {
+    "feature": "Upper Arch Reverse Curve of Spee",
+    "precision": 0.00,
+    "recall": 0.00,
+    "f1_score": 0.00,
+    "sem": 0.00,
+    "count": 0,
+    "percentage": "0%"
+  },
+  {
+    "feature": "Maxillary Expander",
+    "precision": 0.01,
+    "recall": 0.01,
+    "f1_score": 0.01,
+    "sem": 0.01,
+    "count": 2,
+    "percentage": "1%"
+  },
+  {
+    "feature": "LLHA",
+    "precision": null,
+    "recall": null,
+    "f1_score": null,
+    "sem": null,
+    "count": null,
+    "percentage": null
+  },
+  {
+    "feature": "Anterior Crossbite",
+    "precision": 0.00,
+    "recall": 0.00,
+    "f1_score": 0.00,
+    "sem": 0.00,
+    "count": 0,
+    "percentage": "0%"
+  },
+  {
+    "feature": "Debonded Bracket/Band",
+    "precision": null,
+    "recall": null,
+    "f1_score": null,
+    "sem": null,
+    "count": null,
+    "percentage": null
+  },
+  {
+    "feature": "Lower Arch Curve of Spee",
+    "precision": 0.00,
+    "recall": 0.00,
+    "f1_score": 0.00,
+    "sem": 0.00,
+    "count": 1,
+    "percentage": "1%"
+  },
+  {
+    "feature": "Intrusion Arch",
+    "precision": null,
+    "recall": null,
+    "f1_score": null,
+    "sem": null,
+    "count": null,
+    "percentage": null
+  },
+  {
+    "feature": "Bilateral Posterior Crossbite",
+    "precision": null,
+    "recall": null,
+    "f1_score": null,
+    "sem": null,
+    "count": null,
+    "percentage": null
+  },
+  {
+    "feature": "Lower Arch Accentuated Curve of Spee",
+    "precision": 0.01,
+    "recall": 0.01,
+    "f1_score": 0.01,
+    "sem": 0.01,
+    "count": 2,
+    "percentage": "1%"
+  },
+  {
+    "feature": "Active Traction",
+    "precision": null,
+    "recall": null,
+    "f1_score": null,
+    "sem": null,
+    "count": null,
+    "percentage": null
+  },
+  {
+    "feature": "Active Tooth Traction",
+    "precision": null,
+    "recall": null,
+    "f1_score": null,
+    "sem": null,
+    "count": null,
+    "percentage": null
+  },
+  {
+    "feature": "Mandibular Advancement Appliance",
+    "precision": null,
+    "recall": null,
+    "f1_score": null,
+    "sem": null,
+    "count": null,
+    "percentage": null
+  },
+  {
+    "feature": "Teeth Pain",
+    "precision": null,
+    "recall": null,
+    "f1_score": null,
+    "sem": null,
+    "count": null,
+    "percentage": null
+  },
+  {
+    "feature": "Arch Coordination",
+    "precision": 0.00,
+    "recall": 0.00,
+    "f1_score": 0.00,
+    "sem": 0.00,
+    "count": 1,
+    "percentage": "1%"
+  }
+]

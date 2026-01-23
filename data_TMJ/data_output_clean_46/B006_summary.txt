@@ -1,0 +1,46 @@
+patient_id: B006
+maximum_opening_without_pain: 17mm
+patient_age: 55
+maximum_opening: 32mm
+pain_relieving_factors: unknown
+diet_score: 3
+pain_duration: unknown
+disability_rating: 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism | splint therapy
+physical_therapy_status: physical therapy
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: 1-2 times per week
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: mild to severe
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 5
+headache_intensity: 3 | present
+autoimmune_condition: unknown
+pain_onset_date: age of 51
+jaw_crepitus: unknown
+tmj_pain_rating: 5
+sleep_disorder_type: unknown
+current_medications: tylenol
+disc_displacement: unknown
+muscle_pain_location: temporalis | masseters | retromandibular area | shoulders | medial pterygoids | scm
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint 2 years ago
+joint_pain_areas: tmj | left tmj | right tmj | left tmj | shoulders

@@ -1,0 +1,46 @@
+patient_id: B017
+maximum_opening_without_pain: 35mm
+patient_age: 28
+maximum_opening: 44mm
+pain_relieving_factors: unknown
+diet_score: 3
+pain_duration: unknown
+disability_rating: 7
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: right proximal segment on right side rotating upwards and forwards in mandible
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: better in the mornings when he wakes and then discomfort and aches and pains tend to develop in the afternoon
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: right frontal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 8
+headache_intensity: 8 | present
+autoimmune_condition: unknown
+pain_onset_date: orthodontics done when he was a teenager | orthodontics done 6 years ago |  orthodontics
+jaw_crepitus: unknown
+tmj_pain_rating: 7
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: left disc medial dislocation | right disc medial dislocation
+muscle_pain_location: right scm | right posterior neck | right retromandibular area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj

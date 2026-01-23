@@ -1,0 +1,46 @@
+patient_id: B387
+maximum_opening_without_pain: 25mm
+patient_age: 45
+maximum_opening: 43mm
+pain_relieving_factors: unknown
+diet_score: 5
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5 but this can escalate to 8
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: chiropractic treatment about once a month since last year | massage therapy | physical therapy
+earache_present: true
+onset_triggers: fell and struck the left side of her neck, ear, and jaw area
+adverse_reactions: codeine | sulfa
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: constant
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: moderate to high moderate
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head area
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 8 | severe
+autoimmune_condition: unknown
+pain_onset_date: three years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 9 | severe
+sleep_disorder_type: unknown
+current_medications: premarin | prozac
+disc_displacement: left disc anterior dislocation | right disc medial dislocation | left disc medial dislocation | right disc medial dislocation
+muscle_pain_location: left temporalis | left masseter | left medial pterygoid | styloid | right temporalis | right masseter | right medial pterygoid
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: worn splints and has had four different splints for two years
+joint_pain_areas: tmj | neck | back | hips | left knee

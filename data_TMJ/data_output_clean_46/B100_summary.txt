@@ -1,0 +1,46 @@
+patient_id: B100
+maximum_opening_without_pain: 18mm
+patient_age: 47
+maximum_opening: 35mm
+pain_relieving_factors: orthotic that reduces frequency to a couple of headache per month, as well as the vertigo
+diet_score: 4
+pain_duration: unknown
+disability_rating: 8
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: unknown
+physical_therapy_status: acupuncture | physical therapy | hypnotherapy
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: daily
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: true
+headache_location: frontal | temporal | occasionally at back of head
+current_appliance: unknown
+average_daily_pain_intensity: 4
+headache_intensity: present | severe, normally at 4 but can escalate up to 9
+autoimmune_condition: rheumatoid arthritis
+pain_onset_date: 28 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 4
+sleep_disorder_type: breathing difficulties
+current_medications: plaquenil, ibuprofen, claritin, vitamins
+disc_displacement: right disc medial displacement
+muscle_pain_location: unknown
+joint_arthritis_location: knees | hips | left tmj | right tmj | left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj | left tmj | right tmj | knees | hips

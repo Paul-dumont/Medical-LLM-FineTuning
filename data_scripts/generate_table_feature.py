@@ -5,6 +5,7 @@ from pathlib import Path
 
 #TO RUN:
 table_number = 4
+mode = "without_cot"  # Options: "with_cot", "without_cot", "dry_run"
 
 
 # -----------------------------------------------------------------------------
@@ -13,8 +14,12 @@ table_number = 4
 script_folder = Path(__file__).resolve().parent #.resolve convert Relatif path into absolut path (./../home) into (~user/inux/home), .parent to keep the parent folder of the current file 
 project_root = script_folder.parent # move up one level, to get the root project folder
 
-json_path = project_root/"data"/"3_output_model"/f"extraction{table_number}.jsonl"
-table_path =  project_root/"data"/"4_model_table"/f"extraction_features{table_number}.xlsx"
+# Adapt paths based on mode
+json_path = project_root/"data"/"3_output_model"/f"{mode}"/f"extraction_{mode}{table_number}.jsonl"
+table_path = project_root/"data"/"4_model_table"/f"{mode}"/f"extraction_features_{mode}{table_number}.xlsx"
+
+# Ensure output directory exists
+table_path.parent.mkdir(parents=True, exist_ok=True)
 
 # -----------------------------------------------------------------------------
 # 2. Data preprocessing 
@@ -40,10 +45,11 @@ with open(json_path, "r", encoding="utf-8") as json_file:
             prediction_json = json.loads(prediction_str)
             prediction = prediction_json.get("extraction")
 
-            # Extract Patient_ID, Note_Date, Note_Month
-            patient_id = truth.get("Patient_ID", "Unknown")
-            note_date = truth.get("Note_Date", "Unknown")
-            note_month = truth.get("Note_Month", "Unknown")
+            # Extract Patient_ID, Note_Date, Note_Month from metadata if available, else from truth
+            metadata = record.get("metadata", {})
+            patient_id = metadata.get("patient_id") or truth.get("Patient_ID", "Unknown")
+            note_date = metadata.get("note_date") or truth.get("Note_Date", "Unknown")
+            note_month = metadata.get("note_month") or truth.get("Note_Month", "Unknown")
 
             # Line Manual
             row_manual = {

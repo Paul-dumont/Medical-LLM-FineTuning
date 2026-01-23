@@ -1,0 +1,46 @@
+patient_id: B417
+maximum_opening_without_pain: 37mm
+patient_age: 26
+maximum_opening: 48mm
+pain_relieving_factors: unknown
+diet_score: 4
+pain_duration: unknown
+disability_rating: 3
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: false
+pain_aggravating_factors: unknown
+physical_therapy_status: chiropractic treatment for one year |  osteopathic treatment performed for about 3 years | physical therapy
+earache_present: true
+onset_triggers: likely from motor vehicle accident
+adverse_reactions: pollens
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false | true
+depression_present: unknown
+headache_frequency: daily
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: frontal | temple | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 5
+headache_intensity: 5 but can escalate to 7 | present
+autoimmune_condition: unknown
+pain_onset_date: 18 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 4
+sleep_disorder_type: daytime somnolence | snoring
+current_medications: celebrex | yasmin | topamax | aleve
+disc_displacement: left disc dislocated without reduction | right disc dislocated but with reduction | left disc dislocation with late reduction | right disc dislocation with early reduction
+muscle_pain_location: unknown
+joint_arthritis_location: ankles | knees | wrists | left tmj | right tmj
+appliance_history: lower splint made 5 years ago for 1 year | upper splint for 8 months
+joint_pain_areas: tmj | left tmj | right tmj

@@ -1,0 +1,46 @@
+patient_id: B021
+maximum_opening_without_pain: unknown
+patient_age: 51
+maximum_opening: unknown
+pain_relieving_factors: unknown
+diet_score: 7
+pain_duration: unknown
+disability_rating: 9
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite tendency | clenching | bruxism | right buccal cross bite tendency | left buccal cross bite tendency
+physical_therapy_status: physical therapy on and off for the past 20 years
+earache_present: true
+onset_triggers: blunt trauma to the jaws
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: high moderate to low severe
+migraine_history: unknown
+headache_location: right temporal | posterior head
+current_appliance: splint for 4 months
+average_daily_pain_intensity: 8
+headache_intensity: 5 | present
+autoimmune_condition: unknown
+pain_onset_date: 17 years of age
+jaw_crepitus: right tmj
+tmj_pain_rating: 7
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+current_medications: lunesta | cymbalta | albuterol | dolobid | parafon forte
+disc_displacement: left disc anterior dislocation with early reduction | right disc dislocation without reduction | left disc dislocation with reduction | right disc dislocation without reduction
+muscle_pain_location: right shoulder | right posterior neck | right masseter
+joint_arthritis_location: left tmj | right tmj | right tmj
+appliance_history: 20 to 25 splints and night guards for the last 33 years | orthodontics from 34 to 44
+joint_pain_areas: tmj | hands | knees | right tmj

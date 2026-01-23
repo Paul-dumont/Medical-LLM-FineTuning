@@ -1,0 +1,46 @@
+patient_id: B286
+maximum_opening_without_pain: unknown
+patient_age: 45
+maximum_opening: 28mm
+pain_relieving_factors: unknown
+diet_score: 4
+pain_duration: unknown
+disability_rating: 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: 2 years ago, a gunshot wound that entered her left cheekbone area and exited adjacent to the right temporomandibular joint
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: 2 times per month | 2 times per month
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: true
+headache_location: left frontal | temporal
+current_appliance: 3 x 3 retainer
+average_daily_pain_intensity: 2
+headache_intensity: 9
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 4 but can escalate to 8
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: left disc anterior displacement | right disc medial displacementmuscle_pain_score: moderate | left disc medial and anterior displacement | right disc medial and anterior displacement | left disc medial displacement | right disc medial displacement
+muscle_pain_location: right masseter | left posterior neck
+joint_arthritis_location: right tmj | left tmj
+appliance_history: orthodontics done from 5 years ago through 3 years ago
+joint_pain_areas: right tmj

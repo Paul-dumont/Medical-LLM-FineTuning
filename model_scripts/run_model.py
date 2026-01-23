@@ -1,3 +1,7 @@
+import os
+os.environ["HF_HUB_DOWNLOAD_TIMEOUT"] = "600"
+os.environ["HF_HUB_READ_TIMEOUT"] = "600"
+
 import json
 from pathlib import Path
 from datasets import load_dataset
@@ -7,10 +11,13 @@ from tqdm import tqdm # Barre de progression
 
 
 #TO RUN:
-table_number = 4
+table_number = 1
 mode = "with_cot"
-eval_only = False  # Si False, génère sur tout le dataset (train + test)
+eval_only = True  # Si False, génère sur tout le dataset (train + test)
 
+print("-" * 95)
+print(f" {mode}, Table {table_number}")
+print("-" * 95)
 
 # -----------------------------------------------------------------------------
 # 1. Path Configuration
@@ -20,7 +27,7 @@ project_root = script_folder.parent # move up one level, to get the root project
 
 model_path = str(project_root / "model"/f"Phi-3.5-mini-instruct_{mode}{table_number}")
 json_path = str(project_root / "data"/"2_input_model"/f"{mode}"/f"training_data_{mode}{table_number}.jsonl")
-output_path = str(project_root / "data" / "3_output_model" / f"extraction{table_number}.jsonl")
+output_path = str(project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_{mode}{table_number}.jsonl")
 
 # -----------------------------------------------------------------------------
 # 2. Load Model
@@ -59,6 +66,18 @@ result = []
 for patient_record in tqdm(generation_dataset): #loop on patient records, tqdm = progress bar
     prompt = patient_record["messages"][:-1] # Cut to keep onyl assitant : patient_record["messages"] looks like [System, User, Assistant]
     truth = patient_record["messages"][-1]["content"] # True features 
+    
+    # Extract metadata for traceability
+    metadata = patient_record.get("metadata", {})
+    patient_id = metadata.get("patient_id", "Unknown")
+    note_date = metadata.get("note_date", "Unknown")
+    note_month = metadata.get("note_month", "Unknown")
+    
+    # Convert datetime objects to string for JSON serialization
+    if hasattr(note_date, 'isoformat'):
+        note_date = note_date.isoformat()
+    if hasattr(note_month, 'isoformat'):
+        note_month = note_month.isoformat()
 
     input_ids = tokenizer.apply_chat_template(
         prompt,
@@ -85,8 +104,13 @@ for patient_record in tqdm(generation_dataset): #loop on patient records, tqdm =
     else: 
         prediction_json = "" #no json found 
 
-    # Save result 
+    # Save result with metadata
     result.append({
+        "metadata": {
+            "patient_id": patient_id,
+            "note_date": note_date,
+            "note_month": note_month
+        },
         "original_note": prompt[-1]["content"], # notes
         "original": truth, # what we wanted 
         "prediction": prediction_json # what we have (model prediction)
@@ -100,5 +124,9 @@ with open(output_path, "w", encoding="utf-8") as json_file:
     for item in result:
         json_file.write(json.dumps(item, ensure_ascii=False) + "\n")
 print(f"Saved as {output_path}")
+
+print("-" * 95)
+print(f" {mode}, Table {table_number}")
+print("-" * 95)
 
  

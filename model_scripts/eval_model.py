@@ -6,11 +6,16 @@ from sentence_transformers import SentenceTransformer, util
 
 #TO RUN:
 table_number = 4
+mode = "with_cot"
 
+print("-" * 95)
+print(f" {mode}, Table {table_number}")
+print("-" * 95)
 
 # --- Configuration ---
 project_root = Path(__file__).resolve().parents[1]
-json_path = project_root / "data" / "3_output_model" / f"extraction{table_number}.jsonl"
+json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_{mode}{table_number}.jsonl"
+# json_path = project_root / "data" / "3_output_model" / "dry_run" / "dry_run_baseline_table4.jsonl"
 semantic_model = SentenceTransformer('all-MiniLM-L6-v2')
 
 def get_pairs(d):
@@ -127,7 +132,6 @@ summary_df = pd.DataFrame(summary).sort_values('count', ascending=False)
 
 # Ordre personnalisé des features
 feature_order = [
-    "Patient_ID", "Note_Date", "Note_Month", "Annotated",
     "Upper Wire Size", "Upper Wire Material", "Lower Wire Size", "Lower Wire Material",
     "Changed Upper Arch Wire", "Changed Lower Arch Wire", "Ligature Method", "Oral Hygiene",
     "Elastic Pattern Left", "Right Canine Class", "Left Canine Class", "Right Molar Class",
@@ -192,40 +196,27 @@ for order_feat in feature_order:
         print(f"{order_feat[:40]:<40} | {'-':<5} | {'-':<5} | {'-':<5} | {'-':<5} | {'-':<5} | {'-':<5}")
 
 # --- 4. Global ---
-g_tp = summary_df_filtered['tp'].sum()
-g_fp = summary_df_filtered['fp'].sum()
-g_fn = summary_df_filtered['fn'].sum()
+# Moyenne simple des scores de toutes les features (comme TOP 10/20/30 et SEM)
+g_prec = summary_df_filtered['prec'].mean() if len(summary_df_filtered) > 0 else 0
+g_rec = summary_df_filtered['rec'].mean() if len(summary_df_filtered) > 0 else 0
+g_f1 = summary_df_filtered['f1'].mean() if len(summary_df_filtered) > 0 else 0
 
-# Cas manquants au niveau global
-# = nombre total de paires attendues - nombre de paires correctes
-# Paires attendues = total_lines * nombre de features en base
-expected_pairs = total_lines * len(feature_order_lower)
-actual_pairs = g_tp + g_fn + g_fp
-missing_pairs = expected_pairs - actual_pairs
-g_fn_total = g_fn + missing_pairs
-
-g_prec = g_tp / (g_tp + g_fp + missing_pairs) if (g_tp + g_fp + missing_pairs) > 0 else 0
-g_rec = g_tp / (g_tp + g_fn_total) if (g_tp + g_fn_total) > 0 else 0
-g_f1 = 2 * (g_prec * g_rec) / (g_prec + g_rec) if (g_prec + g_rec) > 0 else 0
-
-# Score sémantique global avec pénalité des cas manquants
-actual_sem_sum = df['sem_score'].sum()
-g_sem = actual_sem_sum / expected_pairs if expected_pairs > 0 else 0
+# Score sémantique global : moyenne des SEM scores des features qui existent (les "-" ne sont pas comptées)
+g_sem = summary_df_filtered['sem'].mean() if len(summary_df_filtered) > 0 else 0
 
 print("-" * 95)
 
-# --- 5. Top 10, Top 20, Top 30 Features ---
-for top_n in [10, 20, 30]:
-    top_features = summary_df_filtered.nlargest(top_n, 'pct')
-    mean_prec = top_features['prec'].mean()
-    mean_rec = top_features['rec'].mean()
-    mean_f1 = top_features['f1'].mean()
-    mean_sem = top_features['sem'].mean()
-    count_total = top_features['count'].sum()
-    
-    print(f"{'TOP ' + str(top_n):<40} | {mean_prec:.2f}  | {mean_rec:.2f}  | {mean_f1:.3f} | {mean_sem:.3f}")
+# --- 5. TOTAL SIMPLE et TOTAL PONDÉRÉ ---
+# TOTAL SIMPLE : moyenne simple (toutes les features ont le même poids)
+print(f"{'TOTAL SIMPLE':<40} | {g_prec:.2f}  | {g_rec:.2f}  | {g_f1:.3f} | {g_sem:.3f}")
 
-print(f"{'TOTAL GLOBAL':<40} | {g_prec:.2f}  | {g_rec:.2f}  | {g_f1:.3f} | {g_sem:.3f}")
+# TOTAL PONDÉRÉ : moyenne pondérée par fréquence (count)
+total_count = summary_df_filtered['count'].sum()
+g_prec_weighted = (summary_df_filtered['prec'] * summary_df_filtered['count']).sum() / total_count if total_count > 0 else 0
+g_rec_weighted = (summary_df_filtered['rec'] * summary_df_filtered['count']).sum() / total_count if total_count > 0 else 0
+g_f1_weighted = (summary_df_filtered['f1'] * summary_df_filtered['count']).sum() / total_count if total_count > 0 else 0
+g_sem_weighted = (summary_df_filtered['sem'] * summary_df_filtered['count']).sum() / total_count if total_count > 0 else 0
+print(f"{'TOTAL PONDÉRÉ':<40} | {g_prec_weighted:.2f}  | {g_rec_weighted:.2f}  | {g_f1_weighted:.3f} | {g_sem_weighted:.3f}")
 
 print()
 
@@ -242,3 +233,6 @@ if extra_features:
         pass
     # print(f"  - {feat}")
         
+print("-" * 95)
+print(f" {mode}, Table {table_number}")
+print("-" * 95)

@@ -1,0 +1,46 @@
+patient_id: B433
+maximum_opening_without_pain: 21mm
+patient_age: 36
+maximum_opening: 38mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | clenching
+physical_therapy_status: tens treatment | physical therapy | yoga | massage therapy | stress reduction classes | rolfing treatments
+earache_present: false
+onset_triggers: stress
+adverse_reactions: tetracycline
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: twice a week | continuous
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: medications to treat dislocation of jaw
+muscle_pain_score: moderate to mild
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head area
+current_appliance: splint
+average_daily_pain_intensity: unknown
+headache_intensity: 7 | continuous at 3 | can escalate to 9 | severe
+autoimmune_condition: unknown
+pain_onset_date: 18 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: severe
+sleep_disorder_type: chronic fatigue problems | daytime somnolence | snoring | sleep apnea symptoms | snoring | tired during the day
+current_medications: advil | restoril
+disc_displacement: | jaw | left disc dislocation | right disc dislocation without reduction
+muscle_pain_location: temporalis | styloid areas | posterior neck | masseter | scms | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: tmj | left tmj | right tmj | shoulders | tmj

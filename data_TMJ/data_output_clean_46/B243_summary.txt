@@ -1,0 +1,46 @@
+patient_id: B243
+maximum_opening_without_pain: 20mm
+patient_age: 47
+maximum_opening: 37mm
+pain_relieving_factors: unknown
+diet_score: 4
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: false
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: motor vehicle accident 3 years ago | clenching | bruxism
+physical_therapy_status: massage therapy
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: penicillin | erythromycin | sulfa antibiotics
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: almost on a daily basis
+pain_frequency: at night and in the morning
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: frontal behind the eyes | temple
+current_appliance: unknown
+average_daily_pain_intensity: 5
+headache_intensity: 7 | present
+autoimmune_condition: unknown
+pain_onset_date: 5 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 9
+sleep_disorder_type: snoing | daytime somnolence | sleep apnea symptoms | snoring | sleep apnea symptoms
+current_medications: paxil | synthroid | dep estrogen | xanax | flexeril | hydrocodone
+disc_displacement: left disc anterior displacement | right disc anterior displacement | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: masseters | styloid areas | medial pterygoids | posterior neck | shoulder
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics 2 years ago
+joint_pain_areas: tmj | left tmj | right tmj | right shoulder | right elbow | left wrist | right wrist | hands | fingers

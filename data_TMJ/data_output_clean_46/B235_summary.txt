@@ -1,0 +1,46 @@
+patient_id: B235
+maximum_opening_without_pain: 18mm
+patient_age: 55
+maximum_opening: 26mm
+pain_relieving_factors: unknown
+diet_score: 10
+pain_duration: unknown
+disability_rating: 10
+sleep_apnea_diagnosed: true
+jaw_function_score: 10
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: pain management | physical therapy | counseling
+earache_present: unknown
+onset_triggers: car accident sustaining a hairline fracture of the condyle
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: splint therapy from 26 to 35
+muscle_pain_score: extreme
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head area
+current_appliance: unknown
+average_daily_pain_intensity: 10
+headache_intensity: 10 | severe
+autoimmune_condition: unknown
+pain_onset_date: 26 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 10
+sleep_disorder_type: inability to feel rested | sleep apnea | sleep apnea | snoring | daytime somnolence | sleep disorder
+current_medications: demerol | pms-hydromorphone | pms-clonazepam | pennsaid | emla cream | pantoloc | imitrex nasal spray | proxigel-lyrica | prednisone  | celebrex | motrin
+disc_displacement: unknown
+muscle_pain_location: temporalis
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: left tmj | right tmj

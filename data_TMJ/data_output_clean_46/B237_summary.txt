@@ -1,0 +1,46 @@
+patient_id: B237
+maximum_opening_without_pain: unknown
+patient_age: 28
+maximum_opening: unknown
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: worse in the evening
+disability_rating: 9
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: unknown
+physical_therapy_status: acupuncture x six treatments | biofeedback x 30 treatments | chiropractic treatment | massage therapy | left and right occipital nerve blocks and facet blocks
+earache_present: false
+onset_triggers: motorcycle accident
+adverse_reactions: cleocin
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: jaw joints | right tmj
+previous_medications: wellbutrin | toradol | paxil | beta blockers
+muscle_pain_score: moderate to mild
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 6 to 10 | severe | severeheadache_location: frontal | temporal
+autoimmune_condition: unknown
+pain_onset_date: 5 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 0
+sleep_disorder_type: unknown
+current_medications: lortab 10 | elavil | depakote
+disc_displacement: left disc anterior and medial dislocation | right disc anterior displacement | left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: temporalis | styloid area | posterior neck | shoulders | masseters
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: left tmj | right tmj | left wrist | knees

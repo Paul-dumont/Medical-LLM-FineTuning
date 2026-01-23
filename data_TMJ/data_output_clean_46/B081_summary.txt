@@ -1,0 +1,46 @@
+patient_id: B081
+maximum_opening_without_pain: unknown
+patient_age: 16
+maximum_opening: 56mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: anterior open bite | anterior open bite | left posterior crossbite | right posterior crossbite
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: ceclor
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: 2x2 retainer in the upper arch
+average_daily_pain_intensity: unknown
+headache_intensity: 0
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 0
+sleep_disorder_type: unknown
+current_medications: none
+disc_displacement: right tmj disc medial and anterior displacement | left tmj disc anterior displacement with early reduction | right disc anteromedial displacement with reduction | left disc anteromedial displacement with reduction
+muscle_pain_location: unknown
+joint_arthritis_location: right tmj | left tmj
+appliance_history: maxillary expander 2 years ago
+joint_pain_areas: unknown

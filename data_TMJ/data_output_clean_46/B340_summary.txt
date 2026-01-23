@@ -1,0 +1,46 @@
+patient_id: B340
+maximum_opening_without_pain: unknown
+patient_age: 59
+maximum_opening: 38 mm
+pain_relieving_factors: splint
+diet_score: 7
+pain_duration: several days in a row
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | clenching | bruxism | anterior open bite
+physical_therapy_status: previous tens treatment
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: iodine | penicillin | sulfa
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: 1 time per week
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: mild
+migraine_history: unknown
+headache_location: back of the head | up towards the top | up towards the temple area
+current_appliance: current splint for about 3 years
+average_daily_pain_intensity: 5
+headache_intensity: 7 | present
+autoimmune_condition: unknown
+pain_onset_date: 20 years ago
+jaw_crepitus: right tmj
+tmj_pain_rating: 6
+sleep_disorder_type: snoring | tiredness during the day
+current_medications: premarin | folic acid | detrol | celebrex | plaquenil | methotrexate | methocarbamol | darvocet
+disc_displacement: unknown
+muscle_pain_location: right temporalis | right shoulder
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splints for approximately 15 years
+joint_pain_areas: tmj | knees | neck | back | right shoulder | right elbow | wrists | hands | fingers | hips | left big toe

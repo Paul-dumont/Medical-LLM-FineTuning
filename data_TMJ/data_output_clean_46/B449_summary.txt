@@ -1,0 +1,46 @@
+patient_id: B449
+maximum_opening_without_pain: 25mm
+patient_age: 20
+maximum_opening: 57mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 3
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | tendency toward a crossbite on the left side
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: penicillin
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: daily | in the mornings
+pain_frequency: worse in the mornings when she wakes up
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: moderate to mild
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head area
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 7 | present
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 0
+sleep_disorder_type: unknown
+current_medications: alprazolam | temazepam | bextra | ortho erva | fluvoxamine
+disc_displacement: left disc posterior displacement | right disc posterior displacement
+muscle_pain_location: right masseter | right styloid area | left masseter | right medial pterygoid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from sixth grade to eighth grade
+joint_pain_areas: right tmj | tmj

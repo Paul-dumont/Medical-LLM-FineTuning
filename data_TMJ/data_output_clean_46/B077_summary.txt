@@ -1,0 +1,46 @@
+patient_id: B077
+maximum_opening_without_pain: 28mm
+patient_age: 47
+maximum_opening: 33mm
+pain_relieving_factors: unknown
+diet_score: 3
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: anterior open bite | anterior open bite | left posterior crossbite | right posterior crossbite | clenching | bruxism
+physical_therapy_status: acupuncture | electrical stimulation | biofeedback | physical therapy | deep tissue work | craniosacral treatment | osteopathic treatment
+earache_present: true
+onset_triggers: bruxism
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: snoring | daytime somnolence | sleep apnea symptoms
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: frontal | top of head
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: 5 | present | severe
+autoimmune_condition: unknown
+pain_onset_date: 25 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 9
+sleep_disorder_type: snoring
+current_medications: lamictal | ativan | valium | rozarem | emsam | l-tryptophan | vitamin b12 | vitamine b folate | calcium | magnesium
+disc_displacement: left disc anterior displacement with partial reduction | right disc anterior and medial displacement
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from age of 12 to 14 | 6 splints over the past 10 years
+joint_pain_areas: si joints | feet | tmj

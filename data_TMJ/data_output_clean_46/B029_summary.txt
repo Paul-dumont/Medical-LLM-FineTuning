@@ -1,0 +1,46 @@
+patient_id: B029
+maximum_opening_without_pain: 26mm
+patient_age: 21
+maximum_opening: 41mm
+pain_relieving_factors: unknown
+diet_score: 7
+pain_duration: unknown
+disability_rating: 3
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: one to two times per week
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: high to mild
+migraine_history: unknown
+headache_location: frontal | temporal
+current_appliance: tens
+average_daily_pain_intensity: 6
+headache_intensity: 5 | present
+autoimmune_condition: unknown
+pain_onset_date: 18 years of age
+jaw_crepitus: unknown
+tmj_pain_rating: 8
+sleep_disorder_type: unknown
+current_medications: advil | aleve
+disc_displacement: left disc anterior dislocation with late reduction | right disc dislocation with early reduction | left disc dislocation without reduction | right disc anterior dislocation with early reduction
+muscle_pain_location: left masseter | retromandibular | right masseter | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: 2 occlusal splints for the past 9 months
+joint_pain_areas: tmj | hips | knees | ankles | left tmj | right tmj

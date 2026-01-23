@@ -1,0 +1,46 @@
+patient_id: B428
+maximum_opening_without_pain: 10mm
+patient_age: 22
+maximum_opening: 25mm
+pain_relieving_factors: unknown
+diet_score: 9
+pain_duration: unknown
+disability_rating: 8
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: unknown
+physical_therapy_status: physical therapy for several months
+earache_present: true
+onset_triggers: injury hitting the chin with a knee while wake boarding
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: severe to moderate to mild
+migraine_history: unknown
+headache_location: throughout the head and neck area
+current_appliance: splint
+average_daily_pain_intensity: 9
+headache_intensity: 8 | severe
+autoimmune_condition: unknown
+pain_onset_date: 3 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 9 | severe
+sleep_disorder_type: unknown
+current_medications: zoloft | birth control pills | percodan | tylenol | naproxen | ibuprofen
+disc_displacement: left disc dislocation with reduction | right disc anteriorly displaced with reduction | left disc dislocation | right disc dislocation | left disc medial and anteriorly displaced with reduction | right disc anteriorly displaced with reduction
+muscle_pain_location: styloid areas | masseters | temporalis | scms | posterior neck | shoulder
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from about of 6 to about the age of 14
+joint_pain_areas: tmj | left tmj | right tmj

@@ -1,0 +1,46 @@
+patient_id: B266
+maximum_opening_without_pain: 24mm | 30mm
+patient_age: 17
+maximum_opening: 30mm
+pain_relieving_factors: unknown
+diet_score: 6 | 7
+pain_duration: unknown
+disability_rating: 6 | 7
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 8
+tinnitus_present: false | true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: unknown
+physical_therapy_status: massage for neck
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: sulfa
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: two to three times per week
+pain_frequency: sometimes wakes up with them and other times they begin during day or night and gets worse
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: moderate to low severe | moderate to very high moderate
+migraine_history: unknown
+headache_location: frontal | temporal | temporal | frontal
+current_appliance: unknown
+average_daily_pain_intensity: 5 | 9
+headache_intensity: 6 | 6, can escalate to 10 | present
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 7 | 8
+sleep_disorder_type: daytime somnolence | snoring | daytime somnolence | snoring | daytime somnolence | sleep apnea symptoms
+current_medications: omnicef | motrin | prevacid
+disc_displacement: left disc dislocation without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc anterior displacement without reduction
+muscle_pain_location: temporalis | masseters | medial pterygoids | styloid areas | scms | posterior neck | shoulder | temporalis | masseters | styloid areas | medial pterygoids | shoulders
+joint_arthritis_location: left tmj | right tmj | right tmj
+appliance_history: orthodontics 9 years ago until last year
+joint_pain_areas: tmj | left tmj | right tmj | left tmj | right tmj | knees | ankles | shoulders | ankles | feet | neck

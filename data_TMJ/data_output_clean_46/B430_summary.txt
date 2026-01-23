@@ -1,0 +1,46 @@
+patient_id: B430
+maximum_opening_without_pain: 27mm
+patient_age: 29
+maximum_opening: 38mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: unknown
+physical_therapy_status: physical therapy for myofascial release treatments
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: sulfa | medrol | reglan | cheaper jewelry
+fibromyalgia_present: true
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: severe | moderate to severe
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: severe
+autoimmune_condition: unknown
+pain_onset_date: four years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: unknown
+sleep_disorder_type: unknown
+current_medications: zoloft | trazodone | ultracet | fiorinal | clomid | multivitamins | calcium
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: muscles around the head and neck area | temporalis | masseters | rest of the head and neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint about four years ago
+joint_pain_areas: neck | back | hips | knees | feet | tmj

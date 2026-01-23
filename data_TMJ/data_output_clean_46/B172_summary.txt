@@ -1,0 +1,46 @@
+patient_id: B172
+maximum_opening_without_pain: unknown
+patient_age: 42
+maximum_opening: 44mm
+pain_relieving_factors: limiting use of jaws
+diet_score: 0
+pain_duration: unknown
+disability_rating: 1
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism | left posterior crossbite tendency
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: chiropractic manipulation of jaw
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false | true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: 1
+headache_intensity: 0
+autoimmune_condition: unknown
+pain_onset_date: 22 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 5
+sleep_disorder_type: snoring
+current_medications: norco
+disc_displacement: right disc dislocation | left disc medial and anterior dislocation | right disc medial and anterior displacement | left disc medial and anterior dislocation with early reductionmuscle_pain_location: head | neck
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: bite splint 4 to 5 years ago
+joint_pain_areas: left tmj | right tmj | right tmj | left tmj | right shoulder | right foot

@@ -1,0 +1,46 @@
+patient_id: B239
+maximum_opening_without_pain: unknown
+patient_age: 32
+maximum_opening: 48mm
+pain_relieving_factors: unknown
+diet_score: 0
+pain_duration: unknown
+disability_rating: 7
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: anterior open bite | clenching
+physical_therapy_status: unknown
+earache_present: unknown
+onset_triggers: orthodontics
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: mild
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: 4
+headache_intensity: 0
+autoimmune_condition: unknown
+pain_onset_date: 12 uears of age
+jaw_crepitus: unknown
+tmj_pain_rating: 5
+sleep_disorder_type: unknown
+current_medications: ibuprofen | vitamins
+disc_displacement: left disc anterior displacement | right disc lateral and anterior displacement | right disc lateral displacement
+muscle_pain_location: right masseter | right medial pterygoid
+joint_arthritis_location: right tmj | right tmjearache_present: false
+appliance_history: orthodontics form 11 to 14 | orthodontics from 14 to 16 with headgear
+joint_pain_areas: tmj
