@@ -1,0 +1,46 @@
+patient_id: B464
+maximum_opening_without_pain: 30mm
+patient_age: 55
+maximum_opening: 38mm
+pain_relieving_factors: splint
+diet_score: 5
+pain_duration: unknown
+disability_rating: 3
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 3
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: physical therapy to the neck and shoulders | tens
+earache_present: unknown
+onset_triggers: biting into a deli sandwich that her pain really became exacerbated
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: robaxin | celebrex
+muscle_pain_score: mild
+migraine_history: unknown
+headache_location: left frontal | temporal | left-side
+current_appliance: unknown
+average_daily_pain_intensity: 3
+headache_intensity: 3 | present
+autoimmune_condition: unknown
+pain_onset_date: at least 10 years but worsened last year
+jaw_crepitus: left tmj
+tmj_pain_rating: 3 but may escalate to 7 to 8
+sleep_disorder_type: unknown
+current_medications: doxycycline | zetia | effexor | niaspan | pravachol | atacand | prempro | asa
+disc_displacement: left disc dislocation | right disc minimal medial displacement
+muscle_pain_location: left styloid area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: left tmj | right tmj

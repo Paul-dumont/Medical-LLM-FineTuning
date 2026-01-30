@@ -1,0 +1,46 @@
+patient_id: B458
+maximum_opening_without_pain: unknown
+patient_age: 16
+maximum_opening: unknown
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: false
+pain_aggravating_factors: right posterior crossbite
+physical_therapy_status: unknown
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: orthodontic appliances for about five years
+average_daily_pain_intensity: unknown
+headache_intensity: present
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: unknown
+sleep_disorder_type: unknown
+current_medications: minocycline
+disc_displacement: left articular disc anterior dislocation without reduction | left disc dislocation in anterior medial direction without reduction | right articular disc dislocation
+muscle_pain_location: unknown
+joint_arthritis_location: right tmj | left tmj
+appliance_history: unknown
+joint_pain_areas: unknown

@@ -10,8 +10,8 @@ import shutil
 
 
 # TO RUN:
-table_number = 4
-mode = "with_cot"
+table_number = 1
+mode = "tmj" #with_cot without_cot dru_run
 
 print("-" * 95)
 print(f" {mode}, Table {table_number}")
@@ -85,6 +85,12 @@ dataset = dataset.train_test_split(test_size=0.1,seed=42)
 print(f"{len(dataset['train'])} Training samples")
 print(f"{len(dataset['test'])} Evaluation samples")
 
+# Determine max_seq_length based on mode
+if mode == "tmj":
+    max_seq_length = 4096
+else:
+    max_seq_length = 2048
+
 # -----------------------------------------------------------------------------
 # 4. Training 
 # -----------------------------------------------------------------------------
@@ -102,7 +108,7 @@ trainer = SFTTrainer(
     train_dataset = dataset["train"],
     eval_dataset = dataset["test"],
     dataset_text_field = "text", # Name of the Format column "text"
-    max_seq_length = 2048,
+    max_seq_length = max_seq_length,
     data_collator = collator,
     dataset_num_proc = 12, # Number of CPU Core use for tokenization  
     packing = False, # We dont want to merge patient records to fit the max_seq_length window

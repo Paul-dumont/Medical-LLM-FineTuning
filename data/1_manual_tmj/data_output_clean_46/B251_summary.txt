@@ -1,0 +1,46 @@
+patient_id: B251
+maximum_opening_without_pain: 20mm
+patient_age: 45
+maximum_opening: 30mm
+pain_relieving_factors: botox injection to the left temporalis muscle
+diet_score: 3
+pain_duration: unknown
+disability_rating: 8
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching
+physical_therapy_status: physical therapy with several different physical therapists over the past 10 years
+earache_present: true
+onset_triggers: motor vehicle accident causing a displacement of her articular disc
+adverse_reactions: morphine | a number of narcotics | tetanus | iodine
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: constant
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj
+previous_medications: two rounds of doxycycline
+muscle_pain_score: high moderate
+migraine_history: unknown
+headache_location: frontotemporal | posterior head | top of the head area
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: escalates to 9 | severe
+autoimmune_condition: unknown
+pain_onset_date: 10 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 7
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence | gasps for air
+current_medications: unknown
+disc_displacement: left disc anterior displacement with reduction | left disc anterior displacement with reduction | right disc anterior displacement with early reduction | right joint disc may be slightly displaced
+muscle_pain_location: masseter | styloids | scms | posterior neck | shoulders | temporalis | medial pterygoids
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics x2 | numerous splints since 9 years ago
+joint_pain_areas: left tmj | right tmj | right hip | her knees

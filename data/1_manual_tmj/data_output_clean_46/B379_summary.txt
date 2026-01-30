@@ -1,0 +1,46 @@
+patient_id: B379
+maximum_opening_without_pain: unknown
+patient_age: 20
+maximum_opening: 49mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: daily
+muscle_symptoms_present: unknown
+jaw_clicking: right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: frontal
+current_appliance: unknown
+average_daily_pain_intensity: 3
+headache_intensity: 4
+autoimmune_condition: unknown
+pain_onset_date: last year
+jaw_crepitus: unknown
+tmj_pain_rating: 3
+sleep_disorder_type: daytime somnolence
+current_medications: unknown
+disc_displacement: left disc anterior dislocation with early reduction | right disc anterior and medial displacement without reductionmuscle_tenderness_present: false | left disc medial dislocation | right disc anteromedial dislocation
+muscle_pain_location: unknown
+joint_arthritis_location: right tmj
+appliance_history: unknown
+joint_pain_areas: tmj

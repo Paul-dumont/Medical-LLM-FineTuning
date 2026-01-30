@@ -1,0 +1,46 @@
+patient_id: B053
+maximum_opening_without_pain: 25mm
+patient_age: 67
+maximum_opening: 46mm
+pain_relieving_factors: cranial osteopathy
+diet_score: 2
+pain_duration: unknown
+disability_rating: 2
+sleep_apnea_diagnosed: true
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: chewing
+physical_therapy_status: cranial osteopathy
+earache_present: true
+onset_triggers: childbirth and extended difficult labor
+adverse_reactions: gluten | soy | dairy | eggs | sugar | penicillin | sulfa
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: true
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: frontal | top of her head | temple
+current_appliance: jpap
+average_daily_pain_intensity: 2
+headache_intensity: 4
+autoimmune_condition: unknown
+pain_onset_date: age of 27
+jaw_crepitus: left tmj
+tmj_pain_rating: 4
+sleep_disorder_type: sleep apnea
+current_medications: armour thyroid | estradiol | medroxyprogesterone | vitamin d3
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced with early  reduction | left disc probable displacement without reduction
+muscle_pain_location: temporalis | masseter | scms
+joint_arthritis_location: unknown
+appliance_history: cpap for 2 years | various splints after  virtox system/myomonitor full mouth reconstruction
+joint_pain_areas: tmj | knees | shoulders | hands | right tmj | left tmj

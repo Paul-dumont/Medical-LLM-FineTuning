@@ -1,0 +1,46 @@
+patient_id: B445
+maximum_opening_without_pain: 26mm
+patient_age: 21
+maximum_opening: 35mm
+pain_relieving_factors: unknown
+diet_score: 5
+pain_duration: unknown
+disability_rating: 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: unknown
+physical_therapy_status: heat pack around her neck
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: cheap earrings
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown | once or twice per month
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: moderate to mild
+migraine_history: true
+headache_location: frontal | temporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 6 | present
+autoimmune_condition: unknown
+pain_onset_date: around sixth grade
+jaw_crepitus: unknown
+tmj_pain_rating: 4 but can escalate to 8
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+current_medications: ibuprofen | excedrin | tylenol
+disc_displacement: left disc dislocation | left disc dislocation in an anteromedial direction | left disc medial displacement
+muscle_pain_location: styloid areas | temporalis | masseters | scms
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontic treatment from the age of 12 to 15
+joint_pain_areas: tmj | left tmj | right tmj | neck | wrists | knees | ankles

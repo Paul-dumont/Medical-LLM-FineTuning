@@ -1,0 +1,46 @@
+patient_id: B351
+maximum_opening_without_pain: unknown
+patient_age: 57
+maximum_opening: 10=-12mm | 17mm
+pain_relieving_factors: unknown
+diet_score: 4
+pain_duration: unknown
+disability_rating: 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 4
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: best in morning but progress as day goes on
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: clindamycin
+muscle_pain_score: mild
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: 0
+autoimmune_condition: increased ana
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 0 but can escalate to 7
+sleep_disorder_type: daytime somnolence | snoring
+current_medications: amrix | zoloft | omeprazole | estradiol |
+disc_displacement: left disc medial and anterior displacement with reduction | right disc medial and anterior displacement with reduction | left disc medial and anterior displacement | right disc medial displacement | left disc medial displacement | right disc medial displacement
+muscle_pain_location: temporalis | masseters | right styloid area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: neck | ankles | lower back | neck | hands | elbows | knees | ankles | shoulders | right tmj

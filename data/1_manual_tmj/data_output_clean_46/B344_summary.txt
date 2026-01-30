@@ -1,0 +1,46 @@
+patient_id: B344
+maximum_opening_without_pain: 18mm
+patient_age: 23
+maximum_opening: 28mm
+pain_relieving_factors: unknown
+diet_score: 4
+pain_duration: unknown
+disability_rating: 3
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: none
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: mild to moderate
+migraine_history: unknown
+headache_location: unknown
+current_appliance: retainer
+average_daily_pain_intensity: unknown
+headache_intensity: 0
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 0 | 7 on the right side and 2 on the left side
+sleep_disorder_type: unknown
+current_medications: wellbutrin | concerta
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction muscle_pain_score: 5 but can escalate to 8 | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: right masseter | right masseter | right styloid | scms | posterior neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj | left tmj | right tmj | neck | shoulders | hips | right tmj

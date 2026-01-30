@@ -1,0 +1,46 @@
+patient_id: B524
+maximum_opening_without_pain: 21mm
+patient_age: 52
+maximum_opening: 28mm
+pain_relieving_factors: unknown
+diet_score: 8
+pain_duration: unknown
+disability_rating: 8
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 9
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching | physical therapy
+physical_therapy_status: physical therapy throughout the years | chiropractic therapy | tens therapy
+earache_present: true
+onset_triggers: auto accident creating a subcondylar fracture on the right side
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: daily | in the morning and then they tend to subside but they return later in the day
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: severe to moderate
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head area
+current_appliance: unknown
+average_daily_pain_intensity: 7
+headache_intensity: 8 | severe
+autoimmune_condition: unknown
+pain_onset_date: 25 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 7 | severe
+sleep_disorder_type: daytime somnolence | snoring
+current_medications: vicodin | hydrocodone | advil | valium
+disc_displacement: left disc anteriorly dislocated without reduction | left disc dislocation without reduction
+muscle_pain_location: masseter muscles | temporalis | medial pterygoids | posterior neck | shoulders | right styloid area
+joint_arthritis_location: left tmj
+appliance_history: orthodontics | multiple different splints about 15 years ago
+joint_pain_areas: tmj | hips | right knee | left tmj | right tmj

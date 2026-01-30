@@ -1,0 +1,46 @@
+patient_id: B476
+maximum_opening_without_pain: unknown
+patient_age: 45
+maximum_opening: unknown
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching
+physical_therapy_status: chiropractic treatment since 16 years ago and currently still receiving that treatment | massage therapy since 16 years ago to current | neurocranial reconstruction including nine series | botox injections about every 4-6 months in the head and shoulder areas for approximately 6 years | physical therapy including such treatments as ultrasound | tens | acupuncture | equilibration x3
+earache_present: true
+onset_triggers: mva 20 years ago | struck in the face with a baseball that broke nose and maybe caused a crack in the sphenoid bone as a teenager | falls during roller skating where she hit the floor and strike the back of her | fell off a counter striking the right side of head and sustained a fractured skull at 6 months old
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: daily | worse in the mornings and may get a little bit better in the afternoon but then get worse again at night
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: frontotemporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 8
+headache_intensity: 9 frequently to 10
+autoimmune_condition: unknown
+pain_onset_date: 18 years ag
+jaw_crepitus: unknown
+tmj_pain_rating: 8
+sleep_disorder_type: daytime somnolence
+current_medications: esterase | estratest hs | lunesta | vicodin
+disc_displacement: left disc anteriorly and laterally dislocated with reduction | right disc anteriorly displaced at the lateral aspect of the joint | left disc dislocation with reduction | right disc medially and anteriorly displaced with reduction
+muscle_pain_location: scms | posterior neck | left medial pterygoid | masseters | styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint therapy since 15 years ago by four different doctors
+joint_pain_areas: knees | her hips | left tmj | right tmj

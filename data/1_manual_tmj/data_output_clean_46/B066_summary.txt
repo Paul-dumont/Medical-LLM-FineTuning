@@ -1,0 +1,46 @@
+patient_id: B066
+maximum_opening_without_pain: 20mm
+patient_age: 37
+maximum_opening: 52mm
+pain_relieving_factors: unknown
+diet_score: 1
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching and bruxism
+physical_therapy_status: acupuncture treatment for the past 2 years
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: 2-3 times a month
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+previous_medications: unknown
+muscle_pain_score: minimal
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head area
+current_appliance: unknown
+average_daily_pain_intensity: 5
+headache_intensity: 9, but daily wakes up frequently with headaches in the morning that are at about a level of 5 that subsides
+autoimmune_condition: unknown
+pain_onset_date: 9 years old
+jaw_crepitus: left tmj
+tmj_pain_rating: 1
+sleep_disorder_type: unknown
+current_medications: butterbur | magnesium | vitamin d3 | vitamin b2 | multivitamins | acetyl-l-carnitine | n-acetyl-cysteine | advil | aspirin
+disc_displacement: left disc medial displacement | right disc medial displacement
+muscle_pain_location: left temporalis
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 10 to 13 years of age
+joint_pain_areas: left tmj

@@ -1,0 +1,46 @@
+patient_id: B188
+maximum_opening_without_pain: 23mm
+patient_age: 50
+maximum_opening: 49mm
+pain_relieving_factors: injections in muscles of left neck and shoulder area
+diet_score: 2
+pain_duration: unknown
+disability_rating: 7
+sleep_apnea_diagnosed: false
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: unknown
+physical_therapy_status: physical therapy in late 20s
+earache_present: false
+onset_triggers: as teenager, fell off a roof and struck face on a trampoline fracturing nose and bruising face |  in high school, got hit in the face with a softball| fourteen years ago, hit as a pedestrian by a car that fractured pelvis as well as caused some facial injury and concussion and a whiplash injury
+adverse_reactions: iv iodine | demerol |codeine | sulfa
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: constant and progress during the day
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj | right tmj | left tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: left | temporal | frontal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: 9 | present | severe
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: severe
+sleep_disorder_type: snoring | daytime tiredness
+current_medications: aspirin | levothroid | estrogen | progesterone | vitamin | mineral supplements | ambian | skelaxin | fioricet | migraine medication | feldene | zomig | maxalt
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial displacementmuscle_pain_score: high moderate | left disc anterior displacement | right disc anterior displacement | left disc dislocation without reduction | right disc dislocation with early reduction
+muscle_pain_location: masseters | retromandibular area | scms | medial pterygoid
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: orthodontics at age of 13 | splints in 20s | splints in early 30s
+joint_pain_areas: left tmj | left neck | left shoulder | left hip | wrist

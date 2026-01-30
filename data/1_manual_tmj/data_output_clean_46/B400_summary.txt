@@ -1,0 +1,46 @@
+patient_id: B400
+maximum_opening_without_pain: 20mm
+patient_age: 34
+maximum_opening: 27mm
+pain_relieving_factors: unknown
+diet_score: 7
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: physical therapy
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: penicillin | ancef | codeine | hydrocodone
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false | daytime somnolence | snoring
+depression_present: unknown
+headache_frequency: daily and frequently will wake up with them but the other days will develop them later on
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: right temporal
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 4can escalate to a level of 7 to 8 | present
+autoimmune_condition: unknown
+pain_onset_date: 5 to 6 years of age
+jaw_crepitus: unknown
+tmj_pain_rating: 4
+sleep_disorder_type: unknown
+current_medications: ultram | lexapro | estratest | fioricet
+disc_displacement: unknown
+muscle_pain_location: styloid | temporalis | masseters | scms | posterior neck
+joint_arthritis_location: left tmj | right tmj | left tmj | right tmj earache_present: true
+appliance_history: orthodontics x3 | splint x6
+joint_pain_areas: tmj | left tmj | right tmj | right shoulder | right wrist | right hand | right fingers | right hip | tmj

@@ -1,0 +1,46 @@
+patient_id: B199
+maximum_opening_without_pain: 28mm
+patient_age: 25
+maximum_opening: 46mm
+pain_relieving_factors: unknown
+diet_score: 5
+pain_duration: unknown
+disability_rating: 8
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite
+physical_therapy_status: acupuncture last year for few onths | chiropractic office between 21 and 23 | physical therapy for the past year
+earache_present: true
+onset_triggers: stress
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: constant
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: right tmj
+previous_medications: vicodin
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: throughout the head
+current_appliance: 4 splints since 22
+average_daily_pain_intensity: 8
+headache_intensity: 6 that can exacerbate to 8 to 9 | present
+autoimmune_condition: unknown
+pain_onset_date: age of 10
+jaw_crepitus: unknown
+tmj_pain_rating: 7
+sleep_disorder_type: unknown
+current_medications: motrin
+disc_displacement: left disc anterior and lateral displacement | right disc anterior, lateral and medial displacement without reduction | left disc anterior displacement without reduction | right disc lateral displacementmuscle_pain_score: moderate to high | left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: throughout head and neck | shoulder
+joint_arthritis_location: left tmj | right tmj | right tmj | right tmj | left tmj
+appliance_history: upper and lower jaw splint
+joint_pain_areas: tmj | knees | hips | ankles | neck vertebrae

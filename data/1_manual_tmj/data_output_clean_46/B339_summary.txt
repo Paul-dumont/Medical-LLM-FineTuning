@@ -1,0 +1,46 @@
+patient_id: B339
+maximum_opening_without_pain: 14mm
+patient_age: 36
+maximum_opening: 28mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: physical therapy from 9 to 4 years ago
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: mild to moderate
+migraine_history: unknown
+headache_location: unknown
+current_appliance: splint therapy from the age of 21 to the presen
+average_daily_pain_intensity: unknown
+headache_intensity: present
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: unknown
+sleep_disorder_type: unknown
+current_medications: prozac | wellbutrin | singulair | flexeril | xanax | albuterol | pulmicort
+disc_displacement: left disc dislocation without reduction | right disc anterior displacement with early dislocation | left disc dislocation | right disc early dislocation | right disc extremely early reduction
+muscle_pain_location: shoulder
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics age 14 to 18
+joint_pain_areas: neck | shoulder | tmj | left tmj

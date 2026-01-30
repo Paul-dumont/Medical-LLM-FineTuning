@@ -1,0 +1,38 @@
+Features candidates to merge:
+1. Wire Configuration (8 features → 2)
+Lower Wire Material + Lower Wire Size → Lower Wire Configuration
+Upper Wire Material + Upper Wire Size → Upper Wire Configuration
+2. Arch Changes (4 features → 1)
+Changed Lower Arch Wire + Changed Upper Arch Wire → Changed Arch Wire
+3. Retainers (2 features → 1)
+Lower Retainer + Upper Retainer → Retainer Type (with arch column)
+4. Arch Characteristics (7 features → 2)
+Lower Arch Accentuated Curve of Spee + Lower Arch Bends + Lower Arch Curve of Spee + Lower Arch Reverse Curve of Spee → Lower Arch Characteristics
+Upper Arch Accentuated Curve of Spee + Upper Arch Bends + Upper Arch Reverse Curve of Spee → Upper Arch Characteristics
+5. Molar/Canine Classes (4 features → 2)
+Left Molar Class + Right Molar Class → Molar Class
+Left Canine Class + Right Canine Class → Canine Class
+6. Elastic Patterns (4 features → 2)
+Elastic Pattern Left + Elastic Pattern Right → Elastic Pattern
+Elastic Type Left + Elastic Type Right → Elastic Type
+7. Elastic Classes (3 features → 1)
+Class I elastic + Class II elastic + Class III elastic → Elastic Class
+8. Active Movements (2 features → 1)
+Lower Active movement + Upper Active movement → Active Movement
+9. Bonding/Banding (3 features → 3)
+Lower Banding + Upper Banding → Banding
+Lower Bonding + Upper Bonding → Bonding
+Lower Debond + Upper Debond → Debond
+10. Crossbite (3 features → 1)
+Anterior Crossbite + Bilateral Posterior Crossbite + Unilateral Posterior Crossbite → Crossbite
+11. Bite Turbos (2 features → 1)
+Anterior Bite Turbos + Posterior Bite Turbos → Bite Turbos
+12. Springs (3 features → 1)
+Closed Spring + NiTi Closing Spring + Open Spring → Spring Usage
+13. TADs (2 features → 1)
+TADs + TADs.1 → TADs
+14. Patient Symptoms (2 features → 1)
+TMJ symptoms + Teeth Pain → Patient Symptoms
+15. Mechanics (3 features → 1)
+Ligature Method + Space closure sliding mechanics + Space closure loop mechanics → Mechanics
+Summary: 80 features → ~45 features (44% reduction)

@@ -1,0 +1,707 @@
+
+Total Records Processed: 1454
+Valid Records: 1454
+Corrupted Records: 0
+
+===============================================================================================
+FEATURE VALUES ANALYSIS
+===============================================================================================
+
+Feature: Active Tooth Traction
+   Total occurrences: 2
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |     2 (100.0%)
+
+Feature: Active Traction
+   Total occurrences: 2
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |     2 (100.0%)
+
+Feature: Anterior Bite Turbos
+   Total occurrences: 12
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    10 ( 83.3%)
+   0.0                                                                    |     2 ( 16.7%)
+
+Feature: Anterior Crossbite
+   Total occurrences: 6
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |     6 (100.0%)
+
+Feature: Appliance
+   Total occurrences: 112
+   Unique values: 10
+   ------------------------------------------------------------------------------------------
+   low pull head gear                                                     |    45 ( 40.2%)
+   forsus                                                                 |    25 ( 22.3%)
+   high pull head gear                                                    |    16 ( 14.3%)
+   herbst                                                                 |    10 (  8.9%)
+   rpe                                                                    |     6 (  5.4%)
+   carriere                                                               |     4 (  3.6%)
+   other                                                                  |     2 (  1.8%)
+   quad helix                                                             |     2 (  1.8%)
+   bite plate                                                             |     1 (  0.9%)
+   rpe, low pull head gear                                                |     1 (  0.9%)
+
+Feature: Arch Coordination
+   Total occurrences: 1
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |     1 (100.0%)
+
+Feature: Bilateral Posterior Crossbite
+   Total occurrences: 5
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |     4 ( 80.0%)
+   0.0                                                                    |     1 ( 20.0%)
+
+Feature: Bracket OR BAND Repositioning
+   Total occurrences: 88
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    88 (100.0%)
+
+Feature: Changed Lower Arch Wire
+   Total occurrences: 793
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   0.0                                                                    |   441 ( 55.6%)
+   true                                                                   |   352 ( 44.4%)
+
+Feature: Changed Upper Arch Wire
+   Total occurrences: 806
+   Unique values: 4
+   ------------------------------------------------------------------------------------------
+   0.0                                                                    |   443 ( 55.0%)
+   true                                                                   |   357 ( 44.3%)
+   false                                                                  |     5 (  0.6%)
+   flase                                                                  |     1 (  0.1%)
+
+Feature: Class I elastic
+   Total occurrences: 137
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    83 ( 60.6%)
+   0.0                                                                    |    54 ( 39.4%)
+
+Feature: Class II elastic
+   Total occurrences: 405
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |   329 ( 81.2%)
+   0.0                                                                    |    76 ( 18.8%)
+
+Feature: Class III elastic
+   Total occurrences: 113
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    59 ( 52.2%)
+   0.0                                                                    |    54 ( 47.8%)
+
+Feature: Closed Spring
+   Total occurrences: 18
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    17 ( 94.4%)
+   0.0                                                                    |     1 (  5.6%)
+
+Feature: Compliance
+   Total occurrences: 349
+   Unique values: 4
+   ------------------------------------------------------------------------------------------
+   good                                                                   |   232 ( 66.5%)
+   poor                                                                   |    62 ( 17.8%)
+   average                                                                |    32 (  9.2%)
+   fair                                                                   |    23 (  6.6%)
+
+Feature: Cross Elastic
+   Total occurrences: 51
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   0.0                                                                    |    29 ( 56.9%)
+   true                                                                   |    22 ( 43.1%)
+
+Feature: Debonded Bracket
+   Total occurrences: 171
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |   170 ( 99.4%)
+   0.0                                                                    |     1 (  0.6%)
+
+Feature: Debonded Bracket/Band
+   Total occurrences: 6
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |     6 (100.0%)
+
+Feature: EMERGENCY
+   Total occurrences: 97
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    97 (100.0%)
+
+Feature: Elastic Pattern Left
+   Total occurrences: 426
+   Unique values: 6
+   ------------------------------------------------------------------------------------------
+   class ii                                                               |   287 ( 67.4%)
+   class iii                                                              |    49 ( 11.5%)
+   class i                                                                |    48 ( 11.3%)
+   discontinued                                                           |    27 (  6.3%)
+   cross-elastic                                                          |    14 (  3.3%)
+   cross-elastic, class ii                                                |     1 (  0.2%)
+
+Feature: Elastic Pattern Right
+   Total occurrences: 403
+   Unique values: 5
+   ------------------------------------------------------------------------------------------
+   class ii                                                               |   272 ( 67.5%)
+   class i                                                                |    67 ( 16.6%)
+   class iii                                                              |    35 (  8.7%)
+   discontinued                                                           |    27 (  6.7%)
+   cross-elastic                                                          |     2 (  0.5%)
+
+Feature: Elastic Type Left
+   Total occurrences: 250
+   Unique values: 13
+   ------------------------------------------------------------------------------------------
+   kangaroo                                                               |    84 ( 33.6%)
+   impala                                                                 |    57 ( 22.8%)
+   bear                                                                   |    48 ( 19.2%)
+   rabbit                                                                 |    15 (  6.0%)
+   fox                                                                    |    12 (  4.8%)
+   ram                                                                    |    10 (  4.0%)
+   quail                                                                  |     7 (  2.8%)
+   zebra                                                                  |     4 (  1.6%)
+   owl                                                                    |     4 (  1.6%)
+   parrot                                                                 |     3 (  1.2%)
+   chipmunk                                                               |     3 (  1.2%)
+   dolphin                                                                |     2 (  0.8%)
+   discontinued                                                           |     1 (  0.4%)
+
+Feature: Elastic Type Right
+   Total occurrences: 243
+   Unique values: 13
+   ------------------------------------------------------------------------------------------
+   kangaroo                                                               |    84 ( 34.6%)
+   impala                                                                 |    56 ( 23.0%)
+   bear                                                                   |    51 ( 21.0%)
+   fox                                                                    |    12 (  4.9%)
+   rabbit                                                                 |    12 (  4.9%)
+   ram                                                                    |     9 (  3.7%)
+   zebra                                                                  |     4 (  1.6%)
+   owl                                                                    |     4 (  1.6%)
+   parrot                                                                 |     3 (  1.2%)
+   chipmunk                                                               |     3 (  1.2%)
+   quail                                                                  |     2 (  0.8%)
+   dolphin                                                                |     2 (  0.8%)
+   discontinued                                                           |     1 (  0.4%)
+
+Feature: Emergency Type
+   Total occurrences: 165
+   Unique values: 6
+   ------------------------------------------------------------------------------------------
+   debonded bracket or band                                               |   134 ( 81.2%)
+   wire poking                                                            |    12 (  7.3%)
+   other                                                                  |     9 (  5.5%)
+   pain or discomfort                                                     |     5 (  3.0%)
+   appliance breakage                                                     |     4 (  2.4%)
+   debonded bracket or band, appliance breakage                           |     1 (  0.6%)
+
+Feature: Enameloplasty
+   Total occurrences: 32
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    32 (100.0%)
+
+Feature: Extractions
+   Total occurrences: 28
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    28 (100.0%)
+
+Feature: IPR
+   Total occurrences: 56
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    56 (100.0%)
+
+Feature: Intra Oral Scanning Taken
+   Total occurrences: 97
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    97 (100.0%)
+
+Feature: Intrusion Arch
+   Total occurrences: 5
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |     5 (100.0%)
+
+Feature: LLHA
+   Total occurrences: 8
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |     6 ( 75.0%)
+   0.0                                                                    |     2 ( 25.0%)
+
+Feature: Left Canine Class
+   Total occurrences: 409
+   Unique values: 8
+   ------------------------------------------------------------------------------------------
+   class ii                                                               |   180 ( 44.0%)
+   class i                                                                |   139 ( 34.0%)
+   class iii                                                              |    39 (  9.5%)
+   ½ cusp class ii                                                        |    27 (  6.6%)
+   full cusp class ii                                                     |    17 (  4.2%)
+   ¼ cusp class ii                                                        |     5 (  1.2%)
+   ½ cusp class iii                                                       |     1 (  0.2%)
+   ¼ cusp class iii                                                       |     1 (  0.2%)
+
+Feature: Left Molar Class
+   Total occurrences: 408
+   Unique values: 6
+   ------------------------------------------------------------------------------------------
+   class ii                                                               |   158 ( 38.7%)
+   class i                                                                |   150 ( 36.8%)
+   class iii                                                              |    47 ( 11.5%)
+   ½ cusp class ii                                                        |    28 (  6.9%)
+   full cusp class ii                                                     |    20 (  4.9%)
+   ¼ cusp class ii                                                        |     5 (  1.2%)
+
+Feature: Ligature Method
+   Total occurrences: 473
+   Unique values: 24
+   ------------------------------------------------------------------------------------------
+   power chain upper and lower                                            |   172 ( 36.4%)
+   powerchain upper                                                       |   120 ( 25.4%)
+   elastic                                                                |    44 (  9.3%)
+   powerchain lower                                                       |    38 (  8.0%)
+   steel tight                                                            |    25 (  5.3%)
+   steel lacing upper                                                     |    24 (  5.1%)
+   power chain upper and lower, steel lacing upper                        |     7 (  1.5%)
+   steel lacing upper and lower                                           |     6 (  1.3%)
+   steel lacing lower                                                     |     4 (  0.8%)
+   steel tie                                                              |     4 (  0.8%)
+   powerchain upper, steel tight                                          |     4 (  0.8%)
+   power chain upper and lower, steel tight                               |     4 (  0.8%)
+   powerchain upper, powerchain lower                                     |     3 (  0.6%)
+   powerchain lower, steel lacing upper                                   |     3 (  0.6%)
+   steel lacing upper, steel lacing lower                                 |     3 (  0.6%)
+   powerchain upper, steel lacing lower                                   |     2 (  0.4%)
+   steel lacing lower, powerchain upper                                   |     2 (  0.4%)
+   elastic, steel tight                                                   |     2 (  0.4%)
+   powerchain upper, steel tie                                            |     1 (  0.2%)
+   elastic, steel tie                                                     |     1 (  0.2%)
+   steel tie, powerchain upper                                            |     1 (  0.2%)
+   powerchain upper, elastic                                              |     1 (  0.2%)
+   powerchain upper, steel lacing upper                                   |     1 (  0.2%)
+   powerchain lower, steel lacing lower                                   |     1 (  0.2%)
+
+Feature: Lower Active movement
+   Total occurrences: 19
+   Unique values: 5
+   ------------------------------------------------------------------------------------------
+   rotation                                                               |     8 ( 42.1%)
+   torque                                                                 |     5 ( 26.3%)
+   anterior extrusion                                                     |     3 ( 15.8%)
+   anterior intrusion                                                     |     2 ( 10.5%)
+   rotation, posterior extrusion                                          |     1 (  5.3%)
+
+Feature: Lower Arch Accentuated Curve of Spee
+   Total occurrences: 4
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |     4 (100.0%)
+
+Feature: Lower Arch Bends
+   Total occurrences: 111
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |   111 (100.0%)
+
+Feature: Lower Arch Curve of Spee
+   Total occurrences: 5
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |     5 (100.0%)
+
+Feature: Lower Arch Reverse Curve of Spee
+   Total occurrences: 89
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    87 ( 97.8%)
+   0.0                                                                    |     2 (  2.2%)
+
+Feature: Lower Banding
+   Total occurrences: 17
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    17 (100.0%)
+
+Feature: Lower Bonding
+   Total occurrences: 54
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    54 (100.0%)
+
+Feature: Lower Debond
+   Total occurrences: 45
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    45 (100.0%)
+
+Feature: Lower Retainer
+   Total occurrences: 166
+   Unique values: 8
+   ------------------------------------------------------------------------------------------
+   hawley                                                                 |    72 ( 43.4%)
+   trutain                                                                |    63 ( 38.0%)
+   fixed bar                                                              |     9 (  5.4%)
+   hawley, fixed bar                                                      |     8 (  4.8%)
+   essix                                                                  |     6 (  3.6%)
+   fixed bar, trutain                                                     |     5 (  3.0%)
+   trutain, fixed bar                                                     |     2 (  1.2%)
+   trutain + fixed bar                                                    |     1 (  0.6%)
+
+Feature: Lower Wire Material
+   Total occurrences: 813
+   Unique values: 6
+   ------------------------------------------------------------------------------------------
+   niti                                                                   |   330 ( 40.6%)
+   ss                                                                     |   247 ( 30.4%)
+   tma                                                                    |   161 ( 19.8%)
+   cuniti                                                                 |    71 (  8.7%)
+   other                                                                  |     2 (  0.2%)
+   bioforce                                                               |     2 (  0.2%)
+
+Feature: Lower Wire Size
+   Total occurrences: 823
+   Unique values: 22
+   ------------------------------------------------------------------------------------------
+   0.019"x0.025"                                                          |   229 ( 27.8%)
+   0.017"x0.025"                                                          |   191 ( 23.2%)
+   0.014"                                                                 |    82 ( 10.0%)
+   0.016"x0.022"                                                          |    74 (  9.0%)
+   0.018"                                                                 |    60 (  7.3%)
+   0.018"x0.025"                                                          |    45 (  5.5%)
+   0.016"                                                                 |    42 (  5.1%)
+   0.014"x0.025"                                                          |    23 (  2.8%)
+   0.020"x0.020"                                                          |    16 (  1.9%)
+   0.020"                                                                 |    13 (  1.6%)
+   0.016"x0.025"                                                          |    11 (  1.3%)
+   0.017"x.0.022"                                                         |    10 (  1.2%)
+                                                                          |     7 (  0.9%)
+   0.013"                                                                 |     6 (  0.7%)
+   0.018"x0.018"                                                          |     4 (  0.5%)
+   0.016"x0.016"                                                          |     4 (  0.5%)
+   0.018                                                                  |     1 (  0.1%)
+   , 0.018"                                                               |     1 (  0.1%)
+   0.015"x0.025"                                                          |     1 (  0.1%)
+   0.012"                                                                 |     1 (  0.1%)
+   0.017"x0.017"                                                          |     1 (  0.1%)
+   0.019"x0.025", 0.014"                                                  |     1 (  0.1%)
+
+Feature: Mandibular Advancement Appliance
+   Total occurrences: 2
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |     1 ( 50.0%)
+   0.0                                                                    |     1 ( 50.0%)
+
+Feature: Maxillary Expander
+   Total occurrences: 9
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |     7 ( 77.8%)
+   0.0                                                                    |     2 ( 22.2%)
+
+Feature: NiTi Closing Spring
+   Total occurrences: 17
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    17 (100.0%)
+
+Feature: Open Spring
+   Total occurrences: 64
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    63 ( 98.4%)
+   0.0                                                                    |     1 (  1.6%)
+
+Feature: Oral Hygiene
+   Total occurrences: 441
+   Unique values: 3
+   ------------------------------------------------------------------------------------------
+   good                                                                   |   222 ( 50.3%)
+   fair                                                                   |   131 ( 29.7%)
+   poor                                                                   |    88 ( 20.0%)
+
+Feature: Overbite (mm)
+   Total occurrences: 225
+   Unique values: 7
+   ------------------------------------------------------------------------------------------
+   ideal                                                                  |   128 ( 56.9%)
+   deep bite                                                              |    63 ( 28.0%)
+   open bite                                                              |    13 (  5.8%)
+   edge to edge                                                           |    11 (  4.9%)
+   2                                                                      |     5 (  2.2%)
+   3                                                                      |     4 (  1.8%)
+   3.0                                                                    |     1 (  0.4%)
+
+Feature: Overjet (mm)
+   Total occurrences: 254
+   Unique values: 6
+   ------------------------------------------------------------------------------------------
+   positive                                                               |   120 ( 47.2%)
+   ideal                                                                  |   113 ( 44.5%)
+   edge to edge                                                           |    10 (  3.9%)
+   3.0                                                                    |     6 (  2.4%)
+   2.0                                                                    |     4 (  1.6%)
+   2                                                                      |     1 (  0.4%)
+
+Feature: Patient ID.1
+   Total occurrences: 17
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   283280.0                                                               |    17 (100.0%)
+
+Feature: Photos taken
+   Total occurrences: 144
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |   144 (100.0%)
+
+Feature: Posterior Bite Turbos
+   Total occurrences: 52
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    48 ( 92.3%)
+   0.0                                                                    |     4 (  7.7%)
+
+Feature: Prescription and Bracket Slot
+   Total occurrences: 40
+   Unique values: 7
+   ------------------------------------------------------------------------------------------
+   mbt conventional 0.022"                                                |    26 ( 65.0%)
+   damon self ligating 0.22"                                              |     5 ( 12.5%)
+   ao self ligating 0.22"                                                 |     4 ( 10.0%)
+   roth conventional 0.018"                                               |     2 (  5.0%)
+   standart conventional 0.022"                                           |     1 (  2.5%)
+   mbt conventional 0.018"                                                |     1 (  2.5%)
+   standard conventional 0.022"                                           |     1 (  2.5%)
+
+Feature: Re-tie Appointment
+   Total occurrences: 55
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    55 (100.0%)
+
+Feature: Referral
+   Total occurrences: 32
+   Unique values: 3
+   ------------------------------------------------------------------------------------------
+   surgery                                                                |    24 ( 75.0%)
+   pediatrics                                                             |     5 ( 15.6%)
+   general dentist                                                        |     3 (  9.4%)
+
+Feature: Relapse
+   Total occurrences: 22
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    15 ( 68.2%)
+   0.0                                                                    |     7 ( 31.8%)
+
+Feature: Retainer Check
+   Total occurrences: 108
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |   108 (100.0%)
+
+Feature: Right Canine Class
+   Total occurrences: 410
+   Unique values: 7
+   ------------------------------------------------------------------------------------------
+   class i                                                                |   179 ( 43.7%)
+   class ii                                                               |   174 ( 42.4%)
+   ½ cusp class ii                                                        |    24 (  5.9%)
+   class iii                                                              |    18 (  4.4%)
+   full cusp class ii                                                     |    10 (  2.4%)
+   ¼ cusp class ii                                                        |     4 (  1.0%)
+   ¼ cusp class iii                                                       |     1 (  0.2%)
+
+Feature: Right Molar Class
+   Total occurrences: 408
+   Unique values: 7
+   ------------------------------------------------------------------------------------------
+   class i                                                                |   203 ( 49.8%)
+   class ii                                                               |   136 ( 33.3%)
+   class iii                                                              |    27 (  6.6%)
+   ½ cusp class ii                                                        |    26 (  6.4%)
+   full cusp class ii                                                     |    10 (  2.5%)
+   ¼ cusp class ii                                                        |     5 (  1.2%)
+   ¼ cusp class iii                                                       |     1 (  0.2%)
+
+Feature: Space closure loop mechanics
+   Total occurrences: 24
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    24 (100.0%)
+
+Feature: Space closure sliding mechanics
+   Total occurrences: 160
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |   157 ( 98.1%)
+   0.0                                                                    |     3 (  1.9%)
+
+Feature: TADs
+   Total occurrences: 41
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    37 ( 90.2%)
+   0.0                                                                    |     4 (  9.8%)
+
+Feature: TADs.1
+   Total occurrences: 10
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |     9 ( 90.0%)
+   0.0                                                                    |     1 ( 10.0%)
+
+Feature: TMJ symptoms
+   Total occurrences: 36
+   Unique values: 4
+   ------------------------------------------------------------------------------------------
+   0.0                                                                    |    17 ( 47.2%)
+   clicking / popping / sound                                             |    13 ( 36.1%)
+   false                                                                  |     5 ( 13.9%)
+   pain                                                                   |     1 (  2.8%)
+
+Feature: TPA
+   Total occurrences: 24
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    21 ( 87.5%)
+   0.0                                                                    |     3 ( 12.5%)
+
+Feature: Teeth Pain
+   Total occurrences: 1
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |     1 (100.0%)
+
+Feature: Unilateral Posterior Crossbite
+   Total occurrences: 32
+   Unique values: 2
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    27 ( 84.4%)
+   0.0                                                                    |     5 ( 15.6%)
+
+Feature: Upper Active movement
+   Total occurrences: 20
+   Unique values: 5
+   ------------------------------------------------------------------------------------------
+   rotation                                                               |     8 ( 40.0%)
+   torque                                                                 |     7 ( 35.0%)
+   anterior intrusion                                                     |     2 ( 10.0%)
+   distalization                                                          |     2 ( 10.0%)
+   posterior intrusion                                                    |     1 (  5.0%)
+
+Feature: Upper Arch Accentuated Curve of Spee
+   Total occurrences: 51
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    51 (100.0%)
+
+Feature: Upper Arch Bends
+   Total occurrences: 141
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |   141 (100.0%)
+
+Feature: Upper Arch Reverse Curve of Spee
+   Total occurrences: 9
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |     9 (100.0%)
+
+Feature: Upper Banding
+   Total occurrences: 22
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    22 (100.0%)
+
+Feature: Upper Bonding
+   Total occurrences: 58
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    58 (100.0%)
+
+Feature: Upper Debond
+   Total occurrences: 46
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |    46 (100.0%)
+
+Feature: Upper Retainer
+   Total occurrences: 165
+   Unique values: 9
+   ------------------------------------------------------------------------------------------
+   trutain                                                                |    82 ( 49.7%)
+   hawley                                                                 |    63 ( 38.2%)
+   hawley, fixed bar                                                      |     7 (  4.2%)
+   fixed bar, trutain                                                     |     4 (  2.4%)
+   fixed bar, hawley                                                      |     3 (  1.8%)
+   fixed bar                                                              |     2 (  1.2%)
+   essix                                                                  |     2 (  1.2%)
+   trutain + fixed bar                                                    |     1 (  0.6%)
+   hawley, trutain                                                        |     1 (  0.6%)
+
+Feature: Upper Wire Material
+   Total occurrences: 825
+   Unique values: 7
+   ------------------------------------------------------------------------------------------
+   ss                                                                     |   300 ( 36.4%)
+   niti                                                                   |   283 ( 34.3%)
+   tma                                                                    |   165 ( 20.0%)
+   cuniti                                                                 |    73 (  8.8%)
+   other                                                                  |     2 (  0.2%)
+   bioforce                                                               |     1 (  0.1%)
+   elgiloy                                                                |     1 (  0.1%)
+
+Feature: Upper Wire Size
+   Total occurrences: 831
+   Unique values: 16
+   ------------------------------------------------------------------------------------------
+   0.019"x0.025"                                                          |   271 ( 32.6%)
+   0.017"x0.025"                                                          |   175 ( 21.1%)
+   0.018"                                                                 |    64 (  7.7%)
+   0.016"x0.022"                                                          |    60 (  7.2%)
+   0.014"                                                                 |    59 (  7.1%)
+   0.018"x0.025"                                                          |    57 (  6.9%)
+   0.016"                                                                 |    39 (  4.7%)
+   0.016"x0.025"                                                          |    29 (  3.5%)
+   0.020"                                                                 |    26 (  3.1%)
+   0.014"x0.025"                                                          |    19 (  2.3%)
+   0.016"x0.016"                                                          |    11 (  1.3%)
+   0.020"x0.020"                                                          |     9 (  1.1%)
+   0.017"x.0.022"                                                         |     5 (  0.6%)
+   0.018"x0.018"                                                          |     4 (  0.5%)
+   0.021"x0.025"                                                          |     2 (  0.2%)
+   0.013"                                                                 |     1 (  0.1%)
+
+Feature: Xrays taken
+   Total occurrences: 105
+   Unique values: 1
+   ------------------------------------------------------------------------------------------
+   true                                                                   |   105 (100.0%)
+
+===============================================================================================
+ANALYSIS COMPLETE
+===============================================================================================

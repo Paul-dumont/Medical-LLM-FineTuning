@@ -1,0 +1,46 @@
+patient_id: B040
+maximum_opening_without_pain: 20mm
+patient_age: 14
+maximum_opening: 33mm
+pain_relieving_factors: unknown
+diet_score: 4
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: putting mouthpiece from scuba equipment too big in mouth
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: tmj
+previous_medications: unknown
+muscle_pain_score: moderate to very high moderate
+migraine_history: unknown
+headache_location: frontotemporal
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 4 | present
+autoimmune_condition: unknown
+pain_onset_date: when she was 6
+jaw_crepitus: unknown
+tmj_pain_rating: 5
+sleep_disorder_type: daytime somnolence
+current_medications: none
+disc_displacement: left articular disc anteriorly displaced without reduction | right articular disc anteriorly displaced without reduction
+muscle_pain_location: throughout the head and neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics age of 10 to 14 | palatal expander | herbst appliance on jaws
+joint_pain_areas: tmj

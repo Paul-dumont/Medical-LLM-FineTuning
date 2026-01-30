@@ -1,0 +1,46 @@
+patient_id: B530
+maximum_opening_without_pain: 44mm
+patient_age: 20
+maximum_opening: 54mm
+pain_relieving_factors: unknown
+diet_score: 1
+pain_duration: unknown
+disability_rating: 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: anterior open bite | left posterior cross bite | right posterior cross bite
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: none
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: once every two weeks | used to be two times a week
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: right tmj
+previous_medications: unknown
+muscle_pain_score: masseter areas | retromandibular areas
+migraine_history: unknown
+headache_location: frontal
+current_appliance: orthodontics since last year
+average_daily_pain_intensity: 8
+headache_intensity: 8
+autoimmune_condition: unknown
+pain_onset_date: around the age of 12
+jaw_crepitus: unknown
+tmj_pain_rating: 4
+sleep_disorder_type: unknown
+current_medications: copaxone
+disc_displacement: left disc medial dislocation | right disc anteromedial dislocation | left disc medially displaced | right disc medially displaced
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | orthodontics from 13 to 15
+joint_pain_areas: unknown

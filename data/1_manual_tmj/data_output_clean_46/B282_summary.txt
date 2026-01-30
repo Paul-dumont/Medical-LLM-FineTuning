@@ -1,0 +1,46 @@
+patient_id: B282
+maximum_opening_without_pain: unknown
+patient_age: 43
+maximum_opening: 35mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: bite splints
+physical_therapy_status: physical therapy past year | electrical stimulation
+earache_present: true
+onset_triggers: motor vehicle accident
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: moderate to severe
+migraine_history: unknown
+headache_location: unknown
+current_appliance: bite splints
+average_daily_pain_intensity: unknown
+headache_intensity: present
+autoimmune_condition: unknown
+pain_onset_date: 15 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: severe
+sleep_disorder_type: snoring | sleep apnea symptoms | daytime somnolence
+current_medications: synthroid | wellbutrin
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior dislocation without reduction | right disc anterior displacement without reduction
+muscle_pain_location: styloid areas | masseters | temporalis
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: hips | left tmj | right tmj

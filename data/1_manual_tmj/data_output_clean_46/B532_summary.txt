@@ -1,0 +1,46 @@
+patient_id: B532
+maximum_opening_without_pain: unknown
+patient_age: 38
+maximum_opening: 43mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: closing the mouth
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: severely beaten around the head and body area
+adverse_reactions: codeine | xanax | all the metals
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: high moderate to sever | present
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: severe | severe
+autoimmune_condition: unknown
+pain_onset_date: 3 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: severe
+sleep_disorder_type: unknown
+current_medications: estratest | lortab | flexeril | xanax
+disc_displacement: left disc dislocation | right disc dislocation | left disc medial displacement | right disc medial displacement
+muscle_pain_location: temporalis | masseters | styloid areas | medial pterygoid areas | scms | posterior neck | shoulder areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj | left tmj | right tmj | left tmj | right tmj | shoulders

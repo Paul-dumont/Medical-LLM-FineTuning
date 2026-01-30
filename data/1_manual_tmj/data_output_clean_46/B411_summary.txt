@@ -1,0 +1,46 @@
+patient_id: B411
+maximum_opening_without_pain: 37mm
+patient_age: 14
+maximum_opening: 59mm
+pain_relieving_factors: unknown
+diet_score: 1
+pain_duration: unknown
+disability_rating: 1
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | clenching
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: pollens | dust
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false | true
+depression_present: unknown
+headache_frequency: two times per month during the summer | more common during the school year
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: concerta
+muscle_pain_score: mild
+migraine_history: unknown
+headache_location: frontal | temporal
+current_appliance: unknown
+average_daily_pain_intensity: 5
+headache_intensity: 6
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 5 but can escalate to 8
+sleep_disorder_type: unknown
+current_medications: zyrtec | strattera
+disc_displacement: left disc medial dislocation | right disc anterior and medial displacement | left disc medial displacement
+muscle_pain_location: styloid areas
+joint_arthritis_location: unknown
+appliance_history: unknown
+joint_pain_areas: tmj | neck | elbows | left tmj | right tmj

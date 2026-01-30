@@ -1,0 +1,46 @@
+patient_id: B279
+maximum_opening_without_pain: unknown
+patient_age: 48
+maximum_opening: 60mm
+pain_relieving_factors: unknown
+diet_score: 1
+pain_duration: unknown
+disability_rating: 1
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism | clenching | bruxism | splint
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: one time a week
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: mild
+migraine_history: unknown
+headache_location: frontal | temple
+current_appliance: mouthguard since a few months ago
+average_daily_pain_intensity: 3
+headache_intensity: present
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 3
+sleep_disorder_type: daytime somnolence | snoring
+current_medications: allegra | zestoretic | lipitor | nasonex | aranelle
+disc_displacement: left disc anterior dislocation with early reduction | right disc anterior dislocation with early reduction | left disc anteriorly dislocated with early reduction | right disc anteriorly dislocated with early reduction
+muscle_pain_location: styloid | right masseter | posterior neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: knees | toes | left wrist | left tmj | right tmj

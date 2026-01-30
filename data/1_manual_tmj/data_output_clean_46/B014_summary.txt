@@ -1,0 +1,46 @@
+patient_id: B014
+maximum_opening_without_pain: unknown
+patient_age: 37
+maximum_opening: unknown
+pain_relieving_factors: mago splint
+diet_score: 8
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 6
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching | right-sided posterior cross bite
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: daily
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: right frontal | temporal | top of the head | right side
+current_appliance: mago splint 4 months ago | orthodontic treatment beginning this month
+average_daily_pain_intensity: 7
+headache_intensity: 6
+autoimmune_condition: unknown
+pain_onset_date: 25 years of age
+jaw_crepitus: unknown
+tmj_pain_rating: 7
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: right disc dislocation with early reduction
+muscle_pain_location: unknown
+joint_arthritis_location: right tmj
+appliance_history: unknown
+joint_pain_areas: right tmj | right tmj | right shoulder | left hip

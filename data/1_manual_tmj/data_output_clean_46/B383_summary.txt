@@ -1,0 +1,46 @@
+patient_id: B383
+maximum_opening_without_pain: unknown
+patient_age: 39
+maximum_opening: 42mm
+pain_relieving_factors: unknown
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 4
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching
+physical_therapy_status: unknown
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: sulfa
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: in the morning | one or two times per week
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: mild
+migraine_history: unknown
+headache_location: frontal | temporal
+current_appliance: unknown
+average_daily_pain_intensity: 3
+headache_intensity: 4 | present
+autoimmune_condition: unknown
+pain_onset_date: two or three years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 5
+sleep_disorder_type: snoring | snoring | sleep apnea symptoms
+current_medications: allegra | rhinocort | aqua
+disc_displacement: left disc anterior displacement with reduction | left disc dislocation with reduction | right disc dislocation with early reduction | left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: posterior neck area | styloid area | styloid area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj | neck | neck | hands | left tmj | right tmj | shoulder | right tmj

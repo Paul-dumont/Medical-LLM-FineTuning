@@ -1,0 +1,46 @@
+patient_id: B161
+maximum_opening_without_pain: 32mm
+patient_age: 13
+maximum_opening: 40mm
+pain_relieving_factors: unknown
+diet_score: 1 on left and 6 on right
+pain_duration: unknown
+disability_rating: 3
+sleep_apnea_diagnosed: false
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: dust | dust | cheap earrings
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: steroids
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: orthodontics since 13 months ago
+average_daily_pain_intensity: 5
+headache_intensity: 0
+autoimmune_condition: unknown
+pain_onset_date: 1-1.5 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 4, escalates to 7
+sleep_disorder_type: unknown
+current_medications: growth hormone, synthroid
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior dislocation without reduction | left disc anterior dislocation with reduction | right disc anterior displacement without reduction
+muscle_pain_location: jaw | right styloid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj | right tmj

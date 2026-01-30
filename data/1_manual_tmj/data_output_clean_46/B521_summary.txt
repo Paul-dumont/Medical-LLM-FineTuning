@@ -1,0 +1,46 @@
+patient_id: B521
+maximum_opening_without_pain: 25mm
+patient_age: 42
+maximum_opening: 35mm
+pain_relieving_factors: unknown
+diet_score: 7
+pain_duration: unknown
+disability_rating: 7
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | clenching
+physical_therapy_status: massages weekly
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: codeine
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: two times a week
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: tmj | left tmj
+previous_medications: unknown
+muscle_pain_score: high moderate to low severe
+migraine_history: unknown
+headache_location: temporal | posterior head
+current_appliance: splints for about seven or eight years
+average_daily_pain_intensity: 5
+headache_intensity: 8 | severe
+autoimmune_condition: unknown
+pain_onset_date: about 12 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 6 but can escalate to 9 | severe
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms | snoring | daytime somnolence
+current_medications: advil
+disc_displacement: left disc anteriorly displaced without reduction | right disc dislocation without reduction | left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: styloid areas | right temporalis | right masseter
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj | left tmj | right tmj | neck | knees | tmj

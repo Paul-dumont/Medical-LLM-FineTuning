@@ -1,0 +1,46 @@
+patient_id: B441
+maximum_opening_without_pain: 30mm
+patient_age: 47
+maximum_opening: 41mm
+pain_relieving_factors: unknown
+diet_score: 3
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 3
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: unknown
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: mild
+migraine_history: true
+headache_location: frontotemporal | posterior
+current_appliance: orthodontics started 2 years ago
+average_daily_pain_intensity: 4
+headache_intensity: 6 | present
+autoimmune_condition: unknown
+pain_onset_date: 19
+jaw_crepitus: unknown
+tmj_pain_rating: 2
+sleep_disorder_type: unknown
+current_medications: zocor | ambien
+disc_displacement: left disc medial displacement | right disc medial displacement
+muscle_pain_location: temporalis | styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontic treatment done when he was approximately 14 years old
+joint_pain_areas: tmj | left tmj | right tmj | left wrist

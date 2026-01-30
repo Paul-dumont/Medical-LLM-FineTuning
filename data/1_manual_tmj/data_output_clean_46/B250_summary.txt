@@ -1,0 +1,46 @@
+patient_id: B250
+maximum_opening_without_pain: 32mm
+patient_age: 12
+maximum_opening: 43mm | 50mm
+pain_relieving_factors: unknown
+diet_score: 0
+pain_duration: unknown
+disability_rating: 0
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism | left crossbite | right crossbite | left posterior crossbite | right posterior crossbite | clenching | bruxism
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: seasonal allergies | cefzil | lorabid | augmentin | zithromax | biaxin
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: mild | mild to moderate
+migraine_history: unknown
+headache_location: unknown
+current_appliance: 6 x 6 retainer
+average_daily_pain_intensity: unknown
+headache_intensity: present
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 0
+sleep_disorder_type: unknown
+current_medications: singulair | allegra | nasacort
+disc_displacement: left disc anterior displacement probably without reduction | right disc anterior displacement with reduction | left disc dislocation with early reduction | right disc dislocation with early reduction | left disc dislocation
+muscle_pain_location: left masseter right styloid area | left scm | right scm | temporalis | styloid areas
+joint_arthritis_location: left tmj | left tmj | right tmj | right tmj | left tmj
+appliance_history: orthodontics with palatal expander x 2 and lower arch expansion
+joint_pain_areas: tmj | left tmj | right tmj | right tmj

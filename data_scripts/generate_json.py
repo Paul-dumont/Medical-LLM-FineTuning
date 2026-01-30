@@ -7,7 +7,7 @@ from datetime import datetime
 
 
 #TO RUN:
-table_number = 4
+table_number = 3
 
 
 # -----------------------------------------------------------------------------
@@ -20,6 +20,8 @@ table_path =  project_root/"data"/"1_manual_table"/f"patients_table{table_number
 json_path_with_cot = project_root/"data"/"2_input_model"/"with_cot"/f"training_data_with_cot{table_number}.jsonl"
 json_path_without_cot = project_root/"data"/"2_input_model"/"without_cot"/f"training_data_without_cot{table_number}.jsonl"
 json_path_dry_run = project_root/"data"/"2_input_model"/"dry_run"/f"training_data_dry_run{table_number}.jsonl"
+json_path_no_prompt = project_root/"data"/"2_input_model"/"no_prompt"/f"training_data_no_prompt{table_number}.jsonl"
+json_path_unknow = project_root/"data"/"2_input_model"/"unknow"/f"training_data_unknow{table_number}.jsonl"
 
 # -----------------------------------------------------------------------------
 # 2. Data Preprocessing
@@ -95,9 +97,19 @@ system_prompt_dry_run = (
     "- Omit features not mentioned in the note"
 )
 
+system_prompt_no_prompt = ""
+
+system_prompt_unknow = (
+    "You are an expert Orthodontist Assistant. "
+    "Extract orthodontic findings from the clinical note as JSON. "
+    "For each feature mentioned in the table columns, include its value if found, or 'unknown' if not mentioned."
+)
+
 training_data_with_cot = []
 training_data_without_cot = []
 training_data_dry_run = []
+training_data_no_prompt = []
+training_data_unknow = []
 
 # Loop patients
 for idx, row in sheet.iterrows(): 
@@ -126,6 +138,7 @@ for idx, row in sheet.iterrows():
     
     raw_features = row.drop("Raw Note Text").to_dict() # Extract patient features
     sparse_features = {}
+    unknow_features = {}
     thought_list = []
 
     # Loop Value (WITHOUT adding metadata as features)     
@@ -136,6 +149,10 @@ for idx, row in sheet.iterrows():
             else: 
                 sparse_features[key] = True         
             thought_list.append(f"Found evidence for {key}.") # 1 value = 1 thought
+            unknow_features[key] = value
+        else:
+            # For unknow format: add "unknown" for missing values
+            unknow_features[key] = "unknown"
    
     if not thought_list: # Rare case but security (Patient has no value)
         thoughts = "No specific orthodontic procedures detected."
@@ -145,10 +162,14 @@ for idx, row in sheet.iterrows():
     # Output = thought + value 
     final_output_with_cot = {"thought": thoughts, "extraction": sparse_features}
     final_output_without_cot = {"extraction": sparse_features}
+    final_output_no_prompt = {"extraction": sparse_features}
+    final_output_unknow = {"extraction": unknow_features}
 
     # Convert Python Object into text (Json String) 
     json_response_with_cot = json.dumps(final_output_with_cot, ensure_ascii=False)
     json_response_without_cot = json.dumps(final_output_without_cot, ensure_ascii=False)
+    json_response_no_prompt = json.dumps(final_output_no_prompt, ensure_ascii=False)
+    json_response_unknow = json.dumps(final_output_unknow, ensure_ascii=False)
 
     # Chat format WITH CoT (used by OpenAi etc ...)
     training_data_with_cot.append({
@@ -191,6 +212,33 @@ for idx, row in sheet.iterrows():
             {"role": "assistant", "content": json_response_without_cot},
         ]
     })
+    
+    # Chat format NO PROMPT (no system prompt)
+    training_data_no_prompt.append({
+        "metadata": {
+            "patient_id": patient_id,
+            "note_date": note_date,
+            "note_month": note_month
+        },
+        "messages": [
+            {"role": "user", "content": enhanced_note},
+            {"role": "assistant", "content": json_response_no_prompt},
+        ]
+    })
+    
+    # Chat format UNKNOW (with unknown for missing features)
+    training_data_unknow.append({
+        "metadata": {
+            "patient_id": patient_id,
+            "note_date": note_date,
+            "note_month": note_month
+        },
+        "messages": [
+            {"role": "system", "content": system_prompt_unknow},
+            {"role": "user", "content": enhanced_note},
+            {"role": "assistant", "content": json_response_unknow},
+        ]
+    })
 
 # -----------------------------------------------------------------------------
 # 4. Json save
@@ -210,5 +258,15 @@ with open(json_path_dry_run, "w", encoding="utf-8") as json_file:
     for item in training_data_dry_run:
         json_file.write(json.dumps(item, ensure_ascii=False) + "\n")
 print(f"Saved DRY RUN (Baseline) as {json_path_dry_run}")
+
+with open(json_path_no_prompt, "w", encoding="utf-8") as json_file:
+    for item in training_data_no_prompt:
+        json_file.write(json.dumps(item, ensure_ascii=False) + "\n")
+print(f"Saved NO PROMPT as {json_path_no_prompt}")
+
+with open(json_path_unknow, "w", encoding="utf-8") as json_file:
+    for item in training_data_unknow:
+        json_file.write(json.dumps(item, ensure_ascii=False) + "\n")
+print(f"Saved UNKNOW as {json_path_unknow}")
 
  

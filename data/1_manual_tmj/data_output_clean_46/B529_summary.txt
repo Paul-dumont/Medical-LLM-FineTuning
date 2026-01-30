@@ -1,0 +1,46 @@
+patient_id: B529
+maximum_opening_without_pain: unknown
+patient_age: 18
+maximum_opening: unknown
+pain_relieving_factors: unknown
+diet_score: 1
+pain_duration: unknown
+disability_rating: 1
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: false
+pain_aggravating_factors: right posterior cross bite tendency
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: occasional | occasionally
+pain_frequency: unknown
+muscle_symptoms_present: false
+jaw_clicking: right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: left temple
+current_appliance: unknown
+average_daily_pain_intensity: 1
+headache_intensity: 2 | present
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 2
+sleep_disorder_type: daytime somnolence
+current_medications: none
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced with reduction | left disc anteriorly displaced without reduction | right disc anteromedially displaced with reduction | left disc dislocation without reduction | right disc dislocation with reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj
+appliance_history: orthodontic treatment at about the age of 11 and finished at the age of 13
+joint_pain_areas: tmj | left tmj

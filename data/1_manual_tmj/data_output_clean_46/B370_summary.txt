@@ -1,0 +1,46 @@
+patient_id: B370
+maximum_opening_without_pain: unknown
+patient_age: 31
+maximum_opening: 48mm
+pain_relieving_factors: unknown
+diet_score: 3
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: anterior open bite
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: someone hit her or bumped her in the jaw from the right side
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: two times per week, but there are times when they occur daily
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: mild to moderate
+migraine_history: true
+headache_location: begin in the temple area but can cover the entire head and neck area
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 8 | severe
+autoimmune_condition: unknown
+pain_onset_date: age of 10 or 11
+jaw_crepitus: unknown
+tmj_pain_rating: 4 | moderate to severe | severe
+sleep_disorder_type: unknown
+current_medications: none
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior dislocation without reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: masseter muscles | styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics as a teenager
+joint_pain_areas: left tmj | right tmj | left shoulder | her wrists

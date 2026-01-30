@@ -1,0 +1,46 @@
+patient_id: B309
+maximum_opening_without_pain: unknown
+patient_age: 17
+maximum_opening: 51mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 0
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | anterior open bite | right posterior cross bite | left posterior cross bite
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false | true
+depression_present: unknown
+headache_frequency: one time per week
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: temple | frontal | behind the eyes
+current_appliance: 3 x 3 retainer in the lower arch | turbos
+average_daily_pain_intensity: 0 normally but 8 with headache
+headache_intensity: 8
+autoimmune_condition: none
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 0
+sleep_disorder_type: none
+current_medications: unknown
+disc_displacement: left disc anterior and medial displacement without reduction | right disc anterior displacement without reductionmuscle_pain_score: moderate to mild | left disc anterior displacement | right disc anterior displacement
+muscle_pain_location: masseters | shoulders | posterior neck | temporalis
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: orthodontics from approximately 2 to 3 years ago | retainers
+joint_pain_areas: none

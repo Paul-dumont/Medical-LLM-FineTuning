@@ -1,0 +1,46 @@
+patient_id: B156
+maximum_opening_without_pain: 25mm
+patient_age: 31
+maximum_opening: 44mm
+pain_relieving_factors: unknown
+diet_score: 4
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: unknown
+physical_therapy_status: physical therapy and massage therapy
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: flexeril
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: right frontal | right temporal
+current_appliance: unknown
+average_daily_pain_intensity: 4
+headache_intensity: at a level | present
+autoimmune_condition: unknown
+pain_onset_date: 7 months ago
+jaw_crepitus: unknown
+tmj_pain_rating: 6 | severe
+sleep_disorder_type: unknown
+current_medications: advil | bcp
+disc_displacement: left anterior displacement with early reduction | right disc anterior displacement without reduction | right disc anterior and lateral dislocation without reduction
+muscle_pain_location: right retromandibular area
+joint_arthritis_location: left tmj | right tmj | right tmj
+appliance_history: orthodontics 20 years ago and finished when she was 16 | orthodontics at age 22 | orthodontics clear aligner therapy at ages 28 and 29
+joint_pain_areas: jaw | right tmj

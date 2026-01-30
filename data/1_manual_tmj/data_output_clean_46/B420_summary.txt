@@ -1,0 +1,46 @@
+patient_id: B420
+maximum_opening_without_pain: unknown
+patient_age: 23
+maximum_opening: 55mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 2
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: false
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: 3 to 4 times per week
+pain_frequency: often wakes up in the mornings with headaches or at least with a pressure feeling around the head and jaw area
+muscle_symptoms_present: unknown
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head area
+current_appliance: unknown
+average_daily_pain_intensity: 3
+headache_intensity: 4
+autoimmune_condition: unknown
+pain_onset_date: unknown
+jaw_crepitus: unknown
+tmj_pain_rating: 0
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: left disc anteriorly dislocated without reduction | right disc anteriorly dislocated without reduction | left disc medially displaced and anteriorly displaced | right disc anterior displacement
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from the age of 13 to 15
+joint_pain_areas: unknown

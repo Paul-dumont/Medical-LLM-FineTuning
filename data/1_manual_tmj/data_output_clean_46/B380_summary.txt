@@ -1,0 +1,46 @@
+patient_id: B380
+maximum_opening_without_pain: 46mm
+patient_age: 45
+maximum_opening: 56mm
+pain_relieving_factors: unknown
+diet_score: 8
+pain_duration: worse in the morning
+disability_rating: 3
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism | eating
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: new crown made in the lower right posterior quadrant
+adverse_reactions: tetanus | penicillin
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: once a week
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: temple | top of her head
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 4 | present
+autoimmune_condition: unknown
+pain_onset_date: 3 years ag
+jaw_crepitus: unknown
+tmj_pain_rating: 8
+sleep_disorder_type: unknown
+current_medications: ativan
+disc_displacement: left disc anteromedial dislocation with reduction | right disc anteromedial dislocation with reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj | right tmj
+appliance_history: orthodontics from the age of 14 to 15 | retainers
+joint_pain_areas: neck | back | left shoulder | elbows | fingers | right big toe | left tmj | right tmj

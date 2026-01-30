@@ -1,0 +1,46 @@
+patient_id: B338
+maximum_opening_without_pain: unknown
+patient_age: 17
+maximum_opening: 60 mm
+pain_relieving_factors: orthodontics three or four weeks ago | physical therapy
+diet_score: unknown
+pain_duration: unknown
+disability_rating: unknown
+sleep_apnea_diagnosed: unknown
+jaw_function_score: unknown
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: physical therapy
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: unknown
+current_appliance: orthodontics three or four weeks ago
+average_daily_pain_intensity: unknown
+headache_intensity: present
+autoimmune_condition: unknown
+pain_onset_date: three or four years ago
+jaw_crepitus: unknown
+tmj_pain_rating: mild
+sleep_disorder_type: unknown
+current_medications: unknown
+disc_displacement: left disc anterior displacement with reduction | right disc dislocation | left disc dislocation with early reduction
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: orthodontics 4 years ago and removed 2 years ago
+joint_pain_areas: knees | left tmj

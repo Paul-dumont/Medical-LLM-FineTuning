@@ -1,0 +1,46 @@
+patient_id: B275
+maximum_opening_without_pain: unknown
+patient_age: 24
+maximum_opening: 70mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 0
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | clenching | bruxism
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: 3 years of age when fell on her jaw
+adverse_reactions: bicillin
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: moderate
+migraine_history: unknown
+headache_location: unknown
+current_appliance: unknown
+average_daily_pain_intensity: unknown
+headache_intensity: 0
+autoimmune_condition: unknown
+pain_onset_date: age of 10
+jaw_crepitus: unknown
+tmj_pain_rating: 0
+sleep_disorder_type: tired during the day
+current_medications: toprol xl
+disc_displacement: left disc anterior displacement | right disc dislocation without reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: masseters | styloids | posterior neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 8 to 13
+joint_pain_areas: back | neck | knees | left tmj | right tmj

@@ -1,0 +1,46 @@
+patient_id: B201
+maximum_opening_without_pain: 21mm
+patient_age: 52
+maximum_opening: 28mm
+pain_relieving_factors: unknown
+diet_score: 8
+pain_duration: unknown
+disability_rating: 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: brushing teeth
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: unknown
+depression_present: unknown
+headache_frequency: daily
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: moderate to mild
+migraine_history: unknown
+headache_location: frontal | temporal | back of the head
+current_appliance: unknown
+average_daily_pain_intensity: 6
+headache_intensity: 7 | present
+autoimmune_condition: unknown
+pain_onset_date: 2 weeks ago
+jaw_crepitus: unknown
+tmj_pain_rating: 8
+sleep_disorder_type: unknown
+current_medications: ibuprofen | skelaxin | aciphex | cozaar
+disc_displacement: left disc anterior displacement with reduction | right disc lateral dislocation without reduction | left disc medial and anterior dislocation on with reduction | right disc medial dislocation
+muscle_pain_location: masseters | right retromolar area | right scm
+joint_arthritis_location: left tmj | right tmj
+appliance_history: unknown
+joint_pain_areas: tmj | left tmj | right tmj

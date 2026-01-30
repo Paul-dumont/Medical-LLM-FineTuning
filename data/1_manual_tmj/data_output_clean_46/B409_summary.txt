@@ -1,0 +1,46 @@
+patient_id: B409
+maximum_opening_without_pain: unknown
+patient_age: 29
+maximum_opening: 46mm
+pain_relieving_factors: unknown
+diet_score: 2
+pain_duration: unknown
+disability_rating: 1
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | clenching | anterior open bite | left posterior cross bite | right posterior cross bite
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown, but had root canal procedure done about the same time on her left maxillary central incisor
+adverse_reactions: environmental | cheap earring
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: unknown
+depression_present: true
+headache_frequency: two to three times per week
+pain_frequency: unknown
+muscle_symptoms_present: false
+jaw_clicking: tmj | left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: posterior head area
+current_appliance: unknown
+average_daily_pain_intensity: 2
+headache_intensity: 4
+autoimmune_condition: unknown
+pain_onset_date: earlier this year
+jaw_crepitus: unknown
+tmj_pain_rating: 2
+sleep_disorder_type: snoring
+current_medications: allegra | albuterol inhaler | zetia | lexapro
+disc_displacement: left disc anterior dislocation with early reduction | right disc anterior dislocation with early reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: neck | left wrist

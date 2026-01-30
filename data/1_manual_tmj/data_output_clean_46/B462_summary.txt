@@ -1,0 +1,46 @@
+patient_id: B462
+maximum_opening_without_pain: 22mm
+patient_age: 25
+maximum_opening: 45mm
+pain_relieving_factors: unknown
+diet_score: 1
+pain_duration: unknown
+disability_rating: 3
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: unknown
+earache_present: false
+onset_triggers: unknown
+adverse_reactions: ragweed | cheap earrings
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: 5
+pain_frequency: while awakening in the morning
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: mild
+migraine_history: unknown
+headache_location: two to three times a week
+current_appliance: unknown
+average_daily_pain_intensity: 5
+headache_intensity: temple
+autoimmune_condition: unknown
+pain_onset_date: about 2 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 5
+sleep_disorder_type: snoring
+current_medications: polyethylene glycol 3350 powd | rozerem
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: temporalis | masseter
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 13 to 11 or 10 years ago | orthodontics 12 to 14 years old
+joint_pain_areas: tmj

@@ -1,0 +1,46 @@
+patient_id: B355
+maximum_opening_without_pain: unknown
+patient_age: 31
+maximum_opening: unknown
+pain_relieving_factors: night guard
+diet_score: 3
+pain_duration: unknown
+disability_rating: 5
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: physical therapy x 2
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: none
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false | true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: unknown
+previous_medications: unknown
+muscle_pain_score: mild
+migraine_history: unknown
+headache_location: frontal | temporal |  posterior head
+current_appliance: splint since last year
+average_daily_pain_intensity: 4
+headache_intensity: 6 | present
+autoimmune_condition: unknown
+pain_onset_date: 11 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 6
+sleep_disorder_type: unknown
+current_medications: norflex | relafen | tylenol with codeine | aleve | birth control pills
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior dislocation with reduction | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: left temporalis | bilateral shoulders | styloid areas  | right masseter
+joint_arthritis_location: left tmj | right tmj
+appliance_history: night guard | splint | physical therapy
+joint_pain_areas: left tmj | right tmj

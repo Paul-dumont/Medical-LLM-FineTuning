@@ -1,0 +1,46 @@
+patient_id: B207
+maximum_opening_without_pain: unknown
+patient_age: 55
+maximum_opening: unknown
+pain_relieving_factors: massage therapy
+diet_score: 7
+pain_duration: unknown
+disability_rating: 4
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: true
+pain_aggravating_factors: clenching
+physical_therapy_status: chiropractic treatment within five months | massage therapy since three months ago for once a week
+earache_present: true
+onset_triggers: 5 months after thyroid surgery
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: false | true
+depression_present: unknown
+headache_frequency: unknown
+pain_frequency: unknown
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: most of head and neck area
+migraine_history: unknown
+headache_location: frontal | temporal | posterior head
+current_appliance: unknown
+average_daily_pain_intensity: 4
+headache_intensity: 6 | present
+autoimmune_condition: none
+pain_onset_date: 9 months ago
+jaw_crepitus: unknown
+tmj_pain_rating: 6
+sleep_disorder_type: snoring | daytime tiredness
+current_medications: synthroid | lexapro | klonopin | flexeril | glucosamine | omega 3 | cq-10 | calcium | vitamin d
+disc_displacement: left disc anterior and medila displacement without reduction | right disc anteromedial displacement with reduction | left disc dislocation without reduction | right disc dislocation with reduction
+muscle_pain_location: mild
+joint_arthritis_location: right tmj | left tmj
+appliance_history: splint
+joint_pain_areas: tmj | knees | ankles | fingers | neck | knees | ankles | wrists | fingers | neck

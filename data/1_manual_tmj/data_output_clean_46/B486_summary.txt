@@ -1,0 +1,46 @@
+patient_id: B486
+maximum_opening_without_pain: 15mm
+patient_age: 35
+maximum_opening: 30mm
+pain_relieving_factors: unknown
+diet_score: 10
+pain_duration: unknown
+disability_rating: 9
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: unknown
+neck_pain_present: unknown
+pain_aggravating_factors: clenching | splint | arthrocentesis
+physical_therapy_status: unknown
+earache_present: true
+onset_triggers: unknown
+adverse_reactions: seasonal
+fibromyalgia_present: unknown
+jaw_locking: true
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: daily
+pain_frequency: unknown
+muscle_symptoms_present: unknown
+jaw_clicking: left tmj | left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: unknown
+migraine_history: unknown
+headache_location: throughout the head area |temple
+current_appliance: unknown
+average_daily_pain_intensity: 8
+headache_intensity: 8 | severe
+autoimmune_condition: unknown
+pain_onset_date: 20 years ago
+jaw_crepitus: right tmj
+tmj_pain_rating: 10 | severe
+sleep_disorder_type: daytime somnolence | sleep disorder
+current_medications: vicodin es | lodine | flexeril | allegra-d | relpax | afrin | ambien
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction | left disc nonreducing
+muscle_pain_location: unknown
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics 20 years ago | bite plate 4 years ago
+joint_pain_areas: tmj | right tmj | l3 and l4

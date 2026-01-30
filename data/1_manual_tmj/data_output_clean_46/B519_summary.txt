@@ -1,0 +1,46 @@
+patient_id: B519
+maximum_opening_without_pain: unknown
+patient_age: 13
+maximum_opening: 46mm
+pain_relieving_factors: unknown
+diet_score: 3
+pain_duration: unknown
+disability_rating: 6
+sleep_apnea_diagnosed: unknown
+jaw_function_score: 2
+tinnitus_present: unknown
+vertigo_present: unknown
+hearing_loss_present: unknown
+back_pain_present: unknown
+neck_pain_present: false
+pain_aggravating_factors: clenching | bruxism | left posterior crossbite tendency
+physical_therapy_status: unknown
+earache_present: unknown
+onset_triggers: unknown
+adverse_reactions: unknown
+fibromyalgia_present: unknown
+jaw_locking: unknown
+airway_obstruction_present: true
+depression_present: unknown
+headache_frequency: 1 and 7 times a week
+pain_frequency: in the mornings
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: unknown
+muscle_pain_score: mild
+migraine_history: true
+headache_location: frontal | temporal | on the top of the head
+current_appliance: unknown
+average_daily_pain_intensity: 3
+headache_intensity: 5 but can escalate to 7 | 4 | present
+autoimmune_condition: unknown
+pain_onset_date: 2 years ago
+jaw_crepitus: unknown
+tmj_pain_rating: 7
+sleep_disorder_type: unknown
+current_medications: epival
+disc_displacement: left disc dislocation with reduction | right disc anteriorly displaced with reduction | left disc dislocation with very early reduction | right disc dislocation with very early reduction
+muscle_pain_location: masseter
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontic treatment for 1 year about 2 years ago
+joint_pain_areas: tmj
