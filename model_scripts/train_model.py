@@ -17,6 +17,12 @@ print("-" * 95)
 print(f" {mode}, Table {table_number}")
 print("-" * 95)
 
+# Determine max_seq_length based on mode
+if mode == "tmj":
+    max_seq_length = 6144
+else:
+    max_seq_length = 2048
+
 # -----------------------------------------------------------------------------
 # 1. Path Configuration
 # -----------------------------------------------------------------------------
@@ -33,7 +39,7 @@ run_name = f"Phi-3.5-mini-instruct_{mode}{table_number}"
 print("Load Model...")
 model, tokenizer = FastLanguageModel.from_pretrained(
     model_name= "unsloth/Phi-3.5-mini-instruct",
-    max_seq_length = 2048, # 1024 for jonas patient 4096 for max patient
+    max_seq_length = max_seq_length, # 1024 for jonas patient 4096 for max patient
     dtype = None ,  #Unslot will automaticaly chose the best precision (bfloat16)
     load_in_4bit = False, # No compretion (Full 16-bit)
 )
@@ -43,11 +49,11 @@ model, tokenizer = FastLanguageModel.from_pretrained(
 # -----------------------------------------------------------------------------
 model = FastLanguageModel.get_peft_model(
     model,
-    r = 64, # r = The Rank. how much new information
+    r = 96, # r = The Rank. how much new information (increased for better JSON learning)
     # We allowed the model to change all those layers (Full LoRA)
     target_modules = ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
-    lora_alpha = 32, # The Strength of those new information, how strongly new learning is applied
-    lora_dropout = 0, # Randomly turn off neurons, to prevent memorization 
+    lora_alpha = 48, # The Strength of those new information, how strongly new learning is applied (increased proportionally)
+    lora_dropout = 0.05, # Randomly turn off neurons, to prevent memorization (slight regularization) 
     bias = "none", # don't train the bis in order to save memory 
     use_gradient_checkpointing = "unsloth",
     random_state = 3407 # Seed 
@@ -85,12 +91,6 @@ dataset = dataset.train_test_split(test_size=0.1,seed=42)
 print(f"{len(dataset['train'])} Training samples")
 print(f"{len(dataset['test'])} Evaluation samples")
 
-# Determine max_seq_length based on mode
-if mode == "tmj":
-    max_seq_length = 4096
-else:
-    max_seq_length = 2048
-
 # -----------------------------------------------------------------------------
 # 4. Training 
 # -----------------------------------------------------------------------------
@@ -126,7 +126,7 @@ trainer = SFTTrainer(
         optim = "adamw_8bit",
 
         # Time for training
-        num_train_epochs = 3, # Read the whole dataset 3 time (1 for testing) 
+        num_train_epochs = 4, # Read the whole dataset 5 times for better convergence on JSON format
         warmup_steps = 5, # time of slow training (To not delete previus knowledge) 
         
         # Log (WandB)
