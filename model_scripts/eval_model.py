@@ -8,7 +8,7 @@ import seaborn as sns
 
 #TO RUN:
 table_number = 1
-mode = "tmj"
+mode = "dry_run"
 
 print("-" * 95)
 print(f" {mode}, Table {table_number}")
@@ -32,7 +32,10 @@ def get_pairs(d):
             v_norm = str(sorted([str(x).lower().strip() for x in v]))
         else:
             v_norm = str(v).lower().strip()
-        pairs.add((k_norm, v_norm))
+        
+        # Ignorer les valeurs "unknown" - elles ne sont pas pertinentes pour l'évaluation
+        if v_norm != "unknown":
+            pairs.add((k_norm, v_norm))
     return pairs
 
 # --- 1. Collecte des données ---
@@ -194,16 +197,49 @@ for feat in all_features:
 summary_df['sort_index'] = summary_df['feat'].str.lower().map(feature_index_map)
 summary_df = summary_df.sort_values('sort_index').drop('sort_index', axis=1)
 
-# Garder SEULEMENT les features dans feature_order
-summary_df_filtered = summary_df[summary_df['feat'].str.lower().isin(feature_order_lower)]
-
 # Créer un dictionnaire pour accès rapide aux features
 feat_dict = {}
-for idx, row in summary_df_filtered.iterrows():
+for idx, row in summary_df.iterrows():
     feat_dict[row['feat'].lower()] = row
 
 # Compter les features détectées (présentes dans feat_dict)
 features_detected = len(feat_dict)
+
+# CRÉER LA TABLE COMPLÈTE avec TOUTES les features dans l'ordre prévu (même manquantes)
+complete_features_list = []
+for order_feat in feature_order:
+    order_feat_lower = order_feat.lower()
+    if order_feat_lower in feat_dict:
+        r = feat_dict[order_feat_lower]
+        complete_features_list.append({
+            'feat': r['feat'],
+            'prec': r['prec'],
+            'rec': r['rec'],
+            'f1': r['f1'],
+            'sem': r['sem'],
+            'count': r['count'],
+            'pct': r['pct'],
+            'tp': r['tp'],
+            'fp': r['fp'],
+            'fn': r['fn']
+        })
+    else:
+        # Feature manquante : ajouter avec "-"
+        complete_features_list.append({
+            'feat': order_feat,
+            'prec': '-',
+            'rec': '-',
+            'f1': '-',
+            'sem': '-',
+            'count': '-',
+            'pct': '-',
+            'tp': '-',
+            'fp': '-',
+            'fn': '-'
+        })
+
+# Convertir en DataFrame pour la sauvegarde
+summary_df_filtered = pd.DataFrame(complete_features_list)
 
 # Afficher le titre et les en-têtes du tableau
 print(f"\nTotal features: {features_detected} / {total_features}\n")
@@ -221,27 +257,31 @@ for order_feat in feature_order:
         print(f"{order_feat[:40]:<40} | {'-':<5} | {'-':<5} | {'-':<5} | {'-':<5} | {'-':<5} | {'-':<5}")
 
 # --- 4. Global ---
-# Moyenne simple des scores de toutes les features (comme TOP 10/20/30 et SEM)
-g_prec = summary_df_filtered['prec'].mean() if len(summary_df_filtered) > 0 else 0
-g_rec = summary_df_filtered['rec'].mean() if len(summary_df_filtered) > 0 else 0
-g_f1 = summary_df_filtered['f1'].mean() if len(summary_df_filtered) > 0 else 0
+# Filtrer SEULEMENT les features détectées (exclure les "-")
+detected_mask = summary_df_filtered['prec'] != '-'
+summary_df_detected = summary_df_filtered[detected_mask]
+
+# Moyenne simple des scores de toutes les features détectées
+g_prec = summary_df_detected['prec'].mean() if len(summary_df_detected) > 0 else 0
+g_rec = summary_df_detected['rec'].mean() if len(summary_df_detected) > 0 else 0
+g_f1 = summary_df_detected['f1'].mean() if len(summary_df_detected) > 0 else 0
 
 # Score sémantique global : moyenne des SEM scores des features qui existent (les "-" ne sont pas comptées)
-g_sem = summary_df_filtered['sem'].mean() if len(summary_df_filtered) > 0 else 0
+g_sem = summary_df_detected['sem'].mean() if len(summary_df_detected) > 0 else 0
 
 print("-" * 95)
 
 # --- 5. TOTAL SIMPLE et TOTAL PONDÉRÉ ---
 # TOTAL SIMPLE : moyenne simple (toutes les features ont le même poids)
-print(f"{'TOTAL SIMPLE':<40} | {g_prec:.2f}  | {g_rec:.2f}  | {g_f1:.3f} | {g_sem:.3f}")
+print(f"{'TOTAL SIMPLE':<40} | {g_prec:.3f} | {g_rec:.3f} | {g_f1:.3f} | {g_sem:.3f}")
 
 # TOTAL PONDÉRÉ : moyenne pondérée par fréquence (count)
-total_count = summary_df_filtered['count'].sum()
-g_prec_weighted = (summary_df_filtered['prec'] * summary_df_filtered['count']).sum() / total_count if total_count > 0 else 0
-g_rec_weighted = (summary_df_filtered['rec'] * summary_df_filtered['count']).sum() / total_count if total_count > 0 else 0
-g_f1_weighted = (summary_df_filtered['f1'] * summary_df_filtered['count']).sum() / total_count if total_count > 0 else 0
-g_sem_weighted = (summary_df_filtered['sem'] * summary_df_filtered['count']).sum() / total_count if total_count > 0 else 0
-print(f"{'TOTAL PONDÉRÉ':<40} | {g_prec_weighted:.2f}  | {g_rec_weighted:.2f}  | {g_f1_weighted:.3f} | {g_sem_weighted:.3f}")
+total_count = summary_df_detected['count'].sum()
+g_prec_weighted = (summary_df_detected['prec'] * summary_df_detected['count']).sum() / total_count if total_count > 0 else 0
+g_rec_weighted = (summary_df_detected['rec'] * summary_df_detected['count']).sum() / total_count if total_count > 0 else 0
+g_f1_weighted = (summary_df_detected['f1'] * summary_df_detected['count']).sum() / total_count if total_count > 0 else 0
+g_sem_weighted = (summary_df_detected['sem'] * summary_df_detected['count']).sum() / total_count if total_count > 0 else 0
+print(f"{'TOTAL PONDÉRÉ':<40} | {g_prec_weighted:.3f} | {g_rec_weighted:.3f} | {g_f1_weighted:.3f} | {g_sem_weighted:.3f}")
 
 print("-" * 95)
 
@@ -254,14 +294,29 @@ base_filename = f"result_{mode}_{table_number}"
 # Save XLSX (Excel format)
 xlsx_file = results_dir / f"{base_filename}.xlsx"
 with pd.ExcelWriter(xlsx_file, engine='openpyxl') as writer:
+    # Convertir les points en virgules pour XLSX (format français) - 3 décimales
+    summary_df_xlsx = summary_df_filtered.copy()
+    for col in ['prec', 'rec', 'f1', 'sem', 'count']:
+        if col in summary_df_xlsx.columns:
+            summary_df_xlsx[col] = summary_df_xlsx[col].apply(
+                lambda x: f"{float(x):.3f}".replace('.', ',') if isinstance(x, (int, float)) else x
+            )
+    # pct en format décimal (5% → 0,05)
+    if 'pct' in summary_df_xlsx.columns:
+        summary_df_xlsx['pct'] = summary_df_xlsx['pct'].apply(
+            lambda x: f"{float(x)/100:.2f}".replace('.', ',') if isinstance(x, (int, float)) else x
+        )
+    
     # Sheet 1: Features
-    summary_df_filtered.to_excel(writer, sheet_name='Features', index=False)
+    summary_df_xlsx.to_excel(writer, sheet_name='Features', index=False)
     
     # Sheet 2: Global Metrics
     metrics_data = {
-        'Metric': ['Precision', 'Recall', 'F1 Score', 'Semantic Similarity'],
-        'Simple Average': [g_prec, g_rec, g_f1, g_sem],
-        'Weighted Average': [g_prec_weighted, g_rec_weighted, g_f1_weighted, g_sem_weighted]
+        'Mode': [mode],
+        'F1': [f"{g_f1:.3f}".replace('.', ',')],
+        'SEM': [f"{g_sem:.3f}".replace('.', ',')],
+        'W F1': [f"{g_f1_weighted:.3f}".replace('.', ',')],
+        'W SEM': [f"{g_sem_weighted:.3f}".replace('.', ',')]
     }
     metrics_df = pd.DataFrame(metrics_data)
     metrics_df.to_excel(writer, sheet_name='Global Metrics', index=False)

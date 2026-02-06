@@ -11,8 +11,8 @@ from tqdm import tqdm # Barre de progression v
 
 
 #TO RUN:
-table_number = 1
-mode = "tmj"
+table_number = 4
+mode = "unknow"
 eval_only = True  # Si False, génère sur tout le dataset (train + test)
 
 print("-" * 95)

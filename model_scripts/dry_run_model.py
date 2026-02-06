@@ -10,13 +10,13 @@ from tqdm import tqdm
 
 
 # TO RUN: Dry Run Configuration (BASELINE - NO TRAINING)
-table_number = 4
-# LLaMA 3.1 8B optimized via unsloth
-# RTX Ada 6000 has 48GB VRAM - perfect for 8B models
-model_name = "unsloth/Meta-Llama-3.1-8B-Instruct"  # LLaMA 3.1 8B via unsloth (optimized version)
+table_number = 1
+# LLaMA 3.1 70B optimized via unsloth - SOTA baseline for extraction
+# RTX Ada 6000 has 48GB VRAM - perfect for 70B models in 4bit
+model_name = "unsloth/llama-3.1-70b-instruct"  # LLaMA 3.1 70B via unsloth (optimized version)
 # Alternative options:
-# - "unsloth/Qwen2.5-32B"           # 32B if you want more power
-# - "unsloth/llama-3.1-70b-instruct"  # 70B ultra-powerful baseline
+# - "unsloth/Meta-Llama-3.1-8B-Instruct"  # 8B if memory is limited
+# - "unsloth/Qwen2.5-32B"           # 32B middle ground
 # Using unsloth versions for optimization and compatibility
 
 
@@ -27,7 +27,7 @@ script_folder = Path(__file__).resolve().parent
 project_root = script_folder.parent
 
 json_path = str(project_root / "data" / "2_input_model" / "dry_run" / f"training_data_dry_run{table_number}.jsonl")
-output_path = str(project_root / "data" / "3_output_model" / "dry_run" / f"dry_run_baseline_table{table_number}.jsonl")
+output_path = str(project_root / "data" / "3_output_model" / "dry_run" / f"extraction_dry_run{table_number}.jsonl")
 
 # Ensure output directory exists
 Path(output_path).parent.mkdir(parents=True, exist_ok=True)
@@ -36,8 +36,8 @@ print("=" * 80)
 print("DRY RUN - SOTA BASELINE MODEL (NO TRAINING)")
 print("Testing on EVAL set only (same as training split: 10% test)")
 print("=" * 80)
-print(f"Model: LLaMA 3.1 8B (unsloth/Meta-Llama-3.1-8B-Instruct)")
-print(f"GPU: RTX Ada 6000 (48GB VRAM - more than enough)")
+print(f"Model: LLaMA 3.1 70B (unsloth/llama-3.1-70b-instruct) - SOTA Extraction Baseline")
+print(f"GPU: RTX Ada 6000 (48GB VRAM - 4bit quantization)")
 print(f"Input Data: {json_path}")
 print(f"Output: {output_path}")
 print(f"Note: This is a STRONG baseline - compare fine-tuned models against this!")
@@ -51,9 +51,9 @@ print("\n[1/4] Loading Base Model from Hugging Face...")
 try:
     model, tokenizer = FastLanguageModel.from_pretrained(
         model_name=model_name,
-        max_seq_length=2048,
-        dtype=None,  # Auto-detect best dtype (bfloat16 for Ada)
-        load_in_4bit=False,  # Full precision for RTX Ada
+        max_seq_length=2048,  # Increased: input needs up to 1,583 tokens (550 system + 1,033 user)
+        dtype=None,  # Auto-detect best dtype
+        load_in_4bit=True,  # 4bit quantization for 70B model efficiency
     )
     print(f"✓ Base model loaded: {model_name}")
 except Exception as e:
@@ -109,7 +109,7 @@ for patient_record in tqdm(eval_dataset):
         # Generate
         outputs = model.generate(
             input_ids=input_ids,
-            max_new_tokens=2048,
+            max_new_tokens=512,  # Reduced: JSON extraction doesn't need long outputs
             use_cache=True,
             temperature=0.0,
             do_sample=False

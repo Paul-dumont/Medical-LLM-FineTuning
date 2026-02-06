@@ -10,8 +10,8 @@ import shutil
 
 
 # TO RUN:
-table_number = 1
-mode = "tmj" #with_cot without_cot dru_run
+table_number = 3 
+mode = "dry_run" #with_cot without_cot dru_run
 
 print("-" * 95)
 print(f" {mode}, Table {table_number}")
@@ -34,7 +34,7 @@ output_dir = str(project_root / "model")
 run_name = f"Phi-3.5-mini-instruct_{mode}{table_number}"
 
 # -------------------- ---------------------------------------------------------
-# 2. Load Model 
+# 2. Load Model r=64, lora_alpha=32, epoch=3 
 # -----------------------------------------------------------------------------
 print("Load Model...")
 model, tokenizer = FastLanguageModel.from_pretrained(
@@ -49,11 +49,11 @@ model, tokenizer = FastLanguageModel.from_pretrained(
 # -----------------------------------------------------------------------------
 model = FastLanguageModel.get_peft_model(
     model,
-    r = 96, # r = The Rank. how much new information (increased for better JSON learning)
+    r = 64, #64 ou 94 r = The Rank. how much new information (increased for better JSON learning)
     # We allowed the model to change all those layers (Full LoRA)
     target_modules = ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
-    lora_alpha = 48, # The Strength of those new information, how strongly new learning is applied (increased proportionally)
-    lora_dropout = 0.05, # Randomly turn off neurons, to prevent memorization (slight regularization) 
+    lora_alpha = 32, #32 ou 42 The Strength of those new information, how strongly new learning is applied (increased proportionally)
+    lora_dropout = 0, #0 ou 0.05 Randomly turn off neurons, to prevent memorization (slight regularization) 
     bias = "none", # don't train the bis in order to save memory 
     use_gradient_checkpointing = "unsloth",
     random_state = 3407 # Seed 
@@ -126,7 +126,7 @@ trainer = SFTTrainer(
         optim = "adamw_8bit",
 
         # Time for training
-        num_train_epochs = 4, # Read the whole dataset 5 times for better convergence on JSON format
+        num_train_epochs = 3, #3 ou 5 Read the whole dataset 5 times for better convergence on JSON format
         warmup_steps = 5, # time of slow training (To not delete previus knowledge) 
         
         # Log (WandB)
