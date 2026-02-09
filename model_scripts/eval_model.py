@@ -7,7 +7,7 @@ import seaborn as sns
 
 
 #TO RUN:
-table_number = 1
+table_number = 4
 mode = "without_cot"
 
 print("-" * 95)
@@ -51,7 +51,11 @@ with open(json_path, "r", encoding="utf-8") as f:
             orig_dict = json.loads(record["original"]).get("extraction", {})
             # Handle prediction as either dict or JSON string
             if isinstance(record["prediction"], dict):
-                pred_dict = record["prediction"]
+                # Pour tmj, la structure est nested avec "extraction" à l'intérieur
+                if mode == "tmj":
+                    pred_dict = record["prediction"].get("extraction", {})
+                else:
+                    pred_dict = record["prediction"]
             else:
                 pred_dict = json.loads(record["prediction"]).get("extraction", {})
         except:
