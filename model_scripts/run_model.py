@@ -11,7 +11,7 @@ from tqdm import tqdm # Barre de progression v
 
 
 #TO RUN:
-table_number = 4
+table_number = 2
 mode = "unknow"
 eval_only = True  # Si False, génère sur tout le dataset (train + test)
 
@@ -23,7 +23,7 @@ print("-" * 95)
 if mode == "tmj":
     max_seq_length = 6144  # TMJ needs 5015+ tokens, use 6K for safety
 else:
-    max_seq_length = 2048
+    max_seq_length = 2048 #2048
 
 # -----------------------------------------------------------------------------
 # 1. Path Configuration 

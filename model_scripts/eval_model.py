@@ -7,8 +7,8 @@ import seaborn as sns
 
 
 #TO RUN:
-table_number = 4
-mode = "without_cot"
+table_number = 1
+mode = "tmj"
 
 print("-" * 95)
 print(f" {mode}, Table {table_number}")
@@ -42,11 +42,18 @@ def get_pairs(d):
 results = []
 total_lines = 0
 record_data = []  # Store original/prediction dicts for semantic scoring
+skipped = 0
 
 with open(json_path, "r", encoding="utf-8") as f:
     for i, line in enumerate(f):
         total_lines += 1
-        record = json.loads(line)
+        try:
+            record = json.loads(line)
+        except Exception as e:
+            print(f"⚠️  Erreur parsing line {i+1}: {e}")
+            skipped += 1
+            continue
+        
         try:
             orig_dict = json.loads(record["original"]).get("extraction", {})
             # Handle prediction as either dict or JSON string
@@ -58,7 +65,9 @@ with open(json_path, "r", encoding="utf-8") as f:
                     pred_dict = record["prediction"]
             else:
                 pred_dict = json.loads(record["prediction"]).get("extraction", {})
-        except:
+        except Exception as e:
+            print(f"⚠️  Erreur extraction line {i+1}: {e}")
+            skipped += 1
             continue
 
         record_data.append((orig_dict, pred_dict))
@@ -92,6 +101,14 @@ with open(json_path, "r", encoding="utf-8") as f:
                     results.append({'feature': k_norm, 'type': 'fn', 'val_orig': v_orig_norm, 'val_pred': "", 'key': k_norm})
 
 df = pd.DataFrame(results)
+
+# Vérification
+if df.empty:
+    print(f"❌ ERREUR: Aucune donnée à traiter!")
+    print(f"   Total lignes lues: {total_lines}")
+    print(f"   Lignes ignorées: {skipped}")
+    print(f"   Résultats: {len(results)}")
+    exit(1)
 
 # --- 2. Calcul Sémantique (AMÉLIORÉ v2) ---
 # NOUVELLE APPROCHE: Pour chaque feature, comparer les valeurs originals vs predictions

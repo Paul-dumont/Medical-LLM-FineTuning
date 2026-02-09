@@ -10,8 +10,8 @@ import shutil
 
 
 # TO RUN:
-table_number = 3 
-mode = "dry_run" #with_cot without_cot dru_run
+table_number = 1
+mode = "no_prompt" #with_cot without_cot dru_run
 
 print("-" * 95)
 print(f" {mode}, Table {table_number}")
@@ -21,7 +21,7 @@ print("-" * 95)
 if mode == "tmj":
     max_seq_length = 6144
 else:
-    max_seq_length = 2048
+    max_seq_length = 2048 #2048
 
 # -----------------------------------------------------------------------------
 # 1. Path Configuration
