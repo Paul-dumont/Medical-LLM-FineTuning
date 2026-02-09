@@ -3,9 +3,9 @@ from pathlib import Path
 
 
 # TO RUN:
-table_number = 4
-mode = "without_cot"  # "with_cot", "without_cot", or "dry_run"
-element_index = 4  # Index of the element to visualize (0 = first, 1 = second, etc.)
+table_number = 1
+mode = "dry_run"  # "with_cot", "without_cot", or "dry_run"
+element_index = 1  # Index of the element to visualize (0 = first, 1 = second, etc.)
 
 
 # -----------------------------------------------------------------------------

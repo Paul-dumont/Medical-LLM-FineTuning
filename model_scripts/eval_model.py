@@ -8,7 +8,7 @@ import seaborn as sns
 
 #TO RUN:
 table_number = 1
-mode = "dry_run"
+mode = "without_cot"
 
 print("-" * 95)
 print(f" {mode}, Table {table_number}")
@@ -41,6 +41,7 @@ def get_pairs(d):
 # --- 1. Collecte des données ---
 results = []
 total_lines = 0
+record_data = []  # Store original/prediction dicts for semantic scoring
 
 with open(json_path, "r", encoding="utf-8") as f:
     for i, line in enumerate(f):
@@ -48,24 +49,29 @@ with open(json_path, "r", encoding="utf-8") as f:
         record = json.loads(line)
         try:
             orig_dict = json.loads(record["original"]).get("extraction", {})
-            pred_dict = json.loads(record["prediction"]).get("extraction", {})
+            # Handle prediction as either dict or JSON string
+            if isinstance(record["prediction"], dict):
+                pred_dict = record["prediction"]
+            else:
+                pred_dict = json.loads(record["prediction"]).get("extraction", {})
         except:
             continue
 
+        record_data.append((orig_dict, pred_dict))
         s_orig = get_pairs(orig_dict)
         s_pred = get_pairs(pred_dict)
 
         # TP : intersection des paires (Clé + Valeur identiques)
         for k, v in s_orig & s_pred:
-            results.append({'feature': k, 'type': 'tp', 'val_orig': v, 'val_pred': v})
+            results.append({'feature': k, 'type': 'tp', 'val_orig': v, 'val_pred': v, 'key': k})
 
         # FP : Dans prédiction mais pas dans original
         for k, v in s_pred - s_orig:
-            results.append({'feature': k, 'type': 'fp', 'val_orig': orig_dict.get(k, ""), 'val_pred': v})
+            results.append({'feature': k, 'type': 'fp', 'val_orig': orig_dict.get(k, ""), 'val_pred': v, 'key': k})
 
         # FN : Dans original mais pas dans prédiction
         for k, v in s_orig - s_pred:
-            results.append({'feature': k, 'type': 'fn', 'val_orig': v, 'val_pred': pred_dict.get(k, "")})
+            results.append({'feature': k, 'type': 'fn', 'val_orig': v, 'val_pred': pred_dict.get(k, ""), 'key': k})
         
         # NOUVEAU: FN - Valeurs vides dans prediction alors qu'elles existent dans original
         for k in orig_dict.keys():
@@ -79,31 +85,55 @@ with open(json_path, "r", encoding="utf-8") as f:
                 
                 # Si original a une valeur mais prediction est vide → FN
                 if v_orig_norm and not v_pred_norm:
-                    results.append({'feature': k_norm, 'type': 'fn', 'val_orig': v_orig_norm, 'val_pred': ""})
+                    results.append({'feature': k_norm, 'type': 'fn', 'val_orig': v_orig_norm, 'val_pred': "", 'key': k_norm})
 
 df = pd.DataFrame(results)
 
-# --- 2. Calcul Sémantique (Optimisé) ---
-# On calcule la similarité uniquement pour les lignes qui ont les deux valeurs
-mask = (df['val_orig'] != "") & (df['val_pred'] != "")
-if not df[mask].empty:
-    # On évite de recalculer 1.0 pour les TP parfaits
-    tp_mask = (df['type'] == 'tp')
-    df.loc[tp_mask, 'sem_score'] = 1.0
-    
-    # Calcul sémantique pour les autres (FP/FN qui auraient une valeur partielle)
-    others_mask = mask & (df['type'] != 'tp')
-    if not df[others_mask].empty:
-        emb1 = semantic_model.encode(df.loc[others_mask, 'val_orig'].astype(str).tolist(), convert_to_tensor=True)
-        emb2 = semantic_model.encode(df.loc[others_mask, 'val_pred'].astype(str).tolist(), convert_to_tensor=True)
-        sims = util.cos_sim(emb1, emb2).diagonal().tolist()
-        df.loc[others_mask, 'sem_score'] = sims
-else:
-    df['sem_score'] = 0.0
+# --- 2. Calcul Sémantique (AMÉLIORÉ v2) ---
+# NOUVELLE APPROCHE: Pour chaque feature, comparer les valeurs originals vs predictions
+# même si elles ne matchent pas exactement (formats différents)
+# Cela capture: "0.019\"x0.025\"" vs "19 x 25" → similarité sémantique!
 
-# FN avec valeur vide (omission) = pénalité sémantique 0
-fn_empty_mask = (df['type'] == 'fn') & (df['val_pred'] == "")
-df.loc[fn_empty_mask, 'sem_score'] = 0.0
+df['sem_score'] = 0.0
+
+# TP parfait (match exact) = 1.0
+tp_mask = (df['type'] == 'tp')
+df.loc[tp_mask, 'sem_score'] = 1.0
+
+# FP/FN: Comparer sémantiquement les valeurs de la MÊME feature
+for feature in df['feature'].unique():
+    feature_mask = (df['feature'] == feature)
+    feature_data = df[feature_mask].copy()
+    
+    # Récupérer les valeurs originales et prédites pour cette feature
+    origins = feature_data[feature_data['val_orig'].astype(str).str.strip() != '']
+    predictions = feature_data[feature_data['val_pred'].astype(str).str.strip() != '']
+    
+    # CAS 1 : PLUSIEURS occurrences (mismatch de format avec patterns)
+    # CAS 2 : UNE SEULE occurrence (single-occurrence format mismatch)
+    if len(origins) > 0 and len(predictions) > 0:
+        # Obtenir les indices pour cette feature
+        indices_orig = origins.index.tolist()
+        indices_pred = predictions.index.tolist()
+        
+        # Comparer les valeurs
+        for idx_o in indices_orig:
+            for idx_p in indices_pred:
+                val_o = str(df.loc[idx_o, 'val_orig']).strip()
+                val_p = str(df.loc[idx_p, 'val_pred']).strip()
+                
+                # Si pas un TP parfait ET les deux valeurs existent
+                if val_o and val_p and not ((df.loc[idx_o, 'type'] == 'tp') or (df.loc[idx_p, 'type'] == 'tp')):
+                    # Calculer similitude sémantique (même pour single-occurrence)
+                    emb1 = semantic_model.encode(val_o, convert_to_tensor=True)
+                    emb2 = semantic_model.encode(val_p, convert_to_tensor=True)
+                    sim = util.cos_sim(emb1, emb2).item()
+                    
+                    # Appliquer ce score aux lignes concernées si elles sont FP/FN
+                    if df.loc[idx_o, 'type'] == 'fn':
+                        df.loc[idx_o, 'sem_score'] = max(df.loc[idx_o, 'sem_score'], sim)
+                    if df.loc[idx_p, 'type'] == 'fp':
+                        df.loc[idx_p, 'sem_score'] = max(df.loc[idx_p, 'sem_score'], sim)
 
 df['sem_score'] = df['sem_score'].fillna(0.0)
 
@@ -114,23 +144,21 @@ for feat, group in df.groupby('feature'):
     fp = len(group[group['type'] == 'fp'])
     fn = len(group[group['type'] == 'fn'])
     
-    # Cas manquants = total_lines - (tp + fp + fn)
-    # Ces cas manquants doivent être comptés comme FN
-    missing_cases = total_lines - (tp + fp + fn)
-    fn_total = fn + missing_cases  # Total FN incluant cas manquants
+    # Précision et Recall : calculés uniquement sur les cas présents (cohérent avec SEM)
+    # Ne pas pénaliser les features rares avec missing_cases
+    # Le poids de la feature (count) sera pris en compte au niveau global si nécessaire
     
-    # Précision et Recall par rapport au total global (pas juste les cas présents)
-    prec = tp / (tp + fp + missing_cases) if (tp + fp + missing_cases) > 0 else 0
-    rec = tp / (tp + fn_total) if (tp + fn_total) > 0 else 0
+    prec = tp / (tp + fp) if (tp + fp) > 0 else 0
+    rec = tp / (tp + fn) if (tp + fn) > 0 else 0
     f1 = 2 * (prec * rec) / (prec + rec) if (prec + rec) > 0 else 0
     
     count = tp + fn
     count_pct = (count / total_lines) * 100
     avg_sem = group['sem_score'].mean()
     
-    # Pénaliser le score sémantique avec les cas manquants
-    # Moyenne sémantique = (scores existants + 0 pour cas manquants) / total_lines
-    sem_with_missing = (group['sem_score'].sum() + (missing_cases * 0.0)) / total_lines
+    # Score sémantique moyen pour cette feature
+    # Moyenne = somme des sem_scores / nombre d'occurrences de la feature
+    sem_with_missing = group['sem_score'].mean()
     
     summary.append({'feat': feat, 'prec': prec, 'rec': rec, 'f1': f1, 'sem': sem_with_missing, 'count': count, 'pct': count_pct, 'tp': tp, 'fp': fp, 'fn': fn})
 
