@@ -8,7 +8,7 @@ import seaborn as sns
 
 #TO RUN:
 table_number = 1
-mode = "tmj"
+mode = "no_prompt"
 
 print("-" * 95)
 print(f" {mode}, Table {table_number}")
