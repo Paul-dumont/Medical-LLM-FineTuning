@@ -7,6 +7,7 @@ from transformers import TrainingArguments
 import wandb
 from pathlib import Path
 import shutil
+from utils import grouped_shuffle_split
 
 
 def main(table_number: int, mode: str):
@@ -83,17 +84,13 @@ def main(table_number: int, mode: str):
 
     dataset = dataset.map(format_single_patient)
 
-    # Split train/val/test => 70/15/15
-    dataset = dataset.train_test_split(test_size=0.3, seed=42)
-    val_test = dataset['test'].train_test_split(test_size=0.5, seed=42)
+    # Split train/val/test using Grouped Shuffle Split (patient-level integrity)
+    split_result = grouped_shuffle_split(dataset, train_ratio=0.7, val_ratio=0.15, test_ratio=0.15, seed=42)
     dataset = {
-        'train': dataset['train'],
-        'validation': val_test['train'],
-        'test': val_test['test']
+        'train': split_result['train'],
+        'validation': split_result['validation'],
+        'test': split_result['test']
     }
-    print(f"{len(dataset['train'])} Training samples")
-    print(f"{len(dataset['validation'])} Validation samples")
-    print(f"{len(dataset['test'])} Test samples")
 
     # -------------------------------------------------------------------------
     # 5. Training 

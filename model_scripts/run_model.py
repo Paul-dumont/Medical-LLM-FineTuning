@@ -7,6 +7,7 @@ from pathlib import Path
 from datasets import load_dataset
 from unsloth import FastLanguageModel
 from tqdm import tqdm
+from utils import grouped_shuffle_split
 
 
 def main(table_number: int, mode: str, eval_set: str = "test"):
@@ -59,17 +60,11 @@ def main(table_number: int, mode: str, eval_set: str = "test"):
     dataset = load_dataset("json", data_files=json_path, split="train")
 
     # Apply same 70/15/15 split as training
-    dataset = dataset.train_test_split(test_size=0.3, seed=42)
-    val_test = dataset['test'].train_test_split(test_size=0.5, seed=42)
-    splits = {
-        'train': dataset['train'],
-        'validation': val_test['train'],
-        'test': val_test['test']
-    }
+    dataset = grouped_shuffle_split(dataset, train_ratio=0.7, val_ratio=0.15, test_ratio=0.15, seed=42)
 
-    generation_dataset = splits[eval_set]
+    generation_dataset = dataset[eval_set]
     print(f"Evaluating on {eval_set.upper()} set: {len(generation_dataset)} notes")
-    print(f"  Train: {len(splits['train'])} | Validation: {len(splits['validation'])} | Test: {len(splits['test'])}")
+    print(f"  Train: {len(dataset['train'])} | Validation: {len(dataset['validation'])} | Test: {len(dataset['test'])}")
 
     # -------------------------------------------------------------------------
     # 3. Generation 
