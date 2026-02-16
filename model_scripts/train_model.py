@@ -58,9 +58,9 @@ def main(table_number: int, mode: str):
     # -------------------------------------------------------------------------
     model = FastLanguageModel.get_peft_model(
         model,
-        r = 64,
+        r = 32,
         target_modules = ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
-        lora_alpha = 32,
+        lora_alpha = 64,
         lora_dropout = 0,
         bias = "none",
         use_gradient_checkpointing = "unsloth",
@@ -119,16 +119,16 @@ def main(table_number: int, mode: str):
         packing = False,
         
         args = TrainingArguments(
-            per_device_train_batch_size = 4,  # Reduced from 16
-            per_device_eval_batch_size = 4,   # Reduced from 16
-            gradient_accumulation_steps = 4,  # Increased from 1 to compensate
+            per_device_train_batch_size = 4,
+            per_device_eval_batch_size = 4,
+            gradient_accumulation_steps = 2,
             learning_rate = 2e-4,
             fp16 = False,
             bf16 = True,
             optim = "adamw_8bit",
 
             num_train_epochs = 3,
-            warmup_steps = 5,
+            warmup_ratio = 0.148,
             
             logging_steps = 1,
             report_to = "wandb",
@@ -146,8 +146,8 @@ def main(table_number: int, mode: str):
 
             output_dir = output_dir,
             overwrite_output_dir = True,  
-            weight_decay = 0.01,
-            lr_scheduler_type = "linear",
+            weight_decay = 0.02,
+            lr_scheduler_type = "cosine",
             seed = 3407,    
         ),
     )
@@ -183,4 +183,4 @@ def main(table_number: int, mode: str):
 
 
 if __name__ == "__main__":
-    main(table_number=4, mode="without_cot")
+    main(table_number=3, mode="no_prompt")

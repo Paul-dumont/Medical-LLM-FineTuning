@@ -142,12 +142,12 @@ class HyperparameterOptimizer:
             # Number of epochs
             num_epochs = trial.suggest_categorical("num_epochs", [3, 5])
             
-            # Fixed from Phase 1
-            grad_accum = 4  # Keep current
-            lora_r = 64     # Keep current
-            warmup_ratio = 0.05  # Keep current
-            lr_scheduler = "linear"  # Keep current
-            weight_decay = 0.01  # Keep current
+            # Fixed from best results
+            grad_accum = 2  # Optimized
+            lora_r = 32     # Optimized
+            warmup_ratio = 0.148  # Optimized
+            lr_scheduler = "cosine"  # Optimized
+            weight_decay = 0.02  # Optimized
             
         else:  # phase == 2
             # ═══════════════════════════════════════════════════════════════
@@ -258,7 +258,7 @@ class HyperparameterOptimizer:
                     optim="adamw_8bit",
                     
                     num_train_epochs=num_epochs,
-                    warmup_steps=warmup_steps,
+                    warmup_ratio=warmup_ratio,
                     
                     logging_steps=max(1, total_steps // 20),
                     report_to="none",

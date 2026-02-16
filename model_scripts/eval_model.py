@@ -407,4 +407,4 @@ def main(table_number: int, mode: str):
 
 
 if __name__ == "__main__":
-    main(table_number=4, mode="without_cot")
+    main(table_number=3, mode="no_prompt")

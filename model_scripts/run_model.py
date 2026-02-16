@@ -164,5 +164,4 @@ def main(table_number: int, mode: str, eval_set: str = "test"):
 
 
 if __name__ == "__main__":
-    main(table_number=4
-         , mode="without_cot", eval_set="test")
+    main(table_number=3, mode="no_prompt", eval_set="test")
