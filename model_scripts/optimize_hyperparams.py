@@ -16,6 +16,10 @@ from transformers import TrainingArguments
 import wandb
 import shutil
 from typing import Dict, Any
+import sys
+
+# Add model_scripts to path so we can import utils
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from utils import grouped_shuffle_split
 
 

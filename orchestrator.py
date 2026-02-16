@@ -13,8 +13,8 @@ from model_scripts.eval_model import main as eval_main
 # CONFIGURATION - Modifier ici pour changer ce qui s'exécute
 # ============================================================================
 MODES = ["no_prompt", "with_cot", "without_cot"]  # Modes à exécuter
-TABLES = [1, 2, 3, 4]                              # Tables à exécuter
-PIPELINE_STEPS = ["eval"]                           # Seulement eval
+TABLES = [4]                              # Tables à exécuter
+PIPELINE_STEPS = ["train", "run", "eval"]         # Train → Run → Eval
 # ============================================================================
 
 def main():

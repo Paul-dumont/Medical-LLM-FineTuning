@@ -7,6 +7,10 @@ from transformers import TrainingArguments
 import wandb
 from pathlib import Path
 import shutil
+import sys
+
+# Add model_scripts to path so we can import utils
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 from utils import grouped_shuffle_split
 
 
@@ -179,4 +183,4 @@ def main(table_number: int, mode: str):
 
 
 if __name__ == "__main__":
-    main(table_number=1, mode="no_prompt")
+    main(table_number=4, mode="without_cot")
