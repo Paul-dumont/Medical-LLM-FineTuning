@@ -6,21 +6,28 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-def main(table_number: int, mode: str):
+def main(table_number: int, mode: str, model_type: str = "phi"):
     """
     Main function for evaluating model predictions.
     
     Args:
         table_number: Table number (1-4)
         mode: Training mode (no_prompt, with_cot, without_cot, tmj, dry_run)
+        model_type: Model to evaluate ("phi" or "llama")
     """
     print("-" * 95)
-    print(f" {mode}, Table {table_number}")
+    print(f" {mode}, Table {table_number}, Model: {model_type}")
     print("-" * 95)
 
     # --- Configuration ---
     project_root = Path(__file__).resolve().parents[1]
-    json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_{mode}{table_number}.jsonl"
+    
+    # Determine input file based on model type
+    if model_type == "llama":
+        json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_llama_{mode}{table_number}.jsonl"
+    else:
+        json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_{mode}{table_number}.jsonl"
+    
     results_dir = project_root / "data" / "5_results" / f"{mode}"
     results_dir.mkdir(parents=True, exist_ok=True)
 
@@ -341,8 +348,11 @@ def main(table_number: int, mode: str):
     # --- 6. SAVE RESULTS ---
     print("\n💾 Saving results...")
 
-    # Create base filename
-    base_filename = f"result_{mode}_{table_number}"
+    # Create base filename based on model type
+    if model_type == "llama":
+        base_filename = f"result_llama_{mode}_{table_number}"
+    else:
+        base_filename = f"result_{mode}_{table_number}"
 
     # Save XLSX (Excel format)
     xlsx_file = results_dir / f"{base_filename}.xlsx"
@@ -402,9 +412,9 @@ def main(table_number: int, mode: str):
     print(f"\n✅ Results saved to: {results_dir}\n")
 
     print("-" * 95)
-    print(f" {mode}, Table {table_number}")
+    print(f" {mode}, Table {table_number}, Model: {model_type}")
     print("-" * 95)
 
 
 if __name__ == "__main__":
-    main(table_number=3, mode="no_prompt")
+    main(table_number=4, mode="no_prompt", model_type="llama")

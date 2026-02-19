@@ -1,4 +1,6 @@
 import json
+import time
+import statistics
 from datasets import load_dataset
 from unsloth import FastLanguageModel
 import torch
@@ -14,16 +16,17 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from utils import grouped_shuffle_split
 
 
-def main(table_number: int, mode: str):
+def main(table_number: int, mode: str, model_type: str = "phi"):
     """
     Main function for training the model.
     
     Args:
         table_number: Table number (1-4)
         mode: Training mode (no_prompt, with_cot, without_cot, tmj, dry_run)
+        model_type: Model to use ("phi" or "llama")
     """
     print("-" * 95)
-    print(f" {mode}, Table {table_number}")
+    print(f" {mode}, Table {table_number}, Model: {model_type}")
     print("-" * 95)
 
     # Determine max_seq_length based on mode
@@ -31,6 +34,20 @@ def main(table_number: int, mode: str):
         max_seq_length = 6144
     else:
         max_seq_length = 2048
+
+    # Model configuration
+    model_configs = {
+        "phi": {
+            "model_name": "unsloth/Phi-3.5-mini-instruct",
+            "target_modules": ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
+        },
+        "llama": {
+            "model_name": "unsloth/Meta-Llama-3.1-8B-Instruct",
+            "target_modules": ["q_proj", "k_proj", "v_proj", "o_proj", "up_proj", "down_proj"],
+        }
+    }
+    
+    config = model_configs[model_type]
 
     # -------------------------------------------------------------------------
     # 1. Path Configuration
@@ -40,14 +57,14 @@ def main(table_number: int, mode: str):
 
     json_path = str(project_root/"data"/"2_input_model"/f"{mode}"/f"training_data_{mode}{table_number}.jsonl")
     output_dir = str(project_root / "model")
-    run_name = f"Phi-3.5-mini-instruct_{mode}{table_number}"
+    run_name = f"{config['model_name'].split('/')[-1]}_{mode}{table_number}"
 
     # -------------------------------------------------------------------------
     # 2. Load Model
     # -------------------------------------------------------------------------
     print("Load Model...")
     model, tokenizer = FastLanguageModel.from_pretrained(
-        model_name= "unsloth/Phi-3.5-mini-instruct",
+        model_name=config["model_name"],
         max_seq_length = max_seq_length,
         dtype = None,
         load_in_4bit = False,
@@ -59,7 +76,7 @@ def main(table_number: int, mode: str):
     model = FastLanguageModel.get_peft_model(
         model,
         r = 32,
-        target_modules = ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
+        target_modules = config["target_modules"],
         lora_alpha = 64,
         lora_dropout = 0,
         bias = "none",
@@ -99,7 +116,12 @@ def main(table_number: int, mode: str):
     # -------------------------------------------------------------------------
     # 5. Training 
     # -------------------------------------------------------------------------
-    response_template = "<|assistant|>\n"
+    # Adapt response template based on model
+    if model_type == "phi":
+        response_template = "<|assistant|>\n"
+    else:  # llama
+        response_template = "<|start_header_id|>assistant<|end_header_id|>\n\n"
+    
     collator = DataCollatorForCompletionOnlyLM(
         response_template=response_template, 
         tokenizer=tokenizer
@@ -153,7 +175,80 @@ def main(table_number: int, mode: str):
     )
 
     # Training 
+    # Warm GPU sync then time the full training run (includes all epochs)
+    if torch.cuda.is_available():
+        torch.cuda.synchronize()
+    train_t0 = time.perf_counter()
     trainer_stats = trainer.train()
+    if torch.cuda.is_available():
+        torch.cuda.synchronize()
+    train_t1 = time.perf_counter()
+
+    total_train_time = train_t1 - train_t0
+    # Calculate approximate time per note (across all epochs)
+    num_train_notes = len(dataset['train'])
+    num_epochs = getattr(trainer.args, 'num_train_epochs', 1)
+    processed_notes = num_train_notes * num_epochs if num_train_notes > 0 else 0
+
+    # Throughput (samples/sec)
+    throughput = (processed_notes / total_train_time) if (processed_notes > 0 and total_train_time > 0) else None
+
+    # Convergence info (epochs and global steps when available)
+    global_steps = None
+    try:
+        global_steps = getattr(trainer.state, 'global_step', None)
+    except Exception:
+        global_steps = None
+
+    # VRAM / peak GPU memory
+    vram_str = "Unavailable"
+    devices = None
+    gpu_name = None
+    try:
+        if torch.cuda.is_available():
+            devices = torch.cuda.device_count()
+            gpu_name = torch.cuda.get_device_name(0)
+            peak = None
+            try:
+                peak = torch.cuda.max_memory_reserved()
+            except Exception:
+                try:
+                    peak = torch.cuda.max_memory_allocated()
+                except Exception:
+                    peak = None
+            if peak:
+                vram_str = f"{peak/1024**3:.2f} GB VRAM on {devices}x {gpu_name}"
+            else:
+                vram_str = f"GPU present ({devices}x {gpu_name}), peak memory unavailable"
+        else:
+            vram_str = "CPU only"
+    except Exception:
+        vram_str = "Unavailable"
+
+    # Training time string (display in minutes)
+    minutes = total_train_time / 60.0
+    if torch.cuda.is_available() and devices is not None and gpu_name is not None:
+        train_time_str = f"{minutes:.2f} minutes on {devices}x {gpu_name}"
+    else:
+        train_time_str = f"{minutes:.2f} minutes on CPU"
+
+    # Print only the four requested metrics (French labels)
+    if throughput is not None:
+        throughput_str = f"{throughput:.3f} samples/s"
+    else:
+        throughput_str = "indisponible"
+
+    if global_steps is not None:
+        convergence_str = f"Epochs: {num_epochs}, Global steps: {global_steps}"
+    else:
+        convergence_str = f"Epochs: {num_epochs}"
+
+    print("-" * 95)
+    print(f"Training Time (Temps total) : {train_time_str}")
+    print(f"Vitesse d'apprentissage (Throughput) : {throughput_str}")
+    print(f"Convergence Speed : {convergence_str}")
+    print(f"VRAM Usage : {vram_str}")
+    print("-" * 95)
 
     # -------------------------------------------------------------------------
     # 6. Save 
@@ -178,9 +273,9 @@ def main(table_number: int, mode: str):
     print("Success")
 
     print("-" * 95)
-    print(f" {mode}, Table {table_number}")
+    print(f" {mode}, Table {table_number}, Model: {model_type}")
     print("-" * 95)
 
 
 if __name__ == "__main__":
-    main(table_number=3, mode="no_prompt")
+    main(table_number=4, mode="no_prompt", model_type="llama")

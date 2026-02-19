@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "mode": "no_prompt",
+    "table": 1,
+    "eval_set": "test",
+    "num_samples": 50,
+    "device": "cuda"
+  },
+  "models": {
+    "phi": {
+      "model_path": "/media/luciacev/Data/Medical-LLM-FineTuning/model/Phi-3.5-mini-instruct_no_prompt1",
+      "stats": {
+        "num_samples": 50,
+        "total_time_s": 77.81029603781644,
+        "avg_time_s": 1.5562059207563288,
+        "median_time_s": 1.5718217290122993,
+        "p90_time_s": 2.822915617446415,
+        "samples_per_s": 0.6425884818083663
+      }
+    },
+    "llama": {
+      "model_path": "/media/luciacev/Data/Medical-LLM-FineTuning/model/Meta-Llama-3.1-8B-Instruct_no_prompt1",
+      "stats": {
+        "num_samples": 50,
+        "total_time_s": 110.21364906220697,
+        "avg_time_s": 2.2042729812441393,
+        "median_time_s": 1.8423218950047158,
+        "p90_time_s": 4.351020314812194,
+        "samples_per_s": 0.453664318579806
+      }
+    }
+  }
+}
