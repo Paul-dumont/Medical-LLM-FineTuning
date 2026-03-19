@@ -1,0 +1,20 @@
+patient_id: B1453
+patient_age: 47
+maximum_opening: 50 mm
+diet_score: 5
+sleep_apnea_diagnosed: true
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+jaw_clicking: right tmj | left tmj
+current_appliance: orthodontics
+headache_intensity: 0
+pain_onset_date: 47 years old
+tmj_pain_rating: 0
+sleep_disorder_type: sleep apnea | snoring | somnolence
+current_medications: clarinex
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

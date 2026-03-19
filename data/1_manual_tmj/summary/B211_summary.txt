@@ -1,0 +1,23 @@
+patient_id: B211
+patient_age: 16
+maximum_opening: 52mm
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite | anterior open bite | right posterior crossbite
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 2 times per month
+headache_location: frontal | top of the head
+current_appliance: orthodontics started 9 months ago
+average_daily_pain_intensity: 0
+headache_intensity: 7
+tmj_pain_rating: 0
+current_medications: none
+disc_displacement: left disc anterior displacement | right disc anterior displacement with probable reduction | left disc anterior displacement
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics at age 10 with headgear for 3 years
+joint_pain_areas: none

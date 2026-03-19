@@ -1,0 +1,4 @@
+patient_id: B741
+patient_age: 7
+airway_obstruction_present: true
+current_medications: ritalin

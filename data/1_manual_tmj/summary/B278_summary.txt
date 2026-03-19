@@ -1,0 +1,13 @@
+patient_id: B278
+patient_age: 19
+maximum_opening: 55mm
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: true
+muscle_pain_score: moderate
+current_appliance: orthodontic appliances on for the third time this year
+current_medications: glucophage | yasmin
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction | left disc possible medial displacement
+muscle_pain_location: masseter | styloid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 8 to 10 | orthodontics from 6 to 7
+joint_pain_areas: tmj | left tmj | right tmj

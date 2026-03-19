@@ -1,0 +1,28 @@
+patient_id: B1035
+maximum_opening_without_pain: 15 mm
+patient_age: 15
+maximum_opening: 23 mm
+diet_score: 9
+disability_rating: 6
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: physical therapy
+physical_therapy_status: physical therapy
+earache_present: false
+adverse_reactions: augmentin | banana | avocado | pecan
+jaw_locking: true
+headache_frequency: daily
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: high 
+headache_location: frontal | temporal
+average_daily_pain_intensity: 6
+headache_intensity: 4
+pain_onset_date: 15 years of age
+tmj_pain_rating: 8
+current_medications: Tylenol | Zyrtec | Advair | Singulair | Albuterol  
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | scm | neck | styloid  
+appliance_history: orthodontics | splint
+joint_pain_areas: ankles | hips

@@ -1,0 +1,21 @@
+patient_id: B514
+patient_age: 18
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: false
+pain_aggravating_factors: right posterior crossbite tendency
+physical_therapy_status: chiropractic
+earache_present: false
+adverse_reactions: pollen | dust | smoke
+airway_obstruction_present: false
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+current_appliance: 3 x 3 retainer in the lower arch
+headache_intensity: present
+sleep_disorder_type: daytime somnolence
+current_medications: prilosec | zyrtec d | accolate | detrol la | amitriptyline | metoclopramide | maxalt | albuterol
+disc_displacement: left disc dislocation anteriorly and medially possibly non-reducing | right disc dislocation posteriorly | left disc dislocation medially with reduction | right disc dislocation medially with reduction
+muscle_pain_location: shoulders
+joint_arthritis_location: left tmj | right tmj | right tmj
+appliance_history: orthodontic treatment from the age of 11 to 13

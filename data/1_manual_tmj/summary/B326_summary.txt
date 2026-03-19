@@ -1,0 +1,29 @@
+patient_id: B326
+maximum_opening_without_pain: 18 mm
+patient_age: 42
+maximum_opening: 26 mm
+pain_relieving_factors: injection of o=local anesthetics or steroids to left tmj
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+adverse_reactions: mosquitos | nickel
+airway_obstruction_present: true
+headache_frequency: once a month
+muscle_pain_score: 10 at temporalis | 5 at masseters
+headache_location: temporal
+average_daily_pain_intensity: 3
+headache_intensity: 8
+pain_onset_date: the third or fourth grade
+tmj_pain_rating: 3 can exacerbate to 10 | 6 | severe
+sleep_disorder_type: daytime somnolence
+current_medications: orthocept | vioxx | hydrocodone | multivitamins | extra vitamin e and vitamin c
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation without reduction | left disc dislocation without reduction | right disc dislocation without reduction | right disc anterior displacement without reduction
+muscle_pain_location: temporalis | masseters
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: orthodontics from 5 years ago to 2 years ago
+joint_pain_areas: tmj | left tmj | right tmj

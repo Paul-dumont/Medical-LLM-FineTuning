@@ -1,0 +1,22 @@
+patient_id: B381
+maximum_opening_without_pain: 34mm
+patient_age: 20
+maximum_opening: 42mm
+diet_score: 7
+disability_rating: 7
+sleep_apnea_diagnosed: false
+jaw_function_score: 8
+pain_aggravating_factors: clenching | bruxism
+jaw_locking: true
+headache_frequency: every other day
+headache_location: temporal
+average_daily_pain_intensity: 8
+headache_intensity: 6 | present
+autoimmune_condition: hashimoto's disease
+pain_onset_date: 15 years old
+tmj_pain_rating: 8
+sleep_disorder_type: daytime somnolence
+current_medications: femcon | lexapro | levothyroxine | singulair | zyrtec | minocycline
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction joint_pain_areas: tmj | left disc dislocation without reduction | right disc dislocation without reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics x2 with the first time being from about the age 12 to 14 and the second time from approximately the age of 15 to 16

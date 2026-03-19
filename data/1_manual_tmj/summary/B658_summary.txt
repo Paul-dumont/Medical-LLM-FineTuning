@@ -1,0 +1,21 @@
+1.patient_id: B659
+2.maximum_opening_without_pain: 21 mm 
+3.patient_age: 14
+4.maximum_opening: 41 mm 
+6.diet_score: 4 
+8.disability_rating: 6
+11.tinnitus_present: True
+12.vertigo_present: True
+18.earache_present: True
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+28.jaw_clicking: Left TMJ | Rigth TMJ
+30.muscle_pain_score: Moderate 
+32.headache_location: Frontal | Temporal 
+34.average_daily_pain_intensity: 4
+35.headache_intensity: 7
+39.tmj_pain_rating: 8
+40.sleep_disorder_type: Snoring 
+41.current_medications: None
+43.muscle_pain_location: Retromandibular | Masseter | Temporalis
+45.appliance_history: Splint | Orthodontic

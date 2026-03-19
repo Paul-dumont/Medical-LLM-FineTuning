@@ -1,0 +1,27 @@
+1.patient_id: B554
+2.maximum_opening_without_pain: 19 mm
+3.patient_age: 18
+4.maximum_opening: 29 mm
+6.diet_score: 5
+8.disability_rating: 5
+10.jaw_function_score: 7
+11.tinnitus_present: False
+12.vertigo_present: True
+13.hearing_loss_present: False
+17.physical_therapy_status: physical therapy
+18.earache_present: False
+23.airway_obstruction_present: True 
+25.headache_frequency: 3x a Week
+26.pain_frequency: Daily
+27.muscle_symptoms_present: True
+28.jaw_clicking: True
+32.headache_location: Frontal | Temporal
+34.average_daily_pain_intensity: 8
+35.headache_intensity: 4
+37.pain_onset_date: 12 years of age
+39.tmj_pain_rating: 9
+41.current_medications:  Estrostep Fe
+42.disc_displacement: Left TMJ | Rigth TMJ
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Orthodontic | Splint
+46.joint_pain_areas: Left TMJ | Rigth TMJ

@@ -1,0 +1,23 @@
+patient_id: B1411
+maximum_opening_without_pain: 33 mm
+patient_age: 29
+maximum_opening: 45 mm
+diet_score: 1
+disability_rating: 2
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+earache_present: true
+adverse_reactions: earrings | penicillin
+headache_frequency: daily
+muscle_symptoms_present: true
+headache_location: temporal
+current_appliance: splint
+average_daily_pain_intensity: 7
+headache_intensity: 8
+tmj_pain_rating: 5
+current_medications: birth control | Serofem | advil
+muscle_pain_location: shoulders | neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint

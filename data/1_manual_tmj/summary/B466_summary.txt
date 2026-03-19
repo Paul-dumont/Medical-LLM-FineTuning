@@ -1,0 +1,21 @@
+patient_id: B466
+patient_age: 41
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+muscle_symptoms_present: false
+jaw_clicking: right tmj
+current_appliance: orthodontic appliances on for the second time since last year
+headache_intensity: 0
+pain_onset_date: 23 years ago
+jaw_crepitus: left tmj
+tmj_pain_rating: 0
+current_medications: singulair | advair | vitamins
+disc_displacement: left disc anterior and lateral displacement without reduction | left disc desiccation without reduction | left disc dislocation without reduction
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: night guards 18 years ago | night guards 7 years ago | orthodontics from the age of 13 to 15

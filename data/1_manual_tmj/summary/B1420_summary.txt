@@ -1,0 +1,24 @@
+patient_id: B1420
+patient_age: 20
+maximum_opening: 61mm
+diet_score: 0
+disability_rating: 2
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: 2 a week
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: moderate
+headache_location: posterior head | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 4
+pain_onset_date: 19 years of age
+tmj_pain_rating: 4
+current_medications: none
+muscle_pain_location: masseter 
+joint_pain_areas: tmj | knees

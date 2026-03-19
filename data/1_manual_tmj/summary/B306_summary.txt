@@ -1,0 +1,25 @@
+patient_id: B306
+patient_age: 17
+maximum_opening: 65mm
+diet_score: 1
+disability_rating: 3
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: left posterior crossbite tendency | anterior open bite
+earache_present: false
+adverse_reactions: pollen
+airway_obstruction_present: false
+headache_frequency: occasional | once every two weeks
+muscle_symptoms_present: false
+headache_location: temporal area
+current_appliance: orthodontics since a week ago
+average_daily_pain_intensity: 3
+headache_intensity: 3
+pain_onset_date: two years ago
+jaw_crepitus: left tmj
+tmj_pain_rating: 0
+current_medications: none
+disc_displacement: left disc anterior displacement with early reduction | left disc dislocation | left disc medial and anterior displacement with reduction | right disc anterior displacement
+joint_arthritis_location: left tmj | right tmj

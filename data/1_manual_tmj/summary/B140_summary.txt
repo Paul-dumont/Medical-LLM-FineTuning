@@ -1,0 +1,24 @@
+patient_id: B140
+patient_age: 28
+maximum_opening: 43mm
+diet_score: 3
+disability_rating: 4
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite
+earache_present: false
+onset_triggers: tonsillectomy
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+average_daily_pain_intensity: 0
+headache_intensity: 0
+autoimmune_condition: connective tissue autoimmune diseaseappliance_history: orthodontics clear aligner therapy ended 3 months ago | detected hla-b27 | rheumatoid arthritis
+pain_onset_date: 5 years ago
+tmj_pain_rating: 2
+disc_displacement: left disc displacement | right disc displacement
+muscle_pain_location: masseters
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: right tmj | left tmj

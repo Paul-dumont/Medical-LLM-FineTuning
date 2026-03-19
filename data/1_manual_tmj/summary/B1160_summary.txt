@@ -1,0 +1,25 @@
+patient_id: B1160
+patient_age: 20
+diet_score: 4
+disability_rating: 5
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+depression_present: true
+headache_frequency: continuous
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 6
+headache_intensity: 7
+pain_onset_date: 13 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 4
+current_medications: Advil | Tylenol
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: temporalis | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splints
+joint_pain_areas: knees | hips | shoulders

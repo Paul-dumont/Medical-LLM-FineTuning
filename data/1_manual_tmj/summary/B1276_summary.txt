@@ -1,0 +1,22 @@
+patient_id: B1276
+patient_age: 34
+maximum_opening: 13 mm
+pain_relieving_factors: splint
+diet_score: 9
+disability_rating: 8
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+headache_frequency: daily
+muscle_symptoms_present: true
+muscle_pain_score: severe
+migraine_history: true
+headache_location: behind the eyes
+average_daily_pain_intensity: 6
+headache_intensity: 9
+tmj_pain_rating: 9
+current_medications: Neurontin | Fluoxetine | Lortab | Amitriptyline | Valium
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: nigth guard | splints

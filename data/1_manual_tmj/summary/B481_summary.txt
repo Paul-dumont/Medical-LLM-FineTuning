@@ -1,0 +1,27 @@
+patient_id: B481
+patient_age: 54
+maximum_opening: 57mm
+pain_relieving_factors: discontinuance of splint
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+pain_aggravating_factors: clenching | bruxism | splint
+earache_present: true
+onset_triggers: traction for a neck injury
+adverse_reactions: demerol | pollen | cats | dust | sycamore | timothy
+airway_obstruction_present: false
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+average_daily_pain_intensity: 6
+headache_intensity: 0
+pain_onset_date: 18 years ago but real problem began 8 years ago
+tmj_pain_rating: 0
+current_medications: actonel | synthroid | neurontin | nortriptyline | neurotin | nortriptyline
+disc_displacement: left disc dislocation in medial direction | left disc displaced medially
+muscle_pain_location: left medial pterygoid | left scm
+joint_arthritis_location: left tmj
+appliance_history: splint 7 to 2 years ago
+joint_pain_areas: cervical vertebrae | thumbs | left hip

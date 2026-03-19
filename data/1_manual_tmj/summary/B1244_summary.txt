@@ -1,0 +1,19 @@
+patient_id: B1244
+patient_age: 29
+maximum_opening: 40mm
+diet_score: 3
+disability_rating: 2
+jaw_function_score: 3
+neck_pain_present: false
+jaw_locking: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | rigth tmj
+muscle_pain_score: mild
+headache_location: frontal
+headache_intensity: 0
+pain_onset_date: 29 years old
+tmj_pain_rating: 2
+disc_displacement: left disc dislocation
+muscle_pain_location: styloid 
+joint_arthritis_location: left tmj
+appliance_history: orthodontics | splint

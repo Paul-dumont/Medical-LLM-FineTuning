@@ -1,0 +1,18 @@
+patient_id: B537
+patient_age: 35
+maximum_opening: 33mm
+diet_score: 8
+disability_rating: 5
+sleep_apnea_diagnosed: False
+jaw_function_score: 2 
+tinnitus_present:False 
+vertigo_present: False
+hearing_loss_present: False
+neck_pain_present: False
+earache_present: False
+onset_triggers: Motor Vehicle
+average_daily_pain_intensity: 0
+headache_intensity: 0
+tmj_pain_rating: 2
+current_medications: Paxil 20mg
+joint_pain_areas: Knee

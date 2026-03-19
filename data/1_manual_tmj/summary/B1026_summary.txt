@@ -1,0 +1,21 @@
+patient_id: B1026
+patient_age: 19
+maximum_opening: 55mm
+diet_score: 4
+disability_rating: 5
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 8
+headache_intensity: 6.5
+pain_onset_date: 19 years old
+tmj_pain_rating: 0
+current_medications: adderall
+muscle_pain_location: masseter | styloid 
+appliance_history: orthodontics

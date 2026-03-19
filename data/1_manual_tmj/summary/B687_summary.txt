@@ -1,0 +1,19 @@
+1.patient_id: B687
+3.patient_age: 56
+4.maximum_opening: 42 mm 
+6.diet_score: 7
+8.disability_rating: 4
+10.jaw_function_score: 6
+11.tinnitus_present: TRue
+12.vertigo_present: False
+13.hearing_loss_present: False
+15.neck_pain_present: False
+18.earache_present: False
+23.airway_obstruction_present: True 
+35.headache_intensity: 0
+38.jaw_crepitus: Left TMJ | Rigth TMJ 
+39.tmj_pain_rating: 6
+41.current_medications:  Estrogen | progesterone | Adderall | dhea | vitamins
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Splints | Orthodontics
+46.joint_pain_areas: Hands | Knees

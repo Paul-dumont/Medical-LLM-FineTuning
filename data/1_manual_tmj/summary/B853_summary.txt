@@ -1,0 +1,4 @@
+patient_id: B853
+patient_age: 56
+headache_location: frontal
+appliance_history: orthodontics

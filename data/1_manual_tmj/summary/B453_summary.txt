@@ -1,0 +1,15 @@
+patient_id: B453
+patient_age: 10
+maximum_opening: 35mm | 43mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: left posterior cross bite | right posterior cross bite | left posterior cross bite | right posterior cross bite tendency | anterior open bite | left posterior cross bite | right posterior cross bite | anterior open bite
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: left disc medial and perhaps anteriorly displaced | right disc medial and perhaps anteriorly displaced
+muscle_pain_location: posterior retromandibular area
+appliance_history: orthodontics for about 2 year

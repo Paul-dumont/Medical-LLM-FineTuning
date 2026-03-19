@@ -1,0 +1,25 @@
+patient_id: B491
+maximum_opening_without_pain: 18mm
+patient_age: 14
+maximum_opening: 42mm
+diet_score: 2
+disability_rating: 3 | 8 relative to playing sports
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: eating | exercise
+physical_therapy_status: acupressure treatment
+earache_present: false
+onset_triggers: 4-wheeler accident sustaining a left subcondylar fracture of the mandible
+pain_frequency: gets worse in about mid afternoon | jaws are always achy and sore even when she wakes up in the morning and gets worse in the afternoon after lunch
+muscle_pain_score: moderate
+current_appliance: splint
+average_daily_pain_intensity: 6 but can escalate to 9
+headache_intensity: 0
+pain_onset_date: last year
+tmj_pain_rating: 6 but can escalate to 9
+current_medications: fish oil | folic acid | cilantro | aleve | zanaflex | spironolactone | doxycycline | topical mask wash
+muscle_pain_location: masseters | right retromandibular area | left retromandibular area
+appliance_history: orthodontics in the third grade and seventh grade | orthodontics following the accident beginning last year
+joint_pain_areas: left tmj | right tmj | right tmj

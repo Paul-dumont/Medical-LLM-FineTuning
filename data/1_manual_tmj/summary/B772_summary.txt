@@ -1,0 +1,21 @@
+patient_id: B772
+patient_age: 18
+maximum_opening: 47mm
+diet_score: 3
+disability_rating: 2
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_symptoms_present: yes
+jaw_clicking: right tmj | left tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal
+average_daily_pain_intensity: 4
+headache_intensity: 6
+pain_onset_date: 18 years old
+tmj_pain_rating: 5
+muscle_pain_location:  styloid areas
+joint_pain_areas: ankles | knees

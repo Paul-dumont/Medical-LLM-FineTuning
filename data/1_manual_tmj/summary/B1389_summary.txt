@@ -1,0 +1,11 @@
+patient_id: B1389
+patient_age: 12
+maximum_opening: 40 mm
+neck_pain_present: false
+airway_obstruction_present: true
+muscle_pain_score: moderate
+headache_location: frontal
+sleep_disorder_type: somnolence | snoring
+current_medications: Ritalin | Risperdal | Gavnipince
+muscle_pain_location: neck
+appliance_history: orthodontics

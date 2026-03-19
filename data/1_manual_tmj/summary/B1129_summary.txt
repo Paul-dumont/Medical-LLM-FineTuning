@@ -1,0 +1,24 @@
+patient_id: B1129
+patient_age: 16
+diet_score: 7
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: clenching
+physical_therapy_status: physical therapy
+earache_present: true
+adverse_reactions: sulfa oral medications
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 8
+pain_onset_date: 16 years old
+tmj_pain_rating: 3
+sleep_disorder_type: snoring | insomnia
+current_medications: day | minocycline | times | two
+muscle_pain_location: temporalis | masseter | masseters | scm | shoulders | neck | styloid areas | posterior neck
+appliance_history: orthodontics
+joint_pain_areas: tmj | wrists

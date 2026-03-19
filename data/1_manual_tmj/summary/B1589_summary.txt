@@ -1,0 +1,27 @@
+patient_id: B1589
+maximum_opening_without_pain: 25mm
+patient_age: 26
+maximum_opening: 60 mm
+diet_score: 5
+disability_rating: 4
+sleep_apnea_diagnosed: true
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: high 
+current_appliance: splint
+average_daily_pain_intensity: 5
+headache_intensity: 4
+tmj_pain_rating: 6
+sleep_disorder_type: sleep apnea | snoring | somnolence
+current_medications: Lunesta | Ibuprofen
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint | night guard
+joint_pain_areas: hips | back | hands

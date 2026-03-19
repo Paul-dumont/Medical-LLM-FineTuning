@@ -1,0 +1,26 @@
+patient_id: B722
+maximum_opening_without_pain: 40 mm
+patient_age: 16
+maximum_opening: 52 mm
+pain_relieving_factors: splint
+diet_score: 2
+disability_rating: 2
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: moderate
+average_daily_pain_intensity: 4
+headache_intensity: 0
+pain_onset_date: 12 years of age 
+tmj_pain_rating: 5
+sleep_disorder_type: snoring
+current_medications: prozac
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | shoulders | styloid areas
+appliance_history: orthodontics | splint
+joint_pain_areas: tmj

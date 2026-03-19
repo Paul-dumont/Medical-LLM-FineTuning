@@ -1,0 +1,21 @@
+patient_id: B893
+patient_age: 14
+maximum_opening: 49mm
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+jaw_locking: true
+headache_frequency: occasional
+jaw_clicking: left tmj
+headache_location: frontal
+current_appliance: splint
+average_daily_pain_intensity: 4
+pain_onset_date: 11 years of age
+tmj_pain_rating: 4
+sleep_disorder_type: snoring | somnolence
+current_medications: ortho-cyclen | Advil
+appliance_history: orthodontics | splint
+joint_pain_areas: shoulder

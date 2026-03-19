@@ -1,0 +1,8 @@
+1.patient_id: B614
+3.patient_age: 33
+13.hearing_loss_present: True
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: False
+30.muscle_pain_score: None
+39.tmj_pain_rating: 0
+41.current_medications:  Allegra | Flonase | vitamins | Ibuprofen

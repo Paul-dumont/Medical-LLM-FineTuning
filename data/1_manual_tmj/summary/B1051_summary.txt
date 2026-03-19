@@ -1,0 +1,22 @@
+patient_id: B1051
+patient_age: 13
+maximum_opening: 46mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 4 a day
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+headache_intensity: 5
+pain_onset_date: 2 years ago
+tmj_pain_rating: 2
+current_medications: none
+disc_displacement: left disc dislocation with reduction
+muscle_pain_location: temporalis | masseter | shoulders | 
+joint_pain_areas: knees

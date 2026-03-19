@@ -1,0 +1,11 @@
+patient_id: B132
+patient_age: 66
+maximum_opening: 42mm
+pain_aggravating_factors: clenching | bruxism
+airway_obstruction_present: true
+tmj_pain_rating: 0
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence
+current_medications: dyazide | estradiol | synthroid | trazodone | snoring | sleep apnea | daytime sleepiness
+disc_displacement: left disc anterior medial displacement | right disc anterior and medial displacement | left disc medial displacement | right disc anterior and medial displacement
+joint_arthritis_location: left tmj | right tmj | right tmj
+appliance_history: orthodontics as teenager

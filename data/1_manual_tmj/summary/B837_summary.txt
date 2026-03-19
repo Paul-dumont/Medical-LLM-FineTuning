@@ -1,0 +1,10 @@
+patient_id: B837
+patient_age: 16
+maximum_opening: 65 mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+depression_present: true
+pain_onset_date: 7.5 years of age

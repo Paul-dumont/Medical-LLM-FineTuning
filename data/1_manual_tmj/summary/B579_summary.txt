@@ -1,0 +1,13 @@
+1.patient_id: B579
+3.patient_age: 17
+4.maximum_opening: 55mm
+11.tinnitus_present: Fa;se
+12.vertigo_present: False
+15.neck_pain_present: False
+18.earache_present: False
+28.jaw_clicking: False
+35.headache_intensity: 0
+38.jaw_crepitus: False
+39.tmj_pain_rating: 0
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Orthodontics

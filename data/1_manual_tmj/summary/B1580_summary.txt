@@ -1,0 +1,26 @@
+patient_id: B1580
+patient_age: 40
+maximum_opening: 45mm
+diet_score: 6
+disability_rating: 4
+sleep_apnea_diagnosed: true
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: temporal | top of the head
+current_appliance: orthodontics
+average_daily_pain_intensity: 4
+headache_intensity: 6
+tmj_pain_rating: 5
+sleep_disorder_type: somnolence
+current_medications: Celebrex | Tramadol | Aleve | Fish oil | Flax seed oil 
+disc_displacement: left disc dislocation
+muscle_pain_location: masseter | retromandibular | scm | shoulders | neck 
+joint_arthritis_location: left tmj 
+appliance_history: orthodontics
+joint_pain_areas: elbows | wrists

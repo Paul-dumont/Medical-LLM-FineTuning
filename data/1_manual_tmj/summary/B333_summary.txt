@@ -1,0 +1,26 @@
+patient_id: B333
+maximum_opening_without_pain: 40 mm
+patient_age: 37
+maximum_opening: 53 mm
+diet_score: 4
+disability_rating: 2
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+pain_aggravating_factors: bruxism
+airway_obstruction_present: snoring
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal
+current_appliance: splint therapy for the past 5 years
+average_daily_pain_intensity: 4
+headache_intensity: 2
+pain_onset_date: past year
+tmj_pain_rating: 5
+current_medications: advil | tylenol | none
+disc_displacement: left disc anterior and medial dislocation | right disc anterior and medial dislocation | left disc medial displacement with reduction | right disc medial and anterior displacement with reduction
+muscle_pain_location: styloid area
+joint_arthritis_location: left tmj | right tmj | left tmj | right tmjearache_present: false
+appliance_history: orthodontics | orthodontics from the age of 12 to 14
+joint_pain_areas: tmj | jaws

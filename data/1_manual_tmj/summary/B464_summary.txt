@@ -1,0 +1,29 @@
+patient_id: B464
+maximum_opening_without_pain: 30mm
+patient_age: 55
+maximum_opening: 38mm
+pain_relieving_factors: splint
+diet_score: 5
+disability_rating: 3
+jaw_function_score: 3
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: physical therapy to the neck and shoulders | tens
+onset_triggers: biting into a deli sandwich that her pain really became exacerbated
+jaw_locking: true
+airway_obstruction_present: false
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: robaxin | celebrex
+muscle_pain_score: mild
+headache_location: left frontal | temporal | left-side
+average_daily_pain_intensity: 3
+headache_intensity: 3 | present
+pain_onset_date: at least 10 years but worsened last year
+jaw_crepitus: left tmj
+tmj_pain_rating: 3 but may escalate to 7 to 8
+current_medications: doxycycline | zetia | effexor | niaspan | pravachol | atacand | prempro | asa
+disc_displacement: left disc dislocation | right disc minimal medial displacement
+muscle_pain_location: left styloid area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: left tmj | right tmj

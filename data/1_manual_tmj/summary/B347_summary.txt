@@ -1,0 +1,25 @@
+patient_id: B347
+patient_age: 23
+diet_score: 3
+disability_rating: 0
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism | anterior open bite
+earache_present: false
+adverse_reactions: nickel
+airway_obstruction_present: true
+headache_frequency: once every two weeks
+headache_location: behind the eyes
+current_appliance: splints at night for at least six year
+average_daily_pain_intensity: 2 but 5 without splint
+headache_intensity: 5
+pain_onset_date: around 14 or 15
+jaw_crepitus: right tmj
+tmj_pain_rating: 4
+current_medications: loestrin | concerta | aleve | multivitamins
+disc_displacement: left disc anterior and lateral dislocation with reduction | right disc anterior dislocation without reduction | right disc without reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics in the 3rd grade | orthodontics from 6th to 9th grade
+joint_pain_areas: tmj

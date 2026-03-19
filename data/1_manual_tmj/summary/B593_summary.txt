@@ -1,0 +1,18 @@
+1.patient_id: B593
+3.patient_age: 20
+6.diet_score: 0
+8.disability_rating: 2
+10.jaw_function_score: 9
+11.tinnitus_present: True
+12.vertigo_present: False
+13.hearing_loss_present: True
+14.back_pain_present: True
+15.neck_pain_present: True
+18.earache_present: False
+27.muscle_symptoms_present: True 
+30.muscle_pain_score: 2
+36.autoimmune_condition: 2 years of age
+39.tmj_pain_rating: 0
+41.current_medications:  Synthroid
+43.muscle_pain_location: Neck | Back | Styloid
+46.joint_pain_areas: Back | Ankle

@@ -1,0 +1,23 @@
+patient_id: B1021
+patient_age: 39
+diet_score: 6
+disability_rating: 1
+jaw_function_score: 6
+vertigo_present: true
+pain_aggravating_factors: c
+earache_present: true
+jaw_locking: true
+airway_obstruction_present: true
+depression_present: true
+headache_frequency: 4 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | rigth tmj
+headache_location: frontal | temporal | posterior head | behind eyes
+headache_intensity: 5
+pain_onset_date: 23 years ago
+tmj_pain_rating: 7
+current_medications: Celexa | Prednisone | Enalapril | Aleve
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

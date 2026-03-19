@@ -1,0 +1,29 @@
+1.patient_id: B613
+2.maximum_opening_without_pain: 30 mm
+3.patient_age: 44
+4.maximum_opening: 50 mm 
+6.diet_score: 4
+8.disability_rating: 4
+10.jaw_function_score: 4
+11.tinnitus_present: True
+12.vertigo_present: True
+13.hearing_loss_present: False  
+17.physical_therapy_status: Physical theraphy 
+18.earache_present: False
+20.adverse_reactions: Pollen | Mold
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+30.muscle_pain_score: Moderate
+32.headache_location:  Temporal
+33.current_appliance: Splint
+34.average_daily_pain_intensity: 6
+35.headache_intensity: 4
+37.pain_onset_date: 39 years of age
+39.tmj_pain_rating: 2
+40.sleep_disorder_type: Somnolence
+41.current_medications:  Levothyroxine | Lexapro | Mircette | Claritin 
+42.disc_displacement: Left TMJ | Rigth TMJ 
+43.muscle_pain_location: Temporalis | Masseters | Shoulders | SCMs
+44.joint_arthritis_location: Left TMJ | Rigth TMJ 
+45.appliance_history: Splint
+46.joint_pain_areas: Left TMJ | Rigth TMJ 

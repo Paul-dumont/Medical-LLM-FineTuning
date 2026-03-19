@@ -1,0 +1,13 @@
+1.patient_id: B619
+3.patient_age: 17
+11.tinnitus_present: False
+12.vertigo_present: False
+18.earache_present: False
+23.airway_obstruction_present: True
+28.jaw_clicking: False
+30.muscle_pain_score: None
+35.headache_intensity: 0
+37.pain_onset_date: 12.5
+39.tmj_pain_rating: 0
+42.disc_displacement: Rigth disc dislocation with reduction
+45.appliance_history: Orthodontics

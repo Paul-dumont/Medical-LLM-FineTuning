@@ -1,0 +1,24 @@
+patient_id: B479
+patient_age: 15
+maximum_opening: 43mm
+diet_score: 4
+disability_rating: 2
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+earache_present: false
+jaw_locking: true
+headache_frequency: three times a week
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 4
+headache_intensity: 8 | present
+tmj_pain_rating: 6
+current_medications: advair | albuterol
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction
+muscle_pain_location: shoulders | posterior neck | styloid areas
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | ankles | knees | wrists | hips | shoulders

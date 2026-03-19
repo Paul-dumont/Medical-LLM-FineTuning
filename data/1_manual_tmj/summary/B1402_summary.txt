@@ -1,0 +1,21 @@
+patient_id: B1402
+patient_age: 68
+maximum_opening: 32mm
+diet_score: 5
+disability_rating: 3
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+earache_present: true
+adverse_reactions: cats | dust | cigarette | albuterol | Patanol
+headache_frequency: 4 a month
+muscle_symptoms_present: false
+muscle_pain_score: high 
+headache_location: temporal
+headache_intensity: 5
+tmj_pain_rating: 0
+muscle_pain_location: temporalis | scm | shoulders | neck 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: night guard
+joint_pain_areas: knee | hip | shoulder | elbow | ankles

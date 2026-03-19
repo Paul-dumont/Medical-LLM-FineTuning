@@ -1,0 +1,24 @@
+patient_id: B1048
+patient_age: 41
+maximum_opening: 37mm
+pain_relieving_factors: splint
+diet_score: 0
+disability_rating: 3
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+muscle_symptoms_present: true
+jaw_clicking: left tmj | rigth tmj 
+muscle_pain_score: high 
+headache_location: frontal
+average_daily_pain_intensity: 6
+headache_intensity: 0
+pain_onset_date: 19 years of age
+tmj_pain_rating: 4
+current_medications: none
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: masseter | retromandibular | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint

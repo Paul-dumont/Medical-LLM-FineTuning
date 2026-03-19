@@ -1,0 +1,23 @@
+patient_id: B239
+patient_age: 32
+maximum_opening: 48mm
+diet_score: 0
+disability_rating: 7
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: false
+pain_aggravating_factors: anterior open bite | clenching
+onset_triggers: orthodontics
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: mild
+average_daily_pain_intensity: 4
+headache_intensity: 0
+pain_onset_date: 12 uears of age
+tmj_pain_rating: 5
+current_medications: ibuprofen | vitamins
+disc_displacement: left disc anterior displacement | right disc lateral and anterior displacement | right disc lateral displacement
+muscle_pain_location: right masseter | right medial pterygoid
+joint_arthritis_location: right tmj | right tmjearache_present: false
+appliance_history: orthodontics form 11 to 14 | orthodontics from 14 to 16 with headgear
+joint_pain_areas: tmj

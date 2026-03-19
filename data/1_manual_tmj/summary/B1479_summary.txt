@@ -1,0 +1,22 @@
+patient_id: B1479
+maximum_opening_without_pain: 43mm
+patient_age: 51
+maximum_opening: 45 mm
+diet_score: 2
+disability_rating: 4
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: 4 a week
+muscle_pain_score: mild
+headache_location: frontal | temporal | top of the head
+average_daily_pain_intensity: 5
+headache_intensity: 7
+pain_onset_date: 3 years ago
+tmj_pain_rating: 3
+disc_displacement: left dic dsiplacement with reduction | rigth dic dsiplacement with reduction
+muscle_pain_location: masseter | shoulders 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

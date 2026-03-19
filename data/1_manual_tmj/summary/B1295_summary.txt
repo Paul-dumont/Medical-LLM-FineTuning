@@ -1,0 +1,26 @@
+patient_id: B1295
+patient_age: 46
+maximum_opening: 14mm
+diet_score: 5
+disability_rating: 6
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: splint
+earache_present: true
+adverse_reactions: Vioxx | codeine
+muscle_symptoms_present: true
+muscle_pain_score: severe
+headache_location: frontal
+average_daily_pain_intensity: 3
+headache_intensity: 0
+autoimmune_condition: psoriasis
+pain_onset_date: 13 years ago
+jaw_crepitus: left tmj
+tmj_pain_rating: 19
+current_medications: Daypro | Campath | Tylenol | Glucosamine | chondroitin | MSM
+muscle_pain_location: masseter | scm | left scm
+joint_arthritis_location: left tmj
+appliance_history: splint
+joint_pain_areas: elbows | hips 

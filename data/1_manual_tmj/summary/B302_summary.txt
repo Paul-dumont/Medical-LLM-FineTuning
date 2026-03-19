@@ -1,0 +1,27 @@
+patient_id: B302
+patient_age: 46
+maximum_opening: 63mm
+diet_score: 1
+disability_rating: 2
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: true
+earache_present: false
+adverse_reactions: none
+airway_obstruction_present: true
+headache_frequency: two times per month
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj | right tmj
+muscle_pain_score: mild
+average_daily_pain_intensity: 1
+headache_intensity: present
+jaw_crepitus: right tmj
+tmj_pain_rating: 2
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms | daytime tiredness| snoring | sleep apnea concerns
+current_medications: none
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior dislocation without reduction
+muscle_pain_location: right masseter
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | back | left tmj | right tmj

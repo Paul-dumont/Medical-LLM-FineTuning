@@ -1,0 +1,27 @@
+patient_id: B348
+maximum_opening_without_pain: 18mm
+patient_age: 16
+maximum_opening: 40mm
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+back_pain_present: true
+pain_aggravating_factors: anterior open bite | bruxism | anterior open bite | left posterior crossbite tendency
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: two times per week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: posterior head
+average_daily_pain_intensity: 3
+headache_intensity: 4
+pain_onset_date: three years ago
+tmj_pain_rating: 5 but can escalate up to 8
+current_medications: motrin
+disc_displacement: right disc anterior displacement
+muscle_pain_location: left masseter | left styloid
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: left tmj | lower back | hip joints

@@ -1,0 +1,4 @@
+patient_id: B1475
+airway_obstruction_present: true
+depression_present: true
+sleep_disorder_type: snoring | somnolence

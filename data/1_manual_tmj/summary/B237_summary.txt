@@ -1,0 +1,27 @@
+patient_id: B237
+patient_age: 28
+diet_score: 2
+pain_duration: worse in the evening
+disability_rating: 9
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+physical_therapy_status: acupuncture x six treatments | biofeedback x 30 treatments | chiropractic treatment | massage therapy | left and right occipital nerve blocks and facet blocks
+earache_present: false
+onset_triggers: motorcycle accident
+adverse_reactions: cleocin
+muscle_symptoms_present: true
+jaw_clicking: jaw joints | right tmj
+previous_medications: wellbutrin | toradol | paxil | beta blockers
+muscle_pain_score: moderate to mild
+average_daily_pain_intensity: 6
+headache_intensity: 6 to 10 | severe | severeheadache_location: frontal | temporal
+pain_onset_date: 5 years ago
+tmj_pain_rating: 0
+current_medications: lortab 10 | elavil | depakote
+disc_displacement: left disc anterior and medial dislocation | right disc anterior displacement | left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: temporalis | styloid area | posterior neck | shoulders | masseters
+joint_arthritis_location: left tmj | left tmj | right tmj
+joint_pain_areas: left tmj | right tmj | left wrist | knees

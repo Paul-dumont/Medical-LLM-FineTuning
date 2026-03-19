@@ -1,0 +1,22 @@
+patient_id: B1218
+maximum_opening_without_pain: 41 mm
+patient_age: 31
+maximum_opening: 51 mm
+diet_score: 0
+disability_rating: 2
+jaw_function_score: 0
+adverse_reactions: earrings
+jaw_locking: true
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj 
+muscle_pain_score: mild
+migraine_history: true
+headache_location: frontal | temporal 
+average_daily_pain_intensity: 4
+headache_intensity: 4
+tmj_pain_rating: 0
+current_medications: birth control | Imitrex | Excedrin | Aleve
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis 
+joint_arthritis_location: left tmj | right tmj

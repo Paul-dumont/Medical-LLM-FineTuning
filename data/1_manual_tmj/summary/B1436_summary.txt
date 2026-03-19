@@ -1,0 +1,18 @@
+patient_id: B1436
+maximum_opening_without_pain: 15mm
+patient_age: 58
+maximum_opening: 24mm
+diet_score: 5
+disability_rating: 4
+sleep_apnea_diagnosed: true
+jaw_function_score: 5
+jaw_locking: true
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+muscle_pain_score: severe
+headache_location: frontal | temporal
+average_daily_pain_intensity: 6
+headache_intensity: 9
+tmj_pain_rating: 9
+current_medications: Norvasc | Ziac | Clonidine | Nexium | Celexa | Ultracet | Advil 
+muscle_pain_location: temporalis | masseter | retromandibular

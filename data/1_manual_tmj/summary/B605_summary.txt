@@ -1,0 +1,15 @@
+1.patient_id: B605
+3.patient_age: 46
+6.diet_score: 4
+8.disability_rating: 6 
+10.jaw_function_score: 3
+11.tinnitus_present: True
+12.vertigo_present: False
+18.earache_present: True
+25.headache_frequency: Constant
+27.muscle_symptoms_present: True
+29.previous_medications: Antibiotics | Demerol
+34.average_daily_pain_intensity: 9  
+37.pain_onset_date: 22 years of age
+39.tmj_pain_rating: 9
+43.muscle_pain_location: Temporalis | Masseter | SCMs | Neck

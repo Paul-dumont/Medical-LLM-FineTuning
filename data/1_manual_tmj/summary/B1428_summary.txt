@@ -1,0 +1,4 @@
+patient_id: B1428
+patient_age: 56
+previous_medications: Effexor | Neurontin
+current_medications: diovan hct | Premarin | Tylenol

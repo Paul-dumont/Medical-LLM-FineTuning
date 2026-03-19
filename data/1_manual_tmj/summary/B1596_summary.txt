@@ -1,0 +1,21 @@
+patient_id: B1596
+patient_age: 58
+maximum_opening: 29mm
+diet_score: 10
+disability_rating: 7
+jaw_function_score: 10
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+depression_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: posterior head | behind the eye
+average_daily_pain_intensity: 7
+headache_intensity: 9
+tmj_pain_rating: 8
+current_medications: Relafen | Neurontin | Caltrate | Tylenol  
+muscle_pain_location: temporalis | masseter | retromandibular | shoulders | neck
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas:  knees | elbows | shoulders | neck

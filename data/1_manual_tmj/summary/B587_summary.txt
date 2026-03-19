@@ -1,0 +1,27 @@
+1.patient_id: B587
+2.maximum_opening_without_pain: 0 mm 
+3.patient_age: 50
+4.maximum_opening: 28 mm
+6.diet_score: 9
+8.disability_rating: 9
+10.jaw_function_score: 9
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False 
+16.pain_aggravating_factors: Physical Theraphy
+18.earache_present: False
+19.onset_triggers: Other
+20.adverse_reactions: penicillin | fentanyl | Versed
+23.airway_obstruction_present: True
+26.pain_frequency: Constant
+27.muscle_symptoms_present: True
+32.headache_location: Frontal | Temporal | Posterior head
+34.average_daily_pain_intensity: 9
+35.headache_intensity: 9
+37.pain_onset_date: 30 years of age 
+39.tmj_pain_rating: 9
+41.current_medications:  Fioricet | Forteo | Mobic | Ambien | Vicodin
+42.disc_displacement: Rigth TMJ
+43.muscle_pain_location: Masseter | Styloid
+44.joint_arthritis_location: Rigth TMJ
+46.joint_pain_areas: Rigth TMJ

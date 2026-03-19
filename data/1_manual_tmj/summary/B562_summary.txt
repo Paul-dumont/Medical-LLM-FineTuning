@@ -1,0 +1,6 @@
+1.patient_id: B562
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+33.current_appliance: Orthodontics
+44.joint_arthritis_location: Rigth TMJ | Left TMJ
+45.appliance_history: Orthodontics

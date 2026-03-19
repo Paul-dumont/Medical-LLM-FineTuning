@@ -1,0 +1,12 @@
+1.patient_id: B598
+3.patient_age: 44
+15.neck_pain_present: True
+17.physical_therapy_status: Physical Theraphy
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True 
+28.jaw_clicking: False
+30.muscle_pain_score: High
+35.headache_intensity: 0
+39.tmj_pain_rating: 0
+43.muscle_pain_location: Neck | Shoulders
+45.appliance_history: Orthodontics

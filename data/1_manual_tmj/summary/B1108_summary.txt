@@ -1,0 +1,9 @@
+patient_id: B1108
+patient_age: 13
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_location: frontal
+headache_intensity: 0
+tmj_pain_rating: 0

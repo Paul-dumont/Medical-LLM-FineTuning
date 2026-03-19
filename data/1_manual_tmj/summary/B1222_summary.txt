@@ -1,0 +1,20 @@
+patient_id: B1222
+patient_age: 17
+maximum_opening: 48 mm
+diet_score: 1
+disability_rating: 3
+jaw_function_score: 6
+airway_obstruction_present: true
+headache_frequency: 1 a week
+muscle_symptoms_present: true
+muscle_pain_score: high
+headache_location: frontal | temporal 
+current_appliance: orthodontics
+average_daily_pain_intensity: 2
+headache_intensity: 5
+pain_onset_date: 2 years ago
+jaw_crepitus: right tmj
+sleep_disorder_type: snoring
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | styloid 
+appliance_history: orthodontics

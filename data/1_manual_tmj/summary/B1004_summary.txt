@@ -1,0 +1,13 @@
+patient_id: B1004
+patient_age: 51
+maximum_opening: 55 mm
+sleep_apnea_diagnosed: true
+neck_pain_present: false
+airway_obstruction_present: true
+muscle_pain_score: mild
+migraine_history: true
+headache_location: frontal
+sleep_disorder_type: sleep apnea | snoring 
+current_medications: Excedrin Migraine | Cozaar
+muscle_pain_location: neck
+appliance_history: orthodontics

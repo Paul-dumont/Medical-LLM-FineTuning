@@ -1,0 +1,31 @@
+patient_id: B380
+maximum_opening_without_pain: 46mm
+patient_age: 45
+maximum_opening: 56mm
+diet_score: 8
+pain_duration: worse in the morning
+disability_rating: 3
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism | eating
+earache_present: true
+onset_triggers: new crown made in the lower right posterior quadrant
+adverse_reactions: tetanus | penicillin
+airway_obstruction_present: true
+headache_frequency: once a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+headache_location: temple | top of her head
+average_daily_pain_intensity: 6
+headache_intensity: 4 | present
+pain_onset_date: 3 years ag
+tmj_pain_rating: 8
+current_medications: ativan
+disc_displacement: left disc anteromedial dislocation with reduction | right disc anteromedial dislocation with reduction | left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj | right tmj
+appliance_history: orthodontics from the age of 14 to 15 | retainers
+joint_pain_areas: neck | back | left shoulder | elbows | fingers | right big toe | left tmj | right tmj

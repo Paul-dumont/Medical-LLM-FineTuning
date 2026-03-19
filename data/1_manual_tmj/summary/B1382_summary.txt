@@ -1,0 +1,25 @@
+patient_id: B1382
+patient_age: 22
+maximum_opening: 50mm
+diet_score: 6
+disability_rating: 2
+sleep_apnea_diagnosed: true
+jaw_function_score: 7
+vertigo_present: false
+neck_pain_present: false
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+muscle_pain_score: moderate
+headache_location: frontal
+average_daily_pain_intensity: 1
+headache_intensity: 0
+pain_onset_date: 2 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 6
+sleep_disorder_type: snoring | somnolence 
+current_medications: none
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: knees

@@ -1,0 +1,8 @@
+patient_id: B1237
+patient_age: 16
+maximum_opening: 61mm
+neck_pain_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | rigth tmj
+disc_displacement: left disc dislocation | right disc dislocation

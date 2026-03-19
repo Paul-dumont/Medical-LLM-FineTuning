@@ -1,0 +1,19 @@
+patient_id: B1342
+maximum_opening_without_pain: 20mm
+patient_age: 38
+maximum_opening: 33mm
+diet_score: 5
+disability_rating: 3
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+muscle_pain_score: high 
+headache_location: temporal
+average_daily_pain_intensity: 5
+tmj_pain_rating: 9
+muscle_pain_location: temporalis | masseter | neck
+appliance_history: orthodotnics

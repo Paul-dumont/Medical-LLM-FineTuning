@@ -1,0 +1,24 @@
+patient_id: B951
+patient_age: 37
+diet_score: 7
+disability_rating: 3
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+adverse_reactions: penicillin | demerol smoke | animal dander | trees| dust mites | pork | peanuts | Jewelry
+jaw_locking: true
+headache_frequency: 2 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+average_daily_pain_intensity: 4
+headache_intensity: 3
+pain_onset_date: 17 years of age
+tmj_pain_rating: 8
+sleep_disorder_type: snoring
+current_medications: none
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: elbows | back | hands

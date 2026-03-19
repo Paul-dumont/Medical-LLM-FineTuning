@@ -1,0 +1,28 @@
+patient_id: B039
+maximum_opening_without_pain: 35mm
+patient_age: 46
+maximum_opening: 48mm
+diet_score: 6
+disability_rating: 6
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+neck_pain_present: true
+pain_aggravating_factors: clenching
+physical_therapy_status: osteopathic treatments | inversion table procedure on a daily basis
+earache_present: false
+headache_frequency: 3 times per week
+jaw_clicking: right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+current_appliance: mouth guards for the past 20 years
+average_daily_pain_intensity: 8
+headache_intensity: 3 | present
+pain_onset_date: at least 15 years ago
+tmj_pain_rating: 7
+current_medications: cymbalta  | motrin | advil
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior dislocation | right articular disc anteriorly dislocated
+muscle_pain_location: retromandibular area | rest of the head and neck area | shoulder | neck
+joint_arthritis_location: left tmj | right tmj | left tmj | right tmj | cervical | neck
+appliance_history: orthodontics from the age of 8 to 13 | orthodontics from the age of 21 to 22
+joint_pain_areas: tmj | left tmj | right tmj

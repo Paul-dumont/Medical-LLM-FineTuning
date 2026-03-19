@@ -1,0 +1,23 @@
+patient_id: B913
+patient_age: 67
+maximum_opening: 17 mm
+diet_score: 8
+disability_rating: 7
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+pain_aggravating_factors: Orthodontics
+earache_present: true
+airway_obstruction_present: false
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal
+headache_intensity: 0
+jaw_crepitus: right tmj
+tmj_pain_rating: 3
+current_medications: none
+muscle_pain_location: masseter 
+appliance_history: orthodontics
+joint_pain_areas: knee

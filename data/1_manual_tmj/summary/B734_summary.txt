@@ -1,0 +1,6 @@
+patient_id: B734
+patient_age: 18
+maximum_opening: 53mm
+airway_obstruction_present: true
+muscle_pain_score: mild
+muscle_pain_location: neck

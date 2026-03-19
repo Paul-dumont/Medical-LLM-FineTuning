@@ -1,0 +1,3 @@
+patient_id: B1104
+patient_age: 13
+maximum_opening: 55 mm

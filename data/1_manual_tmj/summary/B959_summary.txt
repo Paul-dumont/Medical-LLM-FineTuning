@@ -1,0 +1,15 @@
+patient_id: B959
+patient_age: 33
+maximum_opening: 40mm
+adverse_reactions: penicillin
+airway_obstruction_present: true
+depression_present: true
+muscle_symptoms_present: true
+headache_location: frontal
+pain_onset_date: 28 years of age
+jaw_crepitus: left tmj | right tmj
+current_medications: synthroid
+disc_displacement: left disc dislocation withouth reduction | right disc dislocation withouth reduction 
+muscle_pain_location: masseter | neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

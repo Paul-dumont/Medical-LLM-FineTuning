@@ -1,0 +1,9 @@
+patient_id: B1089
+patient_age: 18
+maximum_opening: 43mm
+neck_pain_present: false
+airway_obstruction_present: true
+headache_location: frontal
+sleep_disorder_type:  snoring 
+muscle_pain_location: neck
+appliance_history: orthodontics

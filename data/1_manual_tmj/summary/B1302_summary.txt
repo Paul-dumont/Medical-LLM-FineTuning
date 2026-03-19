@@ -1,0 +1,24 @@
+patient_id: B1302
+maximum_opening_without_pain: 40 mm 
+patient_age: 14
+maximum_opening: 57mm
+pain_relieving_factors: splint
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj | rigth tmj
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 2
+pain_onset_date: 6 years ago
+tmj_pain_rating: 5
+current_medications: none
+muscle_pain_location: neck
+appliance_history: orthodontics | splint

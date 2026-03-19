@@ -1,0 +1,16 @@
+patient_id: B1037
+patient_age: 26
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 2 a week
+muscle_symptoms_present: true
+headache_location: temporal
+average_daily_pain_intensity: 3
+headache_intensity: 4
+appliance_history: orthodontics

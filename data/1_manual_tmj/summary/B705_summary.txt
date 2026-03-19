@@ -1,0 +1,6 @@
+patient_id: B705
+patient_age: 14
+airway_obstruction_present: true
+jaw_clicking: rigth tmj | left tmj
+disc_displacement: left disc dislocation | right disc dislocation
+joint_pain_areas: tmj

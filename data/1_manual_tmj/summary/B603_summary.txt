@@ -1,0 +1,22 @@
+1.patient_id: B603
+3.patient_age: 16 
+4.maximum_opening: 47 mm
+6.diet_score: 0 
+8.disability_rating: 1
+10.jaw_function_score: 3 
+11.tinnitus_present: True
+12.vertigo_present: False
+13.hearing_loss_present: False
+18.earache_present: False
+23.airway_obstruction_present: False
+27.muscle_symptoms_present: True
+28.jaw_clicking: True
+30.muscle_pain_score: Mild
+35.headache_intensity: 0
+37.pain_onset_date: 6.5
+39.tmj_pain_rating: 0
+40.sleep_disorder_type: Somnolence
+42.disc_displacement: Left TMJ | Rigth TMJ
+43.muscle_pain_location: Retromandibular
+45.appliance_history: Orthodontics
+46.joint_pain_areas: Knees

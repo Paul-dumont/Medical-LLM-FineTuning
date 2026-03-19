@@ -1,0 +1,32 @@
+patient_id: B522
+maximum_opening_without_pain: 15mm
+patient_age: 56
+maximum_opening: 28mm
+diet_score: 8
+disability_rating: 6
+jaw_function_score: 8
+tinnitus_present: true
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: physical therapy on the neck and shoulders 1 to 2 years ago
+earache_present: true
+adverse_reactions: septra | tetracycline | penicillin
+airway_obstruction_present: false
+depression_present: true
+headache_frequency: occasional
+muscle_symptoms_present: true
+muscle_pain_score: high moderate to moderate and mild
+current_appliance: splints at night for 1 year until now
+average_daily_pain_intensity: 6
+headache_intensity: 1
+pain_onset_date: 2 years ago
+jaw_crepitus: left tmj
+tmj_pain_rating: 5 but 8 when chewing
+sleep_disorder_type: snoring
+current_medications: levoxyl | lexapro | posture-d | boniva
+disc_displacement: left disc dislocation with reduction | right disc posteriorly displaced but reduces on opening | right disc anterior and laterally displaced
+muscle_pain_location: left masseter area | right masseter | temporalis | styloids | scms | shoulders
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: orthodontics around 50 years ago | orthodontics again 24 years ago
+joint_pain_areas: left tmj | neck | shoulders | left tmj | back

@@ -1,0 +1,4 @@
+patient_id: B1266
+patient_age: 79
+hearing_loss_present: true
+adverse_reactions: benadryl 

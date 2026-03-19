@@ -1,0 +1,18 @@
+1.patient_id: B673
+3.patient_age: 59
+4.maximum_opening: 13 mm
+6.diet_score: 9
+8.disability_rating: 7
+10.jaw_function_score: 8
+11.tinnitus_present: True
+12.vertigo_present: True
+13.hearing_loss_present: True
+18.earache_present: True
+19.onset_triggers: Motor vehicle
+20.adverse_reactions: chromium | cobalt | nickel | aluminum
+32.headache_location: Frontal | Temporal | Posterior head
+34.average_daily_pain_intensity: 9
+35.headache_intensity: 9
+39.tmj_pain_rating: 9
+41.current_medications: Talwin | Aldactone | Pentaloc | Bascopan | Senokot | Dulcolax | Voltaren | Celebrex | Flexeril 
+46.joint_pain_areas: Neck | Hip | Shoulder | Hand

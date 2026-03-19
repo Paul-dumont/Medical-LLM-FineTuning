@@ -1,0 +1,18 @@
+1.patient_id: B590
+2.maximum_opening_without_pain: 23 mm
+4.maximum_opening: 27 mm
+6.diet_score: 7
+8.disability_rating: 4
+10.jaw_function_score: 7
+17.physical_therapy_status: Physcial Theraphy
+18.earache_present: True
+22.jaw_locking: True
+27.muscle_symptoms_present: True
+34.average_daily_pain_intensity: 6
+35.headache_intensity: 0
+39.tmj_pain_rating: 7
+41.current_medications:  Naproxen | Lexapro | Mircette | Toprol
+42.disc_displacement: Rigth TMJ withouth reduction | Left TMJ with reduction
+44.joint_arthritis_location: Rigth TMJ | Left TMJ
+45.appliance_history: Splint | Orthodontics
+46.joint_pain_areas: Left TMJ | Rigth TMJ

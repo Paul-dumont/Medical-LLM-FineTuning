@@ -1,0 +1,17 @@
+patient_id: B1463
+patient_age: 18
+maximum_opening: 44mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: false
+current_appliance: orthodontics
+average_daily_pain_intensity: 0
+tmj_pain_rating: 0
+sleep_disorder_type: snoring 
+disc_displacement: right disc dislocation with reduction

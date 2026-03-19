@@ -1,0 +1,26 @@
+patient_id: B071
+patient_age: 16
+maximum_opening: 57mm
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: clenching | bruxing
+earache_present: false
+onset_triggers: orthodontics
+airway_obstruction_present: true
+headache_frequency: in the past, not not recently
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+current_appliance: maxillary splint
+average_daily_pain_intensity: 0
+headache_intensity: 0
+pain_onset_date: 12 years of age
+tmj_pain_rating: 2
+disc_displacement: left articular disc displacement with early reduction | right articular disc anterior displacement with early reduction | left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: temporalis
+joint_arthritis_location: left tmj | right tmj
+appliance_history: expander at 8 years of age | orthodontics from 9 to 11 | orthodontics 12 to 14
+joint_pain_areas: left tmj | right tmj

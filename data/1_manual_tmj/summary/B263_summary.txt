@@ -1,0 +1,27 @@
+patient_id: B263 | B263PATIENT_AGE: 15
+patient_age: 15
+maximum_opening: 52mm
+diet_score: 5
+disability_rating: 3
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite | clench | grinding | anterior open bite | crossbite tendency right side | buccal crossbite tendency left side
+earache_present: false
+onset_triggers: elastics from orthodontics
+adverse_reactions: most fruits | seasonal allergy
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+average_daily_pain_intensity: 3
+headache_intensity: 0
+pain_onset_date: 2.5 years ago
+tmj_pain_rating: 4
+sleep_disorder_type: sleep apnea
+current_medications: none
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior dislocation without reduction | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: masseteres | styloid areas | scms | posterior neck | shoulder
+appliance_history: orthodontics from 13 to 14.5
+joint_pain_areas: tmj | left tmj | right tmj

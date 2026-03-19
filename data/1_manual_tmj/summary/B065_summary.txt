@@ -1,0 +1,22 @@
+patient_id: B065
+patient_age: 17
+maximum_opening: 35mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: false
+headache_frequency: twice a month
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal area
+current_appliance: retainers
+tmj_pain_rating: 0
+current_medications: none
+disc_displacement: left articular disc lateral displaced | right disc medially and anteriorly displaced
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics initially for 2 years from about the age of 7 to 8 until she was 9 to 10  | orthodontics from 12 to 14 years of age
+joint_pain_areas: shoulders

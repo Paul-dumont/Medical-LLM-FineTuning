@@ -1,0 +1,21 @@
+patient_id: B758
+patient_age: 26
+maximum_opening: 44mm
+disability_rating: 0
+sleep_apnea_diagnosed: false
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 2 a week
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal
+headache_intensity: 5
+sleep_disorder_type: somnolence | snoring
+current_medications: vitamins
+muscle_pain_location: masseter | styloid areas
+appliance_history: orthodontics
+joint_pain_areas: tmj

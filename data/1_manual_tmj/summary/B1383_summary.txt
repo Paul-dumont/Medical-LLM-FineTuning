@@ -1,0 +1,26 @@
+patient_id: B1383
+patient_age: 10
+maximum_opening: 43mm
+diet_score: 5
+disability_rating: 3
+sleep_apnea_diagnosed: true
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal
+current_appliance: orthodontics
+average_daily_pain_intensity: 5
+headache_intensity: 7
+autoimmune_condition: rheumatoid arthritis
+pain_onset_date: 6 years of age
+tmj_pain_rating: 5
+sleep_disorder_type: somnolence | snoring | sleep apnea
+muscle_pain_location: shoulders | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: knees | wrists | ankles

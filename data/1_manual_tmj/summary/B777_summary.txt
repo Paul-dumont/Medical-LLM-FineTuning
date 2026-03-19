@@ -1,0 +1,23 @@
+patient_id: B777
+patient_age: 48
+maximum_opening: 8 mm
+diet_score: 0
+disability_rating: 8
+sleep_apnea_diagnosed: true
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+physical_therapy_status: physical therapy | chiropractic
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: severe
+headache_location: frontal | temporal 
+average_daily_pain_intensity: 6
+headache_intensity: 6
+jaw_crepitus: left tmj
+tmj_pain_rating: 6
+sleep_disorder_type: sleep apnea | snoring
+current_medications: aspirin | lipitor
+muscle_pain_location: temporalis | masseter | scm | shoulders | neck | styloid 

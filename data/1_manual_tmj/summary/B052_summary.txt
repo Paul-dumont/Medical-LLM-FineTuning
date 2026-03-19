@@ -1,0 +1,19 @@
+patient_id: B052
+patient_age: 20
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: true
+pain_aggravating_factors: left posterior cross bite | right posterior cross bite | left sided cross bite
+earache_present: false
+airway_obstruction_present: true
+current_appliance: 3 x 3 retainer
+average_daily_pain_intensity: 3
+headache_intensity: 0
+pain_onset_date: 2 years ago
+tmj_pain_rating: 3
+disc_displacement: left disc dislocation with early reduction | right disc dislocation with early reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics age of 13 to 15 | expanders | fixed appliances
+joint_pain_areas: tmj | knees

@@ -1,0 +1,23 @@
+patient_id: B889
+patient_age: 49
+maximum_opening: 49mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+fibromyalgia_present: true
+headache_frequency: 4 a week
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal
+average_daily_pain_intensity: 5
+headache_intensity: 7
+autoimmune_condition: fibromyalgia
+tmj_pain_rating: 6
+current_medications: Wellbutrin| Klonopin | Trazodone | Amitiza | Aciphex | Albuterol
+disc_displacement: left disc dislocation
+muscle_pain_location: masseter | scm | scmk
+joint_arthritis_location: left tmj
+appliance_history: orthodontics

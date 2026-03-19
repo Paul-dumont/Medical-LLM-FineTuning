@@ -1,0 +1,30 @@
+patient_id: B474
+maximum_opening_without_pain: 25mm
+patient_age: 57
+maximum_opening: 45mm
+diet_score: 6
+disability_rating: 7
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: true
+physical_therapy_status: physical therapy | chiropractic treatment | rolfing | extensive dental reconstruction
+earache_present: false
+onset_triggers: motor vehicle accident and sustained a whiplash injury | orthodontics and significant elastics
+airway_obstruction_present: false
+headache_frequency: occasional
+muscle_symptoms_present: true
+muscle_pain_score: high moderate
+headache_location: temple
+average_daily_pain_intensity: 5
+headache_intensity: 6 | present
+pain_onset_date: 35 years old
+jaw_crepitus: left tmj
+tmj_pain_rating: 6
+current_medications: verapamil | diovan | ambien | climara patch
+disc_displacement: left disc disc medially displaced with some anterior displacement towards the lateral aspect with reduction | right disc disc medially displaced with some anterior displacement towards the lateral aspect with reduction | left disc dislocated predominately in a medial direction | right disc dislocated predominately in a medial direction
+muscle_pain_location: styloid areas | masseter | temporalis
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics and significant elastics | multiple splints
+joint_pain_areas: tmj | cervical vertebrae | left tmj | right tmj

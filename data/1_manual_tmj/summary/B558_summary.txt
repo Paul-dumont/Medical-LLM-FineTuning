@@ -1,0 +1,11 @@
+1.patient_id: B558
+3.patient_age: 23
+4.maximum_opening: 47mm
+15.neck_pain_present: False
+20.adverse_reactions: Ultracet 
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+41.current_medications:  Advil
+42.disc_displacement: Left  TMJ | Rigth TMJ
+46.joint_pain_areas: Left  TMJ | Rigth TMJ
+

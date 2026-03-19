@@ -1,0 +1,23 @@
+patient_id: B214
+patient_age: 23
+maximum_opening: 50mm
+diet_score: 0
+disability_rating: 3
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite | clenching | bruxism
+earache_present: false
+airway_obstruction_present: true
+jaw_clicking: right tmj
+current_appliance: 3 x 3 retainer on lower anterior arch
+average_daily_pain_intensity: 3
+headache_intensity: 0
+pain_onset_date: 17 years of age
+tmj_pain_rating: 2
+current_medications: none
+disc_displacement: right disc anterior displacement without reduction | left disc anterior displacement without reduction | right disc dislocation without reduction
+joint_arthritis_location: right tmj
+appliance_history: orthodontics from 9 to 13
+joint_pain_areas: tmj

@@ -1,0 +1,19 @@
+patient_id: B721
+patient_age: 34
+diet_score: 5
+disability_rating: 2
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: false
+earache_present: true
+jaw_locking: True
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+headache_location: frontal | temporal
+average_daily_pain_intensity: 1
+headache_intensity: 5
+pain_onset_date: 14 years of age
+tmj_pain_rating: 1
+current_medications: Nyquil | Mucinex 
+disc_displacement: left disc dislocation | rigth disc dislocation
+joint_arthritis_location: left tmj

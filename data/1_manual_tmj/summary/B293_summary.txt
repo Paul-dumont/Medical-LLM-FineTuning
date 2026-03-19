@@ -1,0 +1,30 @@
+patient_id: B293
+patient_age: 57
+maximum_opening: 37mm
+diet_score: 7
+disability_rating: 5
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: previous biofeedback treatments
+earache_present: false
+adverse_reactions: iodine
+airway_obstruction_present: true
+headache_frequency: daily
+jaw_clicking: left tmj | left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: temporal
+current_appliance: orthodontics since last year
+average_daily_pain_intensity: 5
+headache_intensity: 5 | present
+pain_onset_date: 2 to 3 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 4
+current_medications: tylenol | ultra | clonazepam
+disc_displacement: left disc dislocation | right disc dislocation | left disc medial and anterior displacement without reduction | right disc anterior and posterior displacement without reduction
+muscle_pain_location: temporalis | masseters | posterior neck | shoulder | styloid areas | scms
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj | right hip

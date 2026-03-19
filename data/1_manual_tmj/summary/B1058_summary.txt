@@ -1,0 +1,24 @@
+patient_id: B1058
+patient_age: 49
+maximum_opening: 43 mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: 2 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 5
+headache_intensity: 6
+pain_onset_date: 17 years of age
+tmj_pain_rating: 5
+current_medications: none
+disc_displacement: right disc dislocation with reduction
+muscle_pain_location: masseter | retromandibular | scm | shoulders 
+appliance_history: orthodontics | splint

@@ -1,0 +1,22 @@
+patient_id: B1381
+patient_age: 46
+maximum_opening: 55mm
+diet_score: 0
+disability_rating: 1
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: true
+airway_obstruction_present: true
+depression_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+average_daily_pain_intensity: 4
+headache_intensity: 0
+pain_onset_date: 40 years of age
+tmj_pain_rating: 5
+sleep_disorder_type: somnolence | snoring 
+current_medications: Doxycycline | Spironolactone | Terbinafine | Lexapro
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: back

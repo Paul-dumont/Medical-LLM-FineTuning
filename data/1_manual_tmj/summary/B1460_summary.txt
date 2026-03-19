@@ -1,0 +1,11 @@
+patient_id: B1460
+patient_age: 54
+maximum_opening: 56mm
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj 
+muscle_pain_score: mild
+headache_location: frontal
+disc_displacement: left disc dislocation | right disc dislocation withouth redutcion
+muscle_pain_location: masseter | retromandibular | neck
+joint_arthritis_location: right tmj

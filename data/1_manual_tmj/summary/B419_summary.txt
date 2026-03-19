@@ -1,0 +1,27 @@
+patient_id: B419
+maximum_opening_without_pain: 10mm
+patient_age: 21
+maximum_opening: 27mm
+pain_relieving_factors: flexeril
+diet_score: 8
+disability_rating: 7
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: splint | clenching | left posterior crossbite tendency
+earache_present: true
+adverse_reactions: cheap jewelry
+airway_obstruction_present: true
+jaw_clicking: tmj
+previous_medications: flexeril | mobic
+headache_location: temples | posterior head
+average_daily_pain_intensity: 6
+headache_intensity: 7
+pain_onset_date: 15
+jaw_crepitus: right tmj
+tmj_pain_rating: 7
+current_medications: prozac | tylenol
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from the age of 11 to 14 | splint few months ago

@@ -1,0 +1,30 @@
+patient_id: B1224
+patient_age: 56
+maximum_opening: 34mm
+diet_score: 7
+disability_rating: 5
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: clenching
+earache_present: true
+onset_triggers: orthodontics
+adverse_reactions: demerol
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: high
+headache_location: frontal | temporal | posterior head
+current_appliance: orthodontics
+average_daily_pain_intensity: 4
+headache_intensity: 6
+pain_onset_date: 56 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 0
+sleep_disorder_type: snoring | somnolence 
+current_medications: Ultram | Elavil | Patanol | Acyclovir | Multivitamins | Calcium
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter
+appliance_history: orthodontics
+joint_pain_areas: knees

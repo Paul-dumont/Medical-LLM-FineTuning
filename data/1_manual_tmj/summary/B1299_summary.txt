@@ -1,0 +1,14 @@
+patient_id: B1299
+patient_age: 34
+maximum_opening: 57 mm
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+jaw_clicking: left tmj
+headache_intensity: 0
+jaw_crepitus: left tmj 
+tmj_pain_rating: 0
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

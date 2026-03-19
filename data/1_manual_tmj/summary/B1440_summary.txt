@@ -1,0 +1,28 @@
+patient_id: B1440
+patient_age: 29
+diet_score: 7
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+earache_present: true
+onset_triggers: orthodontics
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: severe
+migraine_history: true
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 4
+headache_intensity: 7
+jaw_crepitus: right tmj
+tmj_pain_rating: 8
+current_medications: vitamins | Tylenol | Ibuprofen | Maxalt
+disc_displacement: right disc dislocation
+muscle_pain_location: temporalis | neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knees | wrists | back | ankle

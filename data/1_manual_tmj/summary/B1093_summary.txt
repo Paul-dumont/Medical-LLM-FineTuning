@@ -1,0 +1,29 @@
+patient_id: B1093
+maximum_opening_without_pain: 32mm
+patient_age: 19
+maximum_opening: 57mm
+diet_score: 4
+disability_rating: 2
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+onset_triggers: earrings
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+current_appliance: Lipitor | BCPs | Zetia
+average_daily_pain_intensity: 4
+headache_intensity: 0
+pain_onset_date: 19 years old
+tmj_pain_rating: 8
+sleep_disorder_type: snoring | somnolence
+current_medications: and | bcps | lipitor | zetia
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | shoulders | neck | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: wrists

@@ -1,0 +1,15 @@
+1.patient_id: B628
+3.patient_age: 26
+4.maximum_opening: 50 mm
+6.diet_score: 0
+8.disability_rating: 3
+10.jaw_function_score: 2
+11.tinnitus_present: False
+12.vertigo_present: False
+18.earache_present: False
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: False
+30.muscle_pain_score: None
+39.tmj_pain_rating: 0
+41.current_medications: Antibiotics
+45.appliance_history: Orthodontics

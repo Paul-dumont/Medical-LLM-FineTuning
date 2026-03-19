@@ -1,0 +1,26 @@
+patient_id: B756
+patient_age: 16
+maximum_opening: 50mm
+diet_score: 5
+disability_rating: 7
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+current_appliance: splint
+average_daily_pain_intensity: 3
+headache_intensity: 7
+pain_onset_date: 8 months ago
+tmj_pain_rating: 8
+current_medications: fish oil | glucosamine chondroitin
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: retromandibular | shoulders | neck
+appliance_history: orthodontics | splint
+joint_pain_areas: wrists

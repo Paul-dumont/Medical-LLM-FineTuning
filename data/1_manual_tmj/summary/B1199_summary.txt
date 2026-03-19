@@ -1,0 +1,22 @@
+patient_id: B1199
+patient_age: 57
+maximum_opening: 40mm
+diet_score: 6
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+onset_triggers: motor vehicle
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: throughout the head 
+average_daily_pain_intensity: 6
+headache_intensity: 9
+pain_onset_date: 57 years old
+tmj_pain_rating: 7
+sleep_disorder_type: snoring
+current_medications: ibuprofen
+muscle_pain_location: temporalis | masseter | styloid 

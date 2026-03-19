@@ -1,0 +1,23 @@
+patient_id: B351
+patient_age: 57
+maximum_opening: 10=-12mm | 17mm
+diet_score: 4
+disability_rating: 6
+jaw_function_score: 4
+back_pain_present: true
+neck_pain_present: true
+airway_obstruction_present: true
+pain_frequency: best in morning but progress as day goes on
+muscle_symptoms_present: true
+previous_medications: clindamycin
+muscle_pain_score: mild
+average_daily_pain_intensity: 7
+headache_intensity: 0
+autoimmune_condition: increased ana
+tmj_pain_rating: 0 but can escalate to 7
+sleep_disorder_type: daytime somnolence | snoring
+current_medications: amrix | zoloft | omeprazole | estradiol |
+disc_displacement: left disc medial and anterior displacement with reduction | right disc medial and anterior displacement with reduction | left disc medial and anterior displacement | right disc medial displacement | left disc medial displacement | right disc medial displacement
+muscle_pain_location: temporalis | masseters | right styloid area
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: neck | ankles | lower back | neck | hands | elbows | knees | ankles | shoulders | right tmj

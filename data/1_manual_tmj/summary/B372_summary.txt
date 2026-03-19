@@ -1,0 +1,26 @@
+patient_id: B372
+patient_age: 40
+maximum_opening: 48 mm
+pain_relieving_factors: splint | holding the lower jaw forward
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+adverse_reactions: penicillin
+airway_obstruction_present: true
+headache_frequency: wakes up with headaches at least 50% of the time
+muscle_symptoms_present: true
+previous_medications: wellbutrin
+muscle_pain_score: mild
+migraine_history: true
+current_appliance: splint
+headache_intensity: severe | present
+pain_onset_date: 14 or 15 years of age
+tmj_pain_rating: severe
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+current_medications: vicodin | aspirin | excedrin
+disc_displacement: left disc anterior displacement | right disc anterior displacement without reduction | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: styloid areas
+joint_arthritis_location: left tmj | right tmj | right tmj
+joint_pain_areas: tmj | hips | knees | left tmj | right tmj

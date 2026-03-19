@@ -1,0 +1,29 @@
+patient_id: B393
+patient_age: 58
+maximum_opening: 41mm
+diet_score: 8
+disability_rating: 5
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: right posterior cross bite tendency
+physical_therapy_status: physical therapy for at least three to four years and goes on a weekly basis
+earache_present: true
+airway_obstruction_present: false
+headache_frequency: daily
+muscle_pain_score: severe
+headache_location: frontal | temporal | posterior head | top of the head
+average_daily_pain_intensity: 8
+headache_intensity: 9 | severe
+pain_onset_date: at least 13 years ago or probably longer
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 9 | severe
+current_medications: inderal | nexium | crestal | amitriptyline | mobic | imitrex
+disc_displacement: right disc anterior dislocation without reduction
+muscle_pain_location: right posterior neck | right styloid | right shoulder | medial pterygoids | right masseter | right temporalis | right scm
+joint_arthritis_location: left tmj | right tmj | right knee
+appliance_history: splint for 13 year | orthodontics for one year
+joint_pain_areas: tmj | left tmj | right tmj | neck | lumbar area of back | right elbow | right knee

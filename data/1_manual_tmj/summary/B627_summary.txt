@@ -1,0 +1,13 @@
+1.patient_id: B627
+4.maximum_opening: 43 mm
+6.diet_score: 5
+8.disability_rating: 3
+10.jaw_function_score: 2
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: True
+15.neck_pain_present: False
+18.earache_present: False
+35.headache_intensity: 0
+39.tmj_pain_rating: 0
+41.current_medications:  None

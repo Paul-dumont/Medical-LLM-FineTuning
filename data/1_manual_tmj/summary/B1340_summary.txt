@@ -1,0 +1,24 @@
+patient_id: B1340
+patient_age: 19
+diet_score: 8
+disability_rating: 3
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+physical_therapy_status: physical therapy
+earache_present: true
+adverse_reactions: jewelry
+jaw_locking: true
+headache_frequency: 5 a week
+muscle_pain_score: severe
+headache_location: frontal
+average_daily_pain_intensity: 4
+headache_intensity: 8
+pain_onset_date: 14 years of age
+tmj_pain_rating: 5
+current_medications: Birth control | Drixoral | Ibuprofen
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knees | hips 

@@ -1,0 +1,24 @@
+patient_id: B1067
+patient_age: 33
+maximum_opening: 50mm
+diet_score: 4
+disability_rating: 5
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 5 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+headache_location: frontal | top of the head
+average_daily_pain_intensity: 5
+headache_intensity: 5
+pain_onset_date: 7 years of age
+tmj_pain_rating: 7
+sleep_disorder_type: snoring | somnolence
+current_medications: birth control | ibuprofen
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj

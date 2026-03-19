@@ -1,0 +1,28 @@
+patient_id: B867
+patient_age: 38
+maximum_opening: 39mm
+diet_score: 4
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+adverse_reactions: mountain cedar
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal | behind eyes
+current_appliance: orthodontics
+average_daily_pain_intensity: 4
+pain_onset_date: 5 years ago
+tmj_pain_rating: 5
+sleep_disorder_type: snoring
+current_medications: Zoloft
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: knees

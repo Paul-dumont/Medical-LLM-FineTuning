@@ -1,0 +1,20 @@
+1.patient_id: B677
+2.maximum_opening_without_pain: 28 mm 
+3.patient_age: 56
+4.maximum_opening: 35 mm
+6.diet_score: 8
+8.disability_rating: 9
+9.sleep_apnea_diagnosed: True
+10.jaw_function_score: 8
+11.tinnitus_present: True
+12.vertigo_present: True
+17.physical_therapy_status: Physical theraphy
+23.airway_obstruction_present: False
+27.muscle_symptoms_present: True
+30.muscle_pain_score: Severe
+32.headache_location: Frontal | Temporal
+34.average_daily_pain_intensity: 8
+35.headache_intensity: 8
+39.tmj_pain_rating: 9.5
+42.disc_displacement: Left disc dislocation | Rigth disc dislocation
+43.muscle_pain_location: Temporalis | Masseter | SCMs | Neck | Shoulder

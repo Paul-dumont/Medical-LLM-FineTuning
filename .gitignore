@@ -34,6 +34,14 @@ tmp/
 model/
 wandb/
 unsloth_compiled_cache/
+.hf_cache/
+
+# Large model files
+*.gguf
+*.safetensors
+*.bin
+*.pt
+
 # (Option) Data files - uncomment if you don't want to push large training data
 # *.xlsm
 # *.jsonl

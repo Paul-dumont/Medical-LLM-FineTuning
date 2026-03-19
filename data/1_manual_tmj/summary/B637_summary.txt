@@ -1,0 +1,19 @@
+1.patient_id: B637
+3.patient_age: 58
+6.diet_score: 0
+8.disability_rating: 6
+10.jaw_function_score: 0
+15.neck_pain_present: True
+25.headache_frequency: Daily
+27.muscle_symptoms_present: True 
+31.migraine_history: True
+32.headache_location: Back of the head | Behind the eye | Temple
+34.average_daily_pain_intensity: 8
+35.headache_intensity: 8
+37.pain_onset_date: 43
+38.jaw_crepitus: Left TMJ | Rigth TMJ
+39.tmj_pain_rating: 0
+41.current_medications: Excedrin | Butalbital | Hydrocodone | Relpax
+42.disc_displacement: Left disc dislocation | Rigth disc dislocation
+43.muscle_pain_location: Shoulders | Neck | SCMs
+44.joint_arthritis_location: Left TMJ | Rigth TMJ

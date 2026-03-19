@@ -1,0 +1,21 @@
+patient_id: B1188
+patient_age: 52
+maximum_opening: 35mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+depression_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | posterior head
+average_daily_pain_intensity: 5
+headache_intensity: 7
+autoimmune_condition: rheumatoid arthritis
+pain_onset_date: 11 years of age
+tmj_pain_rating: 7
+current_medications: Zofran
+muscle_pain_location: masseter | shoulders | neck | styloid 
+joint_pain_areas: knees | elbows | shoulders | neck | hands

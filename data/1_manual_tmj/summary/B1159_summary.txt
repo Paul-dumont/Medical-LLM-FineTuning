@@ -1,0 +1,22 @@
+patient_id: B1159
+patient_age: 48
+maximum_opening: 54mm
+diet_score: 2
+disability_rating: 5
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 4
+headache_intensity: 4
+pain_onset_date: 10 years of age
+tmj_pain_rating: 0
+current_medications: lithium | aleve
+muscle_pain_location: neck
+joint_arthritis_location: lrft tmj | rigth tmj
+appliance_history: orthodontics
+joint_pain_areas:  neck | hands | hips

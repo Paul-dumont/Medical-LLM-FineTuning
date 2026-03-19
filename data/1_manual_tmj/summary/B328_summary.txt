@@ -1,0 +1,23 @@
+patient_id: B328
+patient_age: 34
+diet_score: 9
+disability_rating: 7
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching
+physical_therapy_status: physical therapy
+earache_present: true
+jaw_locking: true
+jaw_clicking: left tmj
+muscle_pain_score: high moderate
+headache_location: right frontal | right temporal | right posterior head
+average_daily_pain_intensity: 6
+headache_intensity: 5 can escalate to 8
+tmj_pain_rating: 6
+current_medications: celebrex | darvocet
+disc_displacement: left disc left displacement with reduction | right disc anterior displacement with reduction | left disc left displacement without reduction | right disc dislocation without reduction
+muscle_pain_location: temporalis | styloid | left temporalis | left scm | masseters | right medial pterygoid area
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: left tmj | right tmj

@@ -1,0 +1,20 @@
+patient_id: B1020
+patient_age: 27
+diet_score: 1
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+neck_pain_present: true
+earache_present: true
+adverse_reactions: Tylenol | Codeine
+headache_frequency: daily
+previous_medications: prednisone
+muscle_pain_score: moderate
+headache_location: top of the head | frontal
+average_daily_pain_intensity: 3
+headache_intensity: 7
+pain_onset_date: 3 years ago
+tmj_pain_rating: 4
+sleep_disorder_type: snoring | somnolence
+current_medications: Diazepam | Magnesium | Prilosec | Unisom | Tylenol | Codeine
+muscle_pain_location: neck

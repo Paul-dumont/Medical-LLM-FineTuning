@@ -1,0 +1,21 @@
+patient_id: B1504
+patient_age: 26
+maximum_opening: 25 mm
+tinnitus_present: false
+vertigo_present: true
+back_pain_present: true
+neck_pain_present: true
+earache_present: true
+fibromyalgia_present: true
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: high moderate
+autoimmune_condition: rheumatoid arthritis 
+sleep_disorder_type: snoring | somnolence
+current_medications: Allegra | Prevacid | Levbid | Toprol | Synthroid | Duricef | Duragesic | Actiq | Kariva BCP | Trazodone | Promethazine | Citrucel | Percocet | Vicodin  
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | scm | shoulders | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: Ankle | wrists

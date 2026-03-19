@@ -1,0 +1,17 @@
+patient_id: B177
+patient_age: 16
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+vertigo_present: true
+pain_aggravating_factors: left posterior cross bite | right posterior cross bite | posterior cross bite tendency
+earache_present: false
+onset_triggers: fall when patient was 3 to 4 years ago
+airway_obstruction_present: true
+current_appliance: orthodontics
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: topical
+disc_displacement: left disc posterior displacement with reduction | right posterior displacement with reduction | left disc posterior displacement | right disc medial and posterior displacement
+appliance_history: orthodontics from age of 5 to 8
+joint_pain_areas: true | left elbow | lower back

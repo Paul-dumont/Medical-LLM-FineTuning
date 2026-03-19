@@ -1,0 +1,26 @@
+patient_id: B461
+patient_age: 58
+maximum_opening: 55mm
+diet_score: 6
+disability_rating: 7
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: clenching
+earache_present: true
+adverse_reactions: sulfa | food | environmental | plants
+headache_frequency: constant
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+headache_location: right frontal | temple | posterior head
+current_appliance: removable splint
+average_daily_pain_intensity: 4
+headache_intensity: 5 | present
+pain_onset_date: about 3 years ago
+tmj_pain_rating: 9
+sleep_disorder_type: snoring | snoring | daytime somnolence
+current_medications: tricor | alphagan
+disc_displacement: left disc lateral dislocation | right disc lateral dislocation | right disc somewhat lateral dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics since 3 years ago | nightguards from this year to 3 years ago
+joint_pain_areas: tmj | jaws

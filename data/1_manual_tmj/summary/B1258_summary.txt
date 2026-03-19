@@ -1,0 +1,21 @@
+patient_id: B1258
+patient_age: 12
+maximum_opening: 36mm
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_intensity: 0
+pain_onset_date: 9 years of age
+tmj_pain_rating: 0
+sleep_disorder_type: snoring
+current_medications: none
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

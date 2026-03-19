@@ -1,0 +1,20 @@
+patient_id: B719
+patient_age: 32
+maximum_opening: 26 mm
+tinnitus_present: true
+vertigo_present: true
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+depression_present: true
+muscle_symptoms_present: true
+previous_medications: prevacid | Anafranil | lithium | Zoloft | Luvox | trazodone | Paxil | Depakote | Benadryl | Effexor | Lamictal | Wellbutrin
+muscle_pain_score: high
+headache_location: frontal | temporal
+pain_onset_date: 12.5 years of age
+sleep_disorder_type: snoring
+current_medications: Levoxyl
+muscle_pain_location: temporalis | masseter | scm | shoulders | neck | styloid 
+appliance_history: orthodontics | splints
+joint_pain_areas: tmj

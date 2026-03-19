@@ -1,0 +1,19 @@
+patient_id: B1466
+patient_age: 58
+maximum_opening: 57mm
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: true
+neck_pain_present: false
+earache_present: false
+adverse_reactions: erythromycin | wheat | corn | soy | MSG | peanuts | pine nuts
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_location: frontal
+headache_intensity: 0
+pain_onset_date: 58 years old
+tmj_pain_rating: 0
+current_medications: T3 | T4 | supplements
+muscle_pain_location: neck
+appliance_history: orthodontics

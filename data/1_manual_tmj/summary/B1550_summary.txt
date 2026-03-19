@@ -1,0 +1,4 @@
+patient_id: B1550
+patient_age: 52
+current_medications: femhrt | Tegretol
+joint_arthritis_location: right tmj | left tmj

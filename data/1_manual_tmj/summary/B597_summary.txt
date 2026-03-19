@@ -1,0 +1,27 @@
+1.patient_id: B597
+3.patient_age: 30
+4.maximum_opening: 37 mm
+6.diet_score: 5
+8.disability_rating: 5
+10.jaw_function_score: 8
+11.tinnitus_present: TRue
+12.vertigo_present: False
+13.hearing_loss_present: False
+17.physical_therapy_status: Physical therahpy 
+18.earache_present: False
+20.adverse_reactions: jewelry
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+28.jaw_clicking: True
+30.muscle_pain_score: Mild
+32.headache_location: Temporal | Posterior head
+34.average_daily_pain_intensity: 4
+35.headache_intensity: 6
+36.autoimmune_condition: Rheumatoid arthritis
+38.jaw_crepitus: True
+39.tmj_pain_rating: 5.5
+41.current_medications:  Vioxx | Liquid vitamins
+43.muscle_pain_location: Temporalis | Masseter | Styloid | SCMs
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Splint
+46.joint_pain_areas: Elbows | Hands | Knees | Hip | Ankle

@@ -1,0 +1,20 @@
+patient_id: B868
+patient_age: 39
+maximum_opening: 23 mm
+diet_score: 8
+disability_rating: 8
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+headache_frequency: 1 a week
+headache_location: frontal | temporal
+average_daily_pain_intensity: 0
+headache_intensity: 10
+autoimmune_condition: rheumatoid arthritis
+tmj_pain_rating: 1
+sleep_disorder_type: snoring 
+current_medications: plaquenil | fluoxetine
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: tmj | knees | elbows

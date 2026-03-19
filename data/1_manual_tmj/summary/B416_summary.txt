@@ -1,0 +1,25 @@
+patient_id: 21 | B416
+maximum_opening_without_pain: 25mm
+maximum_opening: 28mm
+diet_score: 6
+disability_rating: 8
+jaw_function_score: 8
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite | right posterior crossbite tendency | left posterior crossbite tendency
+earache_present: true
+onset_triggers: taking a bite out of a burger
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+current_appliance: orthodontics
+average_daily_pain_intensity: 3
+headache_intensity: 0
+pain_onset_date: 2-1/2 years ago
+tmj_pain_rating: 2
+current_medications: wellbutrin | effexor | depo-vera | albuterol
+disc_displacement: left disc possible medial displacement | right disc dislocation without reduction | right articular disc dislocation without reduction
+muscle_pain_location: scms | right masseter | bilateral shoulders
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: right tmj

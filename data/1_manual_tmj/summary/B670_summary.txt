@@ -1,0 +1,20 @@
+1.patient_id: B670
+3.patient_age: 17
+4.maximum_opening: 55 mm
+6.diet_score: 0 
+8.disability_rating: 0
+10.jaw_function_score: 1
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+15.neck_pain_present: False
+18.earache_present: False
+23.airway_obstruction_present: True
+28.jaw_clicking: Left TMJ
+34.average_daily_pain_intensity: 0
+35.headache_intensity: 0
+38.jaw_crepitus: Left TMJ
+39.tmj_pain_rating: 0
+41.current_medications: None
+42.disc_displacement: Left disc dislocation
+45.appliance_history: Orthodontics 

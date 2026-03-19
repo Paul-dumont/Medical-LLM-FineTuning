@@ -1,0 +1,23 @@
+patient_id: B127
+maximum_opening_without_pain: 34mm
+patient_age: 14
+maximum_opening: 47mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+earache_present: true
+adverse_reactions: sulfa | codeine
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_intensity: 6
+tmj_pain_rating: 0
+current_medications: accutane
+disc_displacement: left disc anterior dislocation with early reduction | right disc anterior dislocation without reduction | left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: masseter | medial pterygoids | retromandibular
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics at 8
+joint_pain_areas: bilateral posterior crossbite | left tmj | right tmj | right hip | left knee | right ankle

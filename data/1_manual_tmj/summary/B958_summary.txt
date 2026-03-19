@@ -1,0 +1,22 @@
+patient_id: B958
+patient_age: 17
+maximum_opening: 42mm
+diet_score: 1
+disability_rating: 0
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 1 a week
+headache_location: top of the head
+headache_intensity: 3
+autoimmune_condition: rheumatoid arthritis
+pain_onset_date: 17 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 0
+sleep_disorder_type: somnolence
+current_medications: none
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: tmj

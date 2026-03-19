@@ -1,0 +1,25 @@
+patient_id: B1207
+patient_age: 48
+maximum_opening: 40 mm
+diet_score: 6
+disability_rating: 7
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+earache_present: false
+adverse_reactions: ceclor | cephalospotins | gallium | nickel
+depression_present: true
+headache_frequency: 1 a month
+muscle_symptoms_present: true
+headache_location: frontal | temporal 
+average_daily_pain_intensity: 4
+headache_intensity: 8
+pain_onset_date: 16 years ago
+jaw_crepitus: right tmj
+tmj_pain_rating: 7
+sleep_disorder_type: snoring | somnolence
+current_medications: Zoloft | Wellbutrin | Methadone | Vioxx | Seroquel | Zyrtec | Zonegran | Serevent inhaler | Roxicet | Provigil
+disc_displacement: right disc dislocation withouth reduction
+muscle_pain_location: temporalis | shoulders | neck
+joint_arthritis_location: right tmj

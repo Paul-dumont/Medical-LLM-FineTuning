@@ -1,0 +1,17 @@
+patient_id: B158
+patient_age: 12
+maximum_opening: 32mm
+diet_score: 0
+disability_rating: 4
+jaw_function_score: 1
+tinnitus_present: alse
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_intensity: 0
+autoimmune_condition: juvenile rheumatoid arthritis | juvenile rheumatoid arthritis current_medications: methotrexate | folic acid | naproxen | pepcid | juvenile rheumatoid arthritis or unspecified connective tissue disease
+tmj_pain_rating: 0
+sleep_disorder_type: sleep apnea | sleep apnea | snoring | daytime somnolence
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: right wrist | fingers | left tmj | right tmj

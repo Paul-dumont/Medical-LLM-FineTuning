@@ -1,0 +1,22 @@
+patient_id: B124
+patient_age: 62
+diet_score: 1
+disability_rating: 7
+jaw_function_score: 3
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: talking | other functions that involves moving
+airway_obstruction_present: true
+headache_frequency: daily in the afternoon between 2 and 5 pm
+jaw_clicking: right tmj
+previous_medications: opiates
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 7 | present
+pain_onset_date: 13 years ago
+tmj_pain_rating: 0
+current_medications: tenormin | verapamil | temazepam | amitriptyline
+disc_displacement: left disc medial displacement with reduction | right disc medial displacement with reduction | left disc medial displacement | right disc anterior displacement | right disc anterior and medial displacement
+joint_arthritis_location: left tmj | right tmj
+appliance_history: bite splints, recent one from 52 to 57
+joint_pain_areas: tmj | back | neck | right shoulder | left toes

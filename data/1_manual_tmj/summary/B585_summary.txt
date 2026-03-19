@@ -1,0 +1,10 @@
+1.patient_id: B585
+3.patient_age: 20
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: False
+35.headache_intensity: 0
+39.tmj_pain_rating: 0
+46.joint_pain_areas: None

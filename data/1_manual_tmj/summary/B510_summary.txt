@@ -1,0 +1,26 @@
+patient_id: B510
+maximum_opening_without_pain: 32mm
+patient_age: 23
+maximum_opening: 51mm
+diet_score: 2
+disability_rating: 3
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: anterior open bite | clenching | anterior open bite | right posterior cross bite tendency
+physical_therapy_status: craniosacral therapy
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+headache_location: frontal | temporal | posterior head
+current_appliance: splints 2 years ago to the present
+average_daily_pain_intensity: 3
+headache_intensity: 5 | present
+pain_onset_date: 13 years old
+jaw_crepitus: left tmj
+tmj_pain_rating: 5
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced with reduction
+muscle_pain_location: masseter muscles | shoulder areas
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: orthodontics 11 years ago for 2 years | splint 11 years ago for 3 months | 5 splints
+joint_pain_areas: tmj | left tmj | right tmj

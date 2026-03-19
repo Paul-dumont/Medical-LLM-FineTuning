@@ -1,0 +1,28 @@
+patient_id: B974
+patient_age: 50
+maximum_opening: 21mm
+diet_score: 7
+disability_rating: 8
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+neck_pain_present: true
+earache_present: true
+adverse_reactions: jewelry
+fibromyalgia_present: true
+airway_obstruction_present: true
+headache_frequency: 7 a week
+muscle_symptoms_present: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 8
+headache_intensity: 9
+pain_onset_date: 23 years ago
+tmj_pain_rating: 6
+sleep_disorder_type:  snoring 
+current_medications: Premarin | Norvasc | Miralax | Effexor
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: shoulders | neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: tmj

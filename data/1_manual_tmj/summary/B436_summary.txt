@@ -1,0 +1,21 @@
+patient_id: B436
+maximum_opening_without_pain: 25mm
+patient_age: 46
+maximum_opening: 39mm
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+headache_location: left temporal area | right temporal area
+average_daily_pain_intensity: 6
+headache_intensity: 6 | present
+pain_onset_date: 7 months ago
+tmj_pain_rating: 6
+current_medications: ibuprofen | flexeril | synthroid
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction | left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj

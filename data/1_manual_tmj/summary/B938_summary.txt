@@ -1,0 +1,19 @@
+patient_id: B938
+maximum_opening_without_pain: 40 mm 
+patient_age: 53
+maximum_opening: 51 mm 
+sleep_apnea_diagnosed: true
+tinnitus_present: true
+pain_aggravating_factors: clenching
+physical_therapy_status: physical therapy
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: Vicodin
+muscle_pain_score: moderate
+headache_location: frontal
+pain_onset_date: 53 years old
+sleep_disorder_type: sleep apnea | snoring | somnolence 
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: masseter | styloid 
+joint_arthritis_location: left tmj | right tmj

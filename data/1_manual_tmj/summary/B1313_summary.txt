@@ -1,0 +1,24 @@
+patient_id: B1313
+patient_age: 38
+pain_relieving_factors: splint
+diet_score: 10
+disability_rating: 10
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: 3 a month
+muscle_symptoms_present: true
+muscle_pain_score: severe
+headache_location: frontal | temporal | posterior head 
+average_daily_pain_intensity: 2
+headache_intensity: 10
+pain_onset_date: 10 years ago
+tmj_pain_rating: 10
+current_medications: Trazodone | Valium | Flonase | Birth control
+disc_displacement: left disc dislocation | right disc dislocation withouth reduction 
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint

@@ -1,0 +1,15 @@
+patient_id: B1281
+patient_age: 16
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+current_appliance: orthodontics
+headache_intensity: 0
+tmj_pain_rating: 0
+appliance_history: orthodontics

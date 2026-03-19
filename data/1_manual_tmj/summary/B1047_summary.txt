@@ -1,0 +1,7 @@
+patient_id: B1047
+airway_obstruction_present: true
+muscle_symptoms_present: true
+headache_location: frontal
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj

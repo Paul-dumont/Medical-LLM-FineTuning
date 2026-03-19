@@ -1,0 +1,22 @@
+patient_id: B973
+patient_age: 16
+maximum_opening: 60mm
+diet_score: 7
+disability_rating: 8
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: amoxicillin
+airway_obstruction_present: true
+depression_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | rigth tmj
+muscle_pain_score: moderate
+headache_intensity: 0
+tmj_pain_rating: 4
+current_medications: Effexor | Lamictal | Risperdal
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | scm | shoulders | neck | styloid
+joint_pain_areas: hands | back

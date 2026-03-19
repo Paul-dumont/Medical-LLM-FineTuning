@@ -1,0 +1,18 @@
+patient_id: B1028
+patient_age: 14
+maximum_opening: 52mm
+diet_score: 1
+disability_rating: 0
+jaw_function_score: 2
+headache_frequency: 3 a month
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 1
+headache_intensity: 2
+autoimmune_condition: rheumatoid arthritis
+pain_onset_date: 12 years of age
+tmj_pain_rating: 2
+muscle_pain_location: masseter 
+appliance_history: orthodontics | splint

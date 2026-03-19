@@ -1,0 +1,20 @@
+patient_id: B1243
+patient_age: 24
+diet_score: 9
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: severe
+headache_location: frontal
+average_daily_pain_intensity: 9
+headache_intensity: 0
+autoimmune_condition: ankylosing spondylitis
+tmj_pain_rating: 0
+current_medications: Gabapentin | Hydrocodone
+muscle_pain_location: left disc dislocation | rigth disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas:  back

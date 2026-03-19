@@ -1,0 +1,25 @@
+patient_id: B037
+patient_age: 14
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+earache_present: false
+adverse_reactions: earrings
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate to mild
+average_daily_pain_intensity: 7
+headache_intensity: present
+pain_onset_date: 6 to 7 years of age
+tmj_pain_rating: 0
+sleep_disorder_type: snoring
+current_medications: clarinex
+disc_displacement: left disc dislocation with late reduction | right disc anterior dislocation with late reduction | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: shoulders | posterior neck | masseters | temporalis | scms
+appliance_history: orthodontic treatment beginning 2 years ago
+joint_pain_areas: neck

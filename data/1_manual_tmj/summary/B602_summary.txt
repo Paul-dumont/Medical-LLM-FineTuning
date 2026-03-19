@@ -1,0 +1,28 @@
+B6021.patient_id: B602
+2.maximum_opening_without_pain: 40 mm  
+3.patient_age: 51
+4.maximum_opening: 52 mm 
+8.disability_rating: 7
+10.jaw_function_score: 4
+11.tinnitus_present: True
+12.vertigo_present: True
+17.physical_therapy_status: Physical theraphy 
+18.earache_present: True
+19.onset_triggers: Motor Vehicle 
+22.jaw_locking: True
+23.airway_obstruction_present: False
+25.headache_frequency: Daily
+27.muscle_symptoms_present: True
+30.muscle_pain_score: Moderate 
+31.migraine_history: True
+32.headache_location: Frontal | Temporal | Posterior head
+34.average_daily_pain_intensity: 7
+35.headache_intensity: 8
+37.pain_onset_date: 20 years of age 
+38.jaw_crepitus: True
+39.tmj_pain_rating: 7
+41.current_medications:  Skelaxin | Vioxx | Darvocet-N 100 | Allegra | Serotonin-controlling medication
+42.disc_displacement: Left TMJ | RIgth TMJ
+43.muscle_pain_location: Masseters | Temporalis | Styloids | Neck | Shoulders | SCMs
+44.joint_arthritis_location: Left TMJ | RIgth TMJ
+45.appliance_history: Orthodontics | Splint 

@@ -1,0 +1,25 @@
+patient_id: B931
+patient_age: 16
+maximum_opening: 46mm
+diet_score: 7
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+pain_aggravating_factors: clenching
+earache_present: true
+adverse_reactions: latex
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 5
+headache_intensity: 7
+pain_onset_date: 16 years old
+tmj_pain_rating: 7
+current_medications: routinely | zyrtec
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | masseters | scm | shoulders | neck | posterior neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: tmj

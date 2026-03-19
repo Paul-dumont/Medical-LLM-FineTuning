@@ -1,0 +1,15 @@
+patient_id: B353
+patient_age: 16
+maximum_opening: 44mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite
+earache_present: false
+airway_obstruction_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: allegra d
+disc_displacement: left disc anteromedial dislocation with reduction | right disc anteromedial dislocation with reductiojoint_arthritis_location: left tmj | right tmj | left disc anteromedial dislocation with reduction | right disc anteromedial dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from the 6th grade through the 8th grade

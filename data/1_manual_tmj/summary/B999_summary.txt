@@ -1,0 +1,23 @@
+patient_id: B999
+patient_age: 25
+maximum_opening: 47mm
+diet_score: 0
+disability_rating: 0
+sleep_apnea_diagnosed: true
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: bruxism
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: 2 a week
+muscle_symptoms_present: false
+headache_location: temporal
+average_daily_pain_intensity: 0
+headache_intensity: 2
+pain_onset_date: 22 years of age
+sleep_disorder_type: sleep apnea
+current_medications: allegra 
+joint_arthritis_location: left tmj | right tmj

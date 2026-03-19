@@ -1,0 +1,15 @@
+patient_id: B996
+patient_age: 60
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_location: frontal
+headache_intensity: 0
+pain_onset_date: 60 years old
+tmj_pain_rating: 0
+sleep_disorder_type: snoring 
+muscle_pain_location: neck
+appliance_history: orthodontics
+joint_pain_areas: tmj

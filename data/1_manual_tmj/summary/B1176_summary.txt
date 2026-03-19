@@ -1,0 +1,27 @@
+patient_id: B1176
+patient_age: 35
+diet_score: 7
+disability_rating: 3
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+physical_therapy_status: physical therapy
+earache_present: false
+adverse_reactions: latex | erythromycin | benadryl
+headache_frequency: 4 a month
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 6
+headache_intensity: 6
+tmj_pain_rating: 2
+sleep_disorder_type: snoring
+current_medications: Celebrex | Allegra | Lo-Ovral | Multivitamins | B complex
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | scm | shoulders | neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas:  knees | wrists | hips

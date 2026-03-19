@@ -1,0 +1,10 @@
+patient_id: B536
+patient_age: 59
+maximum_opening: 12mm
+diet_score: unknwon
+disability_rating: unkown
+neck_pain_present: False
+airway_obstruction_present: True
+jaw_crepitus: Left TMJ
+sleep_disorder_type: Snoring
+joint_arthritis_location: Left TMJ

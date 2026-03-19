@@ -1,0 +1,30 @@
+patient_id: B029
+maximum_opening_without_pain: 26mm
+patient_age: 21
+maximum_opening: 41mm
+diet_score: 7
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: one to two times per week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: high to mild
+headache_location: frontal | temporal
+current_appliance: tens
+average_daily_pain_intensity: 6
+headache_intensity: 5 | present
+pain_onset_date: 18 years of age
+tmj_pain_rating: 8
+current_medications: advil | aleve
+disc_displacement: left disc anterior dislocation with late reduction | right disc dislocation with early reduction | left disc dislocation without reduction | right disc anterior dislocation with early reduction
+muscle_pain_location: left masseter | retromandibular | right masseter | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: 2 occlusal splints for the past 9 months
+joint_pain_areas: tmj | hips | knees | ankles | left tmj | right tmj

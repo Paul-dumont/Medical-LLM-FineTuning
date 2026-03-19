@@ -1,0 +1,29 @@
+patient_id: B257 | B257 PATIENT_AGE: 20
+maximum_opening: 28mm | 39mm
+diet_score: 1 | 5 | 7
+pain_duration: afternoon
+disability_rating: 0 | 8
+jaw_function_score: 3 | 5 | 7
+tinnitus_present: false | true
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: clenching | clenching | bruxing
+earache_present: false | true
+airway_obstruction_present: false | true
+headache_frequency: 5 times per week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: forehead area
+average_daily_pain_intensity: 8
+headache_intensity: 0 | 7 | moderate to severe | present
+pain_onset_date: 18 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 0 | 6 | 7
+sleep_disorder_type: daytime tiredness
+current_medications: nyastatin | percocet
+disc_displacement: left disc dislocation | left disc dislocation without reduction | right disc dislocation without reduction | left disc dislocation | right disc dislocation | right disc anterior displacement without reduction | left disc anterior displacement without reduction
+muscle_pain_location: temporalis | masseters | mandibular pterygoids | right styloid area
+joint_arthritis_location: left tmj | right tmj | right tmj | left tmj
+joint_pain_areas: tmj | knees | left tmj | right tmj | knees

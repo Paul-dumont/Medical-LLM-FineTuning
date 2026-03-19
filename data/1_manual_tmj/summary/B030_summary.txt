@@ -1,0 +1,26 @@
+patient_id: B030
+maximum_opening_without_pain: 20mm
+patient_age: 49
+maximum_opening: 32mm
+diet_score: 9
+disability_rating: 9
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: true
+pain_aggravating_factors: having dental work done | clenching | bruxism
+earache_present: true
+airway_obstruction_present: false
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate to high moderate
+headache_location: right side frontal | temporal | posterior head |tmj_pain_rating: 10
+current_appliance: night guard for about 3 years
+average_daily_pain_intensity: 8
+headache_intensity: 9 | present
+pain_onset_date: 4 to 5 years ago
+jaw_crepitus: right tmj
+sleep_disorder_type: sleep apnea symptoms
+current_medications: effexor | singulair | temazepam | vivelle dot patch | diazepam | ibuprofen | flexeril
+disc_displacement: left disc medial dislocation with reduction | right disc lateral and anterior dislocation with reduction
+muscle_pain_location: right masseter | right medial pterygoid | right retromandibular area | right temporalis | right scm | right posterior neck | right shoulder | left retromandibular area
+joint_pain_areas: tmj | knees | hands | right tmj

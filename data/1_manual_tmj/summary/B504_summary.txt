@@ -1,0 +1,27 @@
+patient_id: B504
+patient_age: 49
+diet_score: 7
+disability_rating: 9
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: clenching | bruxism | chewing
+physical_therapy_status: novocain injections to the right tmj x3 | acupuncture | chiropractic treatment
+earache_present: true
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: 3 times per week
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: mild to moderate
+headache_location: back of the head
+average_daily_pain_intensity: 5
+headache_intensity: 7 | present
+pain_onset_date: 11 months ago
+tmj_pain_rating: 7
+sleep_disorder_type: daytime somnolence | snoring
+disc_displacement: left disc anteriorly and medially displaced with reduction | right disc anteriorly and medially displaced | right disc anteriorly dislocated
+muscle_pain_location: through most of the head and neck area
+joint_arthritis_location: right tmj
+appliance_history: splint
+joint_pain_areas: tmj

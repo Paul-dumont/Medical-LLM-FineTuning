@@ -1,0 +1,7 @@
+1.patient_id: B608
+3.patient_age: 46 years
+19.onset_triggers: Other
+23.airway_obstruction_present: True
+37.pain_onset_date: 26 years of age
+44.joint_arthritis_location: Rigth TMJ
+45.appliance_history: Orthodontics | Splint

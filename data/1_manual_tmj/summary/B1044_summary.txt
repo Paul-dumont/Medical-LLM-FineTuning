@@ -1,0 +1,9 @@
+patient_id: B1044
+patient_age: 13
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+jaw_locking: rigth tmj | left tmj
+airway_obstruction_present: true
+headache_intensity: 0
+tmj_pain_rating: 0

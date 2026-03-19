@@ -1,0 +1,26 @@
+patient_id: B1560
+maximum_opening_without_pain: 8mm
+patient_age: 21
+maximum_opening: 30mm
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: severe
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 8
+headache_intensity: 9
+pain_onset_date: 3 years ago
+tmj_pain_rating: 8
+sleep_disorder_type: snoring | somnolence
+current_medications: Flexeril | Valium | Tramadol | Halcion | Neurontin  
+disc_displacement: left disc displacement | right disc displacement
+muscle_pain_location: temporalis | masseter | retromandibular | scm | shoulders | neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

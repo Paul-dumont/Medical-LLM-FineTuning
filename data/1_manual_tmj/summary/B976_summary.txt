@@ -1,0 +1,7 @@
+patient_id: B976
+patient_age: 34
+maximum_opening: 65 mm
+muscle_symptoms_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: Tilade | Ventolin | Zestril

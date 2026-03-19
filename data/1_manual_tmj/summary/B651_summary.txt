@@ -1,0 +1,20 @@
+6.diet_score: 5
+8.disability_rating: 2
+10.jaw_function_score: 7
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+15.neck_pain_present: False
+17.physical_therapy_status: Physical theraphy | Chiropractic 
+18.earache_present: False
+22.jaw_locking: True
+25.headache_frequency: 4 a month
+27.muscle_symptoms_present: True 
+28.jaw_clicking: Left TMJ | Rigth TMJ 
+32.headache_location: Temporal
+35.headache_intensity: 5
+37.pain_onset_date: 18 years of age 
+39.tmj_pain_rating: 4
+41.current_medications:  ibuprofen | Synthroid
+42.disc_displacement: Left disc dislocation | Rigth disc dislocation
+45.appliance_history: Splint 

@@ -1,0 +1,26 @@
+patient_id: B223
+patient_age: 21
+maximum_opening: 59mm
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: grinding | clenching
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: 3-4 times per month
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: temporalis | masseters | right styloid
+headache_location: temporal | posterior head
+current_appliance: nightguard for past 7 years
+average_daily_pain_intensity: 2
+headache_intensity: 3
+tmj_pain_rating: 4
+current_medications: amitriptyline | yasmin | spironolactone
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc anterior displacement | right disc dislocation
+muscle_pain_location: mild to moderate
+joint_arthritis_location: left tmj | right tmj | right tmj | left tmj
+appliance_history: orthodontics at 5 | orthodontics from 10 to 12-1/2
+joint_pain_areas: left tmj | right tmj

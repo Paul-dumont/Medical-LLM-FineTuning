@@ -1,0 +1,7 @@
+patient_id: B270
+patient_age: 15
+maximum_opening: 50mm
+airway_obstruction_present: false
+muscle_symptoms_present: false
+disc_displacement: left disc posterior displacement | right disc posterior displacement
+appliance_history: orthodontics from 10 to 12

@@ -1,0 +1,16 @@
+patient_id: B784
+patient_age: 14
+diet_score: 2
+disability_rating: 1
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: occasional
+muscle_pain_score: moderate
+headache_intensity: 1
+pain_onset_date: 11 years old
+tmj_pain_rating: 0
+current_medications: claritin | multivitamins
+muscle_pain_location: neck

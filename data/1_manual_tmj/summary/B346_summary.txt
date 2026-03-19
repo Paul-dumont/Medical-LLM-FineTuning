@@ -1,0 +1,26 @@
+patient_id: B346
+patient_age: 57
+pain_relieving_factors: splints
+diet_score: 6
+disability_rating: 4
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: false
+pain_aggravating_factors: clenching | bruxism | left posterior cross bite tendency
+physical_therapy_status: acupuncture | cranio-sacral treatment
+earache_present: true
+onset_triggers: eating a steak
+headache_frequency: once a week
+jaw_clicking: right tmj
+headache_location: right frontal | right temporal
+current_appliance: splints
+average_daily_pain_intensity: 1
+headache_intensity: 6
+autoimmune_condition: psoriasis
+pain_onset_date: earlier this year
+tmj_pain_rating: 5
+current_medications: lexapro | wellbutrin | tylenol pm | tylenol
+disc_displacement: left disc dislocation without reduction | right disc anterior displacement without reduction
+joint_arthritis_location: right tmj | right tmj | left tmj
+appliance_history: splint for 2 years
+joint_pain_areas: right tmj | right shoulder into the right arm area

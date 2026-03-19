@@ -1,0 +1,28 @@
+patient_id: B1367
+maximum_opening_without_pain: 18mm
+patient_age: 30
+maximum_opening: 28mm
+diet_score: 9
+disability_rating: 5
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: true
+earache_present: true
+adverse_reactions: earrings
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: 7 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal
+average_daily_pain_intensity: 6
+jaw_crepitus: right tmj
+tmj_pain_rating: 7
+sleep_disorder_type: somnolence
+disc_displacement: left disc dislocation
+muscle_pain_location: temporalis | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: knees | back

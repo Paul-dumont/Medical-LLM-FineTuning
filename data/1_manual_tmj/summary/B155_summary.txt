@@ -1,0 +1,27 @@
+patient_id: B155
+patient_age: 34
+diet_score: 8
+disability_rating: 9
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: true
+pain_aggravating_factors: clenching
+earache_present: true
+jaw_locking: truemaximum_opening: 6mm
+airway_obstruction_present: true
+headache_frequency: constant
+muscle_pain_score: severe to moderate
+headache_location: throughout the head area
+current_appliance: 3x3 retainer for lower arch
+average_daily_pain_intensity: 5
+headache_intensity: 7 | present
+pain_onset_date: age of 13 to 14, worsened in the last 5 weeks
+tmj_pain_rating: 10 | severe
+current_medications: naproxen | hydrocodone | tramadol | methylprednisolone | valium | ibuprofen
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc anterior displacement | right disc anterior and lateral displacement
+muscle_pain_location: scms | posterior neck | shoulder
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics in grade school through high school | orthodontics later on as an adult
+joint_pain_areas: tmj | knees | back | fingers | left wrist

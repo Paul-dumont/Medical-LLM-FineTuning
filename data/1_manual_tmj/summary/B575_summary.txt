@@ -1,0 +1,30 @@
+1.patient_id: B575
+2.maximum_opening_without_pain: 20 mm
+3.patient_age: 16
+4.maximum_opening: 29 mm 
+6.diet_score: 6
+8.disability_rating: 3 
+10.jaw_function_score: 7
+11.tinnitus_present: True
+12.vertigo_present: False
+13.hearing_loss_present: False
+14.back_pain_present: True
+17.physical_therapy_status: Physical therapy
+18.earache_present: True
+19.onset_triggers: Other
+23.airway_obstruction_present: True 
+25.headache_frequency: 2X a week 
+27.muscle_symptoms_present: True
+28.jaw_clicking: True
+30.muscle_pain_score: Moderate 
+32.headache_location: Temples 
+34.average_daily_pain_intensity: 7 
+35.headache_intensity: 2
+37.pain_onset_date: 12 years of age 
+39.tmj_pain_rating: 6
+41.current_medications:  Doxycycline  | Hydrocodone 
+42.disc_displacement: Left TMJ | Rigth TMJ
+43.muscle_pain_location: Masseter | Retromandibular 
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Orthodontics | Splint
+46.joint_pain_areas: Hips

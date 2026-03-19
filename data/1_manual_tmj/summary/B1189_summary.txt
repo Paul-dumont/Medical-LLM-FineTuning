@@ -1,0 +1,18 @@
+patient_id: B1189
+patient_age: 18
+maximum_opening: 72 mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_intensity: 0
+pain_onset_date: 18 years old
+tmj_pain_rating: 0
+current_medications: none
+muscle_pain_location: neck

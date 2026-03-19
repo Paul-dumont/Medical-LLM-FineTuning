@@ -1,0 +1,21 @@
+patient_id: B526
+patient_age: 49
+maximum_opening: 48mm
+diet_score: 6
+disability_rating: 6
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+back_pain_present: true
+neck_pain_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+airway_obstruction_present: false
+jaw_clicking: left tmj | right tmj
+average_daily_pain_intensity: 4
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: maxair | advair | xanax | mucinex | claritin | nasonex nasal spray | vivelle patch | synthroid
+disc_displacement: left disc anteriorly displaced with reduction | right disc anteriorly displaced with early reduction | left disc dislocation with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: right elbow | discs in back | knees | fingers | right hip

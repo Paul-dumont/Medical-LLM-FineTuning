@@ -1,0 +1,24 @@
+patient_id: B452
+patient_age: 54
+maximum_opening: 45mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+airway_obstruction_present: true
+jaw_clicking: right tmj
+current_appliance: orthodontics for about 2-1/2 years
+headache_intensity: 0
+pain_onset_date: three or four years ago
+jaw_crepitus: right tmj
+tmj_pain_rating: 0
+sleep_disorder_type: daytime somnolence | snoring
+current_medications: estratest
+disc_displacement: left disc anterior displacement | left disc anterior displacement | right disc anterior displacement | left disc dislocation with reduction | right disc dislocation ith very early reduction on opening
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: neck | left shoulder | her fingers

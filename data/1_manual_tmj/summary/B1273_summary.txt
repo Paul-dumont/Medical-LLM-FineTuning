@@ -1,0 +1,11 @@
+patient_id: B1273
+maximum_opening: 53 mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_location: frontal
+headache_intensity: 0
+tmj_pain_rating: 0
+muscle_pain_location: neck

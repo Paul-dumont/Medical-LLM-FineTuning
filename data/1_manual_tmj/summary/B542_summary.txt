@@ -1,0 +1,17 @@
+1.patient_id: B543
+3.patient_age: 14
+4.maximum_opening: 30mm
+6.diet_score: 0
+8.disability_rating: 0
+10.jaw_function_score:0
+11.tinnitus_present: True
+12.vertigo_present: False
+13.hearing_loss_present: False
+15.neck_pain_present: False
+18.earache_present: False
+23.airway_obstruction_present: False
+27.muscle_symptoms_present: False
+30.muscle_pain_score: 0
+39.tmj_pain_rating: 0
+41.current_medications: Allegra 
+42.disc_displacement: False

@@ -1,0 +1,30 @@
+patient_id: B367
+patient_age: 32
+maximum_opening: 53mm
+diet_score: 4
+pain_duration: gets worse in the afternoons and evenings and usually feels better in the morning
+disability_rating: 3
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: orthodontics
+earache_present: true
+onset_triggers: dental work where they put clamps on his teeth
+adverse_reactions: cedar
+jaw_locking: true
+headache_frequency: almost daily
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: left temporal | right temporal
+average_daily_pain_intensity: 6
+headache_intensity: 6 | present
+pain_onset_date: age of 11 or 12
+tmj_pain_rating: 7
+sleep_disorder_type: snoring | snoring | sleep apnea symptoms
+current_medications: advil | claritin
+disc_displacement: left disc lateral and maybe anterior displacement | right disc maybe lateral displacement | left disc lateral displacement | right disc dislocation
+muscle_pain_location: temporalis | masseter | styloid | scms
+joint_arthritis_location: left tmj  right tmj | left tmj | right tmj
+appliance_history: orthodontics from the age of 14 to 16 | splint from about the age of 17 for about two years | three different splints
+joint_pain_areas: tmj | left tmj | right tmj

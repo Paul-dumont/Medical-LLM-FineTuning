@@ -1,0 +1,22 @@
+1.patient_id: B620
+3.patient_age: 19
+4.maximum_opening: 38 mm
+6.diet_score: 4
+8.disability_rating: 2 
+10.jaw_function_score: 5
+11.tinnitus_present: True
+12.vertigo_present: False
+13.hearing_loss_present: False
+18.earache_present: True
+20.adverse_reactions: Grasses | Weeds | Pollens | Trees
+27.muscle_symptoms_present: True
+28.jaw_clicking: Rigth TMJ
+31.migraine_history: True
+32.headache_location: Frontal | Temporal
+34.average_daily_pain_intensity: 5
+35.headache_intensity: 5.5
+38.jaw_crepitus: Left TMJ
+39.tmj_pain_rating: 7
+41.current_medications: Aleve | Imitrex
+42.disc_displacement: Rigth disc disclocation | Left disc dislocation
+44.joint_arthritis_location: Rigth TMJ | Left TMJ

@@ -1,0 +1,27 @@
+patient_id: B1409
+patient_age: 31
+maximum_opening: 29mm
+diet_score: 9
+disability_rating: 8
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+physical_therapy_status: physical therapy | chiropractic
+earache_present: true
+jaw_locking: true
+muscle_symptoms_present: true
+muscle_pain_score: high 
+headache_location: temporal | posterior head
+current_appliance: splint
+average_daily_pain_intensity: 9
+headache_intensity: 5
+pain_onset_date: 5 years ago
+tmj_pain_rating: 7
+sleep_disorder_type: snoring
+current_medications: Robaxin | Tylenol | Ibuprofen | Aleve
+disc_displacement: left disc dislocation withouth reduction | right disc dislocation withouth reduction
+muscle_pain_location: temporalis | masseter | neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knees

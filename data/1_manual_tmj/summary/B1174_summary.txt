@@ -1,0 +1,23 @@
+patient_id: B1174
+patient_age: 33
+diet_score: 4
+disability_rating: 2
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 1 a month
+muscle_symptoms_present: true
+jaw_clicking: rigth tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal
+average_daily_pain_intensity: 5
+pain_onset_date: 18 years of age
+tmj_pain_rating: 6
+current_medications: Paxil | Tylenol | Aleve
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: temporalis | masseter 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splints

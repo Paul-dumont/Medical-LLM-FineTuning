@@ -1,0 +1,12 @@
+patient_id: B1332
+patient_age: 16
+maximum_opening: 47mm
+neck_pain_present: false
+airway_obstruction_present: true
+headache_location: frontal
+current_appliance: orthodontics
+pain_onset_date: 16 years old
+sleep_disorder_type: snoring
+current_medications: Symbicort | Mometasone | Desloratadine
+muscle_pain_location: neck
+appliance_history: orthodontics

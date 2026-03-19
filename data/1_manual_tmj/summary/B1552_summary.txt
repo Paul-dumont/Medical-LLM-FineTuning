@@ -1,0 +1,22 @@
+patient_id: B1552
+maximum_opening_without_pain: 19mm
+patient_age: 32
+maximum_opening: 27mm
+diet_score: 9
+disability_rating: 10
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+physical_therapy_status: physical therapy
+earache_present: true
+depression_present: true
+muscle_symptoms_present: true
+muscle_pain_score: high 
+headache_location: frontal | temporal
+average_daily_pain_intensity: 10
+headache_intensity: 10
+tmj_pain_rating: 10
+muscle_pain_location: temporalis | masseter | retromandibular | shoulders | neck 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: hand

@@ -1,0 +1,27 @@
+patient_id: B006
+maximum_opening_without_pain: 17mm
+patient_age: 55
+maximum_opening: 32mm
+diet_score: 3
+disability_rating: 6
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism | splint therapy
+physical_therapy_status: physical therapy
+earache_present: true
+headache_frequency: 1-2 times per week
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: mild to severe
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 5
+headache_intensity: 3 | present
+pain_onset_date: age of 51
+tmj_pain_rating: 5
+current_medications: tylenol
+muscle_pain_location: temporalis | masseters | retromandibular area | shoulders | medial pterygoids | scm
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint 2 years ago
+joint_pain_areas: tmj | left tmj | right tmj | left tmj | shoulders

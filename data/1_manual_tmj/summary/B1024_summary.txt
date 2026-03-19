@@ -1,0 +1,22 @@
+patient_id: B1024
+patient_age: 57
+diet_score: 7
+disability_rating: 5
+sleep_apnea_diagnosed: true
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+adverse_reactions: latex
+muscle_symptoms_present: true
+muscle_pain_score: severe
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 7
+pain_onset_date: 57 years old
+jaw_crepitus: left tmj | rigth tmj
+tmj_pain_rating: 7
+sleep_disorder_type: somnolence
+muscle_pain_location: temporalis | masseter | scm
+joint_arthritis_location: right tmj

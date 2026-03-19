@@ -1,0 +1,23 @@
+patient_id: B1501
+patient_age: 45
+maximum_opening: 50 mm
+diet_score: 8
+disability_rating: 8
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 3 a month
+headache_location: througth the head
+average_daily_pain_intensity: 4
+headache_intensity: 7
+jaw_crepitus: left tmj | right tmj
+sleep_disorder_type: snoring | somnolence
+current_medications: Excedrin
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: elbows

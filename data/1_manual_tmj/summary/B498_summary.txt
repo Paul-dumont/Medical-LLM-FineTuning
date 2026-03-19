@@ -1,0 +1,27 @@
+patient_id: B498
+patient_age: 46
+diet_score: 2
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: very mild
+headache_location: left behind the eye | left frontal | temporal | left side
+average_daily_pain_intensity: 7
+headache_intensity: 5 | present
+pain_onset_date: age of 12
+tmj_pain_rating: 2 but can escalate to 9
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms
+current_medications: hormone replacement | pain medication
+disc_displacement: left disc anteromedially dislocated with reduction | right disc may be slightly anteriorly displaced at the lateral aspect of the joint and also slightly medially displaced
+muscle_pain_location: left masseter | posterior neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontic treatment from about age 34 to 36 | splint therapy x3 | orthodontics as teenager with head gear
+joint_pain_areas: knees | hips | elbows | fingers | left index finger | wrists | shoulder area | left tmj

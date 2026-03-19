@@ -1,0 +1,21 @@
+patient_id: B440
+patient_age: 17
+maximum_opening: 52mm
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+neck_pain_present: false
+pain_aggravating_factors: anterior open bite
+earache_present: false
+adverse_reactions: none
+muscle_symptoms_present: false
+jaw_clicking: left tmj
+current_appliance: lower 3 x 3 retainer | orthodontics from the ages of 12 to 13
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: ranitidine | miralax | albuterol | flovent
+disc_displacement: left disc anterior displacement with reduction | left disc dislocation with reduction | right disc dislocation without reduction | left disc dislocation | right disc dislocation
+joint_arthritis_location: right tmj | left tmj | right tmj
+joint_pain_areas: right hip | left knee

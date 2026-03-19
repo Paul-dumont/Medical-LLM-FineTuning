@@ -1,0 +1,10 @@
+patient_id: B1018
+patient_age: 60
+maximum_opening: 55 mm
+tinnitus_present: true
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_intensity: 0
+pain_onset_date: 60 years old
+tmj_pain_rating: 0

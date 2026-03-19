@@ -1,0 +1,17 @@
+4.maximum_opening: 31 mm
+6.diet_score: 5
+8.disability_rating: 5
+10.jaw_function_score: 5
+11.tinnitus_present: False
+12.vertigo_present: False
+18.earache_present: False
+30.muscle_pain_score: High
+31.migraine_history: True
+32.headache_location: Frontal | Temporal | Posterior head
+34.average_daily_pain_intensity: 9
+35.headache_intensity: 9
+39.tmj_pain_rating: 8
+41.current_medications: Norvasc | Cymbalta | Wellbutrin | Topamax | Ambien | Seroquel | Imitrex | Midrin | Maxalt | Percocet | Antibiotics
+43.muscle_pain_location: Styloid | Masseter | Shoulder
+45.appliance_history: Splint
+46.joint_pain_areas: Neck | Hips | Lower back | Shoulder

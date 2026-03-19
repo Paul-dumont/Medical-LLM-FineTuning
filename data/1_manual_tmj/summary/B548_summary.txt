@@ -1,0 +1,20 @@
+1.patient_id: B548
+3.patient_age: 51
+4.maximum_opening: 52mm
+6.diet_score: 0
+8.disability_rating: 0
+9.sleep_apnea_diagnosed: True
+10.jaw_function_score: 0
+11.tinnitus_present: False
+12.vertigo_present: False
+18.earache_present: False
+20.adverse_reactions: Allergies
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: False
+30.muscle_pain_score: 0
+31.migraine_history: False
+35.headache_intensity: 0
+38.jaw_crepitus: True
+39.tmj_pain_rating: 0
+40.sleep_disorder_type: Snoring | Somnolence
+45.appliance_history: Orthodontics | Nigthguard

@@ -1,0 +1,26 @@
+patient_id: B371
+patient_age: 21
+maximum_opening: 40mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: anterior open bite | left posterior crossbite | right posterior crossbite | bruxism | anterior open bite
+earache_present: true
+adverse_reactions: dust | molds | cats | a few things like that
+airway_obstruction_present: true
+headache_frequency: once a month
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 2
+headache_intensity: 6 | present
+pain_onset_date: age of 13
+tmj_pain_rating: 8
+current_medications: none
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior dislocation reduction | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: masseter | medial pterygoids | styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: tmj | left tmj | right tmj

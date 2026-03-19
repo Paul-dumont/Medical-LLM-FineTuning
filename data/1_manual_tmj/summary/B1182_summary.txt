@@ -1,0 +1,21 @@
+patient_id: B1182
+maximum_opening_without_pain: 33 mm
+patient_age: 13
+maximum_opening: 45 mm
+diet_score: 6
+disability_rating: 1
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+jaw_locking: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: temporal
+average_daily_pain_intensity: 4
+headache_intensity: 0
+jaw_crepitus: left tmj | rigth tmj
+tmj_pain_rating: 5
+disc_displacement: left disc dislocation withouth reduction | right disc dislocation withouth reduction
+muscle_pain_location: temporalis | masseter | shoulders | styloid 
+joint_arthritis_location: left tmj | right tmj

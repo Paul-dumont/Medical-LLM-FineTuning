@@ -1,0 +1,14 @@
+patient_id: B1127
+patient_age: 20
+diet_score: 3
+disability_rating: 5
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_location: frontal
+tmj_pain_rating: 5
+muscle_pain_location: neck
+appliance_history: orthodontics

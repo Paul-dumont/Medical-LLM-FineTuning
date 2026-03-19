@@ -1,0 +1,28 @@
+patient_id: B876
+patient_age: 29
+maximum_opening: 43mm
+diet_score: 2
+disability_rating: 4
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+migraine_history: true
+headache_location: frontal | temporal | posterior head | top of the head
+current_appliance: splint
+average_daily_pain_intensity: 8
+headache_intensity: 8
+pain_onset_date: 29 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 7
+sleep_disorder_type: insomnia
+current_medications: Lexapro | Claritin | OCP | Benadryl | Melatonin | Advil | Minocin
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

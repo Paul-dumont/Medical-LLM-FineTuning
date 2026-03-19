@@ -1,0 +1,24 @@
+patient_id: B1443
+patient_age: 20
+maximum_opening: 53mm
+diet_score: 2
+disability_rating: 1
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+physical_therapy_status: chiropractor
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+muscle_pain_score: moderate
+current_appliance: orthodontics
+average_daily_pain_intensity: 2
+headache_intensity: 3
+tmj_pain_rating: 3
+sleep_disorder_type: snoring | somnolence
+current_medications: Proventil
+disc_displacement: left disc dislocation withouth reduction | right disc dislocation withouth reduction
+muscle_pain_location: masseter | shoulders 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

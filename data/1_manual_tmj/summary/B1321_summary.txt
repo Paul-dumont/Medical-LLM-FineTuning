@@ -1,0 +1,28 @@
+patient_id: B1321
+maximum_opening_without_pain: 31mm
+patient_age: 26
+maximum_opening: 57mm
+diet_score: 7
+disability_rating: 9
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: splint
+earache_present: true
+adverse_reactions: Earrings
+jaw_locking: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: high 
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 6
+pain_onset_date: 24 years of age
+jaw_crepitus: right tmj
+tmj_pain_rating: 9
+current_medications: Adderall | Lexapro | Birth control  | Cyclobenzaprine | Valacyclovir
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint

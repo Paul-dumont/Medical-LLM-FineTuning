@@ -1,0 +1,25 @@
+patient_id: B1107
+maximum_opening_without_pain: 15 mm
+patient_age: 40
+maximum_opening: 45 mm
+diet_score: 7
+disability_rating: 8
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+physical_therapy_status: physical therapy
+earache_present: true
+adverse_reactions: codeine
+fibromyalgia_present: true
+headache_frequency: 4 a week
+muscle_symptoms_present: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 8
+headache_intensity: 8
+pain_onset_date: 15 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 8
+current_medications: Effexor | Naproxen | Estratest | Vioxx | Elavil
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint

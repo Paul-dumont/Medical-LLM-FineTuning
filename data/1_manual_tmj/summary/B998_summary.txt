@@ -1,0 +1,24 @@
+patient_id: B998
+patient_age: 20
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: splint
+physical_therapy_status: chiropractic
+earache_present: false
+headache_frequency: 4 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | rigth tmj
+muscle_pain_score: severe
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 8
+tmj_pain_rating: 8
+current_medications: Advil
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | scm | neck 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

@@ -1,0 +1,10 @@
+patient_id: B1323
+patient_age: 47
+maximum_opening: 58mm
+sleep_apnea_diagnosed: true
+earache_present: false
+airway_obstruction_present: true
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: prilosec
+appliance_history: orthodontics

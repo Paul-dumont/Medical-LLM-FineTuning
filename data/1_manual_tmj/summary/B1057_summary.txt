@@ -1,0 +1,17 @@
+patient_id: B1057
+patient_age: 24
+maximum_opening: 56mm
+diet_score: 7
+disability_rating: 3
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_location: frontal
+headache_intensity: 0
+tmj_pain_rating: 0
+appliance_history: orthodontics
+joint_pain_areas: back

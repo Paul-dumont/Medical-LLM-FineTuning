@@ -1,0 +1,25 @@
+patient_id: B1091
+maximum_opening_without_pain: 19mm
+patient_age: 36
+maximum_opening: 52mm
+diet_score: 4
+disability_rating: 8
+sleep_apnea_diagnosed: false
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: severe
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 8
+headache_intensity: 9
+tmj_pain_rating: 8
+sleep_disorder_type: snoring | somnolence
+current_medications: Mirtazapine | Temazepam | Lipofen
+disc_displacement: left disc displacement with reduction | rigth disc displacement with reduction
+muscle_pain_location: temporalis | masseter | scm | shoulders | neck | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: knees

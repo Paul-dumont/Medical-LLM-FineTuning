@@ -1,0 +1,27 @@
+patient_id: B922
+maximum_opening_without_pain: 29 mm
+patient_age: 34
+maximum_opening: 59 mm
+diet_score: 3
+disability_rating: 0
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: true
+earache_present: false
+depression_present: true
+headache_frequency: 2 a month
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal | right frontal
+average_daily_pain_intensity: 2
+headache_intensity: 8
+pain_onset_date: 19 years of age
+jaw_crepitus: left tmj 
+tmj_pain_rating: 1
+current_medications: Paxil | Wellbutrin | Naproxen | Prilosec | Norflex | APAP | Ibuprofen
+muscle_pain_location: masseter | shoulders | neck | styloid 
+joint_arthritis_location: left disc dislocation | rigth disc disclocation
+appliance_history: orthodontics
+joint_pain_areas:  knees | back

@@ -1,0 +1,30 @@
+patient_id: B448
+patient_age: 23
+maximum_opening: 58mm
+diet_score: 3
+disability_rating: 2
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism | left posterior cross bite | right posterior cross bite | left posterior cross bite | right posterior cross bite
+earache_present: true
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal | bilateral
+current_appliance: 3 x 3 retainer in the lower arch
+average_daily_pain_intensity: 6
+headache_intensity: 7
+pain_onset_date: 11
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 6
+sleep_disorder_type: sleep apnea symptoms
+current_medications: none
+disc_displacement: left disc medial displacement| right disc posteromedial displacement
+muscle_pain_location: temporalis | masseters | styloid areas | right shoulder
+appliance_history: orthodontics from the age of 11 to 14
+joint_pain_areas: wrists | hands | fingers | neck | left tmj | right tmj

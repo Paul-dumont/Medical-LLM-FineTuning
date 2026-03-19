@@ -1,0 +1,21 @@
+patient_id: B1134
+patient_age: 20
+diet_score: 6
+disability_rating: 6
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+physical_therapy_status: physical therapy
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal | temple
+headache_intensity: 5
+pain_onset_date: 20 years of age
+tmj_pain_rating: 9
+current_medications: Halcion | Flexeril | Ibuprofen
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | scm | shoulders | neck | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

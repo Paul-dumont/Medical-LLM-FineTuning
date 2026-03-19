@@ -1,0 +1,7 @@
+patient_id: B1426
+patient_age: 7
+airway_obstruction_present: true
+headache_location: frontal 
+headache_intensity: 0
+sleep_disorder_type: snoring
+muscle_pain_location: neck

@@ -1,0 +1,22 @@
+patient_id: B1282
+patient_age: 39
+maximum_opening: 44 mm mm
+diet_score: 0
+disability_rating: 4
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+neck_pain_present: false
+earache_present: true
+airway_obstruction_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+average_daily_pain_intensity: 1
+headache_intensity: 0
+pain_onset_date: 35 years of age
+tmj_pain_rating: 0
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: neck 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint 

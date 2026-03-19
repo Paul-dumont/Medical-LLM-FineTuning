@@ -1,0 +1,23 @@
+patient_id: B1324
+patient_age: 50
+diet_score: 8
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: true
+physical_therapy_status: physical therapy
+earache_present: true
+onset_triggers: mva
+headache_frequency: daily
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: temporal | back of the heaad
+average_daily_pain_intensity: 5
+headache_intensity: 5
+tmj_pain_rating: 5
+current_medications: ibuprofen | Celebrex
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | shoulders | neck
+appliance_history: splint
+joint_pain_areas: knees | neck 

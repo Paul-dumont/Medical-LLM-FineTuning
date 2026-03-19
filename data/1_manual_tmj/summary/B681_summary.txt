@@ -1,0 +1,20 @@
+1.patient_id: B681
+3.patient_age: 23
+4.maximum_opening: 52 mm 
+6.diet_score: 0
+8.disability_rating: 4
+10.jaw_function_score: 4
+15.neck_pain_present: True
+27.muscle_symptoms_present: True
+28.jaw_clicking: Rigth TMJ 
+29.previous_medications: Celebrex
+30.muscle_pain_score: Moderate
+32.headache_location: Frontal | Temporal 
+34.average_daily_pain_intensity: 5
+35.headache_intensity: 2
+39.tmj_pain_rating: 0
+40.sleep_disorder_type: Snoring | Somnolence
+41.current_medications:  Adderall | Xanax | Valtrex
+43.muscle_pain_location: Masseter | Temporalis | SCMs | Neck
+45.appliance_history: Ortnodontics
+46.joint_pain_areas: Hands 

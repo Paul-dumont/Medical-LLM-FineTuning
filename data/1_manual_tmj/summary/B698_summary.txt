@@ -1,0 +1,23 @@
+1.patient_id: B698 
+3.patient_age: 47
+4.maximum_opening: 43 mm
+6.diet_score: 6
+8.disability_rating: 3
+10.jaw_function_score: 4
+11.tinnitus_present: False
+12.vertigo_present: False
+18.earache_present: False
+23.airway_obstruction_present: True
+25.headache_frequency: Occasionally 
+26.pain_frequency: Periodically 
+27.muscle_symptoms_present: True
+29.previous_medications: Tylenol
+30.muscle_pain_score: Moderate
+35.headache_intensity: 5
+37.pain_onset_date: 47 years of age
+39.tmj_pain_rating: 5
+40.sleep_disorder_type: Snoring
+41.current_medications:  Prevacid | Remicade | Propecia | Folic acid.  
+42.disc_displacement: Left articular disc dislocation | Rigth articular disc dislocation
+43.muscle_pain_location: Masseter | Styloid
+44.joint_arthritis_location: Rigth TMJ 

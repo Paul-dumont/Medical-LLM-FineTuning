@@ -1,0 +1,9 @@
+patient_id: B1592
+patient_age: 23
+sleep_apnea_diagnosed: true
+back_pain_present: true
+airway_obstruction_present: true
+headache_intensity: 2
+tmj_pain_rating: 0
+current_medications: Depakene | Klonopin | Nasonex
+appliance_history: orthodontics

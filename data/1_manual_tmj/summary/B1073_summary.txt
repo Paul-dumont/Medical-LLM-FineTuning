@@ -1,0 +1,11 @@
+patient_id: B1073
+patient_age: 20
+jaw_locking: left tmj | right tmj
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal
+pain_onset_date: 6 years ago
+disc_displacement: left disc displacement | rigth disc displacement
+muscle_pain_location: masseter | styloid 
+appliance_history: orthodontics

@@ -1,0 +1,28 @@
+patient_id: B1205
+maximum_opening_without_pain: 40 mm
+patient_age: 44
+maximum_opening: 52mm
+pain_relieving_factors: splint
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism | crossbite
+earache_present: false
+headache_frequency: 2 a week
+muscle_symptoms_present: true
+muscle_pain_score: mild
+migraine_history: true
+headache_location: frontal | temporal | posterior head 
+average_daily_pain_intensity: 5
+headache_intensity: 9
+pain_onset_date: 44 years old
+tmj_pain_rating: 5
+current_medications: lidocaine | B2 | B6 | B12 | magnesium | Allegra
+disc_displacement: left disc dislocation | right disc dislocation withouth reduction
+muscle_pain_location: temporalis | masseter 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knee

@@ -1,0 +1,27 @@
+patient_id: B984
+maximum_opening_without_pain: 25mm
+patient_age: 23
+maximum_opening: 43mm
+diet_score: 3
+disability_rating: 0
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+adverse_reactions: penicillin | cephalosporins | sppke juice | molds | pollen
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: temporal
+average_daily_pain_intensity: 2
+headache_intensity: 6
+pain_onset_date: 15 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 4
+sleep_disorder_type: snoring
+current_medications: Elavil | Zyrtec
+disc_displacement: left disc displacenemnt | rigth disc displacement
+muscle_pain_location: temporalis | scm | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | night guard
+joint_pain_areas: knees | wrists | shoulders 

@@ -1,0 +1,32 @@
+patient_id: B880
+maximum_opening_without_pain: 30mm
+patient_age: 46
+maximum_opening: 54mm
+pain_relieving_factors: splint
+diet_score: 5
+disability_rating: 8
+sleep_apnea_diagnosed: true
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+back_pain_present: true
+neck_pain_present: true
+physical_therapy_status: physical therapy
+earache_present: false
+adverse_reactions: cipro | sulfa
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+muscle_pain_score: high 
+headache_location: throughout the head 
+current_appliance: splint
+average_daily_pain_intensity: 8
+headache_intensity: 8
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 5
+sleep_disorder_type: sleep apnea
+current_medications: Vicodin | Estriol | Progesterone cream
+muscle_pain_location: temporalis | masseter | scm | shoulders | neck | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: neck

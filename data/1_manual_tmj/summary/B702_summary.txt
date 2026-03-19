@@ -1,0 +1,18 @@
+patient_id: B702
+maximum_opening_without_pain: 24 mm
+patient_age: 27
+maximum_opening: 28mm
+tinnitus_present: False
+vertigo_present: False
+earache_present: False
+headache_frequency: 1 a week
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+current_appliance: Orthodontics
+current_medications: Ortho-Cept | Zyrtec
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: Knees

@@ -1,0 +1,22 @@
+patient_id: B1585
+patient_age: 42
+maximum_opening: 44 mm
+diet_score: 0
+disability_rating: 1
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+average_daily_pain_intensity: true
+headache_intensity: 0
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 5
+sleep_disorder_type: snoring
+current_medications: norco
+disc_displacement: right disc dislocation
+muscle_pain_location: shoulders | neck
+joint_arthritis_location: right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: shoulders | right shoulder 

@@ -1,0 +1,21 @@
+patient_id: B865
+maximum_opening_without_pain: 30mm
+patient_age: 58
+maximum_opening: 40mm
+diet_score: 5
+disability_rating: 9
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+muscle_symptoms_present: true
+muscle_pain_score: high 
+headache_location: frontal | temporal | behind the eye
+average_daily_pain_intensity: 8
+headache_intensity: 4
+jaw_crepitus: left tmj 
+tmj_pain_rating: 7
+current_medications: about | medications | which
+muscle_pain_location: temporalis | retromandibular | scm | shoulders | neck 
+joint_arthritis_location: left tmj
+joint_pain_areas: tmj

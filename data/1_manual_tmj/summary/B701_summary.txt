@@ -1,0 +1,9 @@
+patient_id: B701
+patient_age: 9
+maximum_opening: 28 mm
+tinnitus_present: False
+earache_present: False
+airway_obstruction_present: true
+headache_intensity: 0
+muscle_pain_location: neck | posterior neck
+joint_pain_areas: tmj

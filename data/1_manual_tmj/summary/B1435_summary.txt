@@ -1,0 +1,24 @@
+patient_id: B1435
+maximum_opening: 53mm
+diet_score: 4
+disability_rating: 5
+sleep_apnea_diagnosed: true
+jaw_function_score: 2
+vertigo_present: true
+airway_obstruction_present: true
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: temporal
+average_daily_pain_intensity: 4
+headache_intensity: 8
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 8
+sleep_disorder_type: sleep apnea | snoring | somnolence
+current_medications: bedtime | zoloft
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | scm | shoulders | neck | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: knees | neck

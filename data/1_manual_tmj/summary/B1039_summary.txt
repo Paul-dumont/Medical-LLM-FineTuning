@@ -1,0 +1,26 @@
+patient_id: B1039
+patient_age: 34
+maximum_opening: 50 mm 
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: penicillin | earrings
+airway_obstruction_present: true
+headache_frequency: 2 a week
+jaw_clicking: rigth tmj
+headache_location: frontal | temporal
+average_daily_pain_intensity: 1
+headache_intensity: 4
+pain_onset_date: 34 years old
+jaw_crepitus: left tmj 
+tmj_pain_rating: 0
+sleep_disorder_type: snoring
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: knees

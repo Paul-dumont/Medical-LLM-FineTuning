@@ -1,0 +1,10 @@
+patient_id: B1468
+patient_age: 18
+sleep_apnea_diagnosed: true
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_symptoms_present: false
+jaw_clicking: left tmj | rigth  tmj
+pain_onset_date: 18 years old
+sleep_disorder_type: sleep apnea | snoring | somnolence
+muscle_pain_location: neck

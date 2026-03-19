@@ -1,0 +1,25 @@
+patient_id: B1481
+patient_age: 21
+maximum_opening: 20 mm
+diet_score: 8
+disability_rating: 8
+jaw_function_score: 10
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: splint | Therabite
+physical_therapy_status: physical therapy
+earache_present: true
+adverse_reactions: demerol
+jaw_locking: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal 
+average_daily_pain_intensity: 10
+headache_intensity: 9
+pain_onset_date: 21 years old
+tmj_pain_rating: 9
+current_medications: Advil
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint

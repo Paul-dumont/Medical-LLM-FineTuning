@@ -1,0 +1,20 @@
+patient_id: B528
+patient_age: 17
+maximum_opening: 46mm
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+jaw_clicking: left tmj | right tmj
+headache_intensity: 0
+tmj_pain_rating: 2
+sleep_disorder_type: daytime somnolence | daytime somnolence | snoring | sleep apnea symptoms | snoring
+disc_displacement: left disc dislocation medially and slightly anteriorly | right disc dislocation medially and slightly anteriorly | left disc dislocation with reduction | right disc dislocation without reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontic treatment | orthodontic treatment around the age of 12 with growth appliance to try to grow the mandible
+joint_pain_areas: tmj | left tmj | right tmj

@@ -1,0 +1,22 @@
+patient_id: B732
+maximum_opening_without_pain: 30mm
+patient_age: 44
+maximum_opening: 33 mm
+diet_score: 1
+disability_rating: 1
+sleep_apnea_diagnosed: false
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+onset_triggers: other
+adverse_reactions: penicillin
+airway_obstruction_present: true
+pain_onset_date: 8 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 4.5
+sleep_disorder_type: snoring 
+joint_arthritis_location: right tmj
+appliance_history: orthodontics
+joint_pain_areas: tmj

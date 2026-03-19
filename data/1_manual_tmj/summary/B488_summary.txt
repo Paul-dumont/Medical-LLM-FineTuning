@@ -1,0 +1,27 @@
+patient_id: B488
+maximum_opening_without_pain: 20mm
+patient_age: 40
+maximum_opening: 47mm
+diet_score: 6
+disability_rating: 9
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching
+physical_therapy_status: chiropractic treatment 20 sessions about 2 to 3 per week | epidural injections into the lower cervical vertebrae | aquatic therapy earlier this year and still continues
+earache_present: true
+onset_triggers: bus accident
+headache_frequency: three times per week
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: high moderate to low severe
+headache_location: right frontal | right temporal | posterior head area
+average_daily_pain_intensity: 8
+headache_intensity: 8 | present
+pain_onset_date: 39 years old
+tmj_pain_rating: 8
+disc_displacement: left disc dislocation with reduction | right disc laterally displaced with reduction | left disc medially displaced with reduction | right disc medially displaced with reduction
+muscle_pain_location: retromandibular area | right shoulder | masseter | right medial pterygoid | right scm | left medial pterygoid | left scm | left shoulder | right temporalis
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj | right shoulder | right elbow | right wrist | right hip | right ankle | neck | back

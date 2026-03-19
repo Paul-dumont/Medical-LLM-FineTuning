@@ -1,0 +1,9 @@
+patient_id: B789
+patient_age: 23
+sleep_apnea_diagnosed: true
+airway_obstruction_present: true
+headache_location: frontal
+pain_onset_date: 23 years old
+sleep_disorder_type: snoring
+muscle_pain_location: neck
+appliance_history: orthodontics

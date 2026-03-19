@@ -1,0 +1,18 @@
+patient_id: B790
+patient_age: 14
+maximum_opening: 29mm
+diet_score: 5
+disability_rating: 2
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+pain_aggravating_factors: talking
+earache_present: false
+airway_obstruction_present: true
+headache_location: temporal
+average_daily_pain_intensity: 3
+headache_intensity: 3
+tmj_pain_rating: 6
+current_medications: doryx | muscle relaxer
+disc_displacement: right disc dislocation withouth reduction
+appliance_history: orthodontics

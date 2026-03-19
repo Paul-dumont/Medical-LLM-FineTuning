@@ -1,0 +1,12 @@
+patient_id: B538
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+airway_obstruction_present:False 
+headache_frequency: 2 times a week 
+pain_frequency: Occasional
+muscle_symptoms_present: False
+muscle_pain_score: 0
+headache_location:Top of the head | frontal 
+headache_intensity:3 
+tmj_pain_rating: 0

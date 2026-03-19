@@ -1,0 +1,23 @@
+patient_id: B1296
+patient_age: 31
+diet_score: 7
+disability_rating: 6
+sleep_apnea_diagnosed: true
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+muscle_symptoms_present: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 9
+headache_intensity: 9
+autoimmune_condition: rheumatoid arthritis
+pain_onset_date: 9 years ago
+tmj_pain_rating: 9
+sleep_disorder_type: snoring | somnolence
+current_medications: ibuprofen | tylenol
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: hands | knees

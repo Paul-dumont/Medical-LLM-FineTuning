@@ -1,0 +1,24 @@
+patient_id: B825
+patient_age: 31
+maximum_opening: 53mm
+pain_relieving_factors: splint
+diet_score: 1
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 4 a week
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal 
+current_appliance: splint
+average_daily_pain_intensity: 5
+headache_intensity: 5
+pain_onset_date: 5 years ago 
+tmj_pain_rating: 0
+current_medications: BCP | Advil | Claritin
+muscle_pain_location: masseter | styloid 
+appliance_history: orthodontics | splint

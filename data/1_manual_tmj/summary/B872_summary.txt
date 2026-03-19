@@ -1,0 +1,7 @@
+patient_id: B872
+patient_age: 26
+maximum_opening: 59 mm 
+sleep_apnea_diagnosed: true
+neck_pain_present: false
+airway_obstruction_present: false
+joint_pain_areas:j

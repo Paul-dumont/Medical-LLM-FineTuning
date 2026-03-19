@@ -1,0 +1,23 @@
+patient_id: B1487
+patient_age: 20
+maximum_opening: 56mm
+diet_score: 0
+disability_rating: 2
+sleep_apnea_diagnosed: false
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | rigth tmj
+average_daily_pain_intensity: 6
+headache_intensity: 0
+jaw_crepitus: left tmj
+tmj_pain_rating: 4
+sleep_disorder_type: somnolence
+current_medications: Prozac
+appliance_history: orthodontics |  splint
+joint_pain_areas: knee

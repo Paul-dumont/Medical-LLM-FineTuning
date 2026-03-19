@@ -1,0 +1,35 @@
+patient_id: B369
+maximum_opening_without_pain: 10mm
+patient_age: 25
+maximum_opening: 30mm
+pain_relieving_factors: chiropractic treatment | splint
+diet_score: 9
+disability_rating: 9
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+neck_pain_present: true
+pain_aggravating_factors: splints | clenching | bruxism
+physical_therapy_status: chiropractic treatment | physical therapy | ultrasound | moist heat
+earache_present: true
+adverse_reactions: wellbutrin | cheap earrings
+jaw_locking: true
+airway_obstruction_present: false
+depression_present: true
+headache_frequency: several times per week
+pain_frequency: worse in the morning when she wakes up
+jaw_clicking: left tmj | right tmj
+headache_location: most of the head
+current_appliance: splint
+average_daily_pain_intensity: 7
+headache_intensity: 7 | severe
+pain_onset_date: 15 or 16 years old
+jaw_crepitus: left tmj
+tmj_pain_rating: 10 | severe
+current_medications: lexapro | percocet | diazepam | naproxen | ibuprofen | prednisone
+disc_displacement: left disc lateral and anterior displacement without reduction | right disc dislocation without reduction | left disc lateral and anterior displacement without reduction | right disc probable anterior dislocation with some reduction muscle_pain_score: milder
+muscle_pain_location: temporalis | masseters | shoulder
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from the age of 11 to 13 | multiple splints
+joint_pain_areas: tmj | left tmj | left knee | neck

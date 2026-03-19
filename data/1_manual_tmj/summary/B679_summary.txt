@@ -1,0 +1,25 @@
+1.patient_id: B679
+2.maximum_opening_without_pain: 20 mm 
+3.patient_age: 58
+4.maximum_opening: 30 mm
+6.diet_score: 7
+8.disability_rating: 10
+10.jaw_function_score: 8
+11.tinnitus_present: True
+12.vertigo_present: True
+18.earache_present: True
+19.onset_triggers: Other
+23.airway_obstruction_present: True
+24.depression_present: True
+25.headache_frequency: Occasional
+27.muscle_symptoms_present: True
+31.migraine_history: True
+32.headache_location: Temporal
+34.average_daily_pain_intensity: 3
+35.headache_intensity: 3
+37.pain_onset_date: 18 years of age
+39.tmj_pain_rating: 8
+41.current_medications:  Aspirin | Ibuprofen | Prilosec | Bupropion | Gabapentin |  Synthroid | Loratadine | Aqueous nasal steroid | Vagifem | Co-enzyme Q-10
+44.joint_arthritis_location: Left TMJ | Rigth TMJ 
+45.appliance_history: Orthodontics | Splint
+46.joint_pain_areas: Knee

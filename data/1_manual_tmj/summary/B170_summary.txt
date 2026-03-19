@@ -1,0 +1,31 @@
+patient_id: B170
+maximum_opening_without_pain: 40mm
+patient_age: 48
+maximum_opening: 50mm
+pain_relieving_factors: splint therapy
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+onset_triggers: jaw lock during endodontic work, but unknown for sure
+adverse_reactions: penicillin | erythromycin | aspirin | sulfa drugs | tequin | cheap earrings
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+headache_location: temple area
+current_appliance: orthodontics since 8 months ago
+average_daily_pain_intensity: 4
+headache_intensity: 3 | present
+pain_onset_date: 11 years ago | 40 years ago
+tmj_pain_rating: 3
+sleep_disorder_type: snoring | daytime somnolence
+current_medications: clarinex | zyrtec | singular | multivitamins | osteobiflex triple | bromelain | l-lysine
+disc_displacement: left disc anterior displacement with reduction | right disc anterior and medial displacement with reduction | left disc anterior displacement with reduction | right disc anterior displacement with reductionmuscle_pain_score: mild
+muscle_pain_location: left masseter | right masseter | styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: left tmj | right tmj | right shoulder | right knee

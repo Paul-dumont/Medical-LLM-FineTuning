@@ -1,0 +1,12 @@
+patient_id: B1353
+patient_age: 64
+sleep_apnea_diagnosed: true
+airway_obstruction_present: true
+headache_frequency: 3 a month
+muscle_pain_score: moderate
+headache_location: back of the head
+headache_intensity: 3
+tmj_pain_rating: 0
+sleep_disorder_type: sleep apnea | snoring | somnolence
+current_medications: Benicar | Norvasc | MG/GM cream | C-testosterone 4
+muscle_pain_location: shoulders | neck

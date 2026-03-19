@@ -1,0 +1,21 @@
+patient_id: B1432
+patient_age: 44
+maximum_opening: 46mm
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_location: throughout the head
+average_daily_pain_intensity: 1
+headache_intensity: 5
+tmj_pain_rating: 1
+sleep_disorder_type: somnolence
+current_medications: Lamictal | Depakote | Keppra
+muscle_pain_location: neck
+appliance_history: orthodontics
+joint_pain_areas: back | neck

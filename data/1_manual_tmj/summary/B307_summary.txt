@@ -1,0 +1,26 @@
+patient_id: B307
+patient_age: 16
+maximum_opening: 56mm
+diet_score: 0
+disability_rating: 1
+jaw_function_score: 4
+pain_aggravating_factors: clenching
+jaw_locking: true
+airway_obstruction_present: false | true
+headache_frequency: 2
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: very mild
+headache_location: frontal | temporal
+current_appliance: retainers
+average_daily_pain_intensity: 2
+headache_intensity: 2 | present
+pain_onset_date: 12 years old
+tmj_pain_rating: 4
+sleep_disorder_type: daytime somnolence | snoring
+current_medications: smz/ 800-160
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: shoulders
+joint_arthritis_location: left tmj | right tmj | right tmj
+appliance_history: orthodontics stage 1 7 to 8 years with schwarz appliance | orthodontics stage 2 with bionator rapid palatal expander | orthodontic stage 3 with bite plane and lip bumper | orthodontics stage 4 5 to 2 years ago with fixed appliances
+joint_pain_areas: tmj | shoulders

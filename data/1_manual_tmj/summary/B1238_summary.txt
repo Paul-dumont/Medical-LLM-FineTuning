@@ -1,0 +1,13 @@
+patient_id: B1238
+patient_age: 29
+maximum_opening: 58mm
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: false
+earache_present: true
+current_appliance: orthodontics
+headache_intensity: 0
+pain_onset_date: 2
+tmj_pain_rating: 0
+muscle_pain_location: neck
+appliance_history: orthodontics

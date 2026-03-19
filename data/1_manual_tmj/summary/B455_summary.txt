@@ -1,0 +1,8 @@
+patient_id: B455
+patient_age: 58
+maximum_opening: 17 mm
+neck_pain_present: false
+jaw_locking: true
+muscle_symptoms_present: true
+current_medications: colace | zocor | zoloft | erythromycin ointment
+joint_arthritis_location: left tmj | right tmj

@@ -1,0 +1,3 @@
+patient_id: B888
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj

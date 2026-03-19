@@ -1,0 +1,5 @@
+patient_id: B841
+patient_age: 23
+airway_obstruction_present: true
+sleep_disorder_type: somnolence
+muscle_pain_location: neck

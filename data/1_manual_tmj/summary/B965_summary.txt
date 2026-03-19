@@ -1,0 +1,21 @@
+patient_id: B965
+patient_age: 54
+maximum_opening: 52mm
+diet_score: 0
+disability_rating: 2
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+depression_present: true
+headache_intensity: 0
+pain_onset_date: 1 year ago
+tmj_pain_rating: 0
+sleep_disorder_type: snoring
+current_medications: Lipitor
+disc_displacement: left disc displacement
+appliance_history: splint
+joint_pain_areas:  hip | back 

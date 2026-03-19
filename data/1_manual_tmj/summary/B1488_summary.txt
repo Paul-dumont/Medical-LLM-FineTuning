@@ -1,0 +1,29 @@
+patient_id: B1488
+maximum_opening_without_pain: 20 mm
+patient_age: 66
+maximum_opening: 39 mm
+diet_score: 7
+disability_rating: 5
+sleep_apnea_diagnosed: true
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+physical_therapy_status: physical therapy
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: constant
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: temporal
+average_daily_pain_intensity: 6
+headache_intensity: 7
+pain_onset_date: 20 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 6.5
+sleep_disorder_type: sleep apnea | snoring 
+current_medications: Levoxyl | Atenolol | Nexium | Lorazepam | Percocet
+muscle_pain_location: temporalis | masseter | neck | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: knees | wrists | hips | back | neck | ankles

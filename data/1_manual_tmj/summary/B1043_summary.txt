@@ -1,0 +1,27 @@
+patient_id: B1043
+patient_age: 33
+maximum_opening: 41mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+depression_present: true
+headache_frequency: 1 a week
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal
+current_appliance: splint
+average_daily_pain_intensity: 3
+headache_intensity: 2
+autoimmune_condition: rheumatoid arthritis
+pain_onset_date: 29 years of age
+tmj_pain_rating: 2
+current_medications: wellbutrin
+muscle_pain_location: masseter 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: shoulders | ankle

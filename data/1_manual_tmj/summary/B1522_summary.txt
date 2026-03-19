@@ -1,0 +1,13 @@
+patient_id: B1522
+maximum_opening: 35mm
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+muscle_symptoms_present: false
+jaw_crepitus: left tmj | right tmj
+current_medications: thyroid medication | vitamins | fisherman’s friend
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: hands

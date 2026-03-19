@@ -1,0 +1,11 @@
+patient_id: B1511
+patient_age: 15
+maximum_opening: 54 mm
+sleep_apnea_diagnosed: true
+neck_pain_present: false
+airway_obstruction_present: true
+muscle_pain_score: moderate
+tmj_pain_rating: 0
+current_medications: doxycycline
+muscle_pain_location: neck
+appliance_history: orthodontics

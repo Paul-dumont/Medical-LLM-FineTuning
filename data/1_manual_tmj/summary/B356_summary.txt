@@ -1,0 +1,24 @@
+patient_id: B356
+patient_age: 16
+maximum_opening: 40mm
+diet_score: 5
+disability_rating: 7
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism | left posterior crossbite tendency | right posterior crossbite tendency | left posterior crossbite tendency | right posterior crossbite tendency
+earache_present: false
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+average_daily_pain_intensity: 8
+headache_intensity: 8 on the left and 6 on the right | severe
+pain_onset_date: 1-1/2 years ago
+tmj_pain_rating: 8 and it does get to a 10 | severe
+current_medications: ibuprofen
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: masseters
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: tmj | left tmj | right tmj

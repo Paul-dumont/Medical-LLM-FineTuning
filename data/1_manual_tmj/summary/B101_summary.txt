@@ -1,0 +1,28 @@
+patient_id: B101
+patient_age: 42
+diet_score: 7
+disability_rating: 8
+sleep_apnea_diagnosed: false
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism | right posterior crossbite
+earache_present: true
+airway_obstruction_present: true
+depression_present: true
+headache_frequency: couple times a week
+migraine_history: true
+headache_location: right side
+current_appliance: splint
+average_daily_pain_intensity: 10
+headache_intensity: 10 | severe
+pain_onset_date: 17 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 10 for left side | 4 for right side
+sleep_disorder_type: sleep apnea symptoms | snoring | daytime somnolence
+disc_displacement: right disc anterior displacement without reduction | left disc anterior displacement without reductionjoint_pain_areas: left tmj | right tmj | right knee
+joint_arthritis_location: left tmj | right tmj
+appliance_history: 3 orthodontics, once in teenage years, once high school, and once in early 20s | multiple splints
+joint_pain_areas: left tmj | right tmj

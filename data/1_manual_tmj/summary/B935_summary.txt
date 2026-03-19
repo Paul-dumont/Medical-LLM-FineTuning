@@ -1,0 +1,31 @@
+patient_id: B935
+patient_age: 38
+maximum_opening: 31 mm
+diet_score: 8
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching
+earache_present: true
+adverse_reactions: bactrim | sulfa | tetracycline | Zofran | jewelry
+airway_obstruction_present: true
+headache_frequency: continuous
+muscle_symptoms_present: true
+muscle_pain_score: high 
+migraine_history: true
+headache_location: frontal | temporal
+current_appliance: splint
+average_daily_pain_intensity: 4
+headache_intensity: 5
+pain_onset_date: 33 years of age
+tmj_pain_rating: 7
+sleep_disorder_type: snoring
+current_medications: Neurontin | Norflex | Ambien | Tramadol | Hydrocodone | Phenergan | Relpax | Synthroid
+muscle_pain_location: temporalis | masseter | scm | shoulders | neck | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splints
+joint_pain_areas: knees

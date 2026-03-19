@@ -1,0 +1,9 @@
+patient_id: B753
+patient_age: 16
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: false
+sleep_disorder_type: snoring
+current_medications: none

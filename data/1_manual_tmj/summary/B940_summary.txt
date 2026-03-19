@@ -1,0 +1,25 @@
+patient_id: B940
+patient_age: 18
+maximum_opening: 22mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+earache_present: false
+onset_triggers: mva
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: temporal | top of the head
+current_appliance: orthodontics
+average_daily_pain_intensity: 1
+headache_intensity: 3
+pain_onset_date: 18 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 7
+sleep_disorder_type: snoring | somnolence
+current_medications: Depo Provera | Tylenol | ibuprofen
+muscle_pain_location: masseter | retromandibular
+appliance_history: orthodontics
+joint_pain_areas: knee

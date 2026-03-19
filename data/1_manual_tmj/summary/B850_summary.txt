@@ -1,0 +1,25 @@
+patient_id: B850
+maximum_opening_without_pain: 20mm
+patient_age: 23
+maximum_opening: 42mm
+diet_score: 3
+disability_rating: 3
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+onset_triggers: orthodontics
+airway_obstruction_present: true
+headache_frequency: once a week
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: temporal
+current_appliance: splint
+headache_intensity: 3
+pain_onset_date: 17 years of age
+tmj_pain_rating: 5
+current_medications: synthroid | ibuprofen
+disc_displacement: left disc dislocation | right disc dislocation 
+muscle_pain_location: temporalis | masseter | shoulders | neck | styloid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

@@ -1,0 +1,25 @@
+1.patient_id: B612
+2.maximum_opening_without_pain: 9 mm
+3.patient_age: 55
+4.maximum_opening: 28 mm
+6.diet_score: 6
+8.disability_rating: 7
+10.jaw_function_score: 7
+11.tinnitus_present: True
+12.vertigo_present: True
+13.hearing_loss_present: False 
+18.earache_present: False
+19.onset_triggers: Orthodontic
+22.jaw_locking: True
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+30.muscle_pain_score: High
+32.headache_location: Frontal | Temporal | Posterior head
+34.average_daily_pain_intensity: 5
+35.headache_intensity: 6
+37.pain_onset_date: 10 years of age 
+39.tmj_pain_rating: 6
+40.sleep_disorder_type: Somnolence
+41.current_medications: Inderal |  Seroquel | Allegra | Albuterol | Tegretol | BuSpar | Singulair| Restasis | Voltaren | OxyContin
+43.muscle_pain_location: TEmporalis | Shoulders | Masseters | SCMS | Neck
+46.joint_pain_areas: Shoulder | Hip | Knee | Ankle

@@ -1,0 +1,21 @@
+patient_id: B378
+patient_age: 16
+maximum_opening: 44mm
+diet_score: 5
+disability_rating: 3
+jaw_function_score: 5
+pain_aggravating_factors: left posterior crossbite | right posterior crossbite
+physical_therapy_status: myofunctional therapy | some tongue thrust therapy
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild to moderate
+headache_location: frontal | temporal | top of the head
+average_daily_pain_intensity: 1
+headache_intensity: 5
+pain_onset_date: 2 years ago
+tmj_pain_rating: 3
+disc_displacement: right disc medial and anterior displacement
+muscle_pain_location: left medial pterygoid | left masseter | bilateral styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics at the age of 10 | palatal expander at the age of 4 | orthodontic appliances from about the age of 10 through the age of 14
+joint_pain_areas: left tmj | right tmj

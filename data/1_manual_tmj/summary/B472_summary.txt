@@ -1,0 +1,28 @@
+patient_id: B472
+maximum_opening_without_pain: 18mm
+patient_age: 18
+maximum_opening: 50mm
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+adverse_reactions: zithromax
+airway_obstruction_present: false
+headache_frequency: five days per week
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate to milder
+headache_location: temple
+current_appliance: 3 x 3 retainer in the lower anterior arch
+average_daily_pain_intensity: 3
+headache_intensity: 7 | present
+pain_onset_date: early teens
+tmj_pain_rating: 5
+current_medications: adderall | zoloft
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction | left disc dislocation without reduction | right disc dislocation with reduction
+muscle_pain_location: temporalis | styloid areas | right masseter | shoulders | left masseter
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 13-1/2 to 15
+joint_pain_areas: tmj | left tmj | right tmj

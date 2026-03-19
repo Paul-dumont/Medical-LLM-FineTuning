@@ -1,0 +1,9 @@
+1.patient_id: B592
+3.patient_age: 31
+11.tinnitus_present: False
+12.vertigo_present: False
+18.earache_present: False
+27.muscle_symptoms_present: False
+28.jaw_clicking: Rigth TMJ | Left TMJ
+35.headache_intensity: 0
+39.tmj_pain_rating: 0

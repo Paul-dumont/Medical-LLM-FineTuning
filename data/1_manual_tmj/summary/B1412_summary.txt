@@ -1,0 +1,25 @@
+patient_id: B1412
+maximum_opening_without_pain: 24 mm
+patient_age: 15
+maximum_opening: 29 mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_pain_score: mild
+headache_location: frontal
+current_appliance: orthodontics
+average_daily_pain_intensity: 0
+tmj_pain_rating: 4
+sleep_disorder_type: somnolence | snoring
+current_medications: none
+disc_displacement: left disc dislocation
+muscle_pain_location: masseter | neck 
+joint_arthritis_location: left tmj
+appliance_history: orthodontics
+joint_pain_areas: hand

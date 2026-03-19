@@ -1,0 +1,24 @@
+patient_id: B1122
+patient_age: 18
+maximum_opening: 51mm
+diet_score: 2
+pain_duration: 2
+disability_rating: false
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+adverse_reactions: sulfa drugs
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: right tmj
+muscle_pain_score: moderate
+headache_location: frontal
+headache_intensity: 0
+pain_onset_date: 18 years old
+tmj_pain_rating: 0
+current_medications: none
+muscle_pain_location: neck
+appliance_history: orthodontics

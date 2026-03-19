@@ -1,0 +1,22 @@
+patient_id: B1304
+patient_age: 15
+diet_score: 0
+disability_rating: 8
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: 2 a week
+jaw_clicking: left tmj | rigth tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 2
+headache_intensity: 4
+pain_onset_date: 13 years of age
+tmj_pain_rating: 6
+sleep_disorder_type: snoring | somnolence
+disc_displacement: left disc displacement | rigth disc displacement
+muscle_pain_location: masseter 
+appliance_history: orthodontics 

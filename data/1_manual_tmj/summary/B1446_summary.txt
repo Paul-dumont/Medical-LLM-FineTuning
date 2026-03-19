@@ -1,0 +1,7 @@
+patient_id: B1446
+patient_age: 20
+maximum_opening: 56mm
+neck_pain_present: false
+airway_obstruction_present: true
+headache_location: frontal
+current_medications: Zyrtec | Ortho-TriCyclen

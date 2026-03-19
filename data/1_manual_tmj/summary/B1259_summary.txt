@@ -1,0 +1,23 @@
+patient_id: B1259
+patient_age: 25
+pain_relieving_factors: splint
+diet_score: 6
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location:  temporal
+average_daily_pain_intensity: 5
+headache_intensity: 6
+tmj_pain_rating: 8
+current_medications: ibuprofen
+disc_displacement: left disc displacement | rigth disc displacement
+muscle_pain_location: temporalis | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint

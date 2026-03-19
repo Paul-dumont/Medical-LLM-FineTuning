@@ -1,0 +1,24 @@
+patient_id: B164
+patient_age: 60
+pain_relieving_factors: nighttime splint
+diet_score: 5
+disability_rating: 1
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+pain_aggravating_factors: clenching
+earache_present: true
+muscle_symptoms_present: false
+jaw_clicking: true
+headache_location: temporal
+current_appliance: nighttime splint
+average_daily_pain_intensity: 5
+headache_intensity: 3 | presentheadache_frequency: daily
+pain_onset_date: last year
+tmj_pain_rating: 5
+sleep_disorder_type: daytime somnolence
+current_medications: vitamins | baby aspirin
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left knee | left shoulder | lower back

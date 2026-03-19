@@ -1,0 +1,21 @@
+patient_id: B1329
+maximum_opening: 47mm
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+adverse_reactions: demerol | morphine
+airway_obstruction_present: false
+headache_frequency: daily
+muscle_symptoms_present: false
+jaw_clicking: rigth tmj
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 8
+tmj_pain_rating: 6
+current_medications: Allegra | Ortho-Tri-Cyclen | Advil
+appliance_history: orthodontics

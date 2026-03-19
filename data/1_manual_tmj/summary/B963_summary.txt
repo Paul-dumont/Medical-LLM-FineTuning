@@ -1,0 +1,13 @@
+patient_id: B963
+patient_age: 14
+maximum_opening: 49 mm
+neck_pain_present: false
+adverse_reactions: dust | animal fur
+airway_obstruction_present: true
+headache_frequency: 2 a week
+migraine_history: true
+headache_location: frontal
+pain_onset_date: 7 years of age
+sleep_disorder_type: snoring | somnolence
+current_medications: Tofranil 
+muscle_pain_location: neck

@@ -1,0 +1,22 @@
+patient_id: B139
+patient_age: 14
+maximum_opening: 50mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: false
+pain_aggravating_factors: anterior open bite
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: occasional | two times a month
+jaw_clicking: left tmj | right tmj
+headache_location: frontal | temporal
+average_daily_pain_intensity: 0
+headache_intensity: 3 | present
+tmj_pain_rating: 3
+current_medications: none
+disc_displacement: right disc anterior dislocationjoint_pain_areas: hip | knees | right disc dislocation with inconsistent reduction
+appliance_history: orthodontics began one year and seven months ago and taken off 18 months ago
+joint_pain_areas: true

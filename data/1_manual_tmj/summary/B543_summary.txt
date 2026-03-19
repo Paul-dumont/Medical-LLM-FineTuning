@@ -1,0 +1,9 @@
+1.patient_id: B543
+3.patient_age: 19
+11.tinnitus_present: False
+12.vertigo_present: False
+18.earache_present: False
+27.muscle_symptoms_present: False
+28.jaw_clicking: False
+30.muscle_pain_score: 0
+39.tmj_pain_rating: 0

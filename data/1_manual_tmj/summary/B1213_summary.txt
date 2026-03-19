@@ -1,0 +1,25 @@
+patient_id: B1213
+patient_age: 42
+pain_relieving_factors: splint
+diet_score: 8
+disability_rating: 5
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: 2 a week
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal | posterior head
+headache_intensity: 4
+pain_onset_date: 15 years ago
+tmj_pain_rating: 7
+sleep_disorder_type: snoring
+current_medications: Xalatan | Timoptic | Imodium
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knees | elbows | hands

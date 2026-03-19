@@ -1,0 +1,23 @@
+patient_id: B760
+patient_age: 59
+maximum_opening: 42mm
+diet_score: 9
+disability_rating: 9
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+earache_present: true
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+muscle_pain_score: high severe
+headache_location: frontal | temporal | posterior head 
+average_daily_pain_intensity: 6,5
+headache_intensity: 8
+pain_onset_date: 12 years ago
+tmj_pain_rating: 6,5
+sleep_disorder_type: snoring
+current_medications: Norvasc | Benadryl 
+muscle_pain_location: temporalis | masseter | scm | left scm | shoulders | neck | styloid 
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | knees | elbows | wrists | hips | back | shoulders | neck

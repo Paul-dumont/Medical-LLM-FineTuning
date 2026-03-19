@@ -1,0 +1,16 @@
+patient_id: B874
+patient_age: 14
+maximum_opening: 47 mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+airway_obstruction_present: true
+headache_frequency: 1 a week
+muscle_pain_score: mild
+headache_location: frontal | temporal 
+headache_intensity: 5
+pain_onset_date: 4 years ago
+jaw_crepitus: 0
+current_medications: Lexapro | Concerta
+muscle_pain_location: masseter | neck 
+appliance_history: orthodontics

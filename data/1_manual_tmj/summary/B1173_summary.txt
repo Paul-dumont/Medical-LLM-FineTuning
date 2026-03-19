@@ -1,0 +1,19 @@
+patient_id: B1173
+patient_age: 14
+maximum_opening: 45 mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+jaw_clicking: right tmj
+headache_location: frontal
+average_daily_pain_intensity: 3
+headache_intensity: 0
+pain_onset_date: 2 years ago
+tmj_pain_rating: 3
+disc_displacement: right disc dislocation with reduction
+muscle_pain_location: neck
+appliance_history: orthodontics

@@ -1,0 +1,23 @@
+patient_id: B539
+patient_age:22
+diet_score: 6
+disability_rating: 8
+jaw_function_score: 7
+tinnitus_present: False
+vertigo_present: True
+earache_present: False
+headache_frequency: Constant
+muscle_symptoms_present: True
+jaw_clicking: Left TMJ | Rigth TMJ
+muscle_pain_score: Moderate
+headache_location: Frontal | Temporal | Posterior
+average_daily_pain_intensity: 7
+headache_intensity: 9
+pain_onset_date: 11 years
+tmj_pain_rating: 7
+sleep_disorder_type: Somnolence
+current_medications: Levoxyl 0.01 mg. | Portia (BCP) | Excedrin 2 to 4 tablets per day
+disc_displacement: Left TMJ | Rigth TMJ
+muscle_pain_location: Masseter | Temporalis | Retromandibular
+appliance_history: Orthodontics | Splint
+joint_pain_areas: Left TMJ | Rigth TMJ

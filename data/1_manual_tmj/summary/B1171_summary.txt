@@ -1,0 +1,5 @@
+patient_id: B1171
+patient_age: 12
+maximum_opening: 2 mm
+airway_obstruction_present: true
+headache_location: frontal

@@ -1,0 +1,24 @@
+patient_id: B319
+patient_age: 12
+maximum_opening: 57mm
+diet_score: 1
+disability_rating: 0
+jaw_function_score: 0
+neck_pain_present: true
+pain_aggravating_factors: clenching
+physical_therapy_status: massages in the temporalis
+adverse_reactions: pollens | grass | cotton | mold | shellfish
+airway_obstruction_present: true
+headache_frequency: periodic
+muscle_symptoms_present: true
+muscle_pain_score: high moderate to moderate to minor
+headache_location: temporal
+current_appliance: orthodontics | retainers | retainer
+average_daily_pain_intensity: 0
+headache_intensity: 8
+tmj_pain_rating: 0
+current_medications: zyrtec-d | multivitamins | sodium chloride | proventil
+disc_displacement: right disc anterior dislocation with reduction
+muscle_pain_location: temporalis | temporalis | posterior neck | masseters
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics at the age of 10 with bioblock treatment and expansion that was just recently finished earlier this year

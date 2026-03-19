@@ -1,0 +1,16 @@
+patient_id: B312
+patient_age: 19
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: none
+muscle_pain_score: 3
+current_appliance: 3 x 3 retainer in the lower anterior arch
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: clariflu | zinnat
+disc_displacement: left disc anterior displacement with reduction | right disc anterior displacement with reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: styloid area
+joint_arthritis_location: left tmj | right tmj

@@ -1,0 +1,18 @@
+patient_id: B1054
+patient_age: 14
+maximum_opening: 59mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+headache_location: frontal
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: none

@@ -1,0 +1,2 @@
+patient_id: B1320
+airway_obstruction_present: true

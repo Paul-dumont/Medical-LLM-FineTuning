@@ -1,0 +1,8 @@
+patient_id: B1414
+patient_age: 13
+neck_pain_present: false
+adverse_reactions: omnicef
+airway_obstruction_present: true
+headache_frequency: 1 a week
+muscle_symptoms_present: false
+previous_medications: Albuterol

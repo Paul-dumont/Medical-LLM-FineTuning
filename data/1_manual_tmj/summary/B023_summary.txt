@@ -1,0 +1,26 @@
+patient_id: B023
+patient_age: 28
+maximum_opening: 52mm
+pain_relieving_factors: splint
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+back_pain_present: true
+pain_aggravating_factors: clenching
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: temporal
+current_appliance: splint for 10 months
+average_daily_pain_intensity: 1
+headache_intensity: 1
+tmj_pain_rating: 1
+current_medications: none
+disc_displacement: left disc anterior dislocation with early reduction | right disc medial and anterior  dislocation with early reduction | left disc medial and anterior dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: masseter | shoulders
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: back

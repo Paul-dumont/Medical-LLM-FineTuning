@@ -1,0 +1,26 @@
+1.patient_id: B672
+2.maximum_opening_without_pain: 5 mm
+3.patient_age: 48
+4.maximum_opening: 15 mm
+6.diet_score: 10
+8.disability_rating: 9
+9.sleep_apnea_diagnosed: True
+10.jaw_function_score: 9.5
+11.tinnitus_present: True
+12.vertigo_present: True
+15.neck_pain_present: True
+18.earache_present: True
+19.onset_triggers: Motor Vehicle
+23.airway_obstruction_present: True 
+27.muscle_symptoms_present: True
+30.muscle_pain_score: Severe
+32.headache_location: Frontal | Temporal | Behind the eye 
+34.average_daily_pain_intensity: 7
+35.headache_intensity: 9
+37.pain_onset_date: 29 years of age 
+39.tmj_pain_rating: 9
+40.sleep_disorder_type: Snoring
+41.current_medications:  Synthroid | Premarin | Vitamin B12 | vitamin D | multivitamin | Ambien | Soma | Lortab | Promethazine | Acyclovir | Clindamycin
+43.muscle_pain_location: Neck | Shoulder | Temporalis | Masseter | Styloid | SCM
+44.joint_arthritis_location: Left TMJ | Rigth TMJ 
+45.appliance_history: Orthodontic

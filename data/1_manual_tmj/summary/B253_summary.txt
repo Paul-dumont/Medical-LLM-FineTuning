@@ -1,0 +1,26 @@
+patient_id: B253
+patient_age: 42
+maximum_opening: 30mm
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: true
+earache_present: false
+adverse_reactions: duck eggs | peanuts | strawberries | almonds
+headache_frequency: 2 times a week
+muscle_symptoms_present: false
+jaw_clicking: jaw
+headache_location: back of head
+average_daily_pain_intensity: 4
+headache_intensity: 0 | 4 | present
+autoimmune_condition: elevated rheumatoid factor
+pain_onset_date: high school
+jaw_crepitus: right tmj
+tmj_pain_rating: 0
+current_medications: methotrexate | prednisone | remicade iv | vitamins |  supplements
+disc_displacement: left disc medial displacement without reduction | right disc anterior displacement without reduction | right disc dislocation
+joint_arthritis_location: right tmj | left tmj
+joint_pain_areas: neck | right knee

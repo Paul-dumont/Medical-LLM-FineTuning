@@ -1,0 +1,26 @@
+patient_id: B394
+patient_age: 14
+maximum_opening: 40mm
+diet_score: 1
+disability_rating: 3
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: true
+back_pain_present: true
+pain_aggravating_factors: anterior open bite | left posterior cross bite | right posterior cross bite
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 3 times a week
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal
+average_daily_pain_intensity: 1
+headache_intensity: 3
+pain_onset_date: age of 10
+tmj_pain_rating: 1
+sleep_disorder_type: snoring
+current_medications: advil | tylenol
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: masseter | temporalis | retromandibular areas
+appliance_history: orthodontics 5 years ago which included expanders, braces, and head gear
+joint_pain_areas: knees | back

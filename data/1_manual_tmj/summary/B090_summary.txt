@@ -1,0 +1,20 @@
+patient_id: B090
+patient_age: 40 
+diet_score: 2
+disability_rating: 3
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: grinding in the past, not anymore currently
+earache_present: true
+headache_frequency: occasional
+average_daily_pain_intensity: 6
+headache_intensity: present
+pain_onset_date: 20 years ago
+tmj_pain_rating: 6
+current_medications: advil | tylenol
+disc_displacement: right disc medial and anterior displacement | left disc medial and anterior displacement
+muscle_pain_location: right masseter | left scm | left posterior neck | right masseter | left scm | posterior neck
+joint_arthritis_location: right tmj | left tmj
+joint_pain_areas: right tmj | left tmj | right tmj | left tmj | fingers | knees | elbows

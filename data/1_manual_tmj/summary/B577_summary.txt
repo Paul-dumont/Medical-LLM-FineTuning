@@ -1,0 +1,7 @@
+1.patient_id: B577
+3.patient_age: 16
+4.maximum_opening: 63 mm 
+28.jaw_clicking: True
+37.pain_onset_date: 15 years of age 
+41.current_medications:  Allegra 180 mg p.r.n | Advil p.r.n.  
+42.disc_displacement: Rigth TMJ with reduction | Left TMJ with reduction

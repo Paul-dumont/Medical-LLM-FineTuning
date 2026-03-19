@@ -1,0 +1,22 @@
+patient_id: B1126
+patient_age: 24
+diet_score: 3
+disability_rating: false
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: penicillin
+airway_obstruction_present: true
+headache_frequency: 4 a week
+headache_location: temporal | posterior head
+headache_intensity: 7
+pain_onset_date: 21 years ago
+tmj_pain_rating: 3
+sleep_disorder_type: snoring | somnolence 
+current_medications: advil | excedrin 
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: ankles | knees

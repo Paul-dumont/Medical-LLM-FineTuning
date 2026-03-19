@@ -1,0 +1,27 @@
+patient_id: B365
+patient_age: 29
+maximum_opening: 49mm
+diet_score: 2
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching
+physical_therapy_status: chiropractic treatment | massage therapy | acupuncture
+earache_present: true
+onset_triggers: stress
+fibromyalgia_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+headache_location: left side | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 6
+pain_onset_date: 18 years old
+tmj_pain_rating: 7
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence
+disc_displacement: left disc anterior dislocation with early reductionmuscle_pain_score: moderate | left disc dislocation with early reduction
+muscle_pain_location: left temporalis | left scm | left posterior neck | left shoulder | masseter muscles | retromandibular areas | right scm
+joint_arthritis_location: left tmj
+appliance_history: 4 or 5 splints since the age of 22
+joint_pain_areas: tmj | left shoulder | knees | left tmj | right tmj

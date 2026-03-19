@@ -1,0 +1,18 @@
+patient_id: B1459
+patient_age: 45
+diet_score: 3
+disability_rating: 6
+jaw_function_score: 5
+neck_pain_present: true
+earache_present: true
+adverse_reactions: erythromycin | pollens | dust
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+headache_intensity: 5
+tmj_pain_rating: 6
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction 
+muscle_pain_location: styloid 
+joint_arthritis_location: left tmj | right tmj

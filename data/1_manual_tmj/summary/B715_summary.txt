@@ -1,0 +1,27 @@
+patient_id: B715
+maximum_opening_without_pain: 18 mm
+patient_age: 41
+maximum_opening: 45mm
+diet_score: 3
+disability_rating: 7
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+adverse_reactions: penicillin
+fibromyalgia_present: true
+airway_obstruction_present: true
+headache_frequency: 4 a week
+muscle_symptoms_present: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 5
+pain_onset_date: 15 years ago
+tmj_pain_rating: 9
+sleep_disorder_type: somnolence
+current_medications: Flexeril | Doxepin | Ambien | BCP
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: tmj

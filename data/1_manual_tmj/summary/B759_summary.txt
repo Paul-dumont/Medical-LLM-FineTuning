@@ -1,0 +1,18 @@
+patient_id: B759
+patient_age: 20
+maximum_opening: 49mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: true
+hearing_loss_present: false
+earache_present: true
+depression_present: true
+jaw_clicking: left tmj | right tmj
+headache_intensity: 0
+tmj_pain_rating: 0
+sleep_disorder_type: somnolence 
+current_medications: birth control | albuterol
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

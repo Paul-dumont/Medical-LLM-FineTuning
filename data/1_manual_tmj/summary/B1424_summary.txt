@@ -1,0 +1,24 @@
+patient_id: B1424
+patient_age: 42
+maximum_opening: 54mm
+diet_score: 9
+disability_rating: 8
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+onset_triggers: orthodontics
+airway_obstruction_present: false
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: high
+headache_location: frontal | top of the head | temporal
+average_daily_pain_intensity: 6
+headache_intensity: 7
+pain_onset_date: 42 years old
+tmj_pain_rating: 8
+current_medications: Topamax | Effexor | ACTOplus metformin
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | styloid 
+appliance_history: orthodontics | splint

@@ -1,0 +1,28 @@
+patient_id: B168
+patient_age: 16
+maximum_opening: 48mm
+diet_score: 2
+disability_rating: 4
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite
+physical_therapy_status: physical therapy for lip closure at age 11
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+jaw_clicking: true
+muscle_pain_score: moderate to mild
+headache_location: temporal
+average_daily_pain_intensity: 7
+headache_intensity: 7 | present | present
+jaw_crepitus: true
+tmj_pain_rating: 0
+sleep_disorder_type: snoring | daytime somnolence
+disc_displacement: left disc anterior and medial dislocation with reduction | right disc anterior and medial dislocation with reduction | left disc anterior and medial displacement with early reduction | right disc anterior and medial displacement with early reduction | right disc anterior or medial displacement | left disc anterior or medial displacement
+muscle_pain_location: masseter | posterior neck | retromandibular area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: bioblock from 9 to 11 | nit splint in 2009

@@ -1,0 +1,22 @@
+1.patient_id: B551
+3.patient_age: 20
+4.maximum_opening: 52mm
+6.diet_score: 0
+8.disability_rating: 0
+10.jaw_function_score: 2
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+14.back_pain_present: True
+15.neck_pain_present: False
+18.earache_present: False
+23.airway_obstruction_present: True
+25.headache_frequency: once a month
+29.previous_medications: morphine | Demerol | Darvocet | Vicodin
+32.headache_location: Temporal
+37.pain_onset_date: 16 years of age
+39.tmj_pain_rating: 0
+41.current_medications:  None
+43.muscle_pain_location: Shoulders | Temporalis
+44.joint_arthritis_location: Left TMJ
+46.joint_pain_areas: Shoulder | Back

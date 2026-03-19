@@ -1,0 +1,15 @@
+patient_id: B197
+patient_age: 24
+maximum_opening: 49mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+pain_aggravating_factors: clenching | bruxism | clenching | grinding
+earache_present: true
+muscle_symptoms_present: false
+current_appliance: lower 3 x 3 retainer | mouth guard to wear 8 months ago | lower 3 x 3 retainer
+tmj_pain_rating: 0
+current_medications: novolog insulin | synthroid
+disc_displacement: left disc medial displacement | right disc displacement | left disc medial displacement | right disc medial displacement
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 13 to 16

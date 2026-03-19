@@ -1,0 +1,18 @@
+patient_id: B824
+patient_age: 46
+maximum_opening: 47mm
+diet_score: 3
+disability_rating: 0
+jaw_function_score: 3
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal
+average_daily_pain_intensity: true
+headache_intensity: 0
+pain_onset_date: 5 years ago
+tmj_pain_rating: 0
+sleep_disorder_type: snoring | somnolence 
+current_medications: nasonex
+muscle_pain_location: shoulders 
+appliance_history: orthodontics

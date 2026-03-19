@@ -1,0 +1,21 @@
+patient_id: B1269
+patient_age: 24
+diet_score: 4
+disability_rating: 0
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+jaw_clicking: left tmj | rigth tmj
+muscle_pain_score: severe
+average_daily_pain_intensity: 0
+headache_intensity: 0
+pain_onset_date: 2 years ago
+tmj_pain_rating: 8
+sleep_disorder_type: snoring
+current_medications: birth control
+muscle_pain_location: masseter 
+joint_arthritis_location: left tmj
+appliance_history: orthodontics
+joint_pain_areas: tmj

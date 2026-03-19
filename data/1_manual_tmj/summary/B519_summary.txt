@@ -1,0 +1,26 @@
+patient_id: B519
+patient_age: 13
+maximum_opening: 46mm
+diet_score: 3
+disability_rating: 6
+jaw_function_score: 2
+neck_pain_present: false
+pain_aggravating_factors: clenching | bruxism | left posterior crossbite tendency
+airway_obstruction_present: true
+headache_frequency: 1 and 7 times a week
+pain_frequency: in the mornings
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+migraine_history: true
+headache_location: frontal | temporal | on the top of the head
+average_daily_pain_intensity: 3
+headache_intensity: 5 but can escalate to 7 | 4 | present
+pain_onset_date: 2 years ago
+tmj_pain_rating: 7
+current_medications: epival
+disc_displacement: left disc dislocation with reduction | right disc anteriorly displaced with reduction | left disc dislocation with very early reduction | right disc dislocation with very early reduction
+muscle_pain_location: masseter
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontic treatment for 1 year about 2 years ago
+joint_pain_areas: tmj

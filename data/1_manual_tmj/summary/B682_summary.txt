@@ -1,0 +1,20 @@
+1.patient_id: B682
+3.patient_age: 19
+4.maximum_opening: 31 mm 
+6.diet_score: 2
+8.disability_rating: 8
+10.jaw_function_score: 4
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+15.neck_pain_present: True
+18.earache_present: False
+20.adverse_reactions: Keflex
+23.airway_obstruction_present: True 
+35.headache_intensity: 0
+37.pain_onset_date: 14.5
+38.jaw_crepitus: Left TMJ | Rigth TMJ 
+39.tmj_pain_rating: 0
+40.sleep_disorder_type: Somnolence
+41.current_medications:  tetracycline
+44.joint_arthritis_location: Left TMJ | Rigth TMJ 

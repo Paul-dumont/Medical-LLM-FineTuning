@@ -1,0 +1,7 @@
+patient_id: B966
+patient_age: 37
+airway_obstruction_present: false
+current_appliance: orthodontics
+tmj_pain_rating: 0
+current_medications: none
+appliance_history: orthodontics

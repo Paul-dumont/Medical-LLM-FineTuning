@@ -1,0 +1,31 @@
+patient_id: B078
+maximum_opening_without_pain: 16mm
+patient_age: 29
+maximum_opening: 38mm
+diet_score: 9
+disability_rating: 8
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | open bite | clenching
+physical_therapy_status: massage therapy | began physical therapy for about 50 minutes on a weekly basis
+earache_present: true
+onset_triggers: hit in the jaw with a car door
+jaw_locking: true
+airway_obstruction_present: true
+jaw_clicking: tmj
+muscle_pain_score: moderate
+headache_location: behind eyes | frontal | temporal | posterior
+current_appliance: splint
+average_daily_pain_intensity: 4
+headache_intensity: 8 | present
+pain_onset_date: 21 years of age
+tmj_pain_rating: 5 but can go to a level of 9
+sleep_disorder_type: chronic fatigue
+disc_displacement: left tmj articular disc dislocation without reduction | right tmj articular disc dislocation without reduction
+muscle_pain_location: throughout most of the head and neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: shoulder | neck | tmj

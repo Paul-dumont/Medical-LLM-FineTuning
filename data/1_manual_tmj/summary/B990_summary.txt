@@ -1,0 +1,22 @@
+patient_id: B990
+patient_age: 2
+maximum_opening: 35mm
+diet_score: 1
+disability_rating: 0
+sleep_apnea_diagnosed: true
+jaw_function_score: 1
+neck_pain_present: false
+pain_aggravating_factors: crossbite
+airway_obstruction_present: true
+headache_frequency: 4 a week
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temple | top of the head
+average_daily_pain_intensity: 4
+headache_intensity: 4
+tmj_pain_rating: 0
+sleep_disorder_type: sleep apnea
+disc_displacement: left disc dislocation withouth reduction
+muscle_pain_location: styloid 
+appliance_history: orthodontics
+joint_pain_areas: tmj

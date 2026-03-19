@@ -1,0 +1,20 @@
+patient_id: B1380
+patient_age: 25
+maximum_opening: 54 mm
+diet_score: 1
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 8
+headache_intensity: 4
+tmj_pain_rating: 6
+current_medications: Motrin | Advil
+muscle_pain_location: neck
+appliance_history: orthodontics
+joint_pain_areas:  knees 

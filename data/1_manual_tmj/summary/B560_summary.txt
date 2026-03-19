@@ -1,0 +1,20 @@
+1.patient_id: B560
+3.patient_age: 53
+8.disability_rating: 6
+11.tinnitus_present: True
+12.vertigo_present: True
+18.earache_present: True
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True 
+28.jaw_clicking: True
+32.headache_location: Frontal | Posterior Head | Temporal 
+34.average_daily_pain_intensity: 6
+35.headache_intensity: 6
+37.pain_onset_date: 20 years of age
+38.jaw_crepitus: True
+39.tmj_pain_rating: 6
+41.current_medications:  Nadolol | HCTZ | Effexor  | Neurontin | Relafen  | Xanax  | Soma  | Ultram  q.h.s. | Ambien 
+43.muscle_pain_location: Temporalis | Styloid | SCMs | Shoulders | Neck
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Orthodontic | Splint
+46.joint_pain_areas: Rigth TMJ | Left TMJ

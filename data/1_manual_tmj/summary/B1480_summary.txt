@@ -1,0 +1,22 @@
+patient_id: B1480
+patient_age: 15
+maximum_opening: 37 mm
+diet_score: 0
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+current_appliance: orthodontics
+average_daily_pain_intensity: 0
+headache_intensity: 0
+pain_onset_date: 0.5 years ago 
+tmj_pain_rating: 8
+current_medications: Zoloft | salt pills
+muscle_pain_location: temporalis | masseter | retromandibular | scm 
+appliance_history: orthodontics

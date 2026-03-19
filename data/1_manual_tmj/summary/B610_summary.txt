@@ -1,0 +1,16 @@
+1.patient_id: B610
+3.patient_age: 16
+4.maximum_opening: 56 mm
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+18.earache_present: False
+20.adverse_reactions: Ceclor
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+30.muscle_pain_score: Mild
+35.headache_intensity: 0 
+39.tmj_pain_rating: 0
+41.current_medications: None
+43.muscle_pain_location: Masseter
+44.joint_arthritis_location: Orthodontics

@@ -1,0 +1,24 @@
+patient_id: B386
+maximum_opening_without_pain: 30mm
+patient_age: 40
+maximum_opening: 40mm
+diet_score: 7
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+headache_frequency: 1 to 2 times per day and usually develop after she has eaten
+muscle_symptoms_present: true
+muscle_pain_score: moderate to mild
+headache_location: temporal
+average_daily_pain_intensity: 4
+headache_intensity: 4 on the right side and 2 on the left side | severe
+autoimmune_condition: rheumatoid arthritis
+tmj_pain_rating: severe | right side at a level of 6 and on the left side at a level of 4
+current_medications: nexium | allergra | lodine xl | robaxin | tylenol arthritis | slow fe
+disc_displacement: right disc anterior displacement
+muscle_pain_location: temporalis | masseters | scms | shoulders | styloid
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | neck | shoulders | elbows | wrists | hands | fingers | ankles | feet | right tmj

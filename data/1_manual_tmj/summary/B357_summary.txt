@@ -1,0 +1,24 @@
+patient_id: B357
+patient_age: 14
+maximum_opening: 53mm
+diet_score: 0
+disability_rating: 1
+sleep_apnea_diagnosed: true
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj
+headache_location: left frontal | left temple | behind left eye | left forhead area
+average_daily_pain_intensity: 1
+headache_intensity: 3 | present
+pain_onset_date: 5th grade
+tmj_pain_rating: 0
+sleep_disorder_type: daytime somnolence | sleep apnea symptoms | daytime somnolence | snoring | sleep apnea
+current_medications: none
+disc_displacement: left disc with possible medial displacement | right disc with possible medial displacement
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: none

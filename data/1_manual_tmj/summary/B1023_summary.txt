@@ -1,0 +1,27 @@
+patient_id: B1023
+maximum_opening_without_pain: 30
+patient_age: 47
+maximum_opening: 41 mm
+diet_score: 7
+disability_rating: 7
+sleep_apnea_diagnosed: true
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: severe
+headache_location: frontal | posterior head | temporal
+average_daily_pain_intensity: 8
+headache_intensity: 8
+pain_onset_date: 47 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 10
+sleep_disorder_type: snoring | somnolence
+current_medications: zyrtec
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | shoulders | neck | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

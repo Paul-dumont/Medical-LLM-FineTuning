@@ -1,0 +1,27 @@
+1.patient_id: B591
+3.patient_age: 45
+4.maximum_opening: 26 mm
+6.diet_score: 6
+8.disability_rating: 6
+10.jaw_function_score: 7
+11.tinnitus_present: False
+12.vertigo_present: True
+13.hearing_loss_present: False
+18.earache_present: True
+20.adverse_reactions: tetracycline | Dilaudid
+23.airway_obstruction_present: True
+25.headache_frequency: 3.5 a month 
+26.pain_frequency: Occasional
+27.muscle_symptoms_present: True
+28.jaw_clicking: Rigth TMJ | Left TMJ
+29.previous_medications: Demerol | Topamax
+31.migraine_history: True
+32.headache_location: Frontal | Temporal | Posterior head
+34.average_daily_pain_intensity: 4
+35.headache_intensity: 10
+37.pain_onset_date: 44 years of age
+39.tmj_pain_rating: 10
+42.disc_displacement: Left TMJ 
+43.muscle_pain_location: Masseter
+44.joint_arthritis_location: Rigth TMJ
+46.joint_pain_areas: Rigth TMJ | Left TMJ 

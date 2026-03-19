@@ -1,0 +1,23 @@
+patient_id: B426
+patient_age: 38
+maximum_opening: 33mm
+diet_score: 1
+disability_rating: 3
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+neck_pain_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+average_daily_pain_intensity: 3
+headache_intensity: 0
+autoimmune_condition: connective tissue autoimmune disease | positive ana test
+pain_onset_date: 14 years of age
+tmj_pain_rating: 7
+current_medications: levothyroxine | yaz birth control | effexor | trileptal
+muscle_pain_location: masseters | posterior neck | shoulder areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontic treatment 22 years ag
+joint_pain_areas: tmj | left tmj | right tmj

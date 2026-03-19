@@ -1,0 +1,23 @@
+1.patient_id: B636
+3.patient_age: 47
+4.maximum_opening: 24mm
+6.diet_score: 4
+8.disability_rating: 3 
+10.jaw_function_score: 5
+11.tinnitus_present: True
+12.vertigo_present: False
+13.hearing_loss_present: False
+15.neck_pain_present: True
+18.earache_present: False
+20.adverse_reactions: lactose
+25.headache_frequency: Constant
+27.muscle_symptoms_present: True
+30.muscle_pain_score: Severe
+32.headache_location: Frontal | Temporal | Posterior head
+34.average_daily_pain_intensity: 7
+35.headache_intensity: 8
+36.autoimmune_condition: rheumatoid arthritis
+39.tmj_pain_rating: 0
+41.current_medications: Mobic | Tylenol
+43.muscle_pain_location: Temporalis | Masseter | Styloid
+46.joint_pain_areas: Neck | Back

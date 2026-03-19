@@ -1,0 +1,24 @@
+patient_id: B290 | B290PATIENT_AGE: 69
+maximum_opening_without_pain: 35mm
+maximum_opening: 41mm
+diet_score: 3
+disability_rating: 5
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching
+earache_present: true
+headache_frequency: daily basis
+muscle_pain_score: moderate to very minimal
+headache_location: temple | posterior head
+average_daily_pain_intensity: 5
+headache_intensity: 5 but can escalate to 8 | present
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 5 but can escalate to 10
+sleep_disorder_type: snoring
+current_medications: citalopraqn | toprol xl | zetia | ambien | estradiol | fosamax | fosamax
+disc_displacement: left disc dislocation | right disc dislocation | left disc medial and anterior displacement without reduction | right disc anterior displacement
+muscle_pain_location: scms | left styloid area | left shoulder | medial pterygoids
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj | thumbs | left hip | left knee

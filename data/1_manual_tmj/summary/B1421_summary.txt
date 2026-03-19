@@ -1,0 +1,22 @@
+patient_id: B1421
+maximum_opening_without_pain: 21mm
+patient_age: 52
+maximum_opening: 28mm
+diet_score: 8
+disability_rating: 6
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+earache_present: false
+jaw_locking: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 6
+headache_intensity: 7
+tmj_pain_rating: 8
+current_medications: ibuprofen | Skelaxin | Aciphex | Cozaar
+disc_displacement: left disc dislocation with reduction | right disc dislocation
+muscle_pain_location: masseter | scm | retromandibular
+joint_arthritis_location: left tmj | right tmj

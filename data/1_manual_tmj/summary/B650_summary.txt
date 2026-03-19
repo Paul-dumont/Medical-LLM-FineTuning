@@ -1,0 +1,18 @@
+1.patient_id: B650
+3.patient_age: 49 
+4.maximum_opening: 44 mm
+6.diet_score: 2
+8.disability_rating: 0
+10.jaw_function_score: 2
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+15.neck_pain_present: False
+18.earache_present: False
+23.airway_obstruction_present: True
+30.muscle_pain_score: None
+34.average_daily_pain_intensity: 0
+39.tmj_pain_rating: 0
+40.sleep_disorder_type: Snoring
+42.disc_displacement: Left disc dislocation | Rigth disc dislocation
+44.joint_arthritis_location: Left TMJ | Rigth TMJ 

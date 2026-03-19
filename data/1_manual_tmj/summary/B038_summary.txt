@@ -1,0 +1,28 @@
+patient_id: B038
+patient_age: 56
+diet_score: 0
+disability_rating: 0
+sleep_apnea_diagnosed: true
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching
+earache_present: false
+airway_obstruction_present: false
+headache_frequency: occasional
+pain_frequency: occasional
+headache_location: frontal | temporal | behind her eyes
+current_appliance: orthodontics were reinitiated on seven months ago
+average_daily_pain_intensity: 0
+headache_intensity: 6 | severe
+pain_onset_date: headaches for 30+ years
+tmj_pain_rating: 0
+sleep_disorder_type: snoring | sleep apnea | snoring | sleep apnea symptoms
+current_medications: cymbalta | prevacid | ceterizine | vitamins | caltrate plus d
+disc_displacement: slight anterior dislocation of the articular disc but medially the disc is in better position | left disc anterior dislocation with early reduction | right disc anterior dislocation with early reduction
+muscle_pain_location: neck | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics at the age of 15

@@ -1,0 +1,14 @@
+1.patient_id: B695
+3.patient_age: 59
+4.maximum_opening: 42 mm
+9.sleep_apnea_diagnosed: True
+14.back_pain_present: True
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+28.jaw_clicking: Left TMJ | Rigth TMJ 
+30.muscle_pain_score: Moderate
+40.sleep_disorder_type: Snoring | Somnolence
+41.current_medications:  Zetia | Calcium | Ferrous sulfate | Clonazepam | Nasonex | Diovan | Omeprazole
+42.disc_displacement: Left disc dislocation | Rigth disc dislocation
+43.muscle_pain_location: Shoulder | Neck
+44.joint_arthritis_location: Left TMJ | Rigth TMJ

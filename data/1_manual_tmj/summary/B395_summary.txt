@@ -1,0 +1,15 @@
+patient_id: B395
+maximum_opening_without_pain: 37mm
+patient_age: 30
+maximum_opening: 46mm
+pain_relieving_factors: splint
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+pain_onset_date: 4 years ago
+jaw_crepitus: left tmj
+tmj_pain_rating: 0
+current_medications: prenatal vitamins
+disc_displacement: left disc dislocation
+joint_arthritis_location: left tmj
+appliance_history: splints
+joint_pain_areas: tmj

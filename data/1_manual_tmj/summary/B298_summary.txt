@@ -1,0 +1,19 @@
+patient_id: B298
+patient_age: 19
+maximum_opening: 50mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: ceclor | ceclor | milk products | nickel
+airway_obstruction_present: true
+muscle_symptoms_present: false
+average_daily_pain_intensity: 2
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: left disc  dislocation with probable early reduction | right disc  dislocation with probable early reduction | left disc anterior dislocation with reduction | right disc anterior dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics in 3rd grade until 7th grade including headgear

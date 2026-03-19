@@ -1,0 +1,25 @@
+patient_id: B1447
+patient_age: 55
+maximum_opening: 52mm
+diet_score: 0
+disability_rating: 0
+sleep_apnea_diagnosed: true
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: 2 a week
+muscle_symptoms_present: true
+muscle_pain_score: high 
+headache_location: frontal | temporal | behind the eye
+average_daily_pain_intensity: 6
+headache_intensity: 4
+pain_onset_date: 3 years ago
+tmj_pain_rating: 6
+sleep_disorder_type: sleep apnea | snoring | somnolence
+current_medications: Lumigan | Welchol | Prilosec | supplements
+disc_displacement: left disc displacement | rigth disc displacement
+muscle_pain_location: temporalis | shoulders 
+joint_arthritis_location: left tmj | right tmj

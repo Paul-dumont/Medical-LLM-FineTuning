@@ -1,0 +1,27 @@
+patient_id: B1212
+maximum_opening_without_pain: 32mm
+patient_age: 13
+maximum_opening: 40mm
+diet_score: 3
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: true
+adverse_reactions: dust | earrings
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | rigth tmj
+muscle_pain_score: mild
+headache_location: frontal
+average_daily_pain_intensity: 5
+headache_intensity: 4
+pain_onset_date: 2 years ago
+tmj_pain_rating: 5.5
+current_medications: Growth hormone | Synthroid
+disc_displacement: left disc dislocation with reduction | right disc dislocation withouth reduction
+muscle_pain_location: styloid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

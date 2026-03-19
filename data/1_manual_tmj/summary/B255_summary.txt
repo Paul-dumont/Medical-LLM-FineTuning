@@ -1,0 +1,22 @@
+patient_id: B255
+maximum_opening_without_pain: 36mm
+patient_age: 17
+maximum_opening: 41mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+pain_aggravating_factors: left posterior crossbite
+earache_present: false
+airway_obstruction_present: false | true
+pain_frequency: periodic, last time being a couple of weeks ago
+jaw_clicking: left tmj | right tmj
+current_appliance: 3 x 3 retainer in the lower arch | essex retainer
+average_daily_pain_intensity: 0
+headache_intensity: 0
+tmj_pain_rating: 4
+disc_displacement: left disc anterior and medial displacement | left disc anterior and medial displacement | right disc anterior displacement possibly non reducing | left disc medial displacement | right disc medial displacement | left disc with reduction | right disc with reduction
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: orthodontics for 5 or 6 years with palatal expander
+joint_pain_areas: left tmj | left tmj | right tmj

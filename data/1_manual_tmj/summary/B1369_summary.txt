@@ -1,0 +1,8 @@
+patient_id: B1369
+patient_age: 40
+sleep_apnea_diagnosed: true
+airway_obstruction_present: true
+headache_location: frontal
+pain_onset_date: 6 years ago
+sleep_disorder_type: sleep apnea | snoring | somnolence
+current_medications: NovoLog insulin | Effexor | Concerta

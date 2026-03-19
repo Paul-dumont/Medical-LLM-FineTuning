@@ -1,0 +1,11 @@
+patient_id: B1265
+patient_age: 19
+maximum_opening: 55mm
+neck_pain_present: false
+airway_obstruction_present: true
+jaw_clicking: left tmj | rigth tmj
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: left disc dislocation
+joint_arthritis_location: left tmj
+appliance_history: orthodontics

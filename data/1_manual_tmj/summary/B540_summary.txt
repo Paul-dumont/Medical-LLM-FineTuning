@@ -1,0 +1,27 @@
+patient_id: B540
+patient_age: 49
+maximum_opening: 52mm
+diet_score: 2
+disability_rating: 2-6
+jaw_function_score :4
+tinnitus_present: False
+vertigo_present: False
+hearing_loss_present: False
+back_pain_present: False
+neck_pain_present: False
+earache_present: False
+airway_obstruction_present: False
+pain_frequency: daily
+muscle_symptoms_present: true
+headache_location: Temporal | Posterior
+current_appliance: Nigth guard 
+average_daily_pain_intensity: 2-7
+headache_intensity: 4
+pain_onset_date: 29 years ago
+jaw_crepitus: Rigth TMJ
+tmj_pain_rating: 2-7
+current_medications: Lamictal 50 mg q.d | 2. Flexeril p.r.n. 
+disc_displacement: Left TMJ | Rigth TMJ
+joint_arthritis_location: Rigth TMJ
+appliance_history: Nigth Guard
+joint_pain_areas: Left TMJ | Rigth TMJ

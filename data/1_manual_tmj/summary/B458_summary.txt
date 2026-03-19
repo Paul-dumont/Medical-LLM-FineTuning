@@ -1,0 +1,12 @@
+patient_id: B458
+patient_age: 16
+vertigo_present: true
+neck_pain_present: false
+pain_aggravating_factors: right posterior crossbite
+airway_obstruction_present: true
+jaw_clicking: left tmj
+current_appliance: orthodontic appliances for about five years
+headache_intensity: present
+current_medications: minocycline
+disc_displacement: left articular disc anterior dislocation without reduction | left disc dislocation in anterior medial direction without reduction | right articular disc dislocation
+joint_arthritis_location: right tmj | left tmj

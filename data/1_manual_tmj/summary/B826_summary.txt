@@ -1,0 +1,23 @@
+patient_id: B826
+patient_age: 36
+maximum_opening: 41 mm 
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: earrings 
+headache_frequency: 7 a week
+jaw_clicking: left tmj 
+headache_location: frontal | temple
+average_daily_pain_intensity: 2
+headache_intensity: 5
+pain_onset_date: 10 years ago
+tmj_pain_rating: 2
+current_medications: Female hormones | Vitamins | Thyroid supplement | Advil | Aleve
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction 
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

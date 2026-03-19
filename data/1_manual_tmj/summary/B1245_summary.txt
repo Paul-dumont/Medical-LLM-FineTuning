@@ -1,0 +1,28 @@
+patient_id: B1245
+maximum_opening_without_pain: 25mm
+patient_age: 47
+maximum_opening: 37mm
+pain_relieving_factors: hyaluronic acid injections
+diet_score: 6
+disability_rating: 5
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+neck_pain_present: true
+physical_therapy_status: physical therapy
+earache_present: false
+adverse_reactions: nuts | citrus | jewelry | potatoes | earrings
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | posterior head | top of the head 
+current_appliance: splint
+average_daily_pain_intensity: 4
+headache_intensity: 4
+pain_onset_date: 47 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 4
+sleep_disorder_type: snoring | somnolence 
+current_medications: Wellbutrin | Lexapro | Mobic | Trazodone | Fentanyl | Ibuprofen | Mepergan
+muscle_pain_location: scm 
+joint_arthritis_location: left tmj | right tmj

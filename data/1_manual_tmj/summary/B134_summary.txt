@@ -1,0 +1,28 @@
+patient_id: B134
+patient_age: 47
+maximum_opening: 27mm
+diet_score: 8
+disability_rating: 10
+sleep_apnea_diagnosed: true
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: physical therapy | electo-rhizotomy  to kill the nerve in the right tmj | lavage of right tmj
+onset_triggers: skiing accident striking the chest and subluxated the manible
+airway_obstruction_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: severe
+headache_location: right temporal
+average_daily_pain_intensity: 10
+headache_intensity: 7 | severe
+pain_onset_date: 4 years ago
+tmj_pain_rating: 10 | severe
+sleep_disorder_type: sleep apnea symptoms | snoring | daytime somnolence | sleep apnea
+current_medications: clonidine | gabapentin | seroquel | effexor | prilosec | zofran | visteril | zantac | doxepin | advair inhaler
+disc_displacement: left disc medial dislocation
+muscle_pain_location: right temporalis | right medial pterygoid | right masseter
+joint_arthritis_location: right tmj earache_present: true | right tmj | left tmj
+appliance_history: splint
+joint_pain_areas: right tmj | right tmj worse | left tmj

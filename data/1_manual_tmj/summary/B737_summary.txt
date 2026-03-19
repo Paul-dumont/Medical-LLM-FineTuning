@@ -1,0 +1,23 @@
+patient_id: B737
+patient_age: 18
+diet_score: 3
+disability_rating: 3
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: fasle
+airway_obstruction_present: true
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj 
+muscle_pain_score: mild
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 7
+pain_onset_date: 10 years of age
+tmj_pain_rating: 3
+disc_displacement: left disc dislocation
+muscle_pain_location: styloid 
+joint_arthritis_location: left tmj
+appliance_history: orthodontics

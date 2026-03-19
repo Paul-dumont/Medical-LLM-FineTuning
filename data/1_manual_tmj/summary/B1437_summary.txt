@@ -1,0 +1,30 @@
+patient_id: B1437
+patient_age: 2
+maximum_opening: 34 mm
+pain_relieving_factors: splint
+diet_score: 5
+disability_rating: 8
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+adverse_reactions: benadryl | vicodin
+airway_obstruction_present: true
+depression_present: true
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | rigth tmj
+muscle_pain_score: moderate
+headache_location: temporal
+average_daily_pain_intensity: 5
+headache_intensity: 5
+autoimmune_condition: rheumatoid arthritis
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 6
+sleep_disorder_type: snoring | somnolence
+current_medications: Neurontin | Synthroid | Cymbalta | Keppra | OxyContin | Celebrex
+muscle_pain_location: masseter | scm | shoulders | neck | styloid | temporalis
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knees | elbows

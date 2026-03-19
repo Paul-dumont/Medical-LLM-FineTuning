@@ -1,0 +1,21 @@
+patient_id: B905
+patient_age: 25
+maximum_opening: 45mm
+diet_score: 1
+disability_rating: 0
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+adverse_reactions: sulfa | silver
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: severe
+headache_intensity: 0
+pain_onset_date: 25 years old
+tmj_pain_rating: 0
+current_medications: lesse
+disc_displacement: left disc dislocartion
+appliance_history: orthodontics

@@ -1,0 +1,20 @@
+patient_id: B765
+patient_age: 40
+maximum_opening: 44mm
+diet_score: 2
+disability_rating: 3
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+average_daily_pain_intensity: 6
+headache_intensity: 0
+pain_onset_date: 20 years ago
+tmj_pain_rating: 6
+current_medications: Advil | Tylenol
+muscle_pain_location: masseter | scm | neck 
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: knees | elbows

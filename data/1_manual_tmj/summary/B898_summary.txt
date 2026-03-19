@@ -1,0 +1,26 @@
+patient_id: B898
+patient_age: 43
+maximum_opening: 42mm
+diet_score: 1
+disability_rating: 8
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: tre
+headache_frequency: daily
+previous_medications: Vioxx | Trazodone
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 8
+headache_intensity: 8
+pain_onset_date: 31 years of age
+tmj_pain_rating: 8
+current_medications: Daypro | Vioxx | Trazodone
+disc_displacement: left disc displacement
+muscle_pain_location: temporalis | retromandibular
+joint_arthritis_location: left tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knee | hips

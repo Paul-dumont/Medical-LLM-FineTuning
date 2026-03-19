@@ -1,0 +1,28 @@
+patient_id: B1418
+maximum_opening_without_pain: 24 mm
+patient_age: 14
+maximum_opening: 38mm
+diet_score: 6
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+physical_therapy_status: physical therapy
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: high moderate
+headache_location: frontal | temporal
+current_appliance: orthodontics
+average_daily_pain_intensity: 4
+headache_intensity: 6
+autoimmune_condition: ankylosing spondylitis
+pain_onset_date: 5 years of age
+tmj_pain_rating: 1
+current_medications: Embrel | Sulindac | Folic acid
+muscle_pain_location: temporalis | masseter | scm | shoulders | neck | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knees | elbows | wrists | hips | hands | ankles

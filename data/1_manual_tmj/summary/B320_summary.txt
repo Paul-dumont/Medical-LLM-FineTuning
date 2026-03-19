@@ -1,0 +1,24 @@
+patient_id: B320
+patient_age: 46
+maximum_opening: 55mm
+diet_score: 5
+pain_duration: in the morning
+disability_rating: 4
+jaw_function_score: 5
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | clenching | bruxism
+adverse_reactions: amoxicillin | erythromycin | clindamycin
+airway_obstruction_present: true
+headache_frequency: daily
+jaw_clicking: none
+headache_location: temporal | posterior head | top of head
+average_daily_pain_intensity: 5
+headache_intensity: 4 | present
+tmj_pain_rating: 3
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea symptoms | snoring | tiredness during the day
+current_medications: advil
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction muscle_pain_score: high moderate | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: styloid areas | shoulders | posterior neck | temporalis | masseters | scms | medial pterygoid area
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj | lower jaw | neck | shoulder | back

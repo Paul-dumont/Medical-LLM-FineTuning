@@ -1,0 +1,4 @@
+1.patient_id: B582
+3.patient_age: 72
+19.onset_triggers: Other
+41.current_medications:  Baclofen | Dilaudid | Lexapro | Frova | Elavil | Serzone | Esgic | Benicar | Nexium | Zocor | Phenergan | Miralax | Colace | Flonase | Zyrtec

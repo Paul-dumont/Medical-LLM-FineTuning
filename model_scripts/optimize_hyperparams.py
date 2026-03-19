@@ -22,7 +22,6 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from utils import grouped_shuffle_split
 
-
 class HyperparameterOptimizer:
     def __init__(self, table_number: int, mode: str, phase: int = 1, n_trials: int = None):
         """
@@ -392,7 +391,7 @@ def main():
     """Main entry point"""
     table_number = 4
     mode = "no_prompt"
-    phase = 2  # Change to 2 for Phase 2 optimization
+    phase = 1  # Change to 2 for Phase 2 optimization
     
     # For Phase 2, make sure to update the fixed params with Phase 1 best results!
     if phase == 2:

@@ -1,0 +1,7 @@
+patient_id: B835
+patient_age: 18
+maximum_opening: 10 mm
+airway_obstruction_present: true
+muscle_pain_score: severe
+current_medications: none
+joint_pain_areas: tmj

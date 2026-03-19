@@ -1,0 +1,26 @@
+patient_id: B1246
+maximum_opening_without_pain: 40 mm
+patient_age: 50
+maximum_opening: 45 mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+physical_therapy_status: physical therapy
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: continuous
+muscle_symptoms_present: true
+muscle_pain_score: severe
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 6
+headache_intensity: 6.5
+tmj_pain_rating: 7
+sleep_disorder_type: somnolence
+current_medications: advil 
+muscle_pain_location: scm | styloid | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas:  elbows | hips | shoulders 

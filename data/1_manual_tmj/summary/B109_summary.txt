@@ -1,0 +1,27 @@
+patient_id: B109
+maximum_opening_without_pain: 26mm
+patient_age: 37
+maximum_opening: 45mm
+diet_score: 3
+disability_rating: 4
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: true
+physical_therapy_status: physical therapy in teenage years | physical therapy since last year
+earache_present: true
+fibromyalgia_present: true
+headache_frequency: continuous
+muscle_pain_score: high moderate to moderate
+headache_location: throughout head
+average_daily_pain_intensity: 7
+headache_intensity: 6 | present
+autoimmune_condition: low levels of unidentified autoimmune disease process
+pain_onset_date: 15 years of age
+tmj_pain_rating: 6
+current_medications: synthroid | t3 | flonase | lunesta | hydrocortisone
+disc_displacement: left disc medial dislocation with reduction | right disc anterior and lateral dislocation | left disc medial dislocation | right disc lateral dislocation
+muscle_pain_location: most of the head and neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from age of 16 to 18 | 5 splints
+joint_pain_areas: hands | fingers | toes | feet | knees | wrists | neck, especially at c5-c6 | right tmj | left tmj

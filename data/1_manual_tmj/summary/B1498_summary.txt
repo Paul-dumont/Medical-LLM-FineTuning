@@ -1,0 +1,5 @@
+patient_id: B1498
+patient_age: 15
+airway_obstruction_present: true
+headache_location: frontal
+current_medications: none

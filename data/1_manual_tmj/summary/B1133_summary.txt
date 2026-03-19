@@ -1,0 +1,18 @@
+patient_id: B1133
+patient_age: 32
+maximum_opening: 82 mm
+diet_score: 0
+disability_rating: 1
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj 
+current_appliance: orthodontic
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: left disc dislocation with reduction
+appliance_history: orthodontics

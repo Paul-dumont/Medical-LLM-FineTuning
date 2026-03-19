@@ -1,0 +1,20 @@
+patient_id: B174
+maximum_opening: 54mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: left posterior crossbite | right sided crossbite | potential for bilateral posterior cross bite
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: one to two times a month | twice a month
+headache_location: right temporal | back of head | right temporal | back of the head
+current_appliance: orthodontics since 13 months ago
+average_daily_pain_intensity: 0
+headache_intensity: 5 | present
+tmj_pain_rating: 0
+disc_displacement: right disc medial and anterior displacement | left disc medial and anterior displacement | right disc medial displacement with reduction | left disc anterior displacement
+joint_arthritis_location: left tmj | right tmjearache_present: false
+appliance_history: orthodontics at 8 or 9 years of age with maxillary expander

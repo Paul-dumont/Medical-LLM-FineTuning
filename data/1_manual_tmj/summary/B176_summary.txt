@@ -1,0 +1,24 @@
+patient_id: B176
+patient_age: 44
+maximum_opening: 47mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 4
+tinnitus_present: true
+hearing_loss_present: true
+pain_aggravating_factors: left posterior crossbite | right posterior crossbite | left posterior crossbite | right posterior crossbite | clenching | bruxism
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: once a week
+muscle_symptoms_present: false
+jaw_clicking: right tmj | left tmj
+headache_location: behind right eye | frontal | temporal
+average_daily_pain_intensity: 3
+headache_intensity: present
+tmj_pain_rating: 3
+sleep_disorder_type: daytime somnolence
+current_medications: wellbutrin | ambien
+disc_displacement: left disc medial and anterior displacement with reduction | right disc dislocation without reduction | right disc medial displacement with reduction | left disc medial displacement with reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics form 12 to 14 | orthodontics form 15 to 17
+joint_pain_areas: left tmj | right tmj | left tmj | right tmj | ankles

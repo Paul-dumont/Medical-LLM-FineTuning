@@ -1,0 +1,20 @@
+patient_id: B119
+patient_age: 31
+maximum_opening: 50mm
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+adverse_reactions: penicillin
+headache_frequency: 3  to 5 days a week | once every 3 to 4 months
+jaw_clicking: left tmj | right tmj
+migraine_history: true
+headache_location: temporal | posterior head
+headache_intensity: 5, but can escalate to 10 once every 3-4 months | present
+autoimmune_condition: elevated ana without diagnosis of autoimmune disorder
+pain_onset_date: 28 years of age
+tmj_pain_rating: present
+current_medications: wellbutrin | spironolactone | ibuprofen | levocet
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior dislocation with reduction | left disc anterior dislocation | right disc anterior and medial dislocation
+muscle_pain_location: medial pterygoid | retromandibular area
+joint_arthritis_location: right tmj | left tmj
+joint_pain_areas: hips | knees | 3 fingers on the right hand

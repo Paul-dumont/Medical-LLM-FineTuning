@@ -1,0 +1,24 @@
+patient_id: B1483
+maximum_opening_without_pain: 32mm
+patient_age: 24
+maximum_opening: 47 mm
+diet_score: 6
+disability_rating: 4
+sleep_apnea_diagnosed: false
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: false
+earache_present: true
+adverse_reactions: keflex 
+airway_obstruction_present: false
+muscle_symptoms_present: true
+headache_location: frontal
+average_daily_pain_intensity: 10
+tmj_pain_rating: 10
+sleep_disorder_type:  somnolence
+current_medications: birth control | advil | tylenol | ibuprofen
+disc_displacement: left disc dislocation withouth reduction | rigth disc displacement with reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: shoulder | elbow | ankle | neck

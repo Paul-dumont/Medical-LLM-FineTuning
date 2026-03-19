@@ -1,0 +1,10 @@
+patient_id: B746
+patient_age: 12
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+muscle_symptoms_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: depakote

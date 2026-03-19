@@ -1,0 +1,7 @@
+patient_id: B1240
+patient_age: 16
+maximum_opening: 60mm
+neck_pain_present: false
+airway_obstruction_present: true
+headache_location: frontal
+appliance_history: orthodontics

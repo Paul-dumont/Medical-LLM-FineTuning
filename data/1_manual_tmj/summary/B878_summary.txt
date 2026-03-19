@@ -1,0 +1,29 @@
+patient_id: B878
+maximum_opening_without_pain: 35 mm
+patient_age: 46
+maximum_opening: 55 mm
+diet_score: 3
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+pain_aggravating_factors: Vioxx
+earache_present: true
+headache_frequency: 1 a week
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+previous_medications: Vioxx
+muscle_pain_score: mild
+headache_location: frontal
+average_daily_pain_intensity: 3
+headache_intensity: 5
+pain_onset_date: 46 years old
+jaw_crepitus: right tmj
+tmj_pain_rating: 5
+current_medications: Nexium | Vicodin | Zyrtec | Allegra | Klonopin
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter  | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: knees | wrists | hand

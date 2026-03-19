@@ -1,0 +1,46 @@
+1.patient_id: B564
+2.maximum_opening_without_pain: Uknown
+3.patient_age: 59
+4.maximum_opening: 47 mm 
+5.pain_relieving_factors: Uknown 
+6.diet_score: 5
+7.pain_duration: Unkown
+8.disability_rating: 4
+9.sleep_apnea_diagnosed: Uknown
+10.jaw_function_score: 4
+11.tinnitus_present: True
+12.vertigo_present: True
+13.hearing_loss_present: Uknown
+14.back_pain_present: Uknown
+15.neck_pain_present: Unkown
+16.pain_aggravating_factors: Uknown
+17.physical_therapy_status: Uknown
+18.earache_present: True
+19.onset_triggers: Uknown
+20.adverse_reactions: Uknown
+21.fibromyalgia_present: Uknown
+22.jaw_locking: Uknown
+23.airway_obstruction_present: True
+24.depression_present: Uknown
+25.headache_frequency: Uknown
+26.pain_frequency: Uknown
+27.muscle_symptoms_present: True
+28.jaw_clicking: Uknown
+29.previous_medications: Uknown
+30.muscle_pain_score: Uknown
+31.migraine_history: Uknown
+32.headache_location: Frontal | Temporal | Posterior head
+33.current_appliance: Uknown
+34.average_daily_pain_intensity: 5
+35.headache_intensity: 5
+36.autoimmune_condition: Uknown
+37.pain_onset_date: 58 years
+38.jaw_crepitus: Uknown
+39.tmj_pain_rating: 5
+40.sleep_disorder_type: Somnolence
+41.current_medications: Uknown
+42.disc_displacement: Left TMJ | Rigth TMJ
+43.muscle_pain_location: Temporalis | SCMs
+44.joint_arthritis_location: Left TMJ | Rigth TMJ 
+45.appliance_history: Unkown
+46.joint_pain_areas: Left TMJ | Rigth TMJ

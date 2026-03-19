@@ -1,0 +1,19 @@
+patient_id: B1138
+patient_age: 13
+maximum_opening: 58mm
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+headache_frequency: 1 a week
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: posterior head
+headache_intensity: 6
+pain_onset_date: 4 years ago
+tmj_pain_rating: 0
+current_medications: ibuprofen
+muscle_pain_location: temporalis | scm | styloid 

@@ -1,0 +1,19 @@
+patient_id: B1225
+patient_age: 32
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: clenching | bruxism | crossbite
+earache_present: true
+adverse_reactions: sulfa | lactose | jewerly
+muscle_symptoms_present: false
+migraine_history: true
+headache_location: temporal
+average_daily_pain_intensity: 1
+tmj_pain_rating: 0
+current_medications: Advil Migraine
+disc_displacement: left disc dislocation | right disc dislocation
+appliance_history: orthodontics
+joint_pain_areas: knees 

@@ -1,0 +1,22 @@
+patient_id: B1177
+patient_age: 14
+maximum_opening: 43mm
+diet_score: 1
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal
+headache_intensity: 0
+pain_onset_date: 2 years ago
+tmj_pain_rating: 0
+current_medications: none
+disc_displacement: left disc dislocation withouth reduction | right disc dislocation withouth reduction
+muscle_pain_location: neck
+appliance_history: orthodontics

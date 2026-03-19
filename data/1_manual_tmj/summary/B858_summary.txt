@@ -1,0 +1,17 @@
+patient_id: B858
+patient_age: 13
+maximum_opening: 40mm
+diet_score: 3
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+airway_obstruction_present: true
+current_appliance: orthodontics
+headache_intensity: 0
+autoimmune_condition: psoriasis
+tmj_pain_rating: 0
+current_medications: none
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

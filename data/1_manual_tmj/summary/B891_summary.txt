@@ -1,0 +1,23 @@
+patient_id: B891
+patient_age: 49
+maximum_opening: 57mm
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+depression_present: true
+headache_frequency: continuous
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: behind the eye | top of the head
+average_daily_pain_intensity: 1
+headache_intensity: 3
+pain_onset_date: 22 years of age
+tmj_pain_rating: 1
+current_medications: Zantac | Advil
+muscle_pain_location: temporalis | masseter 
+appliance_history: orthodontics | splint
+joint_pain_areas: tmj

@@ -1,0 +1,9 @@
+patient_id: B1029
+patient_age: 14
+maximum_opening: 49mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+muscle_pain_score: moderate

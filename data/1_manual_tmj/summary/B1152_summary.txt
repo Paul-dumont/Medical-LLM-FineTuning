@@ -1,0 +1,24 @@
+patient_id: B1152
+patient_age: 22
+maximum_opening: 60mm
+pain_relieving_factors: splint
+diet_score: 0
+disability_rating: 8
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+onset_triggers: other
+headache_frequency: daily
+muscle_symptoms_present: true
+muscle_pain_score: high 
+headache_location: frontal | temporal
+average_daily_pain_intensity: 8
+headache_intensity: 8
+pain_onset_date: 19 years of age
+tmj_pain_rating: 8
+current_medications: aleve | Flexeril
+disc_displacement: left disc dislocation
+muscle_pain_location: masseter  | retromandibular | scm | shoulders | neck 
+appliance_history: splint

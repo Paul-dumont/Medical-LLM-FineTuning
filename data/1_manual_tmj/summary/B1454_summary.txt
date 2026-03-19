@@ -1,0 +1,11 @@
+patient_id: B1454
+patient_age: 18
+maximum_opening: 55mm
+neck_pain_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+muscle_pain_score: moderate
+headache_intensity: 0
+tmj_pain_rating: 0
+sleep_disorder_type: snoring 
+current_medications: none

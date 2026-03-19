@@ -1,0 +1,32 @@
+patient_id: B283
+maximum_opening_without_pain: 22mm
+patient_age: 20
+maximum_opening: 55mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism | left posterior cross bite
+earache_present: false
+onset_triggers: vehicle accident
+adverse_reactions: penicillin | dust mites | mildew | cats | dogs | horses | grasses | nickel
+airway_obstruction_present: true
+headache_frequency: daily
+jaw_clicking: left tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal | posterior | top of the head
+current_appliance: 3 x 3 retainer | 3 x 3 retainer on the lower anterior arch
+average_daily_pain_intensity: 5
+headache_intensity: 5 | bad
+pain_onset_date: 4 years ago
+tmj_pain_rating: 8
+sleep_disorder_type: snoring | sleep disorder
+current_medications: ventolin | lexapro | yasmin | atarax | yasmin
+disc_displacement: left disc anterior displacement | right disc dislocation without reduction | left disc dislocation | right disc anterior displacement
+muscle_pain_location: posterior neck | styloid areas | temporalis
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics 7 to 8 | orthodontics at 11 for about a year
+joint_pain_areas: right tmj | left tmj | shoulders | risk hands | fingers | knees | ankles | feet | toes | shoulders | risks |  hands | fingers | knees | ankles | feet | toes | shoulders | wrists | hands | fingers | knees | ankles | feet | toes

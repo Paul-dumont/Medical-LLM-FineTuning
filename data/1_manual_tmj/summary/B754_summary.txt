@@ -1,0 +1,14 @@
+patient_id: B754
+patient_age: 19
+maximum_opening: 33 mm
+diet_score: 2
+disability_rating: 2
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+onset_triggers: motor vehicle
+average_daily_pain_intensity: 2
+tmj_pain_rating: 2
+current_medications: keppra
+joint_pain_areas: tmj

@@ -1,0 +1,26 @@
+patient_id: B317
+patient_age: 52
+maximum_opening: 47mm
+diet_score: 4
+disability_rating: 2
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching
+earache_present: false
+adverse_reactions: wool | cats
+airway_obstruction_present: true
+headache_frequency: once a week
+muscle_symptoms_present: true
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 4
+headache_intensity: 4 | present
+pain_onset_date: 5 to 6 years ago
+tmj_pain_rating: 3
+sleep_disorder_type: sleep apnea symptoms
+current_medications: vitamins | calcium
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior dislocation without reductionmuscle_pain_score: masseters | styloid areas
+muscle_pain_location: mild
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

@@ -1,0 +1,10 @@
+patient_id: B1532
+patient_age: 14
+maximum_opening: 51mm
+airway_obstruction_present: true
+jaw_clicking: left tmj | rigth tmj
+muscle_pain_score: moderate
+headache_location: frontal | posterior head
+sleep_disorder_type: somnolence
+muscle_pain_location: styloid 
+appliance_history: orthodontics

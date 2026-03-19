@@ -1,0 +1,21 @@
+patient_id: B899
+patient_age: 31
+maximum_opening: 50 mm
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+adverse_reactions: penicillin
+headache_frequency: 5 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: Wellbutrin
+muscle_pain_score: mild
+migraine_history: true
+headache_location: frontal | temporal | posterior head
+headache_intensity: 5
+pain_onset_date: 28 years of age
+current_medications: Wellbutrin | Spironolactone | Ibuprofen | Levocet
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: retromandibular
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: knees | hips | hands

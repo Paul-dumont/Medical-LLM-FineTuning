@@ -1,0 +1,23 @@
+patient_id: B1427
+patient_age: 74
+maximum_opening: 40mm
+sleep_apnea_diagnosed: true
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+adverse_reactions: Biaxin | Cipro | Ketek
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | rigth tmj
+previous_medications: Biaxin | Cipro | Ketek
+muscle_pain_score: moderate
+migraine_history: true
+headache_intensity: 0
+sleep_disorder_type: snoring | somnolence | sleep apnea
+current_medications: Cardizem | Prevacid | Synthroid | Advil | Emla cream | Nexium  
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: temporalis | scm | shoulders | neck | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: hips | back | shoulders | neck

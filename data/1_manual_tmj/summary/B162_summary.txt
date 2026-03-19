@@ -1,0 +1,27 @@
+patient_id: B162
+maximum_opening_without_pain: 22mm
+patient_age: 27
+maximum_opening: 34mm
+pain_relieving_factors: neuromuscular appliance
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: buccal cross bite | clenching | bruxism
+airway_obstruction_present: true
+depression_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 3 | present
+pain_onset_date: 20 years of age
+jaw_crepitus: right tmj
+tmj_pain_rating: 8
+muscle_pain_location: retromadibular area | masseters | medial pterygoids | left scm | right scm
+joint_arthritis_location: left disc anterior dislocation with early reduction | right disc anterior dislocation with early reduction | left disc anterior dislocation with early reduction | right disc anterior dislocation with early reductionearache_present: false
+appliance_history: night guard | alf appliance | neuromuscular appliance
+joint_pain_areas: knees | ankles | left tmj | right tmj | right tmj | right tmj | left tmj

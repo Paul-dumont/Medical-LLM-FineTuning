@@ -1,0 +1,26 @@
+patient_id: B268
+patient_age: 20
+maximum_opening: 45mm | 56mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: false | true
+vertigo_present: true
+hearing_loss_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching
+earache_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: mild | moderate
+headache_location: temple | top of the head area
+current_appliance: splint
+average_daily_pain_intensity: 5
+headache_intensity: 4
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 2 | 3
+current_medications: prozac | birth control medication | naproxen | hydrocodone | antibiotics | klonopin | ambien | birth control pills | prozac | tramadol
+disc_displacement: right disc displacement | left disc dislocation | right disc posterior displacement | left disc anterior displacement with with reduction
+muscle_pain_location: left masseter | left masseter | left medial pterygoid | left styloid
+joint_arthritis_location: left tmj
+joint_pain_areas: left shoulder | left tmj | left shoulder | neck | hips | knees

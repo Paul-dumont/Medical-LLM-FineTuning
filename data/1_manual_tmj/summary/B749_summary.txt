@@ -1,0 +1,18 @@
+patient_id: B749
+patient_age: 33
+diet_score: 6
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+jaw_clicking: rigth tmj | left tmj
+headache_location: frontal | temporal
+headache_intensity: 3
+tmj_pain_rating: 3
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

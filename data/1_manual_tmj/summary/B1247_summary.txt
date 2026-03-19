@@ -1,0 +1,28 @@
+patient_id: B1247
+patient_age: 53
+maximum_opening: 40 mm
+diet_score: 7
+disability_rating: 5
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: true
+back_pain_present: true
+physical_therapy_status: physical therapy
+earache_present: true
+onset_triggers: motor vehicle 
+depression_present: true
+pain_frequency: right tmj
+muscle_symptoms_present: true
+muscle_pain_score: high moderate
+headache_location: temporal
+average_daily_pain_intensity: 6
+headache_intensity: 6
+pain_onset_date: 4 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 8
+current_medications: Wellbutrin | Effexor | Bisoprolol | HCTZ | Strattera | Kadian | Ambien | Keppra | Protonix | Lidoderm | Oxycodone | Percocet| OxyContin | hydrocodone | Ultracet | Pherergan | Zofran | Butalbital 
+disc_displacement: left disc dislocation | right disc dislocation with reduction
+muscle_pain_location: masseter | shoulders | neck | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: tmj | hips | back | neck

@@ -1,0 +1,23 @@
+1.patient_id: B868
+3.patient_age: 40
+4.maximum_opening: 30 mm
+6.diet_score: 5
+8.disability_rating: 1
+10.jaw_function_score: 5
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+18.earache_present: True
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+28.jaw_clicking: Rigth TMJ
+30.muscle_pain_score: Mild
+32.headache_location: Masseter
+34.average_daily_pain_intensity: 2
+35.headache_intensity: 0
+37.pain_onset_date: 13 years of age 
+39.tmj_pain_rating: 0
+41.current_medications: None
+42.disc_displacement: Rigth disc dislocation | Left disc dislocation
+44.joint_arthritis_location: Left TMJ | RIgth TMJ 
+45.appliance_history: Orthodontics 

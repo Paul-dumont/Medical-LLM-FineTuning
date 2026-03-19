@@ -1,0 +1,24 @@
+patient_id: B1477
+patient_age: 40
+maximum_opening: 48mm
+diet_score: 3
+disability_rating: 8
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 5 a week
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+migraine_history: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 10
+pain_onset_date: 33 years of age
+tmj_pain_rating: 10
+sleep_disorder_type: somnolence
+current_medications: Estratest | OxyContin | Nexium | Elavil | Allegra | Reglan | Amantadine | Ergomar 
+disc_displacement: left disc dislocation
+muscle_pain_location: masseter 
+joint_arthritis_location: left tmj

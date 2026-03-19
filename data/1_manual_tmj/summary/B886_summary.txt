@@ -1,0 +1,22 @@
+patient_id: B886
+patient_age: 58
+maximum_opening: 31mm
+diet_score: 3
+disability_rating: 2
+sleep_apnea_diagnosed: true
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+earache_present: true
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: constant
+muscle_pain_score: nild
+headache_location: frontal | temporal
+average_daily_pain_intensity: 5
+headache_intensity: 5
+pain_onset_date: 9 years of age
+sleep_disorder_type: sleep apnea
+muscle_pain_location: masseter  | retromandibular 
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj

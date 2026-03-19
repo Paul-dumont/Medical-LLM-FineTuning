@@ -1,0 +1,29 @@
+patient_id: B1234
+patient_age: 42
+pain_relieving_factors: splint
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 9
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+neck_pain_present: false
+earache_present: true
+onset_triggers: cheese
+headache_frequency: 2 a week
+muscle_symptoms_present: false
+previous_medications: Klonopin | Dyazide
+muscle_pain_score: high moderate
+headache_location: frontal | temporal | posterior head
+current_appliance: orthodontics
+average_daily_pain_intensity: 8
+headache_intensity: 7
+pain_onset_date: 2 years ago
+tmj_pain_rating: 8
+sleep_disorder_type: snoring
+current_medications: and | currently | darvocet | klonopin | occasionally | only | takes | well
+disc_displacement: left disc dislocation with reduction
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: neck

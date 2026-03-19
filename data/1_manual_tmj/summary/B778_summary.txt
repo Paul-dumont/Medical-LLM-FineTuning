@@ -1,0 +1,12 @@
+patient_id: B778
+patient_age: 73
+neck_pain_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+headache_location: frontal | temporal
+pain_onset_date: 73 years old
+sleep_disorder_type: snoring
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | shoulders | neck
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj

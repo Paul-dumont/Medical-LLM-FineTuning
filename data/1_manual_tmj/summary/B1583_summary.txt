@@ -1,0 +1,27 @@
+patient_id: B1583
+maximum_opening_without_pain: 16mm
+patient_age: 50
+maximum_opening: 26mm
+diet_score: 8
+disability_rating: 7
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+physical_therapy_status: chiropractic
+earache_present: true
+onset_triggers: mva
+airway_obstruction_present: true
+headache_frequency: 5 a week
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal | behind eyes
+current_appliance: splint
+average_daily_pain_intensity: 7
+headache_intensity: 8
+pain_onset_date: 21 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 7
+muscle_pain_location: temporalis | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knees | elbows | wrists | hips | neck | back | hands

@@ -1,0 +1,19 @@
+patient_id: B1042
+patient_age: 23
+maximum_opening: 51mm
+diet_score: 3
+disability_rating: 3
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 7
+tmj_pain_rating: 0
+muscle_pain_location: masseter 
+appliance_history: orthodontics

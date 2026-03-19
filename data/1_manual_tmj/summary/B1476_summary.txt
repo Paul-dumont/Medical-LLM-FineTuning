@@ -1,0 +1,11 @@
+patient_id: B1476
+patient_age: 20
+maximum_opening: 52mm
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_location: frontal
+current_medications: none
+appliance_history: orthodontics

@@ -1,0 +1,28 @@
+patient_id: B1514
+maximum_opening_without_pain: 23mm
+patient_age: 2
+maximum_opening: 34mm
+diet_score: 3
+pain_duration: morning
+disability_rating: 7
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: true
+physical_therapy_status: physical therapy
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+muscle_pain_score: high moderate
+migraine_history: true
+headache_location: frontal | temporal | top of the head
+average_daily_pain_intensity: 8
+headache_intensity: 10
+tmj_pain_rating: 9
+current_medications: Imitrex | Naprosyn
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | scm | shoulders | neck 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics| splint
+joint_pain_areas: neck | shoulder

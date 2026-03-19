@@ -1,0 +1,23 @@
+patient_id: B1141
+diet_score: 9.5
+disability_rating: 9
+sleep_apnea_diagnosed: true
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+airway_obstruction_present: true
+depression_present: true
+previous_medications: Cymbalta | Wellbutrin | statins | estrogen | progesterone | asthma medications
+muscle_pain_score: severe
+headache_location: behind eyes | top of the head | temporal
+current_appliance: orthodontics
+average_daily_pain_intensity: 9
+headache_intensity: 7
+pain_onset_date: 21 years ago
+tmj_pain_rating: 6
+sleep_disorder_type: sleep apnea
+current_medications: synthroid
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: hands

@@ -1,0 +1,24 @@
+patient_id: B277
+patient_age: 17
+maximum_opening: 50mm
+diet_score: 3
+disability_rating: 3
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: clenching
+earache_present: true
+airway_obstruction_present: false
+headache_frequency: once or twice a week
+muscle_symptoms_present: true
+muscle_pain_score: mild to moderate
+headache_location: frontal | temple areas | behind her eyes
+current_appliance: 3x3 retainer in the lower anterior arch |  2x2 retainer in the upper arch
+average_daily_pain_intensity: 4
+headache_intensity: 4 but can escalate to 6 | present
+pain_onset_date: 14 years of age
+tmj_pain_rating: 6 but escalate to about 9 to 10
+current_medications: ibuprofen | yasmin
+disc_displacement: left disc dislocation with early reduction | right disc dislocation with early reduction | right disc anterior displacement with reduction | left disc medial displacement with reduction | right disc dislocations | left disc dislocations
+muscle_pain_location: temporalis | masseters | left styloid | right scm
+joint_pain_areas: tmj | left tmj | right tmj

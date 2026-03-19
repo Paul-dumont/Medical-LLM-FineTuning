@@ -1,0 +1,26 @@
+patient_id: B327
+maximum_opening_without_pain: 28mm
+patient_age: 12
+maximum_opening: 33mm
+diet_score: 5
+disability_rating: 6
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: cats | dogs
+airway_obstruction_present: true
+headache_frequency: one to two times per week
+muscle_pain_score: mild to moderate
+migraine_history: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: present | range from 3 to 8 | severe
+pain_onset_date: four or five years ago
+tmj_pain_rating: 7
+current_medications: atenolol | allegra | ibuprofen
+disc_displacement: possible left disc lateral displacement | possible right disc lateral displacement
+muscle_pain_location: masseters | styloid area
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: left tmj | right tmj | thumbs | left tmj | right tmj

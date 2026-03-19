@@ -1,0 +1,25 @@
+patient_id: B424
+patient_age: 22
+maximum_opening: 54mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: false
+pain_aggravating_factors: anterior open bite | clenching | bruxism
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: very couple of months
+muscle_symptoms_present: false
+jaw_clicking: left tmj
+headache_location: frontal | temple
+average_daily_pain_intensity: 0
+headache_intensity: 5
+pain_onset_date: age of 10
+tmj_pain_rating: 0
+current_medications: birth control pills
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced without reduction | left disc dislocation | right disc dislocation | left disc displacement with reduction | right disc displacement with reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from the age of 13 to 15

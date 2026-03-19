@@ -1,0 +1,16 @@
+patient_id: B225
+patient_age: 14
+maximum_opening: 28mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: bruxism
+earache_present: false
+airway_obstruction_present: false
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+tmj_pain_rating: 0
+current_medications: none
+disc_displacement: left disc medial displacement | right disc medial displacement | left disc medial displacement | right disc medial displacementmuscle_pain_score: very mild
+muscle_pain_location: masseter | left medial pterygoid
+joint_arthritis_location: left tmj | left tmj | right tmj

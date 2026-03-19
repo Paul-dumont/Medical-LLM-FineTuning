@@ -1,0 +1,15 @@
+patient_id: B1419
+patient_age: 11
+maximum_opening: 44mm
+sleep_apnea_diagnosed: true
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+muscle_pain_score: moderate
+headache_location: frontal
+pain_onset_date: 11 years of age
+sleep_disorder_type: snore | somnolence
+disc_displacement: left disc dislocation withouth reduction |  right disc dislocation withouth reduction
+muscle_pain_location: shoulders | styloid 
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: knee | hip

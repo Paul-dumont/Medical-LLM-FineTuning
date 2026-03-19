@@ -1,0 +1,28 @@
+patient_id: B256
+patient_age: 34
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | clenching | bruxing | anterior open bite
+physical_therapy_status: enameloplasty
+earache_present: false
+adverse_reactions: cats | benzoyl peroxide | erythromycin | prolene
+airway_obstruction_present: false
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+current_appliance: splint made last year
+average_daily_pain_intensity: 4
+headache_intensity: 0
+pain_onset_date: last 1 to 2 years
+tmj_pain_rating: 2
+sleep_disorder_type: daytime somnolence
+current_medications: advair | zyrtec | atrovent nasal spray | nasacort aq | singulair | other medications as needed but not currently and are included in her chart
+disc_displacement: left disc anterior and medial displacement without reduction | right disc anterior displacement without reductionmuscle_pain_score: mild | left disc anterior and medial displacement without reduction | right disc dislocation without reduction
+muscle_pain_location: shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: night guard from 13 years ago to last year, a flat plane split | night guard to place the tmj in a neutral position |  orthodontics including headgear
+joint_pain_areas: tmj | feet | knees | right hip | sacroiliac joint | fingers | toes | right tmj

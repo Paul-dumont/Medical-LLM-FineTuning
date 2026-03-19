@@ -1,0 +1,32 @@
+patient_id: B414
+maximum_opening: 36mm
+pain_relieving_factors: splint
+diet_score: 2
+disability_rating: 2
+sleep_apnea_diagnosed: true
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching | clenching | bruxism
+physical_therapy_status: chiropractic
+earache_present: true
+fibromyalgia_present: true
+headache_frequency: daily | 6 to 7 days a month
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: very mild
+migraine_history: true
+headache_location: frontal | temporal | behind the eye
+average_daily_pain_intensity: 5
+headache_intensity: 6
+pain_onset_date: some time around last year
+tmj_pain_rating: 4
+sleep_disorder_type: chronic fatigue | sleep disorder | sleep apnea
+current_medications: numerous medications
+disc_displacement: left disc anteriorly displaced with reduction| right disc anteriorly displaced with reduction | left disc anteriorly displaced with relatively early reduction| right disc anteriorly displaced with relatively early reduction
+muscle_pain_location: temporalis
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint 12 years ago
+joint_pain_areas: knees | neck | back

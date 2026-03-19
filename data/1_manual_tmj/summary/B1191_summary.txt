@@ -1,0 +1,25 @@
+patient_id: B1191
+patient_age: 23
+maximum_opening: 43 mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+earache_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: temporal | posterior head
+current_appliance: orthodontics | splint
+average_daily_pain_intensity: 5
+headache_intensity: 7
+pain_onset_date: 13 years of age
+tmj_pain_rating: 6
+sleep_disorder_type: snoring | somnolence
+current_medications: darvocet | for | primarily
+disc_displacement: left disc dislocation withouth reduction | right disc dislocation withouth reduction
+muscle_pain_location: temporalis | masseter | shoulders | neck | styloid 
+appliance_history: orthodontics | splint
+joint_pain_areas: tmj | knees | wrists | hips | back | shoulders | neck

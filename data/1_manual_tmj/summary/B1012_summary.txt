@@ -1,0 +1,28 @@
+patient_id: B1012
+patient_age: 40
+maximum_opening: 56 mm
+diet_score: 1
+disability_rating: 1
+sleep_apnea_diagnosed: true
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: false
+pain_aggravating_factors: clenching
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: 2 a month
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal | behind eyes
+current_appliance: orthodontics
+average_daily_pain_intensity: 5
+headache_intensity: 4
+pain_onset_date: 40 years old
+jaw_crepitus: left tmj 
+tmj_pain_rating: 3
+sleep_disorder_type: somnolence
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: styloid 
+joint_arthritis_location: right tmj
+joint_pain_areas: knees 

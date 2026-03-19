@@ -1,0 +1,9 @@
+patient_id: B1193
+patient_age: 19
+maximum_opening: 62mm
+neck_pain_present: false
+airway_obstruction_present: true
+jaw_clicking: rigth tmj
+muscle_pain_score: moderate
+headache_location: frontal
+current_medications: Lamictal | Seroquel

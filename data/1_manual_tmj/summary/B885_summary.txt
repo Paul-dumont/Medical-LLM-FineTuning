@@ -1,0 +1,4 @@
+patient_id: B885
+patient_age: 17
+airway_obstruction_present: true
+appliance_history: orthodontics

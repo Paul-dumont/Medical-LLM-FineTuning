@@ -1,0 +1,26 @@
+1.patient_id: B559
+3.patient_age: 53
+4.maximum_opening: 51mm
+6.diet_score: 3
+8.disability_rating: 3
+9.sleep_apnea_diagnosed: True
+10.jaw_function_score: 8
+11.tinnitus_present: True
+12.vertigo_present: True
+13.hearing_loss_present: True 
+18.earache_present: False
+23.airway_obstruction_present: True
+25.headache_frequency: 3 a week
+27.muscle_symptoms_present: True
+28.jaw_clicking: True
+32.headache_location: Frontal | Temporal
+34.average_daily_pain_intensity: 4
+35.headache_intensity: 6
+37.pain_onset_date: 16 years of age
+39.tmj_pain_rating: 7
+40.sleep_disorder_type: Snoring | Somnolence 
+42.disc_displacement: Ledt TMJ | Rigth TMJ 
+43.muscle_pain_location: Masseter | Left TMJ 
+44.joint_arthritis_location: Ledt TMJ | Rigth TMJ  
+45.appliance_history: Orthodontic
+46.joint_pain_areas: Knees | Left TMJ | Rigth TMJ 

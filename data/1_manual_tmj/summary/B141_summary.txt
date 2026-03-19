@@ -1,0 +1,25 @@
+patient_id: B141
+patient_age: 33
+maximum_opening: 41mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite | clenching | bruxism
+earache_present: false
+airway_obstruction_present: true
+depression_present: true
+headache_frequency: once per week
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+headache_location: frontal | temporal
+average_daily_pain_intensity: 3
+headache_intensity: 2 | present
+autoimmune_condition: connective tissue autoimmune diseaseprevious_medications: wellbutrin | rheumatoid arthritis or other connective tissue autoimmune disease
+tmj_pain_rating: 2
+muscle_pain_location: left masseter
+joint_arthritis_location: right tmj | left tmj
+appliance_history: orthodontics from 12 to 13 with headgear | lower retainer for 3 years after completion of orthodontics | splint from 30 to 33 | 3 sprints
+joint_pain_areas: tmj | shoulders | right ankle

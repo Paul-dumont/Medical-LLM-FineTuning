@@ -1,0 +1,23 @@
+patient_id: B1372
+patient_age: 32
+maximum_opening: 50mm
+diet_score: 2
+disability_rating: 2
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+depression_present: true
+jaw_clicking: left tmj 
+muscle_pain_score: moderate
+headache_location: frontal
+headache_intensity: 0
+tmj_pain_rating: 1
+sleep_disorder_type: snoring | somnolence
+current_medications: bupropion
+muscle_pain_location: masseter | retromandibular 
+appliance_history: orthodontics
+joint_pain_areas: hip

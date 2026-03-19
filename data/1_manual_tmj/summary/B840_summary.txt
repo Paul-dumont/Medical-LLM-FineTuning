@@ -1,0 +1,6 @@
+patient_id: B840
+patient_age: 17
+maximum_opening: 16mm
+airway_obstruction_present: true
+autoimmune_condition: psoriasis
+current_medications: Albuterol | Pulmicort | Levothyroxine | Claritin | Famotadine  

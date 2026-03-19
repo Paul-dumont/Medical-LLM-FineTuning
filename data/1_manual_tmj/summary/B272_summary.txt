@@ -1,0 +1,27 @@
+patient_id: B272
+patient_age: 29
+maximum_opening: 40mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxing | anterior open bite
+earache_present: false
+onset_triggers: kicked in the jaw by brother who was 2 years old at the time
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj | right tmj
+muscle_pain_score: mild
+current_appliance: orthodontic retainer | splints
+average_daily_pain_intensity: 3
+headache_intensity: 0
+pain_onset_date: 12 years of age
+tmj_pain_rating: 3
+current_medications: none
+disc_displacement: left disc displacement without reduction | right disc displacement without reduction | left disc lateral and anterior displacement without reduction | right disc lateral and anterior displacement without reduction
+muscle_pain_location: left temporalis | right retromandibular
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 15 to 17 | orthodontic retainers
+joint_pain_areas: tmjjoint_arthritis_location: left tmj | right tmj

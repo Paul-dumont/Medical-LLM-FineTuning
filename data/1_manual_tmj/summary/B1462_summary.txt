@@ -1,0 +1,21 @@
+patient_id: B1462
+maximum_opening_without_pain: 28mm
+patient_age: 41
+maximum_opening: 44mm
+diet_score: 5
+disability_rating: 7
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+physical_therapy_status: physical therapy
+earache_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+average_daily_pain_intensity: 7
+headache_intensity: 0
+tmj_pain_rating: 6
+current_medications: Flexeril | Klonopin | Ibuprofen
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | retromandibular | shoulders | neck 
+appliance_history: splint
+joint_pain_areas: knees | shoulders 

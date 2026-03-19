@@ -1,0 +1,7 @@
+patient_id: B848
+patient_age: 23
+jaw_clicking: rigth tmj
+headache_location: frontal
+disc_displacement: left disc dislocation | right disc dislocation with reduction
+muscle_pain_location: neck
+appliance_history: orthodontics | splint

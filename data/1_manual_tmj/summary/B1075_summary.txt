@@ -1,0 +1,23 @@
+patient_id: B1075
+patient_age: 29
+maximum_opening: 43mm
+diet_score: 0
+disability_rating: 3
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: 2 a month
+jaw_clicking: left tmj | right tmj
+current_appliance: orthodontics
+headache_intensity: 4
+pain_onset_date: 2 years ago
+tmj_pain_rating: 4
+current_medications: none
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj
+appliance_history: orthodontics

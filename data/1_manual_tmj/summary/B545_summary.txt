@@ -1,0 +1,24 @@
+1.patient_id: B545
+3.patient_age: 39
+4.maximum_opening: 40mm
+6.diet_score: 2
+8.disability_rating: 1
+9.sleep_apnea_diagnosed: False
+10.jaw_function_score: 2
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+15.neck_pain_present: False
+18.earache_present: False
+25.headache_frequency: 2 a week
+28.jaw_clicking: False
+32.headache_location: Frontal
+33.current_appliance: Nigthguard
+34.average_daily_pain_intensity: 1
+35.headache_intensity: 2
+37.pain_onset_date: 38 years of age
+39.tmj_pain_rating: 1
+40.sleep_disorder_type: Snoring
+42.disc_displacement: Left TMJ | Rigth TMJ
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Nigthguard 

@@ -1,0 +1,27 @@
+patient_id: B1413
+maximum_opening_without_pain: 30mm
+patient_age: 59
+maximum_opening: 35 mm
+diet_score: 4
+disability_rating: 6
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+onset_triggers: motor vehicle
+headache_frequency: daily
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: throughout the head area
+current_appliance: splint
+average_daily_pain_intensity: 8
+headache_intensity: 8
+pain_onset_date: 29 years ago
+tmj_pain_rating: 4
+current_medications: Lortab | Paxil | Lyrica | Zantac | Senokot-S | Fosamax 
+disc_displacement: left disc dislocation
+muscle_pain_location: temporalis | masseter | shoulders | neck | styloid  
+joint_arthritis_location: left tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knees | wrists | hands

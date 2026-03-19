@@ -1,0 +1,25 @@
+patient_id: B1293
+patient_age: 54
+maximum_opening: 46mm
+diet_score: 2
+disability_rating: 5
+sleep_apnea_diagnosed: true
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: 2 a week
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 3
+headache_intensity: 3
+pain_onset_date: 10 years ago
+tmj_pain_rating: 3
+sleep_disorder_type: sleep apnea
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: retromandibular 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | nigth guard
+joint_pain_areas:  knees | hips

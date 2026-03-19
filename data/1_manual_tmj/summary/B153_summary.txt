@@ -1,0 +1,29 @@
+patient_id: B153
+maximum_opening_without_pain: 19mm
+patient_age: 18
+maximum_opening: 36mm
+diet_score: 6
+disability_rating: 2
+sleep_apnea_diagnosed: false
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: anterior open bite | clenching
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: frequent
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: moderate to mild
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 3
+headache_intensity: 6, occasionally 9 | present
+pain_onset_date: age of 16
+tmj_pain_rating: 8
+sleep_disorder_type: snoring
+current_medications: prevacid | allegra
+disc_displacement: left disc anterior medial displacement | right disc medial displacement | left disc displacement | right disc displacement
+muscle_pain_location: left masseter | right masseter | medial pterygoids | retromandibular area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 9 to 12 | splint from age 16 to 17
+joint_pain_areas: tmj | fingers | toes | right tmj | left tmj

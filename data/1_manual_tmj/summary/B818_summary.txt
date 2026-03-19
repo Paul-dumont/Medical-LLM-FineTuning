@@ -1,0 +1,23 @@
+patient_id: B818
+patient_age: 52
+maximum_opening: 58 mm
+diet_score: 0
+disability_rating: 0
+sleep_apnea_diagnosed: true
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+back_pain_present: true
+neck_pain_present: true
+earache_present: false
+airway_obstruction_present: true
+depression_present: true
+muscle_pain_score: moderate
+headache_location: frontal
+average_daily_pain_intensity: 6
+headache_intensity: 0
+sleep_disorder_type: sleep apnea | snoring |  somnolence
+current_medications: Wellbutrin | Effexor| Estrogen| Progesterone| Red rice yeast | vitamins
+muscle_pain_location: masseter 
+appliance_history: orthodontics

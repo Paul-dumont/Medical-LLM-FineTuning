@@ -1,0 +1,19 @@
+patient_id: B1256
+patient_age: 28
+maximum_opening: 64mm
+disability_rating: 6
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+earache_present: true
+headache_frequency: 1 a week
+muscle_symptoms_present: true
+muscle_pain_score: high 
+headache_location: posterior head
+average_daily_pain_intensity: 3
+headache_intensity: 3
+pain_onset_date: 1 year ago
+tmj_pain_rating: 4
+disc_displacement: left disc displacement | rigth disc displacement
+muscle_pain_location: masseter | retromandibular | shoulders | neck 
+joint_pain_areas:  knees | shoulders

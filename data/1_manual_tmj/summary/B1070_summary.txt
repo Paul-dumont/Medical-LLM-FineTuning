@@ -1,0 +1,11 @@
+patient_id: B1070
+patient_age: 47
+sleep_apnea_diagnosed: true
+vertigo_present: true
+hearing_loss_present: true
+neck_pain_present: false
+earache_present: true
+airway_obstruction_present: true
+jaw_clicking: rigth tmj
+sleep_disorder_type: sleep apnea
+joint_pain_areas: hips | back | neck

@@ -1,0 +1,14 @@
+patient_id: B972
+patient_age: 18
+diet_score: 3
+disability_rating: 2
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+muscle_pain_location: neck
+appliance_history: orthodontics

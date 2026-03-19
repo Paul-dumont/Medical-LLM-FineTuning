@@ -1,0 +1,22 @@
+2.maximum_opening_without_pain: 34 mm 
+4.maximum_opening: 42 MM
+6.diet_score: 5
+8.disability_rating: 7
+10.jaw_function_score: 5
+11.tinnitus_present: False
+12.vertigo_present: True
+18.earache_present: False
+20.adverse_reactions: Codeine 
+25.headache_frequency: 3 a week
+27.muscle_symptoms_present: True 
+28.jaw_clicking: Left TMJ
+30.muscle_pain_score: Mild
+32.headache_location: Frontal | Temporal 
+35.headache_intensity: 5
+37.pain_onset_date: 12.5 
+41.current_medications:  Birth control | Excedrin | Vicodin 
+42.disc_displacement: Left disc dislocation | Rigth disc dislocation 
+43.muscle_pain_location: Masseter 
+44.joint_arthritis_location: Left TMJ | Rigth TMJ 
+45.appliance_history: Orthodontics
+46.joint_pain_areas: Wrist | Ankle 

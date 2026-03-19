@@ -1,0 +1,23 @@
+patient_id: B008
+patient_age: 23
+diet_score: 1
+disability_rating: 5
+sleep_apnea_diagnosed: true
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite | clenching
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: continuous
+headache_location: temporal areas
+current_appliance: orthodontics 6 months ago
+average_daily_pain_intensity: 4
+headache_intensity: 5 | present
+pain_onset_date: a year and 2 months ago
+tmj_pain_rating: 1
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea
+current_medications: amitriptyline
+disc_displacement: left disc medial dislocation | right disc medial  dislocation
+appliance_history: 3 splints beginning a year and 2 months ago

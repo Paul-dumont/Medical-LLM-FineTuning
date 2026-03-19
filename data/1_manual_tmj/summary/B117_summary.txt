@@ -1,0 +1,27 @@
+patient_id: B117
+patient_age: 29
+maximum_opening: 43mm
+diet_score: 2
+disability_rating: 4
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite | clenching | bruxism | anterior open bite
+physical_therapy_status: speech therapy | swallowing therapy
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: daily
+jaw_clicking: left tmj | right tmj
+migraine_history: true
+headache_location: temporal | posterior head | across top of the head
+average_daily_pain_intensity: 8
+headache_intensity: 8
+pain_onset_date: 14 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 7
+current_medications: lexapro | claritin | ocp | benadryl | melatonin | advil | minocin
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior dislocation without reductionmuscle_pain_location: right masseter | temporalis | left disc dislocation without reduction | right disc dislocation without reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 11 or 12 to 14 years of age | splint from 18 to 19 years of age
+joint_pain_areas: left tmj | right tmj | none

@@ -1,0 +1,3 @@
+patient_id: B1045
+patient_age: 16 
+airway_obstruction_present: true

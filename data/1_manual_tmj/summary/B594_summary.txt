@@ -1,0 +1,24 @@
+1.patient_id: B594
+3.patient_age: 134
+4.maximum_opening: 57 mm
+6.diet_score: 3
+8.disability_rating: 0
+10.jaw_function_score: 4
+13.hearing_loss_present: True
+15.neck_pain_present: True
+18.earache_present: True
+25.headache_frequency: 3.5 a week
+27.muscle_symptoms_present: True
+28.jaw_clicking: Left TMJ
+30.muscle_pain_score: Moderate
+32.headache_location: Frontal | Temporalis
+34.average_daily_pain_intensity: 6
+35.headache_intensity: 6
+39.tmj_pain_rating: 6
+40.sleep_disorder_type: Snoring | Somnolence
+41.current_medications:  Tylenol | Advil 
+42.disc_displacement: Left TMJ | Rigth TMJ
+43.muscle_pain_location: Styloid | Masseter | Neck 
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Orthodontics
+46.joint_pain_areas: Rigth TMJ | Left TMJ

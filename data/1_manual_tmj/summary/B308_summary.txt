@@ -1,0 +1,16 @@
+patient_id: B308
+patient_age: 40
+maximum_opening: 55mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+pain_aggravating_factors: left posterior cross bite | left posterior cross bite | right posterior crossbite
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: left disc anteriorly displacement without reduction | right disc anteriorly displacement with reductionmuscle_tenderness_present: false | left disc dislocation without reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: left shoulder | ankles

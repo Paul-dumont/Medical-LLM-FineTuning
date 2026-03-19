@@ -1,0 +1,24 @@
+patient_id: B948
+patient_age: 38
+diet_score: 4
+disability_rating: 5
+sleep_apnea_diagnosed: true
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+physical_therapy_status: physical therapy
+airway_obstruction_present: true
+headache_frequency: constant
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: throughout the head
+current_appliance: splint
+average_daily_pain_intensity: 9
+headache_intensity: 9
+pain_onset_date: 38 years old
+tmj_pain_rating: 9
+sleep_disorder_type: somnolence 
+muscle_pain_location: masseter | shoulders | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knees | wrists | hips | shoulders | hands

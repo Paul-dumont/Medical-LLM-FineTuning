@@ -1,0 +1,24 @@
+patient_id: B871
+patient_age: 55
+diet_score: 3
+disability_rating: 0
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 1 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj 
+muscle_pain_score: moderate
+headache_location: temporal
+average_daily_pain_intensity: 4
+headache_intensity: 4
+pain_onset_date: 2 years ago
+tmj_pain_rating: 4
+current_medications: covaryx | Aspirin | Zeid | Paxil | Vitamin D | Melatonin | folic acid | Placimine | Surfak| Vitamin C | Echinacea | Tylenol
+disc_displacement: left disc displacement with reduction | rigth disc dislocation
+muscle_pain_location: scm | shoulders 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: knees | shoulders

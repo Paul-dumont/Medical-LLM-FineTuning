@@ -1,0 +1,18 @@
+patient_id: B1017
+patient_age: 14
+maximum_opening: 47 mm
+sleep_apnea_diagnosed: true
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal
+headache_intensity: 0
+pain_onset_date: 14 years old
+tmj_pain_rating: 0
+current_medications: Focalin
+muscle_pain_location: masseter 

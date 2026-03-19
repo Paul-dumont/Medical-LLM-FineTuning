@@ -1,0 +1,26 @@
+patient_id: B370
+patient_age: 31
+maximum_opening: 48mm
+diet_score: 3
+disability_rating: 4
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: anterior open bite
+earache_present: true
+onset_triggers: someone hit her or bumped her in the jaw from the right side
+headache_frequency: two times per week, but there are times when they occur daily
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild to moderate
+migraine_history: true
+headache_location: begin in the temple area but can cover the entire head and neck area
+average_daily_pain_intensity: 6
+headache_intensity: 8 | severe
+pain_onset_date: age of 10 or 11
+tmj_pain_rating: 4 | moderate to severe | severe
+current_medications: none
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior dislocation without reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: masseter muscles | styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics as a teenager
+joint_pain_areas: left tmj | right tmj | left shoulder | her wrists

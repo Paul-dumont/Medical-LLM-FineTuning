@@ -1,0 +1,22 @@
+patient_id: B1403
+patient_age: 22
+maximum_opening: 57mm
+diet_score: 2
+disability_rating: 6
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: truefalse
+earache_present: false
+adverse_reactions: nuts | penicillin | Biaxin
+muscle_symptoms_present: true
+jaw_clicking: left tmj 
+previous_medications: Soma
+muscle_pain_score: mild
+migraine_history: true
+headache_location: frontal | posterior head | temporal
+average_daily_pain_intensity: 2
+headache_intensity: 8
+pain_onset_date: 20 years of age
+tmj_pain_rating: 4
+muscle_pain_location: masseter | shoulders 
+appliance_history: orthodontics | splint | nigth guard

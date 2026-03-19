@@ -1,0 +1,16 @@
+patient_id: B1554
+patient_age: 16
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+neck_pain_present: true
+earache_present: true
+airway_obstruction_present: true
+average_daily_pain_intensity: 2
+headache_intensity: 5
+pain_onset_date: 16 years old
+tmj_pain_rating: 0
+disc_displacement: left disc dislocation | right disc dislocation
+appliance_history: orthodontics

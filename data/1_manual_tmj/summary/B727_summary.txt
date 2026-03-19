@@ -1,0 +1,17 @@
+patient_id: B727
+tinnitus_present: true
+vertigo_present: true
+physical_therapy_status: chiropractic
+earache_present: fasle
+airway_obstruction_present: true
+depression_present: true
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+headache_location: frontal | temporal | posterior head
+headache_intensity: 7
+sleep_disorder_type: snoring | somnolence 
+current_medications: Lorazepam | Mobic | Sulfa
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: neck

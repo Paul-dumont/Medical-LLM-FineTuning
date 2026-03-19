@@ -1,0 +1,20 @@
+patient_id: B1484
+patient_age: 27
+maximum_opening: 55mm
+diet_score: 9
+disability_rating: 9
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: temporal
+average_daily_pain_intensity: 6
+headache_intensity: 5
+tmj_pain_rating: 0
+sleep_disorder_type: snoring | somnolence
+current_medications: Zyrtec | Tylenol
+muscle_pain_location: temporalis 

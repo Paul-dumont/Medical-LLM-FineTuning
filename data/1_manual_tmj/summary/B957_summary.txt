@@ -1,0 +1,4 @@
+patient_id: B957
+airway_obstruction_present: true
+sleep_disorder_type: snoring
+current_medications: lipitor | niacin | vitamins | aspirin | Propecia | Adderall | Ritalin

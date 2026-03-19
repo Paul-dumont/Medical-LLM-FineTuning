@@ -1,0 +1,19 @@
+patient_id: B1346
+diet_score: 5
+disability_rating: 8
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: true
+neck_pain_present: true
+headache_frequency: 1 a month
+muscle_symptoms_present: true
+previous_medications: Toradol | Mobic | Z-Pak | Levaquin
+muscle_pain_score: severe
+headache_location: temporal
+average_daily_pain_intensity: 3
+headache_intensity: 8.5
+pain_onset_date: 1 year ago
+tmj_pain_rating: 3
+sleep_disorder_type: somnolence
+current_medications: Synthroid | Ambien | Flexeril | Mobic | Toradol | Z-Pak | Levaquin
+muscle_pain_location: temporalis | masseter | retromandibular | scm | shoulders | 

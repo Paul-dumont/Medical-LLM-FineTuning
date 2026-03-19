@@ -1,0 +1,3 @@
+patient_id: B1162
+patient_age: 69
+muscle_pain_score: severe

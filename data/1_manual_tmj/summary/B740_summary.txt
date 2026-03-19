@@ -1,0 +1,15 @@
+patient_id: B740
+patient_age: 42
+maximum_opening: 38mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+earache_present: true
+headache_frequency: 2 a week
+muscle_symptoms_present: false
+muscle_pain_score: m
+average_daily_pain_intensity: 0
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 0
+joint_arthritis_location: left tmj | rigth tmj
+appliance_history: orthodontics

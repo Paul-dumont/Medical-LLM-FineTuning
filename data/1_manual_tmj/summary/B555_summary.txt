@@ -1,0 +1,44 @@
+1.patient_id: B555
+3.patient_age: 32
+4.maximum_opening: 35mm
+5.pain_relieving_factors: Unknwon
+6.diet_score: 4
+8.disability_rating: 5
+9.sleep_apnea_diagnosed: Unknwon
+10.jaw_function_score: 3
+11.tinnitus_present: True
+12.vertigo_present: Unknwon
+13.hearing_loss_present: Unknwon
+14.back_pain_present: Unknwon
+15.neck_pain_present: True
+16.pain_aggravating_factors: Unknwon
+17.physical_therapy_status: physical therapy
+18.earache_present: False 
+19.onset_triggers: Unknwon
+20.adverse_reactions: Allergy to nickel
+21.fibromyalgia_present: Unknwon
+22.jaw_locking: Unknwon
+23.airway_obstruction_present: Unknwon
+24.depression_present: Unknwon
+25.headache_frequency: Continuous
+26.pain_frequency: Daily
+27.muscle_symptoms_present: True
+28.jaw_clicking: True
+29.previous_medications: Unknwon 
+30.muscle_pain_score: Moderate
+31.migraine_history: Unknwon
+32.headache_location: Temporal | Posterior head
+33.current_appliance: Unknwon
+34.average_daily_pain_intensity: 6
+35.headache_intensity: 5.5
+36.autoimmune_condition: Unknwon
+37.pain_onset_date: 30 years of age
+38.jaw_crepitus: Unknwon
+39.tmj_pain_rating: 6.5
+40.sleep_disorder_type: Unknwon
+41.current_medications:  Flexeril. | Aleve  | OxyContin 
+42.disc_displacement: Rigth TMJ
+43.muscle_pain_location: Masseter | Syloid | Temporal | Neck
+44.joint_arthritis_location: Rigth TMJ
+45.appliance_history: Splint
+46.joint_pain_areas: Rigth TMJ

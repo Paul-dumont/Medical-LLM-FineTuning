@@ -1,0 +1,17 @@
+patient_id: B933
+maximum_opening_without_pain: 48mm
+patient_age: 23
+maximum_opening: 54mm
+jaw_locking: true
+muscle_symptoms_present: true
+jaw_clicking: rigth tmj | left tmj
+previous_medications: Celebrex | naproxen
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+pain_onset_date: 4 years ago
+sleep_disorder_type: snoring  | somnolence
+current_medications: Lyrica | Ambien | Coumadin | Ativan | Zanaflex | Hydrocodone
+disc_displacement: left disc dislocation with reduction | right disc dislocation  with reduction
+muscle_pain_location: temporalis | masseter | scm | shoulders | styloid 
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: knees | hands

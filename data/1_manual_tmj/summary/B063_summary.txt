@@ -1,0 +1,26 @@
+patient_id: B063
+maximum_opening_without_pain: 34mm
+patient_age: 20
+maximum_opening: 50mm
+diet_score: 7
+disability_rating: 4
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+onset_triggers: right subcondylar fracture from trauma when 5 years of age
+adverse_reactions: ceclor
+airway_obstruction_present: false
+headache_frequency: daily
+muscle_symptoms_present: true
+muscle_pain_score: high to moderate
+headache_location: right side | right side | frontal | temporal
+current_appliance: 3 x 3 retainer
+average_daily_pain_intensity: 7
+headache_intensity: 8
+pain_onset_date: 2 years ago
+tmj_pain_rating: 8
+disc_displacement: left tmj medial anterior displacement of the articular disc with early reduction | left tmj medial displacement of the articular disc
+muscle_pain_location: right masseter | right temporalis | right styloid area | right posterior neck
+appliance_history: orthodontics
+joint_pain_areas: right tmj

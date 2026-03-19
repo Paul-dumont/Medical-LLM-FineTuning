@@ -1,0 +1,20 @@
+patient_id: B1330
+patient_age: 18
+maximum_opening: 29 mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+headache_location: frontal | temporal | behind eyes
+average_daily_pain_intensity: 1
+headache_intensity: 2
+pain_onset_date: 15 years of age
+tmj_pain_rating: 3
+sleep_disorder_type: snoring
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: knees | elbows

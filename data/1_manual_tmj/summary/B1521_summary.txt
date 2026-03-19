@@ -1,0 +1,23 @@
+patient_id: B1521
+maximum_opening_without_pain: 35mm
+patient_age: 62
+maximum_opening: 43mm
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal | top of the head 
+average_daily_pain_intensity: 6
+headache_intensity: 7
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 6
+current_medications: Synthroid | Premarin | Prometrium | Wellbutrin
+muscle_pain_location: temporalis | masseter | shoulders 
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: knee

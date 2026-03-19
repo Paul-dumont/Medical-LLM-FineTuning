@@ -1,0 +1,22 @@
+patient_id: B1376
+patient_age: 16
+maximum_opening: 51mm
+diet_score: 0
+disability_rating: 0
+sleep_apnea_diagnosed: false
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: cats | dogs | tide detergent
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal
+headache_intensity: 0
+tmj_pain_rating: 0
+sleep_disorder_type: somnolence
+current_medications: advair | allegra | and | bcp
+muscle_pain_location: styloid 
+appliance_history: orthodontics

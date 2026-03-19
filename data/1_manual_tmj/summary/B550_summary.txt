@@ -1,0 +1,22 @@
+1.patient_id: B550
+3.patient_age: 16
+4.maximum_opening: 57mm
+6.diet_score: 3
+8.disability_rating: 1
+10.jaw_function_score: 3
+11.tinnitus_present: True
+12.vertigo_present: True
+18.earache_present: False
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+28.jaw_clicking: True
+33.current_appliance: Splint
+34.average_daily_pain_intensity: 0
+35.headache_intensity: 0 
+37.pain_onset_date: 12 years of age
+39.tmj_pain_rating: 2
+42.disc_displacement: Left TMJ | Rigth TMJ
+43.muscle_pain_location: Temporalis 
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Orthodontic | Splint
+46.joint_pain_areas: Left TMJ | Rigth TMJ

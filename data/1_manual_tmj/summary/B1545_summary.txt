@@ -1,0 +1,21 @@
+patient_id: B1545
+patient_age: 12
+maximum_opening: 5 mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 2
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: 2 a month
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal 
+average_daily_pain_intensity: 3
+headache_intensity: 7
+tmj_pain_rating: 2
+current_medications: vyvanse
+disc_displacement: left disc displacement | rigth disc displacement 
+muscle_pain_location: temporalis | masseter | retromandibular 

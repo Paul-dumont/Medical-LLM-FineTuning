@@ -1,0 +1,15 @@
+patient_id: B856
+patient_age: 21
+maximum_opening: 60mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_intensity: 0
+current_medications: cortisone | growth hormone
+muscle_pain_location: neck
+appliance_history: orthodontics

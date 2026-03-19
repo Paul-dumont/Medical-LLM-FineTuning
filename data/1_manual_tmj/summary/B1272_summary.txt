@@ -1,0 +1,7 @@
+patient_id: B1272
+patient_age: 15
+maximum_opening: 52 mm
+neck_pain_present: false
+airway_obstruction_present: true
+current_medications: none
+appliance_history: orthodontics

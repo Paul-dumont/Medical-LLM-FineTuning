@@ -1,0 +1,21 @@
+patient_id: B384
+patient_age: 17
+maximum_opening: 55mm
+diet_score: 6
+disability_rating: 5
+sleep_apnea_diagnosed: true
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+pain_aggravating_factors: anterior open bite
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_intensity: 0
+tmj_pain_rating: 0
+sleep_disorder_type: daytime somnolence | snoring | sleep apnea episodes
+disc_displacement: left disc anterior and lateral dislocation with reduction | right disc anterior dislocation with reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: masseter
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontic treatment for 5-1/2 years | orthodontic treatment from the age of 12 to 17 for about 5-1/2 years

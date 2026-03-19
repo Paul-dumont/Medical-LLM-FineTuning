@@ -1,0 +1,26 @@
+1.patient_id: B561
+2.maximum_opening_without_pain: 34 mm 
+3.patient_age: 19
+4.maximum_opening: 55mm
+6.diet_score: 5
+8.disability_rating: 4
+10.jaw_function_score: 6
+11.tinnitus_present: True
+12.vertigo_present: True
+13.hearing_loss_present: False
+18.earache_present: False
+22.jaw_locking: True 
+25.headache_frequency: Daily
+27.muscle_symptoms_present: True
+28.jaw_clicking: True
+32.headache_location: Temporal | Frontal 
+34.average_daily_pain_intensity: 7
+35.headache_intensity: 5
+37.pain_onset_date: 15 years of age
+38.jaw_crepitus: True
+39.tmj_pain_rating: 7
+42.disc_displacement: Rigth TMJ Withouth reduction | Left TMJ Withouth reduction
+43.muscle_pain_location: Masseters | Retromandibular
+44.joint_arthritis_location: Rigth TMJ | Left TMJ 
+45.appliance_history: Orthodontics | Splint
+46.joint_pain_areas: Left TMJ | Rigth TMJ

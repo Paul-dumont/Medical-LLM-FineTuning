@@ -1,0 +1,24 @@
+patient_id: B987
+patient_age: 17
+maximum_opening: 44
+pain_relieving_factors: splint
+diet_score: 3
+disability_rating: 1
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: 4 a week
+muscle_symptoms_present: true
+jaw_clicking: rigth tmj
+muscle_pain_score: moderate
+headache_location: temple
+current_appliance: orthodotnics
+average_daily_pain_intensity: 5
+headache_intensity: 4
+pain_onset_date: 2 years old
+tmj_pain_rating: 6
+muscle_pain_location: masseter | scm | styloid 
+appliance_history: orthodontics | splint

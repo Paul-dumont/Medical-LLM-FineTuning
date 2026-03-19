@@ -1,0 +1,28 @@
+patient_id: B236
+maximum_opening_without_pain: 40mm
+patient_age: 18
+maximum_opening: 53mm
+diet_score: 6
+disability_rating: 6
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching | brxism
+earache_present: true
+onset_triggers: orthodontics
+airway_obstruction_present: true
+headache_frequency: daily
+jaw_clicking: right tmj
+muscle_pain_score: mild to moderate
+headache_location: frontal | temporal
+current_appliance: orthodontics recently
+average_daily_pain_intensity: 6
+headache_intensity: 8
+pain_onset_date: 12 years of age
+tmj_pain_rating: 8
+current_medications: synthroid | citalopram | advil
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement with early reduction
+muscle_pain_location: temporalis | masseters | shoulders | retromandibular area | scms
+appliance_history: orthodontics from 10 to 12 | orthodontics from 12 to 13
+joint_pain_areas: left tmj | right

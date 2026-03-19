@@ -1,0 +1,21 @@
+patient_id: B1386
+patient_age: 37
+maximum_opening: 74mm
+diet_score: 10
+disability_rating: 8
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal
+current_appliance: splint
+average_daily_pain_intensity: 6
+headache_intensity: 7
+pain_onset_date: 20 years ago
+jaw_crepitus: left tmj | rigth tmj
+tmj_pain_rating: 6
+current_medications: none
+muscle_pain_location: temporalis | scm 
+appliance_history: orthodontics | splint

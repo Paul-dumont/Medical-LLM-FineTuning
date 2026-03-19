@@ -1,0 +1,31 @@
+patient_id: B773
+maximum_opening_without_pain: 20 mm
+patient_age: 27
+maximum_opening: 36 mm
+diet_score: 1
+disability_rating: 5
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: true
+physical_therapy_status: physical therapy
+earache_present: true
+adverse_reactions: cedar
+fibromyalgia_present: true
+airway_obstruction_present: true
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 6
+autoimmune_condition: fibromyalgia
+pain_onset_date: 27 years old
+tmj_pain_rating: 5
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | scm | shoulders | neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas:  knees | elbows | hips 

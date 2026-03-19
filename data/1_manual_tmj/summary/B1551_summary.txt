@@ -1,0 +1,19 @@
+patient_id: B1551
+patient_age: 11
+diet_score: 2
+disability_rating: 3
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_pain_score: moderate
+headache_location: frontal
+headache_intensity: 0
+autoimmune_condition: rheumatoid arthritis
+pain_onset_date: 11 years of age
+tmj_pain_rating: 0
+sleep_disorder_type: snoring | somnolence
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: knees

@@ -1,0 +1,25 @@
+patient_id: B946
+patient_age: 20
+maximum_opening: 52 mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: high 
+headache_location: frontal | temporal
+current_appliance: orthodontics
+average_daily_pain_intensity: 5
+headache_intensity: 4
+pain_onset_date: 18 years of age
+tmj_pain_rating: 6
+current_medications: advil | aleve | birth control 
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction 
+muscle_pain_location: temporalis | masseter | retromandibular | neck 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knees

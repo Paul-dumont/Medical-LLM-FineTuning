@@ -1,0 +1,28 @@
+patient_id: B181
+maximum_opening_without_pain: 21mm
+patient_age: 20
+maximum_opening: 42mm
+diet_score: 8
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+pain_aggravating_factors: bruxism | clenching
+earache_present: true
+airway_obstruction_present: true
+depression_present: true
+headache_frequency: constant
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate to lower severe
+headache_location: left temporal | right temporal
+average_daily_pain_intensity: 3
+headache_intensity: 7 | present
+pain_onset_date: age of 11
+tmj_pain_rating: 8 | severe
+current_medications: naproxen | hydrocodone | tri-legest fe | albuterol
+disc_displacement: left disc anterior displacement without reduction | right disc anterior and medial displacement with reduction | left disc without reduction | right disc with reduction
+muscle_pain_location: most of head and neck area except scm and posterior neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 10 to 11 years of age
+joint_pain_areas: shoulders | wrists

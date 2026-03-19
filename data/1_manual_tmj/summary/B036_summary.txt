@@ -1,0 +1,26 @@
+patient_id: B036
+maximum_opening_without_pain: 14mm
+patient_age: 33
+maximum_opening: 25mm
+diet_score: 8
+disability_rating: 8
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: anterior open bite | anterior open bite | left buccal cross bite | chewing any kind of any food with any substance | clenching | bruxism
+earache_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild to moderate
+headache_location: frontal
+current_appliance: 3 x 3 retainer | splint with occasional adjustments
+average_daily_pain_intensity: 4
+headache_intensity: 2 but can escalate to 7 | present
+pain_onset_date: 15, 16 and 17 years of age
+jaw_crepitus: left tmj
+tmj_pain_rating: 5
+current_medications: omnaris nasal spray | multivitamins | viactiv calcium | advil
+disc_displacement: left disc anterior and medial dislocation | right disc anterior and medial dislocation | left disc anteriorly displaced without reduction
+muscle_pain_location: retromandibular area | temporalis | masseters | shoulders
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: 2 splints beginning 9 years ago
+joint_pain_areas: tmj | left tmj | right tmj

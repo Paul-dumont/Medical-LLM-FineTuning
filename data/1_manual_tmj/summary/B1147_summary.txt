@@ -1,0 +1,11 @@
+patient_id: B1147
+patient_age: 25
+maximum_opening: 42mm
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: moderate
+jaw_crepitus: right tmj
+tmj_pain_rating: 9
+disc_displacement: left disc dislocation with reduction | right disc dislocation
+muscle_pain_location: masseter | retromandibular | scm | shoulders | neck 
+joint_arthritis_location: left tmj | right tmj

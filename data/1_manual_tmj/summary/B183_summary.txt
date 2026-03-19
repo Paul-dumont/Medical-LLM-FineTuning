@@ -1,0 +1,30 @@
+patient_id: B183
+maximum_opening_without_pain: 25mm
+patient_age: 57
+maximum_opening: 45mm
+diet_score: 8
+disability_rating: 8
+sleep_apnea_diagnosed: false
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: bruxism | clenching
+physical_therapy_status: physical therapy and chiropractic treatment
+earache_present: false
+onset_triggers: orthognathic surgery
+airway_obstruction_present: false
+headache_frequency: chronic
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 8
+headache_intensity: 8 | present
+pain_onset_date: 5 years ago
+tmj_pain_rating: 8
+sleep_disorder_type: daytime somnolence
+current_medications: synthroid | zocor | singulair | motrin | ambien
+disc_displacement: left disc posterior displacementmuscle_pain_score: high moderate to low severe
+muscle_pain_location: temporalis | masseters | scm | posterior neck | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from age 51 to 53
+joint_pain_areas: tmj | left tmj | right tmj

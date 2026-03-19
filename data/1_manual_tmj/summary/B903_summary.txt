@@ -1,0 +1,15 @@
+patient_id: B903
+patient_age: 15
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: medication
+jaw_clicking:  right tmj
+pain_onset_date: 4 years ago
+current_medications: none
+disc_displacement: right disc dislocation with reduction
+appliance_history: orthodontics

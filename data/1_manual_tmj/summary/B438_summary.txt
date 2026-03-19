@@ -1,0 +1,29 @@
+patient_id: B438
+maximum_opening_without_pain: 40mm
+patient_age: 32
+maximum_opening: 48mm
+diet_score: 8
+disability_rating: 9
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching | eating
+onset_triggers: elastics
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: occasional
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: temple
+current_appliance: orthodontics
+average_daily_pain_intensity: 1
+headache_intensity: 3
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 6
+current_medications: vitamins | over-the-counter medication that she bought at walgreens that is specific for joints
+disc_displacement: left disc dislocation without reduction | right disc dislocation with early reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: masseters | shoulders
+joint_arthritis_location: left tmj | left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj | neck | left elbow | knees

@@ -1,0 +1,18 @@
+patient_id: B844
+maximum_opening_without_pain: 29 mm
+patient_age: 38
+maximum_opening: 33mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: earrings
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+current_medications: Advil
+disc_displacement: left disc dislocation | right disc dislocation with reduction
+muscle_pain_location: masseter | neck | 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: knees

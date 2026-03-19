@@ -1,0 +1,19 @@
+1.patient_id: B646
+3.patient_age: 19
+4.maximum_opening: 51 mm 
+6.diet_score: 5
+8.disability_rating: 4
+10.jaw_function_score: 7
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+15.neck_pain_present: False
+18.earache_present: False
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+30.muscle_pain_score: Mild
+35.headache_intensity: 0
+42.disc_displacement: Left disc dislocation | Rigth disc dislocation
+43.muscle_pain_location: Styloid
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Orthodontics

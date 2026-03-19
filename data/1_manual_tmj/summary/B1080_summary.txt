@@ -1,0 +1,21 @@
+patient_id: B1080
+patient_age: 41
+maximum_opening: 39mm
+diet_score: 5
+disability_rating: 2
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_location: frontal
+headache_intensity: 0
+jaw_crepitus: left tmj 
+tmj_pain_rating: 0
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

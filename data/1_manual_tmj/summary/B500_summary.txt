@@ -1,0 +1,26 @@
+patient_id: B500
+maximum_opening_without_pain: 32mm
+patient_age: 19
+maximum_opening: 47mm
+diet_score: 0
+disability_rating: 1
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+neck_pain_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate to milder
+headache_location: frontal | temple
+average_daily_pain_intensity: 2
+headache_intensity: 3 | present
+pain_onset_date: 16
+tmj_pain_rating: 5
+sleep_disorder_type: snoring
+disc_displacement: left disc anteromedially displaced without reduction | right disc anteromedially displaced without reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: scms | posterior neck | left masseter area | shoulders | left scm | left medial pterygoid area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from the age of 11 to 16
+joint_pain_areas: tmj | knees | left tmj | right tmj

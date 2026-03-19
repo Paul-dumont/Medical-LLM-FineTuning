@@ -1,0 +1,18 @@
+patient_id: B1163
+patient_age: 40
+maximum_opening: 50mm
+diet_score: 3
+disability_rating: 0
+sleep_apnea_diagnosed: true
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+adverse_reactions: yeast | chicken | pollen | mold | milk
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_intensity: 0
+pain_onset_date: 40 years old
+tmj_pain_rating: 0
+sleep_disorder_type: sleep apnea | snoring | somnolence
+current_medications: none

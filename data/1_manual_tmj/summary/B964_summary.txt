@@ -1,0 +1,19 @@
+patient_id: B964
+patient_age: 26
+maximum_opening: 55 mm
+diet_score: 0
+disability_rating: 1
+jaw_function_score: 2
+neck_pain_present: false
+pain_aggravating_factors: bruxism | crossbite
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_location: frontal | posterior head
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: birth | control | for | mircette
+disc_displacement: right disc dislocation witouth reduction
+muscle_pain_location: shoulders | neck
+joint_arthritis_location: right tmj
+appliance_history: orthodotnics
+joint_pain_areas: hip | ankles | shoulders

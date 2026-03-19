@@ -1,0 +1,10 @@
+patient_id: B1298
+patient_age: 24
+maximum_opening: 65mm
+adverse_reactions: bactrim
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal
+pain_onset_date: 24 years old
+current_medications: none
+muscle_pain_location: temporalis | masseter | styloid 

@@ -1,0 +1,16 @@
+patient_id: B1195
+patient_age: 13
+diet_score: 3
+disability_rating: 2
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+adverse_reactions: penicillin
+jaw_locking: true
+airway_obstruction_present: true
+muscle_pain_score: moderate
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: allergy antigen
+disc_displacement: left disc dislocation | right disc dislocation

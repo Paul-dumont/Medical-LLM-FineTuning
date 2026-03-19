@@ -1,0 +1,9 @@
+patient_id: B1114
+patient_age: 17
+maximum_opening: 55 mm
+neck_pain_present: false
+airway_obstruction_present: true
+jaw_clicking: left tmj 
+headache_location: frontal
+sleep_disorder_type: snoring
+disc_displacement: left disc displacement | rigth disc displacement

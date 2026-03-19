@@ -1,0 +1,3 @@
+patient_id: B1337
+patient_age: 34
+jaw_locking: true

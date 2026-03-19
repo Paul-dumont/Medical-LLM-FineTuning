@@ -1,0 +1,15 @@
+2.maximum_opening_without_pain: 38 mm 
+4.maximum_opening: 44 mm
+6.diet_score: 5
+8.disability_rating: 5
+10.jaw_function_score: 6
+11.tinnitus_present: False
+12.vertigo_present: False
+18.earache_present: False
+23.airway_obstruction_present: False
+27.muscle_symptoms_present: True
+34.average_daily_pain_intensity: 4
+35.headache_intensity: 0
+39.tmj_pain_rating: 5
+41.current_medications:  Betimol | Xalantan | Amour thyroid  | Zocor | Prozac 
+44.joint_arthritis_location: Left TMJ | Rigth TMJ

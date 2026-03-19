@@ -1,0 +1,28 @@
+patient_id: B449
+maximum_opening_without_pain: 25mm
+patient_age: 20
+maximum_opening: 57mm
+diet_score: 2
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching | tendency toward a crossbite on the left side
+earache_present: false
+adverse_reactions: penicillin
+airway_obstruction_present: false
+headache_frequency: daily | in the mornings
+pain_frequency: worse in the mornings when she wakes up
+muscle_symptoms_present: true
+muscle_pain_score: moderate to mild
+headache_location: frontal | temporal | posterior head area
+average_daily_pain_intensity: 6
+headache_intensity: 7 | present
+tmj_pain_rating: 0
+current_medications: alprazolam | temazepam | bextra | ortho erva | fluvoxamine
+disc_displacement: left disc posterior displacement | right disc posterior displacement
+muscle_pain_location: right masseter | right styloid area | left masseter | right medial pterygoid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from sixth grade to eighth grade
+joint_pain_areas: right tmj | tmj

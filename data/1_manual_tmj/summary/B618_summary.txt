@@ -1,0 +1,6 @@
+1.patient_id: B618
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: Yes
+28.jaw_clicking: True
+30.muscle_pain_score: Mild
+43.muscle_pain_location: Styloid

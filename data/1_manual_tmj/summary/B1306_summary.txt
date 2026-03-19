@@ -1,0 +1,15 @@
+patient_id: B1306
+patient_age: 17
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 2 a month
+migraine_history: true
+headache_location: frontal
+headache_intensity: 8.5
+current_medications: advil
+muscle_pain_location: neck
+appliance_history: orthodontics

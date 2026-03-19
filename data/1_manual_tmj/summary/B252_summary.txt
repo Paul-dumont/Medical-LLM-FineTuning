@@ -1,0 +1,23 @@
+patient_id: B252
+maximum_opening_without_pain: 45mm
+patient_age: 15
+maximum_opening: 32mm | 60mm
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: anterior open bite | open bite
+airway_obstruction_present: false | true
+headache_frequency: every other day
+muscle_symptoms_present: true
+headache_location: frontal | temporal
+current_appliance: retainers
+average_daily_pain_intensity: 1
+headache_intensity: present
+pain_onset_date: 12 years of age
+tmj_pain_rating: 0
+current_medications: fexofenadine | flonase | slow fe | folic acid.
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reductionmuscle_pain_score: moderate
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics 4 years ago
+joint_pain_areas: knees | ankles | left tmj | right tmj

@@ -1,0 +1,24 @@
+patient_id: B842
+maximum_opening: 42 mm
+diet_score: 2
+disability_rating: 4
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: rigth tmj
+muscle_pain_score: moderate
+headache_location: frontal | posterior head
+current_appliance: splint
+average_daily_pain_intensity: 5
+headache_intensity: 5
+autoimmune_condition: rheumatoid arthritis
+tmj_pain_rating: 4
+current_medications: Motrin
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knee | wrists

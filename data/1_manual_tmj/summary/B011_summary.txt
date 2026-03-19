@@ -1,0 +1,28 @@
+patient_id: B011
+maximum_opening_without_pain: 38mm
+patient_age: 26
+maximum_opening: 52mm
+diet_score: 4
+disability_rating: 6
+jaw_function_score: 3
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+adverse_reactions: codeine | demerol | unknown food | cheap earrings
+jaw_locking: true
+airway_obstruction_present: false
+headache_frequency: one time a week
+pain_frequency: worse in the evening generally than it is in the morning or afternoon
+jaw_clicking: left tmj | right tmj | none
+muscle_pain_score: moderate
+migraine_history: true
+headache_location: frontal | temporal | posterior | top of the head
+average_daily_pain_intensity: 6
+headache_intensity: 6 but can escalate to 8 | present
+pain_onset_date: age of 12
+tmj_pain_rating: 0
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: styloid area | masseters | temporalis | posterior neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: night guard made about six years ago
+joint_pain_areas: right knee

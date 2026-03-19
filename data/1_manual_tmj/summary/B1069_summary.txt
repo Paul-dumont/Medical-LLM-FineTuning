@@ -1,0 +1,24 @@
+patient_id: B1069
+patient_age: 42
+maximum_opening: 6mm
+diet_score: 7
+disability_rating: 8
+jaw_function_score: 9
+vertigo_present: true
+hearing_loss_present: true
+physical_therapy_status: physical therapy
+earache_present: true
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: high moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 6.5
+headache_intensity: 5
+pain_onset_date: 2 years ago
+tmj_pain_rating: 5
+sleep_disorder_type: somnolence
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint

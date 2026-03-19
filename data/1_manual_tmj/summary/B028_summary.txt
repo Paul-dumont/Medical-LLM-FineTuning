@@ -1,0 +1,15 @@
+patient_id: B028
+patient_age: 38
+maximum_opening: 43mm
+sleep_apnea_diagnosed: true
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: true
+muscle_pain_score: mild to moderate
+current_appliance: orthodontics
+autoimmune_condition: jra | juvenile rheumatoid arthritis
+jaw_crepitus: left tmj | right tmj
+sleep_disorder_type: sleep apnea | snoring | sleep apnea
+muscle_pain_location: temporalis | retromandibular areas |
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

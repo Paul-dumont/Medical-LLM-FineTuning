@@ -1,0 +1,15 @@
+patient_id: B314
+patient_age: 12
+maximum_opening: 54mm | 59mm
+tinnitus_present: false
+vertigo_present: false
+pain_aggravating_factors: left posterior cross bite | right posterior cross bite
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+current_appliance: 3 x 3 anterior retainer | 3 x 3 retainer in the lower anterior teeth | 6 x 6 anterior retainer
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: right disc anterior and medial displacement with reduction | right disc anterior or medial displacement
+joint_arthritis_location: right tmj

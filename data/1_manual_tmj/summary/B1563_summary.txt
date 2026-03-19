@@ -1,0 +1,24 @@
+patient_id: B1563
+maximum_opening_without_pain: 19mm
+patient_age: 18
+maximum_opening: 36mm
+diet_score: 6
+disability_rating: 2
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 3
+headache_intensity: 8
+tmj_pain_rating: 8
+sleep_disorder_type: snoring
+current_medications: allegra | Prevacid
+muscle_pain_location: masseter | retromandibular 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: hand

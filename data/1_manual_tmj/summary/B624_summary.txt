@@ -1,0 +1,25 @@
+1.patient_id: B624
+3.patient_age: 33
+4.maximum_opening: 38 mm
+6.diet_score: 5
+8.disability_rating: 5
+10.jaw_function_score: 7
+11.tinnitus_present: True
+12.vertigo_present: True
+13.hearing_loss_present: False 
+18.earache_present: False
+23.airway_obstruction_present: True
+25.headache_frequency: 2 a week
+27.muscle_symptoms_present: True
+28.jaw_clicking: Rigth TMJ | Left TMJ
+30.muscle_pain_score: High
+32.headache_location: Frontal | Temporal
+34.average_daily_pain_intensity: 6
+35.headache_intensity: 6
+37.pain_onset_date: 14 years of age 
+39.tmj_pain_rating: 6.5
+40.sleep_disorder_type: Snoring | Somnolence
+43.muscle_pain_location: Masseter | Temporalis | Shoulders
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Orthodontics
+46.joint_pain_areas: Elbow | Wrists | Hands | Knees

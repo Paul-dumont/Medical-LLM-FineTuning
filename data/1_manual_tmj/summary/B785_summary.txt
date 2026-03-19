@@ -1,0 +1,22 @@
+patient_id: B785
+patient_age: 55
+maximum_opening: 24mm
+diet_score: 5
+disability_rating: 7
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+earache_present: false
+onset_triggers: other
+airway_obstruction_present: true
+headache_location: frontal
+average_daily_pain_intensity: 2
+headache_intensity: 0
+pain_onset_date: 50 years of age
+tmj_pain_rating: 0
+sleep_disorder_type:  snoring | somnolence
+current_medications: Premarin | Synthroid | Bystolic | Vytorin | Fosamax | B12 | Vitamin D  | Ambien
+muscle_pain_location: shoulders | neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knees | hips | shoulders

@@ -1,0 +1,18 @@
+patient_id: B1438
+patient_age: 21
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: lodine
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+pain_onset_date: 2 years ago
+sleep_disorder_type: snoring | somnolence
+current_medications: zyrtec
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction 
+muscle_pain_location: temporalis | masseter | styloid 
+joint_arthritis_location: left tmj | right tmj

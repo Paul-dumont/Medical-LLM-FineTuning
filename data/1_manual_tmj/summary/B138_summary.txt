@@ -1,0 +1,27 @@
+patient_id: B138 | B138PATIENT_AGE: 17
+maximum_opening_without_pain: 28mm
+patient_age: 17
+maximum_opening: 42mm
+diet_score: 1
+disability_rating: 3
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite | clenching | bruxism | anterior open bite
+physical_therapy_status: previously had physical therapy without benefit
+earache_present: false
+airway_obstruction_present: true
+previous_medications: steroid dosepak | feldene | ibuprofen
+muscle_pain_score: mild
+average_daily_pain_intensity: 8
+headache_intensity: 0
+autoimmune_condition: juvenile rheumatoid arthritis
+pain_onset_date: 16 years of age
+tmj_pain_rating: 8
+sleep_disorder_type: snoring
+current_medications: none
+muscle_pain_location: masseters | retromandibular area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 13 to 15 | over-the-counter splint
+joint_pain_areas: tmj | left tmj | right tmj

@@ -1,0 +1,14 @@
+patient_id: B1473
+patient_age: 15
+maximum_opening: 56mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: doxycycline

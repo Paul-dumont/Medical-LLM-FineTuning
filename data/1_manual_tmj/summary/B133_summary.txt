@@ -1,0 +1,24 @@
+patient_id: B133
+patient_age: 45
+maximum_opening: 33mm
+diet_score: 0
+disability_rating: 0
+sleep_apnea_diagnosed: true
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+pain_aggravating_factors: clenching
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: daily in the morning
+jaw_clicking: left tmj | left tmj | right tmj
+headache_location: throughout head
+average_daily_pain_intensity: 0
+headache_intensity: 6
+tmj_pain_rating: 1
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence
+current_medications: none
+disc_displacement: left disc medial anterior displacement with early reduction | right disc medial and anterior displacement with early reduction | left disc medial displacement | right disc medial displacement | unidentified side disk with medial and anterior displacement with early reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics at age 16 | orthodontics at age 36 to 37
+joint_pain_areas: left tmj | none

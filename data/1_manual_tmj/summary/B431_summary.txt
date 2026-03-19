@@ -1,0 +1,26 @@
+patient_id: B431
+maximum_opening_without_pain: 50mm
+patient_age: 29
+maximum_opening: 68mm
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+adverse_reactions: cats | bee stings
+airway_obstruction_present: true
+headache_frequency: once every 2 weeks
+muscle_symptoms_present: true
+headache_location: right side in the temporal area | up towards the top of the head
+average_daily_pain_intensity: 1
+headache_intensity: 3 | present
+pain_onset_date: 13 years of age
+tmj_pain_rating: 1
+sleep_disorder_type: daytime somnolence
+current_medications: none
+disc_displacement: right disc anteriorly displaced with early reduction
+appliance_history: orthodontics from about the age of 12 through 15
+joint_pain_areas: left tmj | right tmj | left knee

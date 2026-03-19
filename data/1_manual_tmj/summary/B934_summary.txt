@@ -1,0 +1,24 @@
+patient_id: B934
+patient_age: 17
+diet_score: 2
+disability_rating: false
+sleep_apnea_diagnosed: true
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+pain_aggravating_factors: clenching | bruxism | crossbite
+earache_present: false
+airway_obstruction_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: false
+headache_intensity: 5
+pain_onset_date: 17 years old
+tmj_pain_rating: 5
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | masseters | neck
+appliance_history: orthodontics
+joint_pain_areas: tmj

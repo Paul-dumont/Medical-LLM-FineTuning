@@ -1,0 +1,18 @@
+patient_id: B1469
+patient_age: 16
+maximum_opening: 65mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+jaw_clicking: left tmj 
+headache_location: frontal
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: concerta 
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

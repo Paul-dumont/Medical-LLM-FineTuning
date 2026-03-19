@@ -1,0 +1,25 @@
+patient_id: B285
+maximum_opening_without_pain: 19mm
+patient_age: 18
+maximum_opening: 54mm
+pain_relieving_factors: splint
+diet_score: 3
+disability_rating: 3 can be 8 with severe headache
+jaw_function_score: 2
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite | clenching | bruxism | left posterior cross bite | right posterior cross bite | anterior open bite
+adverse_reactions: penicillin | cephalosporins | z-pak | nickel
+airway_obstruction_present: true
+headache_frequency: daily
+jaw_clicking: left tmj | right tmj
+current_appliance: orthodontics 3 years ago | splint
+headache_intensity: 5 daily or 9 several times a month | present
+pain_onset_date: 3 years ago
+tmj_pain_rating: 2
+current_medications: excedrin | motrin
+disc_displacement: left disc dislocation with early reduction | right disc dislocation with early reduction | left disc medial and anterior displacement with reduction | right disc medial and anterior and posterior  displacement with reduction | left disc posterior displacement | right disc posterior displacement
+joint_arthritis_location: left tmj | right tmj | left tmj | right tmjearache_present: false | right tmj
+appliance_history: orthodontics from 11 to 12 for 2 years
+joint_pain_areas: tmj | hips

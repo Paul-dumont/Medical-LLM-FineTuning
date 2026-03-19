@@ -1,0 +1,25 @@
+patient_id: B1260
+maximum_opening_without_pain: 33 mm
+patient_age: 21
+maximum_opening: 51 mm
+diet_score: 4
+disability_rating: 1
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+jaw_locking: true
+headache_frequency: 2 a month
+jaw_clicking: left tmj | right tmj
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 2
+headache_intensity: 4
+pain_onset_date: 21 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 6
+current_medications: day | nordette | per
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction 
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: knees

@@ -1,0 +1,19 @@
+patient_id: B259
+patient_age: 57
+maximum_opening: 44mm | 45mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 2
+pain_aggravating_factors: clenching | bruxism | clenching | grinding
+onset_triggers: clenching
+adverse_reactions: keflex | cephalexin
+airway_obstruction_present: false
+depression_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+headache_intensity: 0
+pain_onset_date: in 20s of age
+sleep_disorder_type: snoring
+current_medications: klonopin | levoxyl | klonopin | effexor | niacin | estradiol | levoxyl | lipitor | aspirin
+disc_displacement: left disc medial and anterior displacement with reduction | right disc medial displacement with reduction | left disc medial displacement | right disc medial displacement
+joint_arthritis_location: left tmj | right tmj

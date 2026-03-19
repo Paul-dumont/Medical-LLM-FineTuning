@@ -1,0 +1,10 @@
+patient_id: B1452
+patient_age: 17
+maximum_opening: 63 mm
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+muscle_symptoms_present: true
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: right disc dislocation

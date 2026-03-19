@@ -1,0 +1,26 @@
+patient_id: B530
+maximum_opening_without_pain: 44mm
+patient_age: 20
+maximum_opening: 54mm
+diet_score: 1
+disability_rating: 6
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: anterior open bite | left posterior cross bite | right posterior cross bite
+earache_present: false
+adverse_reactions: none
+airway_obstruction_present: true
+headache_frequency: once every two weeks | used to be two times a week
+jaw_clicking: right tmj
+muscle_pain_score: masseter areas | retromandibular areas
+headache_location: frontal
+current_appliance: orthodontics since last year
+average_daily_pain_intensity: 8
+headache_intensity: 8
+pain_onset_date: around the age of 12
+tmj_pain_rating: 4
+current_medications: copaxone
+disc_displacement: left disc medial dislocation | right disc anteromedial dislocation | left disc medially displaced | right disc medially displaced
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | orthodontics from 13 to 15

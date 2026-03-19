@@ -1,0 +1,18 @@
+1.patient_id: B557
+2.maximum_opening_without_pain: 18 mm
+3.patient_age: 52
+4.maximum_opening: 25 mm
+9.sleep_apnea_diagnosed: True
+17.physical_therapy_status: physical therapy | chiropractic
+19.onset_triggers: Motor Vehicle
+20.adverse_reactions: Talwin | Stadol. 
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+28.jaw_clicking: True
+30.muscle_pain_score: Moderate
+37.pain_onset_date: 39 years of age
+38.jaw_crepitus: True
+41.current_medications:  Micardis HCT | Verapamil | Nexium | Reglan . | Enjuvia  | Zoloft  | Klonopin  | Advair  puffs  | Arthrotec  | Flonase  | Albuterol. | Allergy shots 
+43.muscle_pain_location: Masseter | Temporal
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Splint | Orthodontics

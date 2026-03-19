@@ -1,0 +1,27 @@
+patient_id: B035
+maximum_opening_without_pain: 35mm
+patient_age: 22
+maximum_opening: 41mm
+diet_score: 1
+disability_rating: 6
+sleep_apnea_diagnosed: false
+jaw_function_score: 4
+tinnitus_present: true
+earache_present: true
+onset_triggers: trauma to the right side of the face
+airway_obstruction_present: false | true
+muscle_symptoms_present: true
+jaw_clicking: right tmj | left tmj
+muscle_pain_score: mild
+headache_location: forehead | temple | behind the eyes
+average_daily_pain_intensity: 4
+headache_intensity: 3
+pain_onset_date: age of 6
+tmj_pain_rating: 6
+sleep_disorder_type: snoring
+current_medications: clarinex
+disc_displacement: left disc dislocation without reduction | right disc medial dislocation | left disc dislocation | right disc anterior and medial dislocation
+muscle_pain_location: masseter
+joint_arthritis_location: left tmj
+appliance_history: orthodontics from 11 years old to 19 years old
+joint_pain_areas: right tmj | left tmj

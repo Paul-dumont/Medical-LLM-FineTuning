@@ -1,0 +1,22 @@
+patient_id: B962
+maximum_opening_without_pain: 8mm
+patient_age: 50
+maximum_opening: 18 mm
+diet_score: 7
+disability_rating: 8
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_pain_score: severe
+headache_location: temporal | temple
+average_daily_pain_intensity: 8
+headache_intensity: 6
+pain_onset_date: 50 years old
+tmj_pain_rating: 4
+sleep_disorder_type: snoring 
+current_medications: Vicodin | Skelaxin | Ibuprofen | Medrol Dose-Pak | Prozac | Trazodone | Lamictal
+muscle_pain_location: temporalis | scm | shoulders | neck | styloid 
+joint_pain_areas:  knees | elbows | hips | ankle | hands

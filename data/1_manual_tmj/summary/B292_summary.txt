@@ -1,0 +1,20 @@
+patient_id: B292
+patient_age: 44
+maximum_opening: 35mm
+diet_score: 3
+disability_rating: 1
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+pain_aggravating_factors: anterior open bite | open bite
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+average_daily_pain_intensity: 0
+headache_intensity: 0
+autoimmune_condition: rheumatoid arthritis | rheumatoid arthritiscurrent_medications: synthroid | vitamins | minerals
+pain_onset_date: 5-9 years ago
+tmj_pain_rating: 3
+sleep_disorder_type: sleep apnea
+disc_displacement: left disc anterior displacement | right disc anterior displacement
+joint_pain_areas: left tmj | right tmj | right knee

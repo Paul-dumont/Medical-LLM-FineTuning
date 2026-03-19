@@ -1,0 +1,26 @@
+patient_id: B087
+patient_age: 51
+maximum_opening: 65mm
+diet_score: 0
+disability_rating: 7
+sleep_apnea_diagnosed: true
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: false
+pain_aggravating_factors: bruxism | grinding teeth
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: once per month
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj | right tmj
+headache_location: behind the eye | frontal | temporal
+average_daily_pain_intensity: 5
+headache_intensity: 5 | present
+pain_onset_date: back in the teenage years
+jaw_crepitus: left tmj
+tmj_pain_rating: 7 | positive
+sleep_disorder_type: sleep apnea | snoring
+current_medications: none
+disc_displacement: left articular disc anterior dislocation without reduction | right articular disc anterior dislocation with early reduction | left articular disc dislocation without reduction | right articular disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: left tmj | right tmj

@@ -1,0 +1,28 @@
+patient_id: B325
+maximum_opening_without_pain: 17mm
+patient_age: 30
+maximum_opening: 25mm
+pain_relieving_factors: splint | soft diet
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching
+earache_present: false
+onset_triggers: two motor vehicle accidents; in one of the accidents she hit her chin on the steering wheel, and in the other she hit the side of her head and jaw area
+adverse_reactions: cheap jewelry | heb bread | one type of soap
+jaw_locking: true
+headache_frequency: constant | in the morning
+muscle_symptoms_present: true
+headache_location: temporal | posterior head
+current_appliance: splint
+average_daily_pain_intensity: 2 but can escalate to 10
+headache_intensity: 2 but can escalate to 10 | 8 in the last couple weeks | present
+pain_onset_date: age of 18
+tmj_pain_rating: 8
+current_medications: aciphex | ibuprofen | advil
+disc_displacement: left disc dislocation without reduction | left disc medial and anterior dislocation without reduction | right disc anterior dislocation without reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

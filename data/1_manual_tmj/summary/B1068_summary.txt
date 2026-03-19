@@ -1,0 +1,26 @@
+patient_id: B1068
+maximum_opening_without_pain: 23 mm
+patient_age: 39
+maximum_opening: 26mm
+diet_score: 8
+disability_rating: 8
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+headache_frequency: 2 a week
+muscle_symptoms_present: true
+previous_medications: Remeron
+muscle_pain_score: moderate
+migraine_history: true
+headache_location: frontal | temporal | behind eyes
+average_daily_pain_intensity: 8
+headache_intensity: 7
+pain_onset_date: 20 years ago
+tmj_pain_rating: 8
+current_medications: Nabumetone | Tylenol #3 | Klonopin
+muscle_pain_location: temporalis 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: tmj

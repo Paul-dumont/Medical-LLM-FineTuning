@@ -1,0 +1,26 @@
+patient_id: B250
+maximum_opening_without_pain: 32mm
+patient_age: 12
+maximum_opening: 43mm | 50mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism | left crossbite | right crossbite | left posterior crossbite | right posterior crossbite | clenching | bruxism
+earache_present: false
+adverse_reactions: seasonal allergies | cefzil | lorabid | augmentin | zithromax | biaxin
+airway_obstruction_present: false
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: mild | mild to moderate
+current_appliance: 6 x 6 retainer
+headache_intensity: present
+tmj_pain_rating: 0
+current_medications: singulair | allegra | nasacort
+disc_displacement: left disc anterior displacement probably without reduction | right disc anterior displacement with reduction | left disc dislocation with early reduction | right disc dislocation with early reduction | left disc dislocation
+muscle_pain_location: left masseter right styloid area | left scm | right scm | temporalis | styloid areas
+joint_arthritis_location: left tmj | left tmj | right tmj | right tmj | left tmj
+appliance_history: orthodontics with palatal expander x 2 and lower arch expansion
+joint_pain_areas: tmj | left tmj | right tmj | right tmj

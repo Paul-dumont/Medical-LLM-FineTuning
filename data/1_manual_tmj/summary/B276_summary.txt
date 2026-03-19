@@ -1,0 +1,28 @@
+patient_id: B276
+maximum_opening_without_pain: 30mm
+patient_age: 49
+maximum_opening: 44mm
+diet_score: 7
+disability_rating: 8
+sleep_apnea_diagnosed: true
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+pain_aggravating_factors: nerve pain
+earache_present: false
+airway_obstruction_present: false
+muscle_symptoms_present: true
+jaw_clicking: joints
+muscle_pain_score: moderate
+headache_location: left frontal | left temporal | right frontal | right temporal
+average_daily_pain_intensity: 7
+headache_intensity: 4 | present
+pain_onset_date: about 16 or even maybe slightly later in her teens years
+jaw_crepitus: left tmj
+tmj_pain_rating: 5
+sleep_disorder_type: daytime somnolence | sleep apnea
+disc_displacement: left disc  anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: temporalis | masseter | retromandibular areas | shoulders
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | toes

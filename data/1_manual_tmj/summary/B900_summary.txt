@@ -1,0 +1,5 @@
+patient_id: B900
+jaw_clicking: left tmj | rigth tmj
+headache_location: frontal
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj

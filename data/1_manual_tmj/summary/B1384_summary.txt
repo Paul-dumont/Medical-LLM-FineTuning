@@ -1,0 +1,28 @@
+patient_id: B1384
+maximum_opening_without_pain: 25mm
+patient_age: 42
+maximum_opening: 35mm
+pain_relieving_factors: splint
+diet_score: 8
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: high 
+migraine_history: true
+headache_location: frontal | temporal | posterior head
+headache_intensity: 5
+autoimmune_condition: 3
+pain_onset_date: 3 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 6
+current_medications: Testosterone | Imitrex | Loomocaine | Phenergan
+disc_displacement: left disc dislocation withouth redutcion | right disc dislocation  withouth redutcion
+muscle_pain_location: temporalis | | masseter | scm
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint

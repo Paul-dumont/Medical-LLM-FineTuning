@@ -1,0 +1,28 @@
+patient_id: B495
+patient_age: 43
+diet_score: 7
+disability_rating: 6
+sleep_apnea_diagnosed: true
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: false
+pain_aggravating_factors: clenching
+physical_therapy_status: physical therapy for 6 to 8 weeks
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: at least every other day
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: right temporal | posterior head
+average_daily_pain_intensity: 8
+headache_intensity: 7 | present
+pain_onset_date: unknown but worsened last august
+tmj_pain_rating: 9
+sleep_disorder_type: sleep apnea | sleep apnea symptoms | snoring | daytime somnolence | sleep apnea symptoms
+current_medications: ibuprofen | q-var inhaler | albuterol | prednisone | nexium
+disc_displacement: left disc anteriorly displaced | right disc anteriorly displaced without reduction
+muscle_pain_location: styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint for approximately 10 years
+joint_pain_areas: tmj | left tmj | right tmj

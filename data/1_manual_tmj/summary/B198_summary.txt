@@ -1,0 +1,13 @@
+patient_id: B198
+patient_age: 15
+maximum_opening: 28mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 5
+airway_obstruction_present: true
+muscle_symptoms_present: false
+average_daily_pain_intensity: 0
+headache_intensity: 0
+jaw_crepitus: right tmj
+tmj_pain_rating: 1
+joint_pain_areas: right tmj

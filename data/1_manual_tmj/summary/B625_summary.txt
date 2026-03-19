@@ -1,0 +1,9 @@
+1.patient_id: B625
+11.tinnitus_present: True
+12.vertigo_present: True
+13.hearing_loss_present:True 
+18.earache_present: True
+19.onset_triggers: Motor vehicle
+37.pain_onset_date: 15.5
+41.current_medications:  Ditropan | Tambocor | Estrogen | Synthroid | Darvocet | Lodine | Toprol | Soma | Sonata | Guaifenesin | Imuran | Prednisone| Plaquenil
+46.joint_pain_areas: Neck | Back | Shoulders | Wrists | Hands | Hips | Knees | Ankles

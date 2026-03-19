@@ -1,0 +1,19 @@
+1.patient_id: B653
+4.maximum_opening: 36 mm
+6.diet_score: 5
+8.disability_rating: 8
+10.jaw_function_score: 6
+11.tinnitus_present: True
+12.vertigo_present: True
+13.hearing_loss_present: True 
+15.neck_pain_present: False
+17.physical_therapy_status: Physical theraphy
+18.earache_present: True
+20.adverse_reactions: weeds | trees | grasses
+27.muscle_symptoms_present: True 
+34.average_daily_pain_intensity: 8
+35.headache_intensity: 0
+37.pain_onset_date: 16 years of age
+39.tmj_pain_rating: 8
+41.current_medications:  Atenolol | Omnaris | Astepro | Zyrtec 
+44.joint_arthritis_location: Left TMJ | Rigth TMJ

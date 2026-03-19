@@ -1,0 +1,25 @@
+patient_id: B925
+patient_age: 47
+diet_score: 3
+disability_rating: 3
+sleep_apnea_diagnosed: false
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+earache_present: true
+airway_obstruction_present: true
+jaw_clicking:  left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal
+average_daily_pain_intensity: 8
+headache_intensity: 9
+pain_onset_date: 47 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 6
+sleep_disorder_type:  snoring |  somnolence
+current_medications: adderall
+disc_displacement: right disc dislocation
+muscle_pain_location: styloid 
+joint_arthritis_location: right tmj
+appliance_history: splint

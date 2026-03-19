@@ -1,0 +1,27 @@
+patient_id: B246
+patient_age: 13
+maximum_opening: 55mm
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching
+earache_present: false | true
+adverse_reactions: seasonal allergies
+headache_frequency: once every 2 weeks
+muscle_symptoms_present: true
+jaw_clicking: left tmj | left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal | temple
+average_daily_pain_intensity: 0
+headache_intensity: 3 | 4 | present
+pain_onset_date: 3-4 years ago
+tmj_pain_rating: 3
+sleep_disorder_type: snoring | daytime tiredness
+current_medications: allegra-d | ibuprofen | klonopin | medrol dosepak
+disc_displacement: left disc anterior dislocation | right disc anterior displacement without reduction | left disc anterior displacement with probable early reduction | right disc anterior displacement with probably late reduction
+muscle_pain_location: left scm
+joint_arthritis_location: left tmj | right tmj | right tmj | right tmj | left tmj
+joint_pain_areas: jaw joints | jaw joints | knees | left tmj

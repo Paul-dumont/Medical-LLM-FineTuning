@@ -1,0 +1,15 @@
+1.patient_id: B660
+4.maximum_opening: 57 mm 
+6.diet_score: 0 
+8.disability_rating: 0
+10.jaw_function_score: 0
+11.tinnitus_present: False
+12.vertigo_present: False
+18.earache_present: False
+23.airway_obstruction_present: True
+28.jaw_clicking: Left TMJ | Rigth TMJ 
+37.pain_onset_date: 12 years of age 
+40.sleep_disorder_type: Snoring
+41.current_medications: None
+42.disc_displacement: Left disc dislocation | Rigth disc dislocation 
+45.appliance_history: Orthodontic 

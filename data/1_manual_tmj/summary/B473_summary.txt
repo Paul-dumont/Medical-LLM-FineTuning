@@ -1,0 +1,30 @@
+patient_id: B473
+patient_age: 32
+diet_score: 2
+disability_rating: 5 to 6
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: neck
+pain_aggravating_factors: anterior open bite | bruxism
+physical_therapy_status: biofeedback 2 years ago | physical therapy 2 years ago | chiropractic treatment from 8 years ago | injection therapy including botox and lidocaine in around 4 to 3 years ago
+jaw_locking: true
+airway_obstruction_present: false
+pain_frequency: worse usually in the afternoons | wakes up with pain
+jaw_clicking: left tmj | right tmj | neck | shoulder
+muscle_pain_score: moderate
+headache_location: behind the left eye | back of the head
+current_appliance: splint from last year until present
+average_daily_pain_intensity: 7
+headache_intensity: 5 | severe
+autoimmune_condition: possible connective tissue autoimmune disease
+pain_onset_date: 15
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 9 | severe
+sleep_disorder_type: daytime somnolence
+current_medications: advil | vicodin
+disc_displacement: left disc  anteriorly displaced with severe deformation and nonreducing | right disc anteromedially displaced with reduction | left disc anteriorly dislocation without reduction | right disc anteriorly dislocated with reduction | left disc anteriorly displaced | right disc anteriorly displaced
+muscle_pain_location: masseters | styloid areas | shoulders | temporalis | scms | posterior neck area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint in 28 years ago | splint 14-16 years ago | splint in 17 years ago | splint therapy 2-3 years ago
+joint_pain_areas: tmj | left tmj | right tmj

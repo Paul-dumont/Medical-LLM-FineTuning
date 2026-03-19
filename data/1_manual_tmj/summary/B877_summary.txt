@@ -1,0 +1,18 @@
+patient_id: B877
+maximum_opening_without_pain: 28 mm
+maximum_opening: 42 mm
+diet_score: 6
+disability_rating: 1
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 2 a week
+jaw_clicking: left tmj | right tmj
+headache_location: temporal
+average_daily_pain_intensity: 3
+headache_intensity: 5
+tmj_pain_rating: 5
+joint_arthritis_location: left tmj | right tmj

@@ -1,0 +1,22 @@
+patient_id: B769
+maximum_opening_without_pain: 20mm
+patient_age: 43
+maximum_opening: 28mm
+diet_score: 7
+disability_rating: 9
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+muscle_pain_score: high moderate
+headache_location: temporal
+average_daily_pain_intensity: 3
+headache_intensity: 8
+pain_onset_date: 42 years of age
+tmj_pain_rating: 8
+current_medications: Lisinopril | Zytrec | tylenol
+muscle_pain_location: temporalis | masseter | masseters | retromandibular
+joint_pain_areas: ankle | knees | wrist

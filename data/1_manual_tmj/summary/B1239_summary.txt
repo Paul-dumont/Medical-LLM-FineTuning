@@ -1,0 +1,24 @@
+patient_id: B1239
+patient_age: 65
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+adverse_reactions: mold | jewelry
+airway_obstruction_present: true
+headache_frequency: 7 a week
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: temporal | posterior head 
+average_daily_pain_intensity: 6
+headache_intensity: 7
+pain_onset_date: 20 years ago
+tmj_pain_rating: 0
+sleep_disorder_type: snoring
+current_medications: Estrogen | Advil
+muscle_pain_location: masseter 
+appliance_history: orthodontics
+joint_pain_areas:  knees | elbows | wrists | hips | back | shoulders | neck | hands

@@ -1,0 +1,26 @@
+patient_id: B1588
+patient_age: 28
+maximum_opening: 63mm
+diet_score: 2
+disability_rating: 7
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: splint
+earache_present: true
+depression_present: true
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: high
+headache_location: frontal | temporal | top of the head | posterior head
+current_appliance: splint
+average_daily_pain_intensity: 8
+headache_intensity: 4
+pain_onset_date: 10 years of age
+jaw_crepitus: right tmj
+tmj_pain_rating: 8
+current_medications: Flexeril | Amitriptyline | Cymbalta | Mobic
+disc_displacement: left disc displacement withouth reduction | rigth disc discplacemenr
+muscle_pain_location: neck 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

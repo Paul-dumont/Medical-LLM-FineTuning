@@ -1,0 +1,24 @@
+patient_id: B115
+patient_age: 39
+maximum_opening: 23mm
+diet_score: 8
+disability_rating: 8
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: false
+pain_aggravating_factors: anterior open bite
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: once a week
+muscle_symptoms_present: false
+headache_location: left temporal | left orbital | left frontal
+average_daily_pain_intensity: 0
+headache_intensity: 10 | present
+autoimmune_condition: juvenile rheumatoid arthritis | juvenile rheumatoid arthritis or rheumatoid arthritiscurrent_medications: plaquenil | fluoxetine
+pain_onset_date: 11 years ago
+tmj_pain_rating: 1
+sleep_disorder_type: snoring
+joint_arthritis_location: knees | right elbow | right tmj
+appliance_history: orthodontics at age of 11 to 13
+joint_pain_areas: knees | right elbow

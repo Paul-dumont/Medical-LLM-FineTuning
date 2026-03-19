@@ -1,0 +1,8 @@
+patient_id: B1590
+patient_age: 14
+sleep_apnea_diagnosed: true
+jaw_locking: true
+airway_obstruction_present: true
+tmj_pain_rating: 0
+sleep_disorder_type: sleep apnea | snoring
+current_medications: Accutane

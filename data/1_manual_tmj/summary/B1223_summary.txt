@@ -1,0 +1,23 @@
+patient_id: B1223
+patient_age: 27
+maximum_opening: 51mm
+diet_score: 7
+disability_rating: 6
+tinnitus_present: false
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 6
+headache_intensity: 7
+pain_onset_date: 0 years ago
+jaw_crepitus:  right tmj
+tmj_pain_rating: 9
+sleep_disorder_type: somnolence
+current_medications: Ortho-Tricyclen | Hydrocodone | Prednisone
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | masseters | neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: nigth guard

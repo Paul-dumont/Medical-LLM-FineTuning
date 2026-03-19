@@ -1,0 +1,30 @@
+patient_id: B1226
+patient_age: 60
+maximum_opening: 50 mm
+pain_relieving_factors: splint
+diet_score: 5
+disability_rating: 1
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+neck_pain_present: false
+pain_aggravating_factors: clenching
+earache_present: true
+headache_frequency: daily
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: temporal
+current_appliance: splint
+average_daily_pain_intensity: 5
+headache_intensity: 3
+pain_onset_date: 60 years old
+tmj_pain_rating: 5
+sleep_disorder_type: somnolence
+current_medications: and | aspirin | baby | vitamins
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: shoulders | neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas:  knees | back | shoulders

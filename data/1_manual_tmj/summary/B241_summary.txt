@@ -1,0 +1,14 @@
+patient_id: B241
+maximum_opening_without_pain: 2mm
+patient_age: 22
+maximum_opening: 30mm
+pain_aggravating_factors: anterior open bite
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate to mild
+headache_intensity: present
+sleep_disorder_type: snoring
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: masseters | temporalis
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: left tmj | right tmj

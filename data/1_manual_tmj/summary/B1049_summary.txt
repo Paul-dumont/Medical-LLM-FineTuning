@@ -1,0 +1,21 @@
+patient_id: B1049
+patient_age: 47
+maximum_opening: 50mm
+diet_score: 1
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+adverse_reactions: biaxin | doxycycline | vicoprofen
+jaw_clicking: rigth tmj
+headache_location: frontal
+average_daily_pain_intensity: 2
+pain_onset_date: 10 years ago
+current_medications: none
+disc_displacement: left disc dislocation with reduction
+joint_arthritis_location: left tmj
+appliance_history: orthodontics
+joint_pain_areas: knees | elbows | hips

@@ -1,0 +1,23 @@
+patient_id: B1541
+patient_age: 43
+maximum_opening: 30mm
+diet_score: 5
+disability_rating: 8
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+earache_present: false
+headache_frequency: 6 a week
+muscle_symptoms_present: true
+muscle_pain_score: high 
+migraine_history: true
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 5
+current_medications: Lyrica | Celebrex | OxyContin | Baclofen | Axert | Amrix 
+disc_displacement: right disc dislocation
+muscle_pain_location: masseter | neck | styloid  
+joint_arthritis_location: right tmj
+joint_pain_areas: back | neck

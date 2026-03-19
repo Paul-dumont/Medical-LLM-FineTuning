@@ -1,0 +1,25 @@
+patient_id: B1053
+maximum_opening_without_pain: 30mm
+patient_age: 48
+maximum_opening: 40mm
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 2 a month
+muscle_pain_score: severe
+current_appliance: splint
+average_daily_pain_intensity: 1
+headache_intensity: 4
+pain_onset_date: 48 years old
+tmj_pain_rating: 3
+sleep_disorder_type: snoring
+current_medications: Celebrex | meclizine
+disc_displacement: left disc dislocation withouth reduction | right disc dislocation  withouth reduction 
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: wrists | hips | hands | ankles

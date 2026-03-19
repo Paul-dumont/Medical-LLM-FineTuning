@@ -1,0 +1,21 @@
+patient_id: B833
+patient_age: 19
+maximum_opening: 12 mm
+diet_score: 8
+disability_rating: 6
+jaw_function_score: 8
+earache_present: true
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+jaw_clicking: rigth tmj | left tmj
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 5
+headache_intensity: 5
+pain_onset_date: 16 years of age
+tmj_pain_rating: 7
+current_medications: Advil | Sudafed
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter 
+appliance_history: orthodontics

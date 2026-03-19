@@ -1,0 +1,17 @@
+patient_id: B717
+patient_age: 54
+diet_score: 1
+disability_rating: 5
+sleep_apnea_diagnosed: true
+jaw_function_score: 2
+airway_obstruction_present: true
+jaw_clicking: left tmj 
+average_daily_pain_intensity: 3
+headache_intensity: 0
+tmj_pain_rating: 3
+sleep_disorder_type: sleep apnea
+current_medications: Ambien | Toprol | Celexa | Flonase
+disc_displacement: left disc dislocation
+muscle_pain_location: retromandibular | neck
+joint_arthritis_location: left tmj
+joint_pain_areas: Knees | Ankles

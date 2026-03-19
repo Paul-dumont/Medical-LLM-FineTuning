@@ -1,0 +1,25 @@
+1.patient_id: B659
+3.patient_age: 55
+6.diet_score: 5
+8.disability_rating: 6
+10.jaw_function_score: 6 
+11.tinnitus_present: True
+12.vertigo_present: True
+13.hearing_loss_present: False 
+18.earache_present: True
+19.onset_triggers: Other
+25.headache_frequency: Daily
+27.muscle_symptoms_present: True 
+29.previous_medications: Indomethacin 
+30.muscle_pain_score: High
+32.headache_location: Temporal
+35.headache_intensity: 6
+37.pain_onset_date: 54 years of age 
+39.tmj_pain_rating: 7
+40.sleep_disorder_type: Snoring
+41.current_medications:  Estradiol | Prilosec | Zyrtec | Prozac | Glucosamine | chondroitin | Phendimetraz | Phendimetrazine 
+42.disc_displacement: Left disc dislocation withougth reduction | Rigth disc dislocation witouuth reduction
+43.muscle_pain_location: Masseter | Temporalis | Styloid | Shoulders
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Splint
+46.joint_pain_areas: Neck | Wrists | Hands | Hips | Knees

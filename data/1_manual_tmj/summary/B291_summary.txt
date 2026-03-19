@@ -1,0 +1,20 @@
+patient_id: B291
+patient_age: 17
+maximum_opening: 54mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+back_pain_present: true
+pain_aggravating_factors: clenching | grinding | anterior open bite | left posterior cross bite | right posterior cross bite | anterior open bite
+airway_obstruction_present: true | snoring | daytime somnolence
+headache_frequency: unknown | when under stress occasionally
+muscle_symptoms_present: false
+migraine_history: true
+headache_location: forehead | temporal | frontal | temporal
+average_daily_pain_intensity: 2
+headache_intensity: 6 to 7 | 7 | present
+tmj_pain_rating: 0
+current_medications: excedrin
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction | left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

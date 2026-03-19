@@ -1,0 +1,21 @@
+patient_id: B532
+patient_age: 38
+maximum_opening: 43mm
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: closing the mouth
+earache_present: true
+onset_triggers: severely beaten around the head and body area
+adverse_reactions: codeine | xanax | all the metals
+airway_obstruction_present: false
+muscle_pain_score: high moderate to sever | present
+headache_intensity: severe | severe
+pain_onset_date: 3 years ago
+tmj_pain_rating: severe
+current_medications: estratest | lortab | flexeril | xanax
+disc_displacement: left disc dislocation | right disc dislocation | left disc medial displacement | right disc medial displacement
+muscle_pain_location: temporalis | masseters | styloid areas | medial pterygoid areas | scms | posterior neck | shoulder areas
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj | left tmj | right tmj | shoulders

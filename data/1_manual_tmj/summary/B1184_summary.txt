@@ -1,0 +1,19 @@
+patient_id: B1184
+patient_age: 43
+maximum_opening: 42mm
+diet_score: 8
+disability_rating: 0
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_location: frontal
+headache_intensity: 0
+pain_onset_date: 43 years old
+tmj_pain_rating: 0
+current_medications: none
+muscle_pain_location: neck
+appliance_history: splint

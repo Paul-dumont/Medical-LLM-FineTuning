@@ -1,0 +1,31 @@
+patient_id: B207
+patient_age: 55
+pain_relieving_factors: massage therapy
+diet_score: 7
+disability_rating: 4
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: clenching
+physical_therapy_status: chiropractic treatment within five months | massage therapy since three months ago for once a week
+earache_present: true
+onset_triggers: 5 months after thyroid surgery
+airway_obstruction_present: false | true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: most of head and neck area
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 4
+headache_intensity: 6 | present
+autoimmune_condition: none
+pain_onset_date: 9 months ago
+tmj_pain_rating: 6
+sleep_disorder_type: snoring | daytime tiredness
+current_medications: synthroid | lexapro | klonopin | flexeril | glucosamine | omega 3 | cq-10 | calcium | vitamin d
+disc_displacement: left disc anterior and medila displacement without reduction | right disc anteromedial displacement with reduction | left disc dislocation without reduction | right disc dislocation with reduction
+muscle_pain_location: mild
+joint_arthritis_location: right tmj | left tmj
+appliance_history: splint
+joint_pain_areas: tmj | knees | ankles | fingers | neck | knees | ankles | wrists | fingers | neck

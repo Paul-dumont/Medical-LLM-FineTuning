@@ -1,0 +1,20 @@
+patient_id: B443
+patient_age: 64
+maximum_opening: 49mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+earache_present: false
+muscle_symptoms_present: true
+muscle_pain_score: very minimal
+average_daily_pain_intensity: 0
+headache_intensity: 0
+pain_onset_date: six months ago
+tmj_pain_rating: 0
+sleep_disorder_type: snoring
+current_medications: high blood pressure | diovan | multivitamin
+disc_displacement: right disc dislocation | right disc dislocation with reduction
+muscle_pain_location: styloid area

@@ -1,0 +1,9 @@
+patient_id: B1471
+patient_age: 33
+maximum_opening: 25 mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+onset_triggers: injury
+headache_intensity: 0

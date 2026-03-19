@@ -1,0 +1,12 @@
+patient_id: B1158
+patient_age: 12
+maximum_opening: 63mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+muscle_pain_location: neck

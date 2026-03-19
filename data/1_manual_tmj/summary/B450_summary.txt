@@ -1,0 +1,26 @@
+patient_id: B450
+patient_age: 60
+maximum_opening: 51mm
+diet_score: 0
+disability_rating: 0
+sleep_apnea_diagnosed: true
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+back_pain_present: true
+neck_pain_present: true
+physical_therapy_status: chiropractic treatment for his neck
+earache_present: false
+adverse_reactions: nickel | chromium iii | rubber | latex | black dye
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj
+previous_medications: steroids
+headache_intensity: 0
+tmj_pain_rating: 0
+sleep_disorder_type: daytime somnolence | daytime somnolence | snoring | sleep apnea
+current_medications: cymbalta | lipitor | enbrel | keflex
+disc_displacement: left disc medially dislocated | right disc  medially dislocated
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: neck | back | fingers

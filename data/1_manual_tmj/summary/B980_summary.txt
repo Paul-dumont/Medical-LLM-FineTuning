@@ -1,0 +1,7 @@
+patient_id: B980
+patient_age: 15
+neck_pain_present: true
+airway_obstruction_present: true
+headache_location: frontal
+muscle_pain_location: neck
+appliance_history: orthodontics

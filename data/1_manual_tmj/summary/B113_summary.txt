@@ -1,0 +1,21 @@
+patient_id: B113
+maximum_opening_without_pain: 30mm
+patient_age: 58
+maximum_opening: 40mm
+diet_score: 5
+disability_rating: 9
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+headache_location: frontal | temporal | behind the eyes
+average_daily_pain_intensity: 8
+headache_intensity: 4
+jaw_crepitus: left tmj
+tmj_pain_rating: 7
+current_medications: 15 unidentified medications
+disc_displacement: left disc dislocation with non-reduction | right disc displacementmuscle_pain_location: left temporalis | left scm | left posterior neck | left medial pterygoid | left retromandibular area
+joint_arthritis_location: left tmj | left tmj | right tmj
+joint_pain_areas: tmj | shoulders | elbows | right wrist | left tmj

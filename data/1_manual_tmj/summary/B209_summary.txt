@@ -1,0 +1,17 @@
+patient_id: B209
+patient_age: 19
+maximum_opening: 55mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+pain_aggravating_factors: anterior open bite | open bite
+earache_present: false
+airway_obstruction_present: true
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: none
+disc_displacement: left disc anterior and medial displacement | right disc anterior and medial displacement with early reduction | left disc anterior dislocation with early reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 10 to 15 years of age

@@ -1,0 +1,15 @@
+patient_id: B904
+patient_age: 54
+maximum_opening: 30mm
+tinnitus_present: true
+neck_pain_present: true
+pain_aggravating_factors: splint
+jaw_locking: true
+muscle_symptoms_present: true
+muscle_pain_score: severe
+headache_location: frontal | temporal
+jaw_crepitus: right tmj
+current_medications: Nexium | Ambien | Celexa | HCTZ | Claritin | Alprazolam | Darvocet | Citracal
+muscle_pain_location: temporalis | shoulders | styloid 
+joint_arthritis_location: right tmj
+appliance_history: orthodontics | splint

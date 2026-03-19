@@ -1,0 +1,27 @@
+patient_id: B852
+maximum_opening_without_pain: 14mm
+patient_age: 51
+maximum_opening: 27 mm
+diet_score: 7
+disability_rating: 6
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 2 a month
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+current_appliance: splint
+average_daily_pain_intensity: 6
+headache_intensity: 3
+pain_onset_date: 20 years old
+tmj_pain_rating: 7
+current_medications: Desipramine | Geodon | Ambien | Lorazepam | Concerta
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: temporalis | masseter | scm | shoulders | neck | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

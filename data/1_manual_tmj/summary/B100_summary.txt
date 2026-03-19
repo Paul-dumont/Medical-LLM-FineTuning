@@ -1,0 +1,29 @@
+patient_id: B100
+maximum_opening_without_pain: 18mm
+patient_age: 47
+maximum_opening: 35mm
+pain_relieving_factors: orthotic that reduces frequency to a couple of headache per month, as well as the vertigo
+diet_score: 4
+disability_rating: 8
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: true
+physical_therapy_status: acupuncture | physical therapy | hypnotherapy
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: daily
+jaw_clicking: left tmj | right tmj
+migraine_history: true
+headache_location: frontal | temporal | occasionally at back of head
+average_daily_pain_intensity: 4
+headache_intensity: present | severe, normally at 4 but can escalate up to 9
+autoimmune_condition: rheumatoid arthritis
+pain_onset_date: 28 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 4
+sleep_disorder_type: breathing difficulties
+current_medications: plaquenil, ibuprofen, claritin, vitamins
+disc_displacement: right disc medial displacement
+joint_arthritis_location: knees | hips | left tmj | right tmj | left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj | knees | hips

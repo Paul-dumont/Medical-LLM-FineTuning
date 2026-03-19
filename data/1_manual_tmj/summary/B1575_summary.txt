@@ -1,0 +1,22 @@
+patient_id: B1575
+patient_age: 35
+diet_score: 2
+disability_rating: 2
+sleep_apnea_diagnosed: true
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+migraine_history: true
+headache_location: frontal | temporal 
+average_daily_pain_intensity: 6
+headache_intensity: 9
+tmj_pain_rating: 6
+sleep_disorder_type: snoring | apnea symptoms
+current_medications: Topamax | Caltrate | Ferrous sulfate | Kataplex | Motrin  
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

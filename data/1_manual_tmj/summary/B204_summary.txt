@@ -1,0 +1,20 @@
+patient_id: B204
+maximum_opening_without_pain: 30mm
+patient_age: 48
+maximum_opening: 40mm
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: anterior open bite | open bite | clenching
+physical_therapy_status: physical therapy | massage therapy weekly | chiropractic treatment
+earache_present: false
+airway_obstruction_present: false | true
+current_appliance: splint for past 20 years
+headache_intensity: present
+autoimmune_condition: connective tissue autoimmune disease | mild unknown autoimmune disorder
+pain_onset_date: 20 years ago
+sleep_disorder_type: sleep apnea symptoms
+current_medications: mobic | claritin | aleve | sudafed | midrin | iron supplements
+disc_displacement: left disc anterior displacement | right disc anterior displacementmuscle_pain_score: mild
+muscle_pain_location: retromandibular area
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | knees | ankles | finger | let tmj | right tmj

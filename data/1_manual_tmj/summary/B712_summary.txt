@@ -1,0 +1,20 @@
+patient_id: B712
+patient_age: 24
+maximum_opening: 46mm
+diet_score: 6
+disability_rating: 7
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: daily
+headache_location: frontal | temporal
+average_daily_pain_intensity: 4
+headache_intensity: 4
+pain_onset_date: 15 years of age
+tmj_pain_rating: 8
+sleep_disorder_type:  daytime somnolence
+current_medications: fluoxetine | aspirin
+appliance_history: orthodontics | splint

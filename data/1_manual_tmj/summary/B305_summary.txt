@@ -1,0 +1,24 @@
+patient_id: B305
+patient_age: 21
+maximum_opening: 54mm
+diet_score: 4
+disability_rating: 0
+jaw_function_score: 3
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+headache_frequency: once a month
+muscle_symptoms_present: false
+jaw_clicking: left tmj
+muscle_pain_score: moderate
+headache_location: temple
+headache_intensity: 3
+pain_onset_date: about 16
+tmj_pain_rating: 0
+current_medications: ortho-tricyclen
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction | left disc dislocation with reduction | right disc dislocation without reduction
+muscle_pain_location: styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from the age of 13 to 15 | orthodontics from 16 to 17 years of age
+joint_pain_areas: shoulders

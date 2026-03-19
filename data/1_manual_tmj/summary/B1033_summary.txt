@@ -1,0 +1,21 @@
+patient_id: B1033
+patient_age: 45
+maximum_opening: 55mm
+sleep_apnea_diagnosed: true
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_location: frontal
+current_appliance: orthodontics
+headache_intensity: 0
+pain_onset_date: 45 years old
+tmj_pain_rating: 0
+current_medications: Lipitor | Tricor | ASA
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

@@ -1,0 +1,13 @@
+patient_id: B1379
+patient_age: 37
+tinnitus_present: false
+vertigo_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj | rigth tmj
+headache_location: frontal
+headache_intensity: 0
+tmj_pain_rating: 0
+appliance_history: orthodontics

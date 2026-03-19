@@ -1,0 +1,23 @@
+1.patient_id: B626
+3.patient_age: 23
+4.maximum_opening: 48 mm
+6.diet_score: 4
+8.disability_rating: 3
+10.jaw_function_score: 4
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+15.neck_pain_present: True
+18.earache_present: False
+20.adverse_reactions: Dust
+23.airway_obstruction_present: True
+25.headache_frequency: 2 a week
+31.migraine_history: True
+32.headache_location: Frontal | Temporal
+34.average_daily_pain_intensity: 1
+35.headache_intensity: 5.5
+37.pain_onset_date: 17 years of age
+39.tmj_pain_rating: 5
+41.current_medications: Rhinocort
+45.appliance_history: Orthodontic
+46.joint_pain_areas: Rigth TMJ | Left TMJ

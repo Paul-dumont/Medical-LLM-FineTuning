@@ -1,0 +1,14 @@
+patient_id: B738
+patient_age: 18
+maximum_opening: 42mm
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: none
+muscle_pain_location: scm | shoulders 
+appliance_history: orthodontics

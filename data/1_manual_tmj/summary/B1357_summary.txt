@@ -1,0 +1,29 @@
+patient_id: B1357
+maximum_opening_without_pain: 23mm
+patient_age: 50
+maximum_opening: 49mm
+diet_score: 2
+disability_rating: 7
+sleep_apnea_diagnosed: true
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: true
+physical_therapy_status: physical therapy
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: constant
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: high moderate
+migraine_history: true
+headache_location: frontal | temporal | posterior head
+headache_intensity: 9
+pain_onset_date: 2 years ago
+sleep_disorder_type: somnolence | snoring
+current_medications: Aspirin | Levothroid | Estrogen | Progesterone | Vitamin | Ambien | Skelaxin | Fioricet | migraine medication | Feldene | Zomig | Maxalt
+disc_displacement: left disc dislocation withouth reduction | right disc dislocation with reduction
+muscle_pain_location: masseter | retromandibular | scm | shoulders 
+joint_arthritis_location: left tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: wrists | hips | shoulders 

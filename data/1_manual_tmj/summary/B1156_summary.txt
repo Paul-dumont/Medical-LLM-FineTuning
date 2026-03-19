@@ -1,0 +1,5 @@
+patient_id: B1156
+patient_age: 40
+airway_obstruction_present: false
+headache_location: frontal
+muscle_pain_location: neck

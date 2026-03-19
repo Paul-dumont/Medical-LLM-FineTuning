@@ -1,0 +1,24 @@
+patient_id: B1549
+patient_age: 58
+diet_score: 0
+disability_rating: 0
+sleep_apnea_diagnosed: true
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal
+headache_intensity: 0
+pain_onset_date: 58 years old
+tmj_pain_rating: 0
+sleep_disorder_type: sleep apnea | somnolence
+current_medications: Avelide | Lipitor | Flonase | Propecia | Niaspan | Celebrex | Aspirin 
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction 
+muscle_pain_location: shoulders | neck
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: knees 

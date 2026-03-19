@@ -1,0 +1,23 @@
+patient_id: B1031
+patient_age: 48
+diet_score: 6
+disability_rating: 5
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: 3 a week
+jaw_clicking: left tmj | rigth tmj
+headache_location: temporal
+average_daily_pain_intensity: 5
+headache_intensity: 4
+pain_onset_date: 483 years of age
+tmj_pain_rating: 7
+sleep_disorder_type: ibuprofen | Aleve
+disc_displacement: left disc dislocation | right disc dislocation
+appliance_history: orthodontics | splint
+joint_pain_areas: tmj | knees | hips

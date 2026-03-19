@@ -1,0 +1,26 @@
+patient_id: B954
+maximum_opening_without_pain: 18 mm
+patient_age: 39
+maximum_opening: 23mm
+pain_relieving_factors: splint
+diet_score: 7
+disability_rating: 5
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+physical_therapy_status: chiropractic
+earache_present: false
+adverse_reactions: lincocin
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal
+average_daily_pain_intensity: 7
+headache_intensity: 0
+pain_onset_date: 39 years old
+tmj_pain_rating: 0
+current_medications: Orthocycline | BuSpar | Flexeril | Lortab
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint

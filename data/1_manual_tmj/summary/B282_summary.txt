@@ -1,0 +1,24 @@
+patient_id: B282
+patient_age: 43
+maximum_opening: 35mm
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+pain_aggravating_factors: bite splints
+physical_therapy_status: physical therapy past year | electrical stimulation
+earache_present: true
+onset_triggers: motor vehicle accident
+airway_obstruction_present: false
+jaw_clicking: left tmj
+muscle_pain_score: moderate to severe
+current_appliance: bite splints
+headache_intensity: present
+pain_onset_date: 15 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: severe
+sleep_disorder_type: snoring | sleep apnea symptoms | daytime somnolence
+current_medications: synthroid | wellbutrin
+disc_displacement: left disc anterior dislocation without reduction | right disc anterior dislocation without reduction | right disc anterior displacement without reduction
+muscle_pain_location: styloid areas | masseters | temporalis
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: hips | left tmj | right tmj

@@ -1,0 +1,22 @@
+patient_id: B1278
+patient_age: 18
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: false
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: 4 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 5
+pain_onset_date: 18 years old
+tmj_pain_rating: 8
+current_medications: BCP | Ibuprofen | Zantac
+disc_displacement: left disc dislocation with reductions | right disc dislocation with reductions 
+muscle_pain_location: masseter | scm | styloid 
+joint_arthritis_location: left tmj | right tmj

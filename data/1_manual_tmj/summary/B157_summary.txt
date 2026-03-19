@@ -1,0 +1,18 @@
+patient_id: B157
+patient_age: 14
+maximum_opening: 60mm
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+current_appliance: orthodontics since 12 months ago
+headache_intensity: 0
+tmj_pain_rating: 0
+sleep_disorder_type: snoring
+disc_displacement: left disc anterior displacement with early reduction | right disc anterior displacement with late reduction | left disc displacement | right disc displacement
+muscle_pain_location: medial period | temporalis | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: expander and lip bumper from age 8 to 9
+joint_pain_areas: none

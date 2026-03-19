@@ -1,0 +1,27 @@
+1.patient_id: B571
+3.patient_age: 13
+4.maximum_opening: 53 mm 
+6.diet_score: 2
+8.disability_rating: 0
+10.jaw_function_score: 1
+11.tinnitus_present: True
+12.vertigo_present: False
+13.hearing_loss_present: False
+14.back_pain_present: True
+15.neck_pain_present: True
+18.earache_present: False
+23.airway_obstruction_present: True
+25.headache_frequency: 4x a week
+27.muscle_symptoms_present: True
+28.jaw_clicking: True
+30.muscle_pain_score: Minimal  
+32.headache_location: Temporal | Top of the head
+33.current_appliance: Orthodontics
+34.average_daily_pain_intensity: 3
+35.headache_intensity: 4
+37.pain_onset_date: 10 years of age  
+39.tmj_pain_rating: 0
+41.current_medications: Advil | Tylenol 
+43.muscle_pain_location: Styloid | Neck
+45.appliance_history: Orthodontics
+46.joint_pain_areas: Back | Knees | Ankles

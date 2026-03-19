@@ -1,0 +1,12 @@
+patient_id: B730
+patient_age: 14
+maximum_opening: 43mm
+sleep_apnea_diagnosed: true
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_intensity: 0
+tmj_pain_rating: 0

@@ -1,0 +1,25 @@
+patient_id: B1388
+patient_age: 33
+maximum_opening: 37mm
+diet_score: 2
+disability_rating: 4
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+physical_therapy_status: chiropractic
+earache_present: false
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+headache_location: frontal
+current_appliance: orthodontics
+average_daily_pain_intensity: 4
+headache_intensity: 0
+tmj_pain_rating: 4
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation withouth reduction
+muscle_pain_location: neck
+joint_arthritis_location: right tmj
+appliance_history: orthodontics
+joint_pain_areas: back

@@ -1,0 +1,27 @@
+patient_id: B1132
+patient_age: 35
+diet_score: 10
+disability_rating: 8
+sleep_apnea_diagnosed: true
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: true
+pain_aggravating_factors: splint
+physical_therapy_status: chiropractic
+earache_present: true
+onset_triggers: mva
+adverse_reactions: penicillin | keflex | clindamycin | levaquin | toradol | azithromycin
+airway_obstruction_present: true
+headache_frequency: 3 a week
+muscle_symptoms_present: false
+jaw_clicking: rigth tmj | left tmj
+headache_location: frontal | temporal | posterior head | top of the head
+average_daily_pain_intensity: 6
+headache_intensity: 7
+pain_onset_date: 15 years ago
+tmj_pain_rating: 8
+sleep_disorder_type:  snoring | somnolence
+disc_displacement: left disc dislocation with reduction | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

@@ -1,0 +1,18 @@
+patient_id: B918
+patient_age: 22
+maximum_opening: 55 mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj | rigth tmj
+headache_intensity: 0
+pain_onset_date: 22 years old
+tmj_pain_rating: 0
+sleep_disorder_type: snoring | somnolence

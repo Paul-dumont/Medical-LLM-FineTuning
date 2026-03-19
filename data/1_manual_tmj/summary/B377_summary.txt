@@ -1,0 +1,23 @@
+patient_id: B377
+patient_age: 15
+diet_score: 6
+disability_rating: 4
+jaw_function_score: 4
+pain_aggravating_factors: anterior open bite | clenching | bruxism
+adverse_reactions: biaxin | bees | environmental | nickel
+airway_obstruction_present: true
+headache_frequency: 1 time per week
+jaw_clicking: right tmj
+headache_location: temple
+current_appliance: orthodontics
+average_daily_pain_intensity: 4
+headache_intensity: 5 | present
+pain_onset_date: 4 to 5 years ago
+tmj_pain_rating: 7
+sleep_disorder_type: snoring
+current_medications: zyrtec-d | tylenol | advil
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement | left disc dislocation without reduction | left disc dislocation without reduction muscle_pain_score: moderate to high moderate
+muscle_pain_location: masseters | medial pterygoids | styloid areas
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: maxillary expansion from 8 to 10 years ago | maxillary expansion repeated and maxillary expansion on the lower arch
+joint_pain_areas: tmj | left tmj | right tmj | left ankle

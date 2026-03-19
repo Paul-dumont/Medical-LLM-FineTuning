@@ -1,0 +1,23 @@
+1.patient_id: B663
+2.maximum_opening_without_pain: 39 mm
+3.patient_age: 14
+4.maximum_opening: 47 mm
+6.diet_score: 2
+8.disability_rating: 1
+10.jaw_function_score: 3
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+15.neck_pain_present: False
+18.earache_present: False
+25.headache_frequency: 4 a month
+27.muscle_symptoms_present: True
+32.headache_location: Frontal | Temporal
+34.average_daily_pain_intensity: 2
+35.headache_intensity: 4
+36.autoimmune_condition: juvenile rheumatoid arthritis
+37.pain_onset_date: 12 years of age 
+39.tmj_pain_rating: 2
+41.current_medications: methotrexate | Naproxen  
+44.joint_arthritis_location: Left TMJ | Rigth TMJ 
+46.joint_pain_areas: Knees | Ankles | Wrists | Hands

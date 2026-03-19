@@ -1,0 +1,25 @@
+patient_id: B866
+patient_age: 37
+maximum_opening: 48mm
+diet_score: 2
+disability_rating: 1
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 2 a month
+muscle_pain_score: moderate
+headache_location: frontal
+current_appliance: splint
+average_daily_pain_intensity: 5
+headache_intensity: 4
+pain_onset_date: 9 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 6
+current_medications: celexa | advil
+disc_displacement: right disc dislocation
+muscle_pain_location: masseter | retromandibular 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint

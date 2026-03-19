@@ -1,0 +1,18 @@
+patient_id: B713
+patient_age: 22
+maximum_opening: 61mm
+diet_score: 0
+disability_rating: 3
+jaw_function_score: 0
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: mild
+headache_location:  temporal 
+headache_intensity: 7
+tmj_pain_rating: 4
+sleep_disorder_type: daytime somnolence 
+disc_displacement: right disc dislocation with reduction
+muscle_pain_location: temporalis | styloid areas
+appliance_history: orthodontics
+joint_pain_areas: tmj

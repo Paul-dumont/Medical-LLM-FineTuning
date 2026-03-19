@@ -1,0 +1,24 @@
+patient_id: B836
+maximum_opening_without_pain: 29 mm
+patient_age: 11
+maximum_opening: 41mm
+diet_score: 6
+disability_rating: 4
+jaw_function_score: 9
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+onset_triggers: motor vehicle
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj 
+muscle_pain_score: moderate
+headache_location: temporal
+average_daily_pain_intensity: 9
+headache_intensity: 5
+tmj_pain_rating: 9
+current_medications: none
+disc_displacement: left disc dislocation
+muscle_pain_location: styloid areas
+appliance_history: orthodontics

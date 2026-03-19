@@ -1,0 +1,22 @@
+patient_id: B089
+patient_age: 53
+maximum_opening: 70mm
+diet_score: 0
+disability_rating: 5
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: true
+physical_therapy_status: physical therapy from 51 to 52, ionophoresis treatment
+earache_present: true
+jaw_clicking: left tmj | right tmj
+headache_location: frontal | temporal | top of the head
+average_daily_pain_intensity: myofascial pain at 6 that escalate up to 8 in the evening
+headache_intensity: 4 | present
+jaw_crepitus: left tmj
+disc_displacement: left articular disk anterior displacement with reduction | right articular disk anterior displacement with reduction | left articular disk anterior displacement | right articular disk anterior displacement
+muscle_pain_location: masseters | medial pterygoids
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 14 to 15, at 41, and at 43| 3 splints over past 3 years
+joint_pain_areas: left tmj | right tmj | shoulders | left hip | left knee | neck

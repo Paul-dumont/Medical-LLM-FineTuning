@@ -1,0 +1,26 @@
+patient_id: B950
+patient_age: 55
+maximum_opening: 54 mm
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+back_pain_present: true
+neck_pain_present: true
+earache_present: true
+airway_obstruction_present: true
+jaw_clicking: left tmj
+muscle_pain_score: moderate
+headache_location: posterior head
+current_appliance: splint | orthodontics
+average_daily_pain_intensity: 5
+headache_intensity: 5
+pain_onset_date: 20 years of age
+sleep_disorder_type: snoring
+current_medications: Mobic | Soma | Darvocet-N | Nexium | HCTZ | HCTZ | Boniva
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location:  styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splints
+joint_pain_areas:  back | shoulders | neck

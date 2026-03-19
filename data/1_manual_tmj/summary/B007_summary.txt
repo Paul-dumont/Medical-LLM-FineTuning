@@ -1,0 +1,22 @@
+patient_id: B007
+patient_age: 23
+diet_score: 2
+disability_rating: 1
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+neck_pain_present: true
+earache_present: false
+jaw_locking: true
+headache_frequency: 5 out of 7 days
+jaw_clicking: right tmj
+headache_location: temporal | posterior head
+current_appliance: 3 x 3 retainer in the lower arch
+headache_intensity: 6 | present
+pain_onset_date: 14 age
+tmj_pain_rating: 0
+disc_displacement: left disc dislocation with late reduction
+muscle_pain_location: temporalis | masseter
+appliance_history: orthodontics from age of 9 through 12 | splint beginning 2 years ago and finishing a year later
+joint_pain_areas: knees

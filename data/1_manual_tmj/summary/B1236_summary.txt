@@ -1,0 +1,9 @@
+patient_id: B1236
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: severe
+tmj_pain_rating: 8
+sleep_disorder_type: somnolence
+disc_displacement: left disc dislocation | rigth disc dislocation
+muscle_pain_location: masseter | shoulders | neck 
+joint_arthritis_location: left tmj | right tmj

@@ -1,0 +1,20 @@
+patient_id: B1201
+patient_age: 33
+maximum_opening: 42mm
+diet_score: 2
+disability_rating: 4
+jaw_function_score: 2
+vertigo_present: true
+neck_pain_present: true
+earache_present: true
+onset_triggers: motor vehicle
+jaw_clicking: left tmj | rigth tmj
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 8
+headache_intensity: 8.5
+pain_onset_date: 13 years ago
+tmj_pain_rating: 5
+current_medications: Ultrace | Clarinex
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: shoulders | neck
+joint_arthritis_location: left tmj | right tmj

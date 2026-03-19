@@ -1,0 +1,21 @@
+patient_id: B1378
+patient_age: 30
+maximum_opening: 54 mm
+diet_score: 9
+disability_rating: 5
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: false
+headache_frequency: 3 a week
+jaw_clicking: right tmj
+muscle_pain_score: mild
+migraine_history: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 2
+headache_intensity: 7
+tmj_pain_rating: 0
+muscle_pain_location: styloid 
+appliance_history: splint

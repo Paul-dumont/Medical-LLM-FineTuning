@@ -1,0 +1,26 @@
+patient_id: B112
+maximum_opening_without_pain: 18mm
+patient_age: 59
+maximum_opening: 31mm
+diet_score: 5
+disability_rating: 6
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: physical therapy on and off for past 9 years
+earache_present: true
+onset_triggers: severe beating
+airway_obstruction_present: true
+headache_frequency: 3 times a week
+headache_location: frontal | temporal | posterior head
+current_appliance: splint for past 9 years
+average_daily_pain_intensity: 10
+headache_intensity: 10 | severe
+pain_onset_date: since 24 years of age
+tmj_pain_rating: 10
+sleep_disorder_type: snoring | daytime tiredness
+current_medications: cymbalta | armour thyroid | hctz | ditropan | vicodin
+joint_arthritis_location: right tmj | left tmj
+joint_pain_areas: left tmj | right tmj | left tmj | right tmj | right shoulder

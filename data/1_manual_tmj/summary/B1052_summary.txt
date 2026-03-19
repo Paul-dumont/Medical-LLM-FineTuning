@@ -1,0 +1,23 @@
+patient_id: B1052
+patient_age: 35
+pain_relieving_factors: splint
+diet_score: 5
+disability_rating: 9
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+onset_triggers: mva
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 6
+headache_intensity: 7
+pain_onset_date: 35 years old
+current_medications: none
+disc_displacement: left disc displacement
+muscle_pain_location: temporalis | shoulders | styloid areas
+appliance_history: splint
+joint_pain_areas: elbows | wrists | hips | neck | shoulder

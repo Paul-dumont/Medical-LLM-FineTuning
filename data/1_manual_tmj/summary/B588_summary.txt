@@ -1,0 +1,8 @@
+1.patient_id: B588
+3.patient_age: 12
+4.maximum_opening: 54 mm 
+15.neck_pain_present: False
+20.adverse_reactions: Allergies
+23.airway_obstruction_present: Fasle
+27.muscle_symptoms_present: True
+30.muscle_pain_score: Mild

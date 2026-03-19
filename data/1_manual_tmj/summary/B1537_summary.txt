@@ -1,0 +1,10 @@
+patient_id: B1537
+patient_age: 66
+maximum_opening: 42mm
+sleep_apnea_diagnosed: true
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_location: frontal
+sleep_disorder_type: sleep apnea | snoring | somnolence
+current_medications: Dyazide | Estradiol | Synthroid | Trazodone 
+appliance_history: orthodontics

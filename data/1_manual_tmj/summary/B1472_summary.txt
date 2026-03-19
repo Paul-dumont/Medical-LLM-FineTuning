@@ -1,0 +1,13 @@
+patient_id: B1472
+maximum_opening: 44mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+neck_pain_present: false
+airway_obstruction_present: true
+jaw_clicking: right tmj
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: none
+disc_displacement: right disc dislocation
+joint_arthritis_location: right tmj

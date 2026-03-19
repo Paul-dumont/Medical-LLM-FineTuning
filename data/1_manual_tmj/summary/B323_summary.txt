@@ -1,0 +1,26 @@
+patient_id: B323
+patient_age: 13
+maximum_opening: 47mm
+diet_score: 0
+pain_duration: in the morning
+disability_rating: 1
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+adverse_reactions: none
+muscle_symptoms_present: true
+muscle_pain_score: mild to moderate
+average_daily_pain_intensity: 6
+headache_intensity: 0
+pain_onset_date: 1.5 years ago
+tmj_pain_rating: 0
+current_medications: flonase | allegra
+disc_displacement: left disc posterior displacement | right disc anterior displacement with reduction | right disc dislocation
+muscle_pain_location: temporalis | right masseter | styloid | scms | posterior neck area
+joint_arthritis_location: right tmj
+appliance_history: orthodontics with headgear and palatal expander 5 years ago
+joint_pain_areas: tmj | left hip | knees | ankle | right tmj

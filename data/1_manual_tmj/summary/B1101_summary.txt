@@ -1,0 +1,6 @@
+patient_id: B1101
+patient_age: 45
+tinnitus_present: true
+vertigo_present: false
+earache_present: false
+current_medications: none

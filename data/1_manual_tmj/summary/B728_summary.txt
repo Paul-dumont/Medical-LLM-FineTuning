@@ -1,0 +1,24 @@
+patient_id: B728
+patient_age: 13
+pain_relieving_factors: 50 mm
+diet_score: 1
+disability_rating: 0
+sleep_apnea_diagnosed: False
+jaw_function_score: 3
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: 2 a week
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temple
+average_daily_pain_intensity: 3
+headache_intensity: 4
+pain_onset_date: 2 years ago
+tmj_pain_rating: 5
+current_medications: no medications and has no known allergies
+disc_displacement: left disc dislocation
+muscle_pain_location: styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: ankles

@@ -1,0 +1,22 @@
+patient_id: B1253
+patient_age: 65
+maximum_opening: 32mm
+diet_score: 6
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: true
+earache_present: true
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: high 
+headache_location: frontal | temporal 
+average_daily_pain_intensity: 8
+headache_intensity: 7
+pain_onset_date: 65 years old
+tmj_pain_rating: 10
+current_medications: Premarin | Vicodin | Keflex
+muscle_pain_location: masseter | styloid 
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: knees | hips

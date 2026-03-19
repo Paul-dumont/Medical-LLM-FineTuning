@@ -1,0 +1,21 @@
+patient_id: B269
+patient_age: 46
+maximum_opening: 22mm
+pain_relieving_factors: local anesthesia into the masseter muscle on the anterior edge
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: hayfever | benadryl
+jaw_locking: true
+muscle_symptoms_present: true
+headache_intensity: 0
+pain_onset_date: 4.5 weeks ago
+tmj_pain_rating: 4
+current_medications: norflex | lisinopril
+disc_displacement: left disc anterior dislocation | right disc anterio displacement | left disc anterior dislocation | right disc anterio displacementmuscle_pain_location: right masseter | left disc dislocation | right disc dislocation
+muscle_pain_location: right masseter
+joint_arthritis_location: left tmj | left tmj | right tmj

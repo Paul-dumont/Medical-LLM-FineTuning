@@ -1,0 +1,9 @@
+1.patient_id: B629
+3.patient_age: 19
+4.maximum_opening: 53 mm 
+15.neck_pain_present: True
+23.airway_obstruction_present: True 
+27.muscle_symptoms_present: True
+28.jaw_clicking: Rigth TMJ 
+43.muscle_pain_location: Neck
+45.appliance_history: Orthodontics

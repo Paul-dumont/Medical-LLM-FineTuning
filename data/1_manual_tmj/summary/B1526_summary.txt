@@ -1,0 +1,18 @@
+patient_id: B1526
+maximum_opening: 38mm
+diet_score: 1
+disability_rating: 8
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: false
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 6
+headache_intensity: 6
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 8
+muscle_pain_location: masseter | scm | neck | styloid  

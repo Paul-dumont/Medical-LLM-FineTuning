@@ -1,0 +1,25 @@
+1.patient_id: B583
+2.maximum_opening_without_pain: 13mm  
+3.patient_age: 36
+4.maximum_opening: 17mm
+6.diet_score: 9
+8.disability_rating: 9
+10.jaw_function_score: 10
+11.tinnitus_present: False 
+12.vertigo_present: True
+13.hearing_loss_present: False 
+15.neck_pain_present: True
+18.earache_present: True
+20.adverse_reactions: Latex | Biaxin | Tylenol No. 3  | Jewlelry | Metals
+27.muscle_symptoms_present: True
+30.muscle_pain_score: Moderate
+32.headache_location: Frotal | Temporal | 
+34.average_daily_pain_intensity: 10
+35.headache_intensity: 9
+37.pain_onset_date: 34 years of age 
+38.jaw_crepitus: True
+39.tmj_pain_rating: 9
+41.current_medications:  Carafate | Cholestyramine | Nexium | Zantac | Darvocet | Robaxin | Ibuprofen | Multivitamins
+43.muscle_pain_location: Styloid | Shoulder | Temporalis
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+46.joint_pain_areas: Ankle | Hand | Left TMJ | Rigth TMJ

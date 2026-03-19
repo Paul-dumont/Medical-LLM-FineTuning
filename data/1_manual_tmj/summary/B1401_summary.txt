@@ -1,0 +1,17 @@
+patient_id: B1401
+patient_age: 47
+diet_score: true
+disability_rating: false
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: glutens | wheat | eggs
+muscle_pain_score: moderate
+headache_location: temporal
+average_daily_pain_intensity: 2
+headache_intensity: 0
+tmj_pain_rating: 4
+current_medications: none
+muscle_pain_location: temporalis | masseter
+appliance_history: orthodontics

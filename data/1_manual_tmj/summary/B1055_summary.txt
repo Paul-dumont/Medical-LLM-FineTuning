@@ -1,0 +1,27 @@
+patient_id: B1055
+patient_age: 52
+diet_score: 5
+disability_rating: 1
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+physical_therapy_status: physical therapy
+earache_present: false
+onset_triggers: motor vehicle
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: 5 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+headache_intensity: 5
+pain_onset_date: 30 years ago
+tmj_pain_rating: 7
+current_medications: Zetia | Prilosec | Zyrtec | Steroid ointment | Multivitamin
+disc_displacement: left disc dislocation withouth reduction | right disc dislocation withouth reduction
+muscle_pain_location: masseter | scm | shoulders | styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: hand | wrists | neck

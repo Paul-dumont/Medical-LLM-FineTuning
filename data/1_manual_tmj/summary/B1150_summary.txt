@@ -1,0 +1,21 @@
+patient_id: B1150
+patient_age: 54
+maximum_opening: 60mm
+diet_score: 0
+disability_rating: 2
+sleep_apnea_diagnosed: false
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+muscle_symptoms_present: false
+headache_location: temporal
+average_daily_pain_intensity: 7
+headache_intensity: 0
+pain_onset_date: 3 years ago
+jaw_crepitus: left tmj 
+tmj_pain_rating: 7
+sleep_disorder_type: snoring
+current_medications: hctz | lisinopril | nifedical
+muscle_pain_location: neck
+joint_pain_areas: knee

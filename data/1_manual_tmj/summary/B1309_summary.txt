@@ -1,0 +1,24 @@
+patient_id: B1309
+maximum_opening_without_pain: 9 mm
+patient_age: 32
+maximum_opening: 18 mm
+diet_score: 8
+disability_rating: 7
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+physical_therapy_status: physical therapy
+earache_present: true
+fibromyalgia_present: true
+depression_present: true
+headache_frequency: constant
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+migraine_history: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 8
+headache_intensity: 8
+tmj_pain_rating: 8
+current_medications: oxycodone | Botox
+muscle_pain_location: temporalis | masseter | scm | shoulders | neck | styloid

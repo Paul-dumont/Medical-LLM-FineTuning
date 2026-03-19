@@ -1,0 +1,26 @@
+patient_id: B971
+patient_age: 43
+maximum_opening: 29mm
+diet_score: 7
+disability_rating: 8
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head | top of the head | temple
+average_daily_pain_intensity: 9.5
+headache_intensity: 8
+pain_onset_date: 43 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 8
+sleep_disorder_type: snoring | somnolence
+current_medications: OxyContin | Oxycodone | Neurontin | Lexapro | Slow-Mag | Klonopin | Trazodone | Ambien
+muscle_pain_location: temporalis | masseter | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: knees | wrists | back | neck

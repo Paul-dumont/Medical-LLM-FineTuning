@@ -1,0 +1,27 @@
+patient_id: B281
+maximum_opening_without_pain: 20 to 25mm
+patient_age: 20
+maximum_opening: 38mm
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: clenching
+earache_present: true
+adverse_reactions: codeine
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: high moderate to low severe
+headache_location: left frontal | left temple | left posterior head | right frontal | right temple | right posterior head
+average_daily_pain_intensity: 6 to 7
+headache_intensity: 8 | present
+tmj_pain_rating: 7
+current_medications: nystatin | armour
+disc_displacement: left disc anterior displacement without reduction | right  disc anterior displacement | left disc dislocation
+muscle_pain_location: masseters | temporalis | posterior neck | medial pterygoids | scms | shoulder areas | styloid areas
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: right tmj | left tmj

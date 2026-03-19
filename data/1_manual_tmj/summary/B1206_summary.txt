@@ -1,0 +1,20 @@
+patient_id: B1206
+patient_age: 15
+maximum_opening: 56 mm
+diet_score: 2
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+muscle_pain_score: high
+headache_location: frontal | temporal | temple
+headache_intensity: 8
+tmj_pain_rating: 0
+current_medications: tylenol
+disc_displacement: n
+muscle_pain_location: temporalis | scm | styloid 
+appliance_history: orthodontics

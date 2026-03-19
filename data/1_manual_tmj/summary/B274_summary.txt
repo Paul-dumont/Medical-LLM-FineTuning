@@ -1,0 +1,29 @@
+patient_id: B274
+patient_age: 69
+maximum_opening: 33mm | 35mm
+diet_score: 4
+disability_rating: 3 | 8 but today is 2
+jaw_function_score: 0 | 3
+tinnitus_present: true
+vertigo_present: true
+back_pain_present: true
+earache_present: false | true
+onset_triggers: teeth extraction
+adverse_reactions: number of medications
+headache_frequency: last 2 to 3 weeks
+pain_frequency: occasional
+muscle_symptoms_present: true
+muscle_pain_score: left temporalis | left masseters | minimal | moderate to mild | severe
+headache_location: left frontal | left temporal | left side
+current_appliance: dentures | splints
+average_daily_pain_intensity: 10 but today is 2 | 5
+headache_intensity: 10 but today is 2 | 3 | 5 | present
+autoimmune_condition: rheumatoid arthritis
+pain_onset_date: 64 years of age
+tmj_pain_rating: 3 | 5
+sleep_disorder_type: snoring
+current_medications: cymbalta | actonel | nexium | gold shots | cymbalta | actonel | nexium | gold shots | fish oil | cymbalta | actonel | nexium | senna soft gels | refresh celluvisc | calcium | alprazolam | myochrysine | fish oil | valium | prozac
+disc_displacement: left disc anterior dislocation with early reduction | right disc anterior dislocation with early reduction
+muscle_pain_location: left temporalis| masseter | left shoulder | moderate to minimal | styloid | masseter | temporalis
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: hips | back | left tmj | right tmj | left tmj | right tmj | hips | back | elbow | wrists

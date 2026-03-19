@@ -1,0 +1,27 @@
+patient_id: B761
+maximum_opening_without_pain: 24 mm
+patient_age: 19
+maximum_opening: 51mm
+diet_score: 3
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+earache_present: true
+adverse_reactions: morphine
+jaw_locking: true
+airway_obstruction_present: false
+headache_frequency: daily
+muscle_symptoms_present: true
+jaw_clicking: rigth joint
+muscle_pain_score: moderate
+headache_location: temporal | posterior head 
+average_daily_pain_intensity: 6
+headache_intensity: 5
+tmj_pain_rating: 6
+sleep_disorder_type: snoring
+muscle_pain_location: temporalis | masseter | shoulders | neck | styloid areas 
+appliance_history: orthodontics
+joint_pain_areas: knee

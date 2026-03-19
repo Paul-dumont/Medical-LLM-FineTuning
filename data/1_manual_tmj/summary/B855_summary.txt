@@ -1,0 +1,23 @@
+patient_id: B855
+maximum_opening_without_pain: 55mm
+patient_age: 15
+maximum_opening: 60mm
+diet_score: 0
+disability_rating: 1
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: constant
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+average_daily_pain_intensity: 5
+headache_intensity: 5
+pain_onset_date: 1 year ago
+tmj_pain_rating: 5
+current_medications: Advil | Singulair | Allergy shots
+muscle_pain_location: temporalis | masseter | retromandibular | scm | shoulders | neck 
+appliance_history: orthodontics
+joint_pain_areas: hips

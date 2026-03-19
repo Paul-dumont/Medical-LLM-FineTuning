@@ -1,0 +1,23 @@
+patient_id: B1009
+patient_age: 18
+maximum_opening: 39mm
+diet_score: 5
+disability_rating: 4
+sleep_apnea_diagnosed: false
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+muscle_pain_score: moderate
+headache_location: frontal | temple
+current_appliance: splint
+average_daily_pain_intensity: true
+headache_intensity: 4
+pain_onset_date: 4 years of age
+tmj_pain_rating: 5
+sleep_disorder_type: snoring 
+current_medications: wellbutrin
+disc_displacement: left disc dislocation withouth reduction
+muscle_pain_location: masseter | shoulders | styloid 
+joint_arthritis_location: left tmj
+appliance_history: orthodontics | splint

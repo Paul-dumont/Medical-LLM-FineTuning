@@ -1,0 +1,10 @@
+patient_id: B1316
+patient_age: 30
+maximum_opening: 45 mm
+adverse_reactions: penicillin | vicodin
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal
+current_medications: birth control | vitamins
+muscle_pain_location: shoulders 

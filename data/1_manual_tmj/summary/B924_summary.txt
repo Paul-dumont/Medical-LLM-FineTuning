@@ -1,0 +1,19 @@
+patient_id: B924
+patient_age: 18
+maximum_opening: 58 mm
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+earache_present: false
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal
+headache_intensity: 0
+pain_onset_date: 18 years old
+tmj_pain_rating: 0
+sleep_disorder_type: snoring
+current_medications: concerta
+muscle_pain_location: temporalis 

@@ -1,0 +1,15 @@
+patient_id: B226
+patient_age: 13
+maximum_opening: 50mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: ventolin
+disc_displacement: left disc medial displacement | right disc medial displacement
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics for 2 to 3 years

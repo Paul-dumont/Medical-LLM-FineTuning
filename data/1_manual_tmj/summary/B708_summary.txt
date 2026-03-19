@@ -1,0 +1,29 @@
+patient_id: B708
+patient_age: 73
+maximum_opening: 45 mm
+diet_score: 2
+disability_rating: 0
+sleep_apnea_diagnosed: true
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: true
+earache_present: false
+fibromyalgia_present: true
+headache_frequency: 4 a week
+muscle_symptoms_present: true
+jaw_clicking: left  tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 4
+headache_intensity: 4
+autoimmune_condition: fibromyalgia
+jaw_crepitus: right tmj
+tmj_pain_rating: 3
+sleep_disorder_type: sleep apnea
+current_medications: Hydrocodone | Paroxetine | Zolpidem | Pramipexole | Gabapentin | Lisinopril
+muscle_pain_location: masseter | retromandibular | shoulders | neck 
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: knees | wrists | hips | back | neck

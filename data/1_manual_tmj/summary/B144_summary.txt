@@ -1,0 +1,18 @@
+patient_id: B144
+patient_age: 48
+maximum_opening: 52mm
+diet_score: 5
+disability_rating: 2
+jaw_function_score: 0
+onset_triggers: fell off bike and landed on the chin
+airway_obstruction_present: true
+jaw_clicking: left tmj | left tmj | right tmj
+current_appliance: orthodontics | retainer
+average_daily_pain_intensity: 6 to 7
+headache_intensity: 0
+pain_onset_date: 5 years of age
+tmj_pain_rating: 0
+sleep_disorder_type: sleep apnea | snoring | daytime somnolence | sleep apnea
+disc_displacement: right disc anterior and medial displacement with very early reduction | left disc anterior displacement with very early reductionjoint_arthritis_location: left tmj | right tmj | right disc displacement with early reduction | left disc displacement with early reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint

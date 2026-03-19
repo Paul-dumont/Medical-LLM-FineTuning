@@ -1,0 +1,19 @@
+patient_id: B733
+patient_age: 26
+maximum_opening: 51mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+onset_triggers: other
+airway_obstruction_present: true
+jaw_clicking: rigth tmj | left tmj
+headache_intensity: 0
+pain_onset_date: 23 years of age
+tmj_pain_rating: 0
+sleep_disorder_type: snoring
+current_medications: Adderall | Zyrtec | Flonase
+muscle_pain_location: neck

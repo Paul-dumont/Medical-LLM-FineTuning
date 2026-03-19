@@ -1,0 +1,17 @@
+patient_id: B1465
+patient_age: 14
+maximum_opening: 37mm
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 2
+physical_therapy_status: physical therapy
+airway_obstruction_present: true
+headache_frequency: 2 a month
+muscle_pain_score: mild
+headache_location: frontal | temporal
+average_daily_pain_intensity: 0
+headache_intensity: 9
+tmj_pain_rating: 1
+sleep_disorder_type: snoring | somnolence
+muscle_pain_location: retromandibular
+appliance_history: orthodontics

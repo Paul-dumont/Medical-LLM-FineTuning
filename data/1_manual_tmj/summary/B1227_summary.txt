@@ -1,0 +1,13 @@
+patient_id: B1227
+patient_age: 15
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 3
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_intensity: 0
+pain_onset_date: 13 years of age
+tmj_pain_rating: 0
+muscle_pain_location: neck
+appliance_history: orthodontics

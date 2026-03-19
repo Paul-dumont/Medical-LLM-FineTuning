@@ -1,0 +1,14 @@
+patient_id: B1014
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: 1 a week
+headache_location: frontal | temporal
+tmj_pain_rating: 0
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

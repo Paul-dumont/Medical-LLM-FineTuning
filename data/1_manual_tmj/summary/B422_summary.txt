@@ -1,0 +1,22 @@
+patient_id: B422
+patient_age: 21
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: false
+pain_aggravating_factors: anterior open bite | clenching | bruxism
+physical_therapy_status: myofunctional therapy
+earache_present: false
+adverse_reactions: grass | molds | mites | trees | dogs | cats | cheap jewelry
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj | right tmj
+current_appliance: night guard for 2 years
+pain_onset_date: couple of years ago
+current_medications: birth control pills
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior and possibly medial dislocation with reduction | left disc dislocation with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics with three sets of braces in the pastv
+joint_pain_areas: back

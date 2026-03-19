@@ -1,0 +1,13 @@
+patient_id: B1050
+patient_age: 17
+sleep_apnea_diagnosed: false
+physical_therapy_status: physical therapy
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: high 
+headache_location: frontal | temporal
+sleep_disorder_type: somnolence 
+current_medications: Amitriptyline | Wellbutrin | Naproxen | Nexium | Nasonex | Aleve | Tylenol | Roxicet
+disc_displacement: left disc dislocation | rigth disc dislocation
+muscle_pain_location: temporalis | masseter | scm | shoulders | neck 
+appliance_history: splint

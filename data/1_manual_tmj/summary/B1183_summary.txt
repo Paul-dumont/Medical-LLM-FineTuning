@@ -1,0 +1,10 @@
+patient_id: B1183
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+jaw_clicking: left tmj
+muscle_pain_score: mild
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: none

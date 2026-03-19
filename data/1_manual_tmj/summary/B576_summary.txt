@@ -1,0 +1,22 @@
+1.patient_id: B576
+3.patient_age: 25
+4.maximum_opening: 27 mm 
+6.diet_score: 0 
+8.disability_rating: 3
+10.jaw_function_score:7
+11.tinnitus_present: False
+12.vertigo_present: False
+15.neck_pain_present: False 
+18.earache_present: False
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+28.jaw_clicking: False
+34.average_daily_pain_intensity: 0
+35.headache_intensity: 0 
+36.autoimmune_condition:juvenile rheumatoid arthritis 
+38.jaw_crepitus: False
+39.tmj_pain_rating: 0
+41.current_medications:  Enbrel | Ortho-Cyclen. | Prednisone
+44.joint_arthritis_location: Left TMJ | Rigth TMJ 
+45.appliance_history: Orthodontics | Splints 
+46.joint_pain_areas: Neck | Hands

@@ -1,0 +1,26 @@
+1.patient_id: B689
+2.maximum_opening_without_pain: 22 mm 
+4.maximum_opening: 38 mm
+6.diet_score: 7
+8.disability_rating: 5
+10.jaw_function_score: 3
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: True
+18.earache_present: True
+22.jaw_locking: True
+23.airway_obstruction_present: True
+25.headache_frequency: Daily
+27.muscle_symptoms_present: True
+30.muscle_pain_score: Mild
+32.headache_location: Frontal | Temporal
+35.headache_intensity: 6
+37.pain_onset_date: 31 years of age  
+38.jaw_crepitus: Rigth TMJ 
+39.tmj_pain_rating: 6
+41.current_medications: Synthroid | Tylenol | Ibuprofen
+42.disc_displacement: Rigth disc dislocation | Left disc dislocation
+43.muscle_pain_location: Retromandibular | Temporalis
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Orthodontics | Splint
+46.joint_pain_areas: Shoulders | Hands

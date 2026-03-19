@@ -1,0 +1,30 @@
+patient_id: B767
+maximum_opening_without_pain: 5 mm
+patient_age: 28
+maximum_opening: 46mm
+diet_score: 2
+disability_rating: 9
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+back_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 5 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+previous_medications: flexeril | meperidine | trazodone | hydrocodone
+muscle_pain_score: moderate
+headache_location: temporal | posterior head
+current_appliance: splint
+average_daily_pain_intensity: 8
+headache_intensity: 8
+pain_onset_date: 14 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 10
+current_medications: Celexa | Lisonopril | bontril
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | retromandibular | scm | shoulders | neck 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

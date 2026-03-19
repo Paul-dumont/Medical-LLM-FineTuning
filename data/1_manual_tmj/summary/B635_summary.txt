@@ -1,0 +1,25 @@
+1.patient_id: B635
+3.patient_age: 53
+6.diet_score: 2
+8.disability_rating: 2
+10.jaw_function_score: 3
+11.tinnitus_present: True
+12.vertigo_present: False
+13.hearing_loss_present: True
+18.earache_present: False
+20.adverse_reactions: penicillin
+22.jaw_locking: True
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+28.jaw_clicking: Left TMJ | Rigth TMJ
+30.muscle_pain_score: Mild
+34.average_daily_pain_intensity: 3
+35.headache_intensity: 0 
+37.pain_onset_date: 18 years of age 
+39.tmj_pain_rating: 6
+40.sleep_disorder_type: Snoring | Somnolence
+41.current_medications: Protonix
+42.disc_displacement: Left disc dislocation | Rigth disc dislocation
+43.muscle_pain_location: Styloid | Shpulders | Temporalis
+45.appliance_history: Splint
+46.joint_pain_areas: Knee | Rigth TMJ 

@@ -1,0 +1,26 @@
+patient_id: B1393
+patient_age: 26
+maximum_opening: 53mm
+diet_score: 5
+disability_rating: 7
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+headache_frequency: 4 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | rigth tmj
+previous_medications: antibiotics
+muscle_pain_score: moderate
+headache_location: posterior head
+current_appliance: splint
+average_daily_pain_intensity: 5
+headache_intensity: 2
+pain_onset_date: 20 years of age
+tmj_pain_rating: 7
+current_medications: tylenol
+disc_displacement: left disc displacement | rigth disc displacement
+muscle_pain_location: temporalis | masseter | retromandibular | scm | shoulders | neck
+appliance_history: splint
+joint_pain_areas: knees | shoulders

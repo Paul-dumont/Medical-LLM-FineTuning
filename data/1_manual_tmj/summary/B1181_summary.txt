@@ -1,0 +1,13 @@
+patient_id: B1181
+patient_age: 54
+sleep_apnea_diagnosed: true
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+jaw_clicking: right tmj
+headache_location: frontal
+pain_onset_date: 3 years ago
+sleep_disorder_type: sleep apnea | snoring | somnolence 
+muscle_pain_location: neck
+joint_pain_areas: knee

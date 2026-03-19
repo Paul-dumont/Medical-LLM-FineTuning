@@ -1,0 +1,16 @@
+patient_id: B1202
+patient_age: 21
+maximum_opening: 52mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+earache_present: false
+muscle_symptoms_present: true
+headache_location: frontal
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: birth control
+appliance_history: orthodontics

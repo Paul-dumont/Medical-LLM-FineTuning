@@ -1,0 +1,9 @@
+patient_id: B1429
+patient_age: 29
+maximum_opening: 66 mm
+sleep_apnea_diagnosed: false
+current_appliance: orthodontics
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: neck
+appliance_history: orthodontics

@@ -1,0 +1,28 @@
+patient_id: B476
+patient_age: 45
+diet_score: 2
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: false
+neck_pain_present: true
+pain_aggravating_factors: clenching
+physical_therapy_status: chiropractic treatment since 16 years ago and currently still receiving that treatment | massage therapy since 16 years ago to current | neurocranial reconstruction including nine series | botox injections about every 4-6 months in the head and shoulder areas for approximately 6 years | physical therapy including such treatments as ultrasound | tens | acupuncture | equilibration x3
+earache_present: true
+onset_triggers: mva 20 years ago | struck in the face with a baseball that broke nose and maybe caused a crack in the sphenoid bone as a teenager | falls during roller skating where she hit the floor and strike the back of her | fell off a counter striking the right side of head and sustained a fractured skull at 6 months old
+headache_frequency: daily | worse in the mornings and may get a little bit better in the afternoon but then get worse again at night
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontotemporal | posterior head
+average_daily_pain_intensity: 8
+headache_intensity: 9 frequently to 10
+pain_onset_date: 18 years ag
+tmj_pain_rating: 8
+sleep_disorder_type: daytime somnolence
+current_medications: esterase | estratest hs | lunesta | vicodin
+disc_displacement: left disc anteriorly and laterally dislocated with reduction | right disc anteriorly displaced at the lateral aspect of the joint | left disc dislocation with reduction | right disc medially and anteriorly displaced with reduction
+muscle_pain_location: scms | posterior neck | left medial pterygoid | masseters | styloid areas
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint therapy since 15 years ago by four different doctors
+joint_pain_areas: knees | her hips | left tmj | right tmj

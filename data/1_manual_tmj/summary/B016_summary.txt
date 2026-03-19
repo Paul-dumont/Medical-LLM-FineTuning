@@ -1,0 +1,30 @@
+patient_id: B016
+patient_age: 38
+maximum_opening: 53mm
+diet_score: 0
+disability_rating: 3
+sleep_apnea_diagnosed: true
+jaw_function_score: 1
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: left posterior crossbite
+earache_present: false
+adverse_reactions: penicillin
+airway_obstruction_present: true
+headache_frequency: every two weeks
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: minimal
+headache_location: frontal | temporal | top of the head
+average_daily_pain_intensity: 1
+headache_intensity: 4 | present
+pain_onset_date: 17 years old
+tmj_pain_rating: 2
+sleep_disorder_type: sleep apnea symptoms | snoring | daytime somnolence | sleep apnea
+current_medications: lipitor | asa
+disc_displacement: left disc anterior dislocation with early reduction | left disc dislocation with early reduction
+muscle_pain_location: masseter | styloid areas
+appliance_history: orthodontics ages 34 to 38
+joint_pain_areas: tmj | back | neck

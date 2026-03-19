@@ -1,0 +1,24 @@
+patient_id: B829
+patient_age: 15
+maximum_opening: 46mm
+disability_rating: false
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+adverse_reactions: cats | dogs | red dye | milk
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: high 
+headache_location: temporal
+headache_intensity: 0
+pain_onset_date: 4 years ago
+sleep_disorder_type: somnolence
+current_medications: Advair
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | retromandibular | shoulders | neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: elbows | wrists | ankles | knee

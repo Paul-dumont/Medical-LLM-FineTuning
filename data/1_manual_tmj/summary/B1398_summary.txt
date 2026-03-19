@@ -1,0 +1,13 @@
+patient_id: B1398
+patient_age: 15
+maximum_opening: 28mm
+diet_score: 0
+disability_rating: 0
+sleep_apnea_diagnosed: true
+jaw_function_score: 5
+neck_pain_present: false
+airway_obstruction_present: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 0
+headache_intensity: 0
+tmj_pain_rating: 1

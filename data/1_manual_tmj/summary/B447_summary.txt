@@ -1,0 +1,22 @@
+patient_id: B447
+patient_age: 14
+maximum_opening: 49mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: false
+pain_aggravating_factors: anterior open bite | anterior open bite | crossbite on the left posterior
+earache_present: false
+adverse_reactions: grasses | molds
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_intensity: 0
+pain_onset_date: last 2 to 2-1/2 years
+tmj_pain_rating: 0
+current_medications: nasalcort | motrin | rhinocort
+disc_displacement: left disc  anteriorly displaced with early reduction | right disc dislocation with early reduction | left disc dislocation with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: knee

@@ -1,0 +1,22 @@
+patient_id: B1097
+patient_age: 54
+maximum_opening: 15 mm
+diet_score: 8
+disability_rating: 2
+jaw_function_score: 6
+airway_obstruction_present: false
+depression_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal | posterior head 
+average_daily_pain_intensity: 2
+headache_intensity: 5
+pain_onset_date: 35 years of age
+tmj_pain_rating: 3
+sleep_disorder_type: snoring | somnolence 
+current_medications: Zestril | Allopurinol | K+ 8  | magnesium | HCTZ | Ativan | Elavil | Soma | Activella
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | scm | shoulders 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

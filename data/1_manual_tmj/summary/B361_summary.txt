@@ -1,0 +1,15 @@
+patient_id: B361
+patient_age: 31
+maximum_opening: 54mm
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: clenching | bruxism | orthodontics since last year with bite plate | splint
+earache_present: true
+airway_obstruction_present: true
+current_appliance: orthodontics since last year with bite plate | splint
+headache_intensity: present
+sleep_disorder_type: sleep apnea symptoms
+current_medications: astelin | nasonex | benadryl
+disc_displacement: left disc anterior and medial displacement | right disc anterior and medial displacement with reductionmuscle_tenderness_present: false | left disc anteromedial dislocation | right disc anteromedial dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj

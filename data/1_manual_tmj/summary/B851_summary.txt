@@ -1,0 +1,26 @@
+patient_id: B851
+maximum_opening_without_pain: 15mm
+patient_age: 47
+maximum_opening: 20mm
+diet_score: 5
+disability_rating: 5
+sleep_apnea_diagnosed: true
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+back_pain_present: true
+neck_pain_present: true
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: constantly
+muscle_symptoms_present: true
+muscle_pain_score: severe
+headache_location: temporal 
+average_daily_pain_intensity: 6
+headache_intensity: 6
+pain_onset_date: 11 years of age
+tmj_pain_rating: 6
+sleep_disorder_type: somnolence 
+current_medications: Lyrica | Topamax | Tylenol | Iron | B12
+muscle_pain_location: temporalis | masseter | retromandibular | scm | shoulders | neck
+joint_pain_areas: hands | knees | back | shoulders

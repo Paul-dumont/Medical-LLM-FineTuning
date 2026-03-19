@@ -1,0 +1,24 @@
+patient_id: B1008
+patient_age: 46
+maximum_opening: 53 mm
+diet_score: 6
+disability_rating: 5
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+physical_therapy_status: physical therapy
+earache_present: true
+headache_frequency: constant
+muscle_symptoms_present: true
+muscle_pain_score: high 
+headache_location: frontal | temporal 
+average_daily_pain_intensity: 5
+headache_intensity: 6
+pain_onset_date: 18 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 6
+current_medications: OxyContin | Wellbutrin | Hydrocodone
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | scm | shoulders | styloid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splints

@@ -1,0 +1,25 @@
+patient_id: B902
+patient_age: 43
+maximum_opening: 19mm
+diet_score: 8
+disability_rating: 7
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: fakse
+physical_therapy_status: physical therapy
+earache_present: false
+headache_frequency: 4 a week
+muscle_symptoms_present: true
+muscle_pain_score: severe
+migraine_history: true
+headache_location: frontal | temporal
+current_appliance: splint
+average_daily_pain_intensity: 6
+headache_intensity: 9
+pain_onset_date: 10 years of age
+tmj_pain_rating: 5
+current_medications: Tramadol | Klonopin | Advil
+muscle_pain_location: temporalis | masseter | neck 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

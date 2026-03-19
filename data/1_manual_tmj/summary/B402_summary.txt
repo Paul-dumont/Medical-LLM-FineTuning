@@ -1,0 +1,23 @@
+patient_id: B402
+patient_age: 37
+maximum_opening: 49mm
+diet_score: 2
+disability_rating: 7
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+headache_frequency: every two weeks every two weeks
+jaw_clicking: left tmj
+muscle_pain_score: moderate to milder
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: level of 4 and on the left side at a level of 3 | present
+jaw_crepitus: right tmj
+tmj_pain_rating: 6 to 7
+current_medications: imipramine | klonopin | propecia
+disc_displacement: left disc medial displacement | left disc possible slight medial displacement
+muscle_pain_location: right masseter | right styloid | right temporalis
+joint_arthritis_location: right tmj | left tmj | right tmj
+joint_pain_areas: right tmj

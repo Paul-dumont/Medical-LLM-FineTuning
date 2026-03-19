@@ -1,0 +1,22 @@
+patient_id: B846
+maximum_opening_without_pain: 35mm
+patient_age: 34
+maximum_opening: 50mm
+diet_score: 6
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+onset_triggers: orthodontics
+airway_obstruction_present: true
+muscle_pain_score: moderate
+average_daily_pain_intensity: 5
+pain_onset_date: 14 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 5
+current_medications: Ibuprofen | Zyrtec | BCP
+muscle_pain_location: temporalis 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: wrists | hips | shoulders

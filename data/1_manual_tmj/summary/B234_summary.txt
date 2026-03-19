@@ -1,0 +1,30 @@
+patient_id: B234
+maximum_opening_without_pain: 36mm
+patient_age: 37
+maximum_opening: 58mm
+diet_score: 5
+disability_rating: 6
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching
+earache_present: true
+onset_triggers: motor vehicle accident involving fractured right zygomatic orbital complex and head injury
+adverse_reactions: vicodin
+headache_frequency: once a week
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+previous_medications: vicodin
+muscle_pain_score: mild to moderate
+headache_location: left temporal | frontal
+average_daily_pain_intensity: 7
+headache_intensity: 3 | present
+pain_onset_date: 14 years ago
+jaw_crepitus: left tmj
+tmj_pain_rating: 8
+current_medications: levora | tylenol with codeine
+disc_displacement: right disc dislocation with reduction
+muscle_pain_location: left masseter | left styloid
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | knees | tmj

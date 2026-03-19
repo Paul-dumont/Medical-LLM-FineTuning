@@ -1,0 +1,23 @@
+1.patient_id: B572
+3.patient_age: 21
+4.maximum_opening:  45 mm 
+6.diet_score: 4
+8.disability_rating: 5
+10.jaw_function_score: 6
+11.tinnitus_present: False
+12.vertigo_present: True 
+18.earache_present: True
+22.jaw_locking: True
+25.headache_frequency: Constant  
+26.pain_frequency: Daily 
+28.jaw_clicking: True 
+32.headache_location: Temporal | Posterior head | Frontal 
+34.average_daily_pain_intensity: 7
+35.headache_intensity: 8
+37.pain_onset_date: 14 years of age 
+39.tmj_pain_rating: 7
+41.current_medications:  Reclipsen | Fluoxetine 
+42.disc_displacement: Left TMJ | Rigth TMJ 
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Orthodotics | Splint 
+46.joint_pain_areas: Left TMJ | Rigth TMJ

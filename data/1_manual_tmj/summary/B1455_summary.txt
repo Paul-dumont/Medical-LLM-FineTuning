@@ -1,0 +1,25 @@
+patient_id: B1455
+patient_age: 54
+diet_score: 4
+disability_rating: 8
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+back_pain_present: true
+neck_pain_present: true
+earache_present: false
+airway_obstruction_present: true
+depression_present: true
+headache_frequency: constant
+muscle_symptoms_present: high
+muscle_pain_score: mild
+migraine_history: true
+headache_location: frontal | temporal
+average_daily_pain_intensity: 6
+headache_intensity: 7
+tmj_pain_rating: 6
+current_medications: baclofen
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: neck
+appliance_history: orthodontics | splint
+joint_pain_areas: knees | hips | back | neck

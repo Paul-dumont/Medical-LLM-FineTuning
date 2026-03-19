@@ -1,0 +1,31 @@
+patient_id: B516
+patient_age: 57
+pain_relieving_factors: bilateral tmj arthroscopy
+diet_score: 4
+disability_rating: 7
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+back_pain_present: true
+neck_pain_present: true
+physical_therapy_status: ionophoresis
+earache_present: true
+jaw_locking: true
+airway_obstruction_present: false | true
+headache_frequency: daily
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: very high moderate pain to low severe
+headache_location: frontal | temple | posterior head
+current_appliance: splint
+average_daily_pain_intensity: 9
+headache_intensity: 7 | present
+pain_onset_date: 24 years ago
+tmj_pain_rating: 8
+sleep_disorder_type: daytime somnolence | snoring | snoring | sleep apnea symptoms
+current_medications: synthroid | estradiol | synthroid | estradiol | lexapro | zetia | digitek | diovan |  cyclobenzaprine | skelaxin
+disc_displacement: left disc anterior and medially displaced with early reduction | right disc anterior and medially displaced with early reduction | left disc dislocation with reduction | right disc anteriorly displaced with reduction
+muscle_pain_location: right posterior neck | left styloid | temporalis | masseters | medial pterygoids | scms | shoulders | left posterior neck | right styloid area
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint from 23 years ago for 5 years | orthodontics 21 years ago | splint until 13 years ago
+joint_pain_areas: tmj | left tmj | right tmj | neck | left elbow | wrist | back  | knees  | ankles

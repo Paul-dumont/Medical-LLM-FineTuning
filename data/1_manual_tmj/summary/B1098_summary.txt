@@ -1,0 +1,26 @@
+patient_id: B1098
+maximum_opening_without_pain: 35 mm
+patient_age: 47
+maximum_opening: 48mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: clenching
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: 1 a month
+muscle_pain_score: mild
+headache_location: frontal | temporal 
+average_daily_pain_intensity: 1
+headache_intensity: 5
+pain_onset_date: 47 years old
+jaw_crepitus: right tmj
+tmj_pain_rating: 5
+current_medications: Etodolac | Vicodin | Multiple
+muscle_pain_location: temporalis 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: knees | hips

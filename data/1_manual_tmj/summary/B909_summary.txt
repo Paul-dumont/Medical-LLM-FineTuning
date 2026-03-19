@@ -1,0 +1,14 @@
+patient_id: B909
+patient_age: 32
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+jaw_clicking: right tmj
+migraine_history: true
+headache_intensity: 0
+pain_onset_date: 32 years old
+tmj_pain_rating: 0
+current_medications: nexium
+disc_displacement: rigth disc displacement | left disc displacement 

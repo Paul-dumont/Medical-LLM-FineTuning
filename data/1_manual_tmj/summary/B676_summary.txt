@@ -1,0 +1,22 @@
+1.patient_id: B676
+3.patient_age: 30 
+4.maximum_opening: 54 mm
+6.diet_score: 2
+8.disability_rating: 4
+10.jaw_function_score: 4
+11.tinnitus_present: True
+12.vertigo_present: True
+13.hearing_loss_present: False
+18.earache_present: True
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+30.muscle_pain_score: Moderate
+32.headache_location: throughout the head | Temporal
+34.average_daily_pain_intensity: 3
+35.headache_intensity: 4
+39.tmj_pain_rating: 6
+41.current_medications: None
+42.disc_displacement: Left disc dislocation with reduction | Rigth disc dislocation with reduction 
+43.muscle_pain_location: Masseter | Retromandibular | Shoulder
+44.joint_arthritis_location: Left TMJ | Rigth TMJ 
+45.appliance_history: Orthodontics | Nigth guard

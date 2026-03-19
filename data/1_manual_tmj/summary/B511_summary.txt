@@ -1,0 +1,24 @@
+patient_id: B511
+patient_age: 20
+diet_score: 7
+disability_rating: 4
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: true
+earache_present: true
+onset_triggers: fell off a wall and hit the jaw sustaining a right subcondylar fracture
+adverse_reactions: ceclor
+airway_obstruction_present: false
+headache_frequency: almost daily
+muscle_pain_score: 50mm | very high moderate to moderate
+headache_location: right temporal | right frontal
+current_appliance: 3 x 3 retainer
+average_daily_pain_intensity: 7
+headache_intensity: 8 | present
+pain_onset_date: 5 years old
+tmj_pain_rating: 8
+disc_displacement: left disc anteriorly displaced with very early reduction | right disc anteriorly positioned  with early reduction | left disc medially displaced
+muscle_pain_location: 34mm | right masseter | right temporalis | right styloid area, and right posterior neck | right side
+appliance_history: orthodontics 5 years ago for 2 years
+joint_pain_areas: right tmj

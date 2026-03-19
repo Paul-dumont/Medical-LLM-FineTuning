@@ -1,0 +1,16 @@
+patient_id: B1576
+patient_age: 19
+maximum_opening: 62mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_pain_score: moderate
+headache_location: frontal
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: adderall | mucinex
+joint_pain_areas: ankles | knees

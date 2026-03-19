@@ -1,0 +1,17 @@
+patient_id: B1394
+patient_age: 24
+maximum_opening: 49mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+neck_pain_present: false
+earache_present: true
+muscle_symptoms_present: false
+current_appliance: orthodontics
+headache_intensity: 0
+autoimmune_condition: hashimoto thyroiditis
+tmj_pain_rating: 0
+current_medications: Novolog insulin | Synthroid
+muscle_pain_location: neck
+appliance_history: orthodontics | nigth guard
+joint_pain_areas: tmj

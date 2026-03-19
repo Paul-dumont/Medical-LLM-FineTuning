@@ -1,0 +1,23 @@
+patient_id: B1434
+patient_age: 25
+maximum_opening: 15mm
+diet_score: 7
+disability_rating: 3
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+physical_therapy_status: physical therapy
+earache_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+migraine_history: true
+headache_location: posterior head | behind eyes
+average_daily_pain_intensity: 2
+headache_intensity: 4
+pain_onset_date: 20 years of age
+tmj_pain_rating: 7
+sleep_disorder_type: somnolence
+current_medications: Ryzolt | Tramadol | Topamax | Maxalt | Femcon | Celebrex | Multivitamin 
+muscle_pain_location: masseter | scm 
+appliance_history: splint

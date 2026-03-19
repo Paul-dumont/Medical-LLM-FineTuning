@@ -1,0 +1,14 @@
+patient_id: B1123
+patient_age: 17
+maximum_opening: 57mm
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj 
+muscle_pain_score: moderate
+pain_onset_date: 17 years old
+sleep_disorder_type: somnolence
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

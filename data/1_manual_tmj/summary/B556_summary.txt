@@ -1,0 +1,44 @@
+1.patient_id: B556
+3.patient_age: 36
+5.pain_relieving_factors: Unknwon
+6.diet_score: Unknwon
+7.pain_duration: Unknwon
+8.disability_rating: Unknwon
+9.sleep_apnea_diagnosed: Unknwon
+10.jaw_function_score:U nknwon
+11.tinnitus_present: Unknwon
+12.vertigo_present: Unknwon
+13.hearing_loss_present: Unknwon
+14.back_pain_present: Unknwon
+15.neck_pain_present: Unknwon
+16.pain_aggravating_factors: Unknwon
+17.physical_therapy_status: physical therapy
+18.earache_present: Unknwon
+19.onset_triggers: Other | Sports
+20.adverse_reactions: Unknwon
+21.fibromyalgia_present: Unknwon
+22.jaw_locking: Unknwon
+23.airway_obstruction_present: True
+24.depression_present: Unknwon
+25.headache_frequency: Unknwon
+26.pain_frequency: Unknwon
+27.muscle_symptoms_present: Unknwon
+28.jaw_clicking: Unknwon
+29.previous_medications: Unknwon
+30.muscle_pain_score: Unknwon
+31.migraine_history: Unknwon
+32.headache_location: Unknwon
+33.current_appliance: Unknwon
+34.average_daily_pain_intensity: Unknwon
+35.headache_intensity: Unknwon
+36.autoimmune_condition: Unknwon
+37.pain_onset_date: 35 years of age
+38.jaw_crepitus: Unknwon
+39.tmj_pain_rating: Unknwon
+40.sleep_disorder_type: Unknwon
+41.current_medications:  Unknwon
+42.disc_displacement: Unknwon
+43.muscle_pain_location: Unknwon
+44.joint_arthritis_location: Unknwon
+45.appliance_history: Unknwon
+46.joint_pain_areas: Unknwon

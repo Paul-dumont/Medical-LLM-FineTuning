@@ -1,0 +1,25 @@
+patient_id: B288
+patient_age: 20
+maximum_opening: 48mm
+diet_score: 0
+disability_rating: 1
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: left posterior cross bite | right posterior cross bite
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+current_appliance: orthodontics since year
+average_daily_pain_intensity: 4
+headache_intensity: 7 | present
+tmj_pain_rating: 1
+sleep_disorder_type: daytime somnolence
+current_medications: bcp | asa
+disc_displacement: left disc medial displacement | right disc medial and anterior displacement with reduction | left disc medial displacement | right disc medial displacement
+muscle_pain_location: styloid areas
+joint_arthritis_location: right tmj
+appliance_history: at age 4, maxillary expansion
+joint_pain_areas: tmj | left tmj | right tmj

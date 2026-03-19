@@ -1,0 +1,7 @@
+1.patient_id: B586
+3.patient_age: 13
+15.neck_pain_present: False
+20.adverse_reactions: Penicillin
+23.airway_obstruction_present: True
+28.jaw_clicking: True
+41.current_medications:  Rhinocort

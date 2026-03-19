@@ -1,0 +1,20 @@
+1.patient_id: B546
+3.patient_age: 50
+6.diet_score: 3
+8.disability_rating: 1
+10.jaw_function_score: 4
+11.tinnitus_present: False
+12.vertigo_present: False
+14.back_pain_present: True
+18.earache_present: False
+19.onset_triggers: Orthodontic
+23.airway_obstruction_present: True
+32.headache_location: Frontal | Temporal | Behind eyes
+34.average_daily_pain_intensity: 1
+38.jaw_crepitus: True
+39.tmj_pain_rating: 3
+41.current_medications: Sansert  
+42.disc_displacement: Left TMJ
+44.joint_arthritis_location: Left TMJ 
+45.appliance_history: Orthodontics
+46.joint_pain_areas: Left TMJ | Elbow | Back

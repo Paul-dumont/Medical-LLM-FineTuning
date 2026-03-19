@@ -1,0 +1,5 @@
+patient_id: B1314
+patient_age: 49
+airway_obstruction_present: true
+headache_location: frontal
+sleep_disorder_type: snoring 

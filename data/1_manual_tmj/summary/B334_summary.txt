@@ -1,0 +1,25 @@
+patient_id: B334
+maximum_opening_without_pain: 31 mm
+patient_age: 15
+maximum_opening: 55 mm
+diet_score: 5
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism | eating
+earache_present: false
+adverse_reactions: seasonal
+airway_obstruction_present: false
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: moderate
+average_daily_pain_intensity: 6
+headache_intensity: 0 | present
+tmj_pain_rating: 5
+current_medications: albuterol | motrin
+disc_displacement: left disc dislocation | right disc dislocation | left disc medial and anterior displacement without reduction | right disc dislocation with reduction
+muscle_pain_location: masseters | styloid areas
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

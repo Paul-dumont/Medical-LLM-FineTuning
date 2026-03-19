@@ -1,0 +1,12 @@
+patient_id: B1010
+patient_age: true
+maximum_opening: 43 mm
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 1
+neck_pain_present: false
+muscle_symptoms_present: false
+headache_location: frontal
+headache_intensity: 0
+tmj_pain_rating: 0
+appliance_history: orthodontics

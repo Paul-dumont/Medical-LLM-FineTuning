@@ -1,0 +1,28 @@
+patient_id: B123
+patient_age: 15
+maximum_opening: 63mm
+diet_score: 4
+disability_rating: 0
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite
+earache_present: false
+adverse_reactions: pollen | trees | dogs | cats | nickel
+airway_obstruction_present: true
+headache_frequency: 2 times a week
+muscle_symptoms_present: true
+jaw_clicking: right
+headache_location: temporal
+current_appliance: orthodontics with expander 1 year and 1 month ago and fixed appliance 8 months ago
+average_daily_pain_intensity: 2
+headache_intensity: 3 but worse in allergy season | present
+pain_onset_date: past 2 years
+tmj_pain_rating: 2
+current_medications: allergy shots | aleve
+disc_displacement: left disc medial and anterior displacement | right disc medial and anterior displacement
+muscle_pain_location: styloid
+joint_arthritis_location: left tmj | right tmj | right tmj
+appliance_history: orthodontics with expander at age of 6
+joint_pain_areas: fingers | left tmj | right tmj

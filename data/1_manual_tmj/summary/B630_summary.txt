@@ -1,0 +1,17 @@
+1.patient_id: B630
+3.patient_age: 52
+6.diet_score: 1
+8.disability_rating: 0
+10.jaw_function_score: 0
+11.tinnitus_present: True
+12.vertigo_present: False
+18.earache_present: False
+20.adverse_reactions: Floxin | Biaxin | grass | trees | dust
+25.headache_frequency: Ocasionally  
+31.migraine_history: True
+32.headache_location: Frontal | Temporal | Posterior head
+35.headache_intensity: 7 
+39.tmj_pain_rating: 0
+40.sleep_disorder_type: Snoring
+41.current_medications:  Avapro | Prilosec | Zomig
+46.joint_pain_areas: Knee

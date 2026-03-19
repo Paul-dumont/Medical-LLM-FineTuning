@@ -1,0 +1,21 @@
+patient_id: B1474
+patient_age: 23
+maximum_opening: 38 mm
+diet_score: 0
+disability_rating: 6
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+muscle_pain_score: severe
+headache_location: frontal
+average_daily_pain_intensity: 7
+headache_intensity: 0
+pain_onset_date: 21 years of age
+tmj_pain_rating: 8
+current_medications: Motrin
+disc_displacement: left dic displacement | rigth dics dicplacement
+muscle_pain_location: masseter | masseters
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

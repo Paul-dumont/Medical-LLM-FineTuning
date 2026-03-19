@@ -1,0 +1,21 @@
+patient_id: B1279
+patient_age: 53
+maximum_opening: 32mm
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+depression_present: true
+headache_frequency: 4 a week
+muscle_pain_score: moderate
+headache_location: temporal
+average_daily_pain_intensity: 5
+headache_intensity: 5
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 5
+sleep_disorder_type: snoring
+current_medications: ibuprofen | Combipatch | Rebif | Nu-Lev | Benefiber |  Gas-X
+muscle_pain_location: neck
+joint_arthritis_location: right tmj | left tmj

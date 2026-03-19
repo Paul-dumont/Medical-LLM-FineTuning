@@ -1,0 +1,27 @@
+patient_id: B890
+patient_age: 39
+maximum_opening: 47mm
+diet_score: 2
+disability_rating: 2
+sleep_apnea_diagnosed: true
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+current_appliance: orthodontics
+average_daily_pain_intensity: 7
+headache_intensity: 7
+pain_onset_date: 7 years ago
+tmj_pain_rating: 7
+sleep_disorder_type: sleep apnea | snoring | somnolence
+disc_displacement: left disc dislocation
+muscle_pain_location: shoulders | temporalis | masseters
+appliance_history: orthodontics | night guard
+joint_pain_areas: knees | back | shoulder

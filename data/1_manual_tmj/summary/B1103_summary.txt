@@ -1,0 +1,25 @@
+patient_id: B1103
+maximum_opening_without_pain: 23mm
+patient_age: 25
+maximum_opening: 37mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 4 a month
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal
+average_daily_pain_intensity: 4
+headache_intensity: 4
+pain_onset_date: 20 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 7
+current_medications: advil | Klonopin
+muscle_pain_location: temporalis 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: hands

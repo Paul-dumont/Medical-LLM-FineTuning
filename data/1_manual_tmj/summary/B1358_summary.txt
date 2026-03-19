@@ -1,0 +1,25 @@
+patient_id: B1358
+maximum_opening_without_pain: 20 mm
+patient_age: 36
+maximum_opening: 46mm
+diet_score: 8
+disability_rating: 7
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: chiropractic
+physical_therapy_status: physical therapy | chiropractic
+earache_present: true
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+headache_location: temporal 
+current_appliance: splint 
+average_daily_pain_intensity: 10
+headache_intensity: 5
+tmj_pain_rating: 10
+current_medications: Diclofenac | Vicodin | Robaxin
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: hips | back

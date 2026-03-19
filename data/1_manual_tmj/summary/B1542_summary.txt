@@ -1,0 +1,7 @@
+patient_id: B1542
+patient_age: 23
+maximum_opening: 33 mm
+neck_pain_present: false
+airway_obstruction_present: true
+headache_location: frontal
+muscle_pain_location: neck

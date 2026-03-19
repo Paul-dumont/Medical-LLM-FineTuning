@@ -1,0 +1,27 @@
+patient_id: B106
+patient_age: 53
+maximum_opening: 50mm
+diet_score: 2
+disability_rating: 2
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: bruxism | clenching
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: once every two weeks
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+headache_location: temporal
+current_appliance: orthodontics for past 1.5 years
+average_daily_pain_intensity: 0
+headache_intensity: 2
+jaw_crepitus: right tmj | left tmj
+tmj_pain_rating: 3
+current_medications: angelique
+disc_displacement: left disc medial displacement with reduction | right disc posterior dislocationmuscle_pain_location: temporalis | retromandibular area | right disc dislocation with reduction
+joint_arthritis_location: right tmj | right tmj | left tmj
+appliance_history: orthodontics from 13 to 16 years of age
+joint_pain_areas: left tmj | right tmj | neck

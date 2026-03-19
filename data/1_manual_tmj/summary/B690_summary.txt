@@ -1,0 +1,23 @@
+1.patient_id: B690
+3.patient_age: 53
+4.maximum_opening: 70 mm 
+6.diet_score: 0
+8.disability_rating: 5
+10.jaw_function_score: 1
+11.tinnitus_present: True
+12.vertigo_present: True
+13.hearing_loss_present: False
+15.neck_pain_present: True
+17.physical_therapy_status: Physical theraphy
+18.earache_present: True 
+27.muscle_symptoms_present: True
+28.jaw_clicking: Left TMJ | Rigth TMJ 
+30.muscle_pain_score: High
+32.headache_location: Frontal | Temporal 
+35.headache_intensity: 4
+38.jaw_crepitus: Left TMJ
+39.tmj_pain_rating: 0
+42.disc_displacement: Rigth disc dislocation | Left disc dislocation
+43.muscle_pain_location: Masseters | Retromandibular
+45.appliance_history: Orthodontics | Splints
+46.joint_pain_areas: Shoulders | Hip | Knee | Neck

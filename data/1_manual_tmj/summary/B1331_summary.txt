@@ -1,0 +1,19 @@
+patient_id: B1331
+patient_age: 28
+diet_score: 7
+disability_rating: 9
+jaw_function_score: 9
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal | behind the eye
+current_appliance: orthodotnic
+average_daily_pain_intensity: 6
+headache_intensity: 9
+pain_onset_date: 28 years old
+tmj_pain_rating: 9
+current_medications: ibuprofen
+disc_displacement: left disc dislocation withouth reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

@@ -1,0 +1,20 @@
+patient_id: B807
+patient_age: 16
+maximum_opening: 57mm
+diet_score: true
+disability_rating: false
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+headache_intensity: 0
+pain_onset_date: 15 years of age
+tmj_pain_rating: 0
+current_medications: none
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas:  hips

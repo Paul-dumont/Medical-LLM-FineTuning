@@ -1,0 +1,20 @@
+patient_id: B1530
+patient_age: 62
+diet_score: 1
+pain_duration: afternoon
+disability_rating: 7
+jaw_function_score: 3
+earache_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 7
+tmj_pain_rating: 0
+current_medications: Tenormin | Aspirin | Verapamil | Temazepam | Amitriptyline 
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: temporalis | masseter | retromandibular 
+appliance_history: orthodontics | splint
+joint_pain_areas:  back | shoulder | neck

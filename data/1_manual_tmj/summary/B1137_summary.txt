@@ -1,0 +1,26 @@
+patient_id: B1137
+patient_age: 64
+maximum_opening: 52mm
+diet_score: 2
+disability_rating: 0
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: true
+earache_present: false
+adverse_reactions: solamedial
+headache_frequency: 1 a month
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal
+headache_intensity: 4
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 5
+sleep_disorder_type: snoring 
+current_medications: Miacalcin
+disc_displacement: left disc dislocation with reduction | right disc dislocation withouth reduction
+muscle_pain_location: temporalis 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: elbows | wrists | shoulders 

@@ -1,0 +1,26 @@
+patient_id: B469
+maximum_opening_without_pain: 30mm
+patient_age: 35
+maximum_opening: 35mm
+diet_score: 5
+disability_rating: 6
+jaw_function_score: 5
+pain_aggravating_factors: ear candling | clenching | splint
+physical_therapy_status: physical therapy from husband
+earache_present: true
+onset_triggers: physical abuse
+adverse_reactions: penicillin
+previous_medications: medications to treat flu
+muscle_pain_score: high moderate | present
+headache_location: frontal | temporal | posterior head area
+average_daily_pain_intensity: 5 but it can escalate to 9
+headache_intensity: 4 but can escalate to 9 | present
+pain_onset_date: 25 years ago
+tmj_pain_rating: 3
+sleep_disorder_type: snoring
+current_medications: wellbutrin xl | advil | advil migraine
+disc_displacement: left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: left temporalis | right styloid area | left scm | left styloid area | bilateral masseters | right medial pterygoid | left scm
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics 13 years ago | orthodontics 7 years ago | splin5
+joint_pain_areas: tmj | left tmj | right tmj

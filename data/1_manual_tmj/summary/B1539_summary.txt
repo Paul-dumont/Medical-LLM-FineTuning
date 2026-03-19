@@ -1,0 +1,17 @@
+patient_id: B1539
+patient_age: 23
+sleep_apnea_diagnosed: false
+tinnitus_present: false
+vertigo_present: true
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+muscle_pain_score: moderate
+headache_location: frontal
+headache_intensity: 0
+tmj_pain_rating: 0
+sleep_disorder_type: snoring | somnolence
+current_medications: none
+muscle_pain_location: neck
+appliance_history: orthodontics

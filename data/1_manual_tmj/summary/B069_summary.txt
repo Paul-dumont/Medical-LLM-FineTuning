@@ -1,0 +1,25 @@
+patient_id: B069
+patient_age: 22
+diet_score: 6
+disability_rating: 8
+sleep_apnea_diagnosed: false
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+pain_aggravating_factors: clenching
+earache_present: ture
+depression_present: true
+headache_frequency: constant
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: masseters | temporalis | posterior neck | shoulder areas
+headache_location: frontal | temporal | posterior
+average_daily_pain_intensity: 7
+headache_intensity: 7 but almost always hit a level of 9 during the day | present
+pain_onset_date: 10 or 11 years of age
+tmj_pain_rating: 7
+sleep_disorder_type: daytime somnolence
+current_medications: levoxyl | portia | excedrin
+disc_displacement: right tmj articular disc dislocation | left tmj articular disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics 10 to 14 years of age | splint for 5 to 6 years
+joint_pain_areas: left tmj | right tmj | left shoulder | left hip | right shoulder

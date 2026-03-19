@@ -1,0 +1,14 @@
+patient_id: B1593
+patient_age: 16
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: none
+appliance_history: orthodontics
+joint_pain_areas: elbows | back

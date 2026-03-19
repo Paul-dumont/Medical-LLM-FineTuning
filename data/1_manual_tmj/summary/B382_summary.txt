@@ -1,0 +1,25 @@
+patient_id: B382
+maximum_opening_without_pain: 35mm
+patient_age: 45
+maximum_opening: false4mm
+diet_score: 6
+pain_duration: worse in the mornings when she wakes up
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+adverse_reactions: new type of toothpaste | colgate toothpaste
+muscle_symptoms_present: true
+previous_medications: number of different antibiotics
+muscle_pain_score: minimal
+headache_intensity: 0
+pain_onset_date: two to three years ago
+jaw_crepitus: right tmj
+tmj_pain_rating: 5
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior dislocation with reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | neck

@@ -1,0 +1,17 @@
+1.patient_id: B693
+3.patient_age: 14
+4.maximum_opening: 48 mm 
+6.diet_score: 0
+8.disability_rating: 0
+10.jaw_function_score: 2
+11.tinnitus_present: False
+12.vertigo_present: True
+13.hearing_loss_present: False
+18.earache_present: False
+20.adverse_reactions: Grass | Pollens
+35.headache_intensity: 0
+39.tmj_pain_rating: 0
+40.sleep_disorder_type: Somnolence
+41.current_medications:  Adderall | Celexa | Trazodone 
+42.disc_displacement: Left disc dislocation | Rigth disc dislocation
+44.joint_arthritis_location: Left TMJ | Rigth TMJ

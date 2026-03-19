@@ -1,0 +1,18 @@
+patient_id: B912
+patient_age: 43
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+jaw_clicking: left tmj | rigth tmj
+headache_location: frontal
+current_appliance: nigthguard
+pain_onset_date: 43 years old
+sleep_disorder_type: snoring 
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction 
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: nigthguard
+joint_pain_areas: knee

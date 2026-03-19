@@ -1,0 +1,18 @@
+patient_id: B108
+patient_age: 46
+diet_score: 3
+disability_rating: 0
+jaw_function_score: 3
+pain_aggravating_factors: clenching
+onset_triggers: distraction osteogenesis of mandible
+airway_obstruction_present: true
+muscle_symptoms_present: true
+current_appliance: orthodontics
+average_daily_pain_intensity: 1
+headache_intensity: 0
+tmj_pain_rating: 0
+sleep_disorder_type: sleep apnea | sleep apnea symtoms | snoring | daytime somnolence
+current_medications: nasonex | terramycin
+disc_displacement: left disc anterior displacement | right disc anterior displacement | right disc anterior displacement
+muscle_pain_location: shoulders
+joint_arthritis_location: left tmj | right tmj

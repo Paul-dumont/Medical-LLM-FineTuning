@@ -1,0 +1,22 @@
+patient_id: B981
+patient_age: 44
+diet_score: 0
+disability_rating: 0
+sleep_apnea_diagnosed: true
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 5 a week
+jaw_clicking: right tmj
+muscle_pain_score: severe
+headache_location: frontal 
+average_daily_pain_intensity: 3
+headache_intensity: 6.5
+pain_onset_date: 44 years old
+tmj_pain_rating: 0
+sleep_disorder_type: sleep apnea | snoring | somnolence
+current_medications: Tricor | Lipitor | Tylenol | Motrin
+disc_displacement: left disc dislocation | right disc dislocation

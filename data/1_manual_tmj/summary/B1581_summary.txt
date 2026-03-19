@@ -1,0 +1,23 @@
+patient_id: B1581
+patient_age: 19
+diet_score: 3
+disability_rating: 6
+sleep_apnea_diagnosed: false
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: severe
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 7
+pain_onset_date: 15 years of age
+tmj_pain_rating: 6
+sleep_disorder_type: snoring 
+disc_displacement: left disc dislocation withouth reduction | right disc dislocation withouth reduction
+muscle_pain_location: temporalis | masseter | scm | shoulders | neck | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

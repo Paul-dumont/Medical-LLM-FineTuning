@@ -1,0 +1,23 @@
+patient_id: B258
+maximum_opening_without_pain: 33mm
+patient_age: 54
+maximum_opening: 45mm
+diet_score: 3
+disability_rating: 10
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+pain_aggravating_factors: clenching | bruxing
+earache_present: false
+airway_obstruction_present: false
+headache_frequency: constant
+headache_location: left side | left side of the face from temple and downward | left temple
+average_daily_pain_intensity: 10
+headache_intensity: severe | severe, 10
+pain_onset_date: 44 years of age
+tmj_pain_rating: 5
+sleep_disorder_type: snoring
+current_medications: soma | lipitor | fiorinal
+disc_displacement: left disc anterior displacement | right disc anterior and medial dislocationmuscle_tenderness_present: false | left disc dislocations without reduction | right disc dislocations without reduction
+joint_arthritis_location: right tmj | left tmj
+joint_pain_areas: knees | left tmj | right tmj

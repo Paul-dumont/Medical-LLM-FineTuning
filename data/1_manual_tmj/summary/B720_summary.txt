@@ -1,0 +1,21 @@
+patient_id: B720
+patient_age: 75
+maximum_opening: 33mm
+diet_score: 8
+disability_rating: 8
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+physical_therapy_status: Chiropratic
+earache_present: false
+muscle_symptoms_present: true
+previous_medications: Reglan
+muscle_pain_score: severe
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 7
+pain_onset_date: 72 years of age
+tmj_pain_rating: 7
+current_medications: Coreg | Zestril | Norvasc | MSM gel 
+muscle_pain_location: temporalis | masseter | retromandibular 
+joint_pain_areas:  | back | shoulders | neck | hip

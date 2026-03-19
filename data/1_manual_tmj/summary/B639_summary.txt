@@ -1,0 +1,12 @@
+1.patient_id: B639
+2.maximum_opening_without_pain: 35 mm
+3.patient_age: 23 
+4.maximum_opening: 45 mm
+15.neck_pain_present: False
+27.muscle_symptoms_present: False
+28.jaw_clicking: Left TMJ | Rigth TMJ
+38.jaw_crepitus: Left TMJ | Rigth TMJ
+40.sleep_disorder_type: Snoring 
+41.current_medications:  Mircette | Daryx
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+46.joint_pain_areas: Ankles

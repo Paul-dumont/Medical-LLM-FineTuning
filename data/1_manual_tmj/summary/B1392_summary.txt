@@ -1,0 +1,21 @@
+patient_id: B1392
+patient_age: 15
+maximum_opening: 45mm
+diet_score: 4
+pain_duration: evening
+disability_rating: 4
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 3 a week
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: temporal | top of the head 
+average_daily_pain_intensity: 1
+pain_onset_date: 2 years ago
+tmj_pain_rating: 0
+current_medications: Daytrana | Strattera
+disc_displacement: left disc dislocation with reduction
+muscle_pain_location: temporalis | masseter 

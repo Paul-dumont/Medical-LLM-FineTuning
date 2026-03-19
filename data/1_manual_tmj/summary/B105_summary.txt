@@ -1,0 +1,12 @@
+patient_id: B105
+patient_age: 32
+maximum_opening: 40mm
+vertigo_present: true
+jaw_locking: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+jaw_crepitus: left tmj
+current_medications: yasmin | synthroid | claritin | motrin
+disc_displacement: left disc partial displacementmuscle_pain_location: masseters
+joint_arthritis_location: right tmj | left tmj
+joint_pain_areas: left tmj | right tmj | right tmj | left tmj

@@ -1,0 +1,24 @@
+patient_id: B1491
+patient_age: 14
+maximum_opening: 54 mm
+diet_score: 3
+disability_rating: 4
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 1 a week
+jaw_clicking: left tmj | rigth tmj
+muscle_pain_score: severe
+migraine_history: true
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 2
+headache_intensity: 6
+pain_onset_date: 14 years old
+tmj_pain_rating: 4
+sleep_disorder_type: snoring | somnolence 
+disc_displacement: left disc dislocation with reduction | right disc dislocation withouth reduction
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj

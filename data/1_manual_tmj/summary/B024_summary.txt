@@ -1,0 +1,29 @@
+patient_id: B024
+maximum_opening_without_pain: 33mm
+patient_age: 39
+maximum_opening: 38mm
+diet_score: 8
+disability_rating: 9
+sleep_apnea_diagnosed: true
+jaw_function_score: 9
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: splint | clenching | bruxism
+earache_present: true
+adverse_reactions: lortab
+jaw_locking: true
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: mild
+headache_location: right frontal | right temporal | top of the head
+average_daily_pain_intensity: 8
+headache_intensity: 8 | present
+pain_onset_date: 12 years old for right side | 18 years old for left side
+tmj_pain_rating: 9
+sleep_disorder_type: sleep apnea
+disc_displacement: left disc anteriorly and laterally dislocation | right disc anteriorly and laterally dislocation | left disc dislocation without reduction | right disc dislocation with reduction
+muscle_pain_location: right temporalis
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint 14 years ago | splint therapy 6 years
+joint_pain_areas: tmj | right tmj

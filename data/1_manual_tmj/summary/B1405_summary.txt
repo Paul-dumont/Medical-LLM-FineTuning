@@ -1,0 +1,22 @@
+patient_id: B1405
+maximum_opening_without_pain: 25 mm
+patient_age: 48
+maximum_opening: 30 mm
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 6
+adverse_reactions: Proplast Teflon IPI | Silastic
+headache_frequency: 2 a week
+muscle_symptoms_present: true
+previous_medications: MS Contin | MSIR 
+muscle_pain_score: high 
+headache_location: temporal
+average_daily_pain_intensity: 3
+headache_intensity: 5
+pain_onset_date: 20 years ago
+jaw_crepitus: left tmj | rigth tmj
+tmj_pain_rating: 5
+current_medications: MS Contin | MSIR | Soma | Paxil | Dicloxacillin
+muscle_pain_location: masseter | styloid 
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: back | knee

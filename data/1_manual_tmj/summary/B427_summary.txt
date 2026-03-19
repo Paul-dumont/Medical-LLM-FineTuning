@@ -1,0 +1,24 @@
+patient_id: B427
+patient_age: 18
+diet_score: 9
+disability_rating: 8
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: false
+pain_aggravating_factors: anterior open bite | clenching
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 2 to 3 times per week
+muscle_symptoms_present: true
+muscle_pain_score: 47mm | mild to moderate
+headache_location: all over the head
+average_daily_pain_intensity: 6
+headache_intensity: 3 | present
+pain_onset_date: age of 15 although it is possible that it could have developed prior to that time
+tmj_pain_rating: 7
+sleep_disorder_type: daytime somnolence
+disc_displacement: left disc dislocation | right disc anteriorly displaced
+muscle_pain_location: styloid areas
+joint_arthritis_location: left tmj | right tmj | right tmj
+appliance_history: orthodontics | several splints
+joint_pain_areas: tmj | left tmj | right tmj

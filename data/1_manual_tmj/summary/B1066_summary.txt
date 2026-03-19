@@ -1,0 +1,25 @@
+patient_id: B1066
+maximum_opening_without_pain: 26 mm
+patient_age: 2
+maximum_opening: 52 mm
+diet_score: 5
+disability_rating: 5
+sleep_apnea_diagnosed: true
+jaw_function_score: 5
+vertigo_present: true
+back_pain_present: true
+adverse_reactions: Paxil | Zoloft | Phenergan | Compazine | bananas | fish | kiwi
+depression_present: true
+muscle_symptoms_present: true
+muscle_pain_score: high 
+headache_location: posterior head
+average_daily_pain_intensity: 3
+headache_intensity: 4
+pain_onset_date: 3 years ago
+sleep_disorder_type: snoring | somnolence
+current_medications: Ibuprofen | Mobic
+disc_displacement: left disc dislocation with reduction
+muscle_pain_location: temporalis | masseter  | scm | shoulders | neck | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint | orthodotnics
+joint_pain_areas: tmj | elbows | wrists | back | shoulders

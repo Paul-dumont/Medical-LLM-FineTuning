@@ -1,0 +1,19 @@
+patient_id: B986
+patient_age: 13
+maximum_opening: 52mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+airway_obstruction_present: false
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+current_appliance: orthodontics
+pain_onset_date: 3 years ago
+tmj_pain_rating: 3
+muscle_pain_location: temporalis | masseter | neck | styloid 
+appliance_history: orthodontics

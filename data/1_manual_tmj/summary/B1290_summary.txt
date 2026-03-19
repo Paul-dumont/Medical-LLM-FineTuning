@@ -1,0 +1,17 @@
+patient_id: B1290
+maximum_opening: 54 MM
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 2 a month
+muscle_symptoms_present: true
+headache_location: back of the head | temporal
+current_appliance: orthodontics
+average_daily_pain_intensity: 0
+tmj_pain_rating: 0
+current_medications: none
+muscle_pain_location: neck
+appliance_history: orthodontics

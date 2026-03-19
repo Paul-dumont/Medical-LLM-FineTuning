@@ -1,0 +1,14 @@
+patient_id: B1582
+patient_age: 42
+maximum_opening: 24 mm
+sleep_apnea_diagnosed: false
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+airway_obstruction_present: true
+sleep_disorder_type: somnolence 
+current_medications: aleve
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: elbows | wrists

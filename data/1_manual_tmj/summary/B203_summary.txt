@@ -1,0 +1,22 @@
+patient_id: B203
+patient_age: 51
+maximum_opening: 55mm
+diet_score: 0
+disability_rating: 1
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+average_daily_pain_intensity: 1
+headache_intensity: 0
+tmj_pain_rating: 1
+sleep_disorder_type: snoring | sleep apnea | daytime somnolence
+current_medications: nova | lantus | altace | tricor | labetolol | calcium | ambien | xanax
+disc_displacement: left disc dislocation | right disc dislocation | left disc medial and anterior displacement with reduction| right disc anterior displacement with reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics at 24 | orthodontics at mid 40s

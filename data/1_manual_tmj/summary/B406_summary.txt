@@ -1,0 +1,25 @@
+patient_id: B406
+patient_age: 45
+maximum_opening: 49mm
+diet_score: 1
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+adverse_reactions: penicillin | keflex
+jaw_locking: true
+headache_frequency: once a week
+muscle_symptoms_present: true
+muscle_pain_score: very minimal
+headache_location: frontal | temporal
+headache_intensity: 4 | present
+pain_onset_date: 29 years
+tmj_pain_rating: 0
+current_medications: mircette birth control pills
+disc_displacement: left disc anterior displacement | right disc anterior and medial displacement | left disc dislocation without reduction | right disc dislocation without reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: styloid areas
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj

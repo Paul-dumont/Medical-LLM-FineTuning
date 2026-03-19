@@ -1,0 +1,17 @@
+patient_id: B805
+patient_age: 14
+maximum_opening: 50mm
+diet_score: 0
+disability_rating: 1
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+pain_onset_date: 11 years of age
+current_medications: none
+disc_displacement: right disc dislocation with reduction
+muscle_pain_location: masseter | masseters | neck
+joint_arthritis_location: right tmj
+appliance_history: orthodontics

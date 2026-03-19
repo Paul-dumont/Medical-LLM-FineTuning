@@ -1,0 +1,14 @@
+patient_id: B1285
+maximum_opening_without_pain: 20 mm
+patient_age: 64
+maximum_opening: 23mm
+sleep_apnea_diagnosed: true
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+pain_onset_date: 30 years ago
+sleep_disorder_type: sleep apnea | snoring | somnolence
+current_medications: Synthroid | Vicodin | Cymbalta | vitamins
+muscle_pain_location: neck

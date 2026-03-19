@@ -1,0 +1,28 @@
+patient_id: B446
+patient_age: 27
+maximum_opening: 53mm
+diet_score: 5
+disability_rating: 3
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+airway_obstruction_present: false
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+current_appliance: splint that began about 8 months
+average_daily_pain_intensity: 8
+headache_intensity: 8 | present
+pain_onset_date: 18
+tmj_pain_rating: 8 | severe
+sleep_disorder_type: snoring
+current_medications: aspirin | acetaminophen | tylenol
+disc_displacement: left disc anterior dislocated | right disc dislocated anteriorly and non-reducing | left disc laterally and anteriorly displaced | right disc dislocated anteriorly with questionable reduction
+muscle_pain_location: temporalis | masseter | styloid | scms | posterior neck | shoulders | left medial pterygoid area
+joint_arthritis_location: right tmj
+appliance_history: orthodontics at 16 | orthodontics 2 years ago | splints
+joint_pain_areas: tmj | knees | left tmj | right tmj

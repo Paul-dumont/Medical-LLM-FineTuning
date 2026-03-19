@@ -1,0 +1,23 @@
+patient_id: B1496
+patient_age: 59
+maximum_opening: 47mm
+diet_score: 5
+disability_rating: 7
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: orthodontics
+earache_present: false
+adverse_reactions: olives | grapes | vinegar
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: throughout the head
+average_daily_pain_intensity: 8
+headache_intensity: 8
+tmj_pain_rating: 8
+current_medications: hormones | Estradiol | Testosterone | Progesterone | Multivitamins
+muscle_pain_location: temporalis | masseter
+appliance_history: orthodontics
+joint_pain_areas: tmj | hips | back | neck

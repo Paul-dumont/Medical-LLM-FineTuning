@@ -1,0 +1,9 @@
+patient_id: B928
+patient_age: 18
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_location: frontal
+muscle_pain_location: neck
+appliance_history: orthodontics
+joint_pain_areas: tmj

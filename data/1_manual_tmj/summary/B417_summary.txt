@@ -1,0 +1,31 @@
+patient_id: B417
+maximum_opening_without_pain: 37mm
+patient_age: 26
+maximum_opening: 48mm
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+physical_therapy_status: chiropractic treatment for one year |  osteopathic treatment performed for about 3 years | physical therapy
+earache_present: true
+onset_triggers: likely from motor vehicle accident
+adverse_reactions: pollens
+airway_obstruction_present: false | true
+headache_frequency: daily
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+headache_location: frontal | temple | posterior head
+average_daily_pain_intensity: 5
+headache_intensity: 5 but can escalate to 7 | present
+pain_onset_date: 18 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 4
+sleep_disorder_type: daytime somnolence | snoring
+current_medications: celebrex | yasmin | topamax | aleve
+disc_displacement: left disc dislocated without reduction | right disc dislocated but with reduction | left disc dislocation with late reduction | right disc dislocation with early reduction
+joint_arthritis_location: ankles | knees | wrists | left tmj | right tmj
+appliance_history: lower splint made 5 years ago for 1 year | upper splint for 8 months
+joint_pain_areas: tmj | left tmj | right tmj

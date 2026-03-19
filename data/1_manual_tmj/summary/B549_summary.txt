@@ -1,0 +1,22 @@
+1.patient_id: B549
+2.maximum_opening_without_pain: 18mm
+3.patient_age: 16
+4.maximum_opening: 38mm
+6.diet_score: 4
+8.disability_rating: 0
+9.sleep_apnea_diagnosed: Falaw
+10.jaw_function_score: 7
+13.hearing_loss_present: False
+14.back_pain_present: True
+15.neck_pain_present: True
+18.earache_present: False
+19.onset_triggers: juvenile rheumatoid arthritis
+23.airway_obstruction_present: False
+34.average_daily_pain_intensity: 8
+36.autoimmune_condition: True
+37.pain_onset_date: 18 months of age
+38.jaw_crepitus: True
+39.tmj_pain_rating: 8
+41.current_medications: Enbrel 
+44.joint_arthritis_location: Left TMJ | Rigth TMJ 
+46.joint_pain_areas: Left TMJ | Rigth TMJ | Knees | Back | Neck | Shoulder | Wrists | Hips

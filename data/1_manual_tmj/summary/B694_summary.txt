@@ -1,0 +1,18 @@
+1.patient_id: B694
+3.patient_age: 14
+4.maximum_opening: 48 mm 
+6.diet_score: 1
+7.pain_duration: Morning | Evening
+8.disability_rating: 0
+10.jaw_function_score: 0
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+18.earache_present: False
+25.headache_frequency: 2 a week
+32.headache_location: Frontal | Temporal
+34.average_daily_pain_intensity: 4
+35.headache_intensity: 5
+41.current_medications: Claritin | Advil
+42.disc_displacement: Left disc dislocation | Rigth disc dislocation
+44.joint_arthritis_location: Left TMJ | Rigth TMJ

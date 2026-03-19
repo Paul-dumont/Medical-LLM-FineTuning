@@ -1,0 +1,17 @@
+patient_id: B1317
+patient_age: 29
+maximum_opening: 50mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_location: frontal
+headache_intensity: 0
+tmj_pain_rating: 0
+muscle_pain_location: neck
+appliance_history: orthodontics

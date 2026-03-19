@@ -1,0 +1,22 @@
+patient_id: B1303
+patient_age: 24
+maximum_opening: 56 mm
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: constant
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal
+average_daily_pain_intensity: 5
+tmj_pain_rating: 3
+sleep_disorder_type: snoring
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis 
+appliance_history: orthodontics

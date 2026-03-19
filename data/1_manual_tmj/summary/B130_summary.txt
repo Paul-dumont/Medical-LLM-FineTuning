@@ -1,0 +1,26 @@
+patient_id: B130
+maximum_opening_without_pain: 40mm
+patient_age: 26
+maximum_opening: 56mm
+diet_score: 5
+disability_rating: 3
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: true
+pain_aggravating_factors: clenching
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+headache_location: frontal | temporal | top of head
+average_daily_pain_intensity: 5
+headache_intensity: 8 | present
+pain_onset_date: teenage years
+tmj_pain_rating: 5
+sleep_disorder_type: snoring
+disc_displacement: left disc anteromedial dislocation with early reduction | right disc anterior dislocation with early reduction | left disc dislocation with early reduction | right disc dislocation with early reduction
+muscle_pain_location: retromandibular area | left masseter | shoulders
+appliance_history: orthodontics from 12 to 16
+joint_pain_areas: tmj | back | left tmj

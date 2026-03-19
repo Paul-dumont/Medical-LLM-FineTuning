@@ -1,0 +1,22 @@
+patient_id: B993
+patient_age: 50
+maximum_opening: 37 mm
+diet_score: 5
+disability_rating: 3
+sleep_apnea_diagnosed: true
+jaw_function_score: 6
+neck_pain_present: true
+adverse_reactions: sulfur
+fibromyalgia_present: true
+headache_frequency: 2 a week
+muscle_symptoms_present: true
+jaw_clicking: rigth tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 6
+headache_intensity: 7
+autoimmune_condition: fibromyalgia
+jaw_crepitus: left tmj
+sleep_disorder_type: sleep apnea
+muscle_pain_location: masseter | shoulders | styloid 
+joint_arthritis_location: left tmj | right tmj

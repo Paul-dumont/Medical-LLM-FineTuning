@@ -1,0 +1,6 @@
+1.patient_id: B666
+3.patient_age: 37 
+15.neck_pain_present: False
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: False
+41.current_medications: None

@@ -1,0 +1,29 @@
+patient_id: B724
+patient_age: 50
+maximum_opening: 37 mm
+pain_relieving_factors: splint
+diet_score: 6
+disability_rating: 5
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+physical_therapy_status: physical therapy
+earache_present: true
+onset_triggers: motor vehicle
+airway_obstruction_present: true
+muscle_symptoms_present: true
+previous_medications: Durgesic | vicodin
+muscle_pain_score: mild
+headache_location: frontal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 0
+pain_onset_date: 47 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 8.5
+sleep_disorder_type: snoring
+current_medications: Actiq | Coral calcium | Tylenol | Advil | MSM
+muscle_pain_location:  neck | styloid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: Splint
+joint_pain_areas: tmj | knees | shoulders | neck

@@ -1,0 +1,18 @@
+patient_id: B1520
+patient_age: 53
+maximum_opening: 39mm
+diet_score: 6
+disability_rating: 10
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+migraine_history: severe
+headache_location: frontal | temporal
+average_daily_pain_intensity: 8
+headache_intensity: 10
+tmj_pain_rating: 10
+muscle_pain_location: temporalis | masseter | retromandibular | shoulders

@@ -1,0 +1,30 @@
+patient_id: B376
+patient_age: 53
+maximum_opening: 44mm
+diet_score: 3
+disability_rating: 6
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: clenching
+physical_therapy_status: undergoing physical therapy
+earache_present: true
+fibromyalgia_present: true
+headache_frequency: continuous
+muscle_pain_score: mild-to-moderate
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 6
+headache_intensity: 7 | present
+pain_onset_date: 14 years ago | since the 20s
+jaw_crepitus: tmj | right tmj
+tmj_pain_rating: 8 but it can escalate to 10
+sleep_disorder_type: daytime somnolence | daytime somnolence | snoring
+current_medications: aspirin | cymbalta | ambien | ativan | excedrin | lipitor
+disc_displacement: left disc partial displacement | right disc anterior displacement
+muscle_pain_location: temporalis | styloid areas | posterior neck | shoulder
+joint_arthritis_location: left tmj | right tmj
+appliance_history: bite plate | orthodontics x2 when she was a teenager | splint therapy
+joint_pain_areas: tmj | left tmj | right tmj | neck | legs | back | right tmj

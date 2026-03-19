@@ -1,0 +1,24 @@
+patient_id: B1495
+patient_age: 49
+diet_score: 4
+disability_rating: 9
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: constant
+muscle_symptoms_present: true
+muscle_pain_score: high 
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 7
+headache_intensity: 8.5
+pain_onset_date: 49 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 6
+current_medications: Lodine | Soma | Oxycontin
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | scm | shoulders | neck | styloid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: back | shoulders | neck

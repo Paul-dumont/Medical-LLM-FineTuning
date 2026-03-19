@@ -1,0 +1,6 @@
+patient_id: B1470
+patient_age: 14
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+headache_intensity: 0

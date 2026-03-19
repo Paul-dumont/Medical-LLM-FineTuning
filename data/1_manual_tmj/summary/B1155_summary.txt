@@ -1,0 +1,14 @@
+patient_id: B1155
+patient_age: 61
+maximum_opening: 41 mm
+sleep_apnea_diagnosed: true
+adverse_reactions: codeine | demerol
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal | temporal
+pain_onset_date: 10 years ago
+sleep_disorder_type: sleep apnea | somnolence
+current_medications: Prevacid | Celebrex | Salagen | Verapamil | Diovan | Atenolol | Prempro | Elavil | Insulin | Lantis | Sleep aids
+muscle_pain_location: temporalis | styloid 
+joint_pain_areas: knees | elbows | wrists | hips | back | shoulders | hands

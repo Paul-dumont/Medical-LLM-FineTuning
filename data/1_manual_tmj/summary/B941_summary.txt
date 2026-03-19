@@ -1,0 +1,7 @@
+patient_id: B941
+patient_age: 15
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+jaw_clicking: left tmj | right tmj
+headache_location: frontal

@@ -1,0 +1,13 @@
+patient_id: B1510
+patient_age: 22
+diet_score: 0
+disability_rating: 2
+jaw_function_score: 0
+airway_obstruction_present: true
+muscle_symptoms_present: true
+current_appliance: orthodontics
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: albuterol
+muscle_pain_location: neck
+appliance_history: orthodontics

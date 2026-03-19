@@ -1,0 +1,15 @@
+1.patient_id: B563
+3.patient_age: 15
+4.maximum_opening: 43 mm
+6.diet_score: 1
+8.disability_rating: 0
+10.jaw_function_score: 9
+11.tinnitus_present: False
+12.vertigo_present: False
+18.earache_present: True
+19.onset_triggers: Other
+23.airway_obstruction_present: True
+35.headache_intensity: 0
+39.tmj_pain_rating: 0
+40.sleep_disorder_type: Snoring | Somnolence
+41.current_medications:  allergy medicines

@@ -1,0 +1,23 @@
+patient_id: B080
+patient_age: 16
+maximum_opening: 47mm
+diet_score: 0
+disability_rating: 1
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: right posterior cross bite | clenching | bruxism
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+average_daily_pain_intensity: 0
+headache_intensity: 0
+tmj_pain_rating: 0
+sleep_disorder_type: daytime somnolence
+disc_displacement: left tmj articular disc anterior dislocation with early reduction | right tmj articular disc anterior dislocation with reduction | left disc dislocation | right disc dislocation
+muscle_pain_location: retromandibular areas
+joint_arthritis_location: left tmj
+appliance_history: orthodontics 12 to 14.5 years of age

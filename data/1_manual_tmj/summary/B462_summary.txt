@@ -1,0 +1,32 @@
+patient_id: B462
+maximum_opening_without_pain: 22mm
+patient_age: 25
+maximum_opening: 45mm
+diet_score: 1
+disability_rating: 3
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+adverse_reactions: ragweed | cheap earrings
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: 5
+pain_frequency: while awakening in the morning
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: two to three times a week
+average_daily_pain_intensity: 5
+headache_intensity: temple
+pain_onset_date: about 2 years ago
+tmj_pain_rating: 5
+sleep_disorder_type: snoring
+current_medications: polyethylene glycol 3350 powd | rozerem
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: temporalis | masseter
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 13 to 11 or 10 years ago | orthodontics 12 to 14 years old
+joint_pain_areas: tmj

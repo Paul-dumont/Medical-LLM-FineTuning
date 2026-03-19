@@ -1,0 +1,21 @@
+patient_id: B420
+patient_age: 23
+maximum_opening: 55mm
+diet_score: 2
+disability_rating: 2
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 3 to 4 times per week
+pain_frequency: often wakes up in the mornings with headaches or at least with a pressure feeling around the head and jaw area
+headache_location: frontal | temporal | posterior head area
+average_daily_pain_intensity: 3
+headache_intensity: 4
+tmj_pain_rating: 0
+disc_displacement: left disc anteriorly dislocated without reduction | right disc anteriorly dislocated without reduction | left disc medially displaced and anteriorly displaced | right disc anterior displacement
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from the age of 13 to 15

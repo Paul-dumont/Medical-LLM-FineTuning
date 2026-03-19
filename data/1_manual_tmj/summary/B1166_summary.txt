@@ -1,0 +1,25 @@
+patient_id: B1166
+patient_age: 52
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: true
+pain_aggravating_factors: clenching | bruxism
+physical_therapy_status: physical therapy
+earache_present: true
+adverse_reactions: antihistamines | codeine | muscle relaxers | earrings
+depression_present: true
+muscle_symptoms_present: true
+muscle_pain_score: severe
+headache_location: throughout the head
+average_daily_pain_intensity: 8
+headache_intensity: 9
+pain_onset_date: 18 years old
+sleep_disorder_type: somnolence
+current_medications: synthroid | multivitamins | vitamin B | vitamin E | ibuprofen
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter  | scm | shoulders | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

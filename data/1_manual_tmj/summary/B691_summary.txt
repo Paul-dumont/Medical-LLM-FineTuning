@@ -1,0 +1,20 @@
+1.patient_id: B691
+3.patient_age: 44
+6.diet_score: 2
+7.pain_duration: Afternoon
+8.disability_rating: 2
+10.jaw_function_score: 4
+11.tinnitus_present: False
+12.vertigo_present: False
+16.pain_aggravating_factors: Dental work
+18.earache_present: False
+25.headache_frequency: 1 a week
+27.muscle_symptoms_present: True
+28.jaw_clicking: Left TMJ | Rigth TMJ
+32.headache_location: Frontal | Temporal
+34.average_daily_pain_intensity: 5
+35.headache_intensity: 5
+38.jaw_crepitus: Left TMJ | Rigth TMJ 
+39.tmj_pain_rating: 5
+41.current_medications: Tylenol
+46.joint_pain_areas: Knee

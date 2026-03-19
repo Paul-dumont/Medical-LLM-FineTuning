@@ -1,0 +1,26 @@
+patient_id: B978
+maximum_opening_without_pain: 24 mm
+patient_age: 18
+maximum_opening: 33mm
+pain_relieving_factors: splint
+diet_score: 7
+disability_rating: 7
+sleep_apnea_diagnosed: true
+jaw_function_score: 7
+pain_aggravating_factors: splint
+physical_therapy_status: physical therapy
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: high moderate
+migraine_history: true
+headache_location: temporal | posterior head
+average_daily_pain_intensity: 8
+headache_intensity: 4
+pain_onset_date: 4 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 8
+sleep_disorder_type:  snoring | somnolence
+current_medications: Naproxen | Flexeril | Gatapen
+muscle_pain_location: masseter | shoulders  | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

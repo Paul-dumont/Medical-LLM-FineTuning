@@ -1,0 +1,19 @@
+patient_id: B525
+patient_age: 15
+maximum_opening: 48mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: left posterior cross bite | right posterior cross bite
+earache_present: false
+adverse_reactions: environmental | cheap earrings
+jaw_locking: true
+airway_obstruction_present: false
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: milder
+headache_intensity: present
+disc_displacement: left disc anterior dislocation with reduction | right disc anterior dislocation with reduction | left disc slight medial displacement | right disc possible displacement
+muscle_pain_location: masseter | styloid areas
+joint_arthritis_location: left tmj
+joint_pain_areas: tmj | left tmj | right tmj | neck | knees

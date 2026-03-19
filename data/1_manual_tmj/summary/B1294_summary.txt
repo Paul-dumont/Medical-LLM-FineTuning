@@ -1,0 +1,18 @@
+patient_id: B1294
+patient_age: 9
+maximum_opening: 32mm
+diet_score: 7
+disability_rating: 7
+jaw_function_score: 7
+vertigo_present: true
+earache_present: true
+adverse_reactions: Lyrica | Neurontin | Neurontin
+previous_medications: Lyrica | Neurontin | Neurontin
+muscle_pain_score: moderate
+headache_location: temporal
+average_daily_pain_intensity: 3
+headache_intensity: 9
+tmj_pain_rating: 9
+current_medications: Kadian | MSIR | Trazodone
+muscle_pain_location: temporalis | retromandibular | shoulders
+joint_pain_areas: knees | elbows | hips

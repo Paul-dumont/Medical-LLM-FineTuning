@@ -1,0 +1,16 @@
+patient_id: B989
+patient_age: 22
+diet_score: 0
+disability_rating: 4
+jaw_function_score: 1
+neck_pain_present: false
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj 
+headache_location: frontal
+current_appliance: orthodontics
+headache_intensity: 0
+tmj_pain_rating: 0
+disc_displacement: left disc dislocation with reduction
+appliance_history: orthodontics

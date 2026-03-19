@@ -1,0 +1,17 @@
+1.patient_id: B648
+4.maximum_opening: 40 mm 
+6.diet_score: 3
+8.disability_rating: 0
+10.jaw_function_score: 1
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+18.earache_present: False
+22.jaw_locking: Rigth TMJ 
+23.airway_obstruction_present: True
+30.muscle_pain_score: None
+35.headache_intensity: 0
+37.pain_onset_date: 10 years of age
+39.tmj_pain_rating: 0
+44.joint_arthritis_location: Left TMJ | Rigth TMJ 
+45.appliance_history: Orthodontics

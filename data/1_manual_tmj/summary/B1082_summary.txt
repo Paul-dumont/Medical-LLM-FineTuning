@@ -1,0 +1,5 @@
+patient_id: B1082
+patient_age: 2
+adverse_reactions: ampicillin
+airway_obstruction_present: true
+current_medications: Zithromax

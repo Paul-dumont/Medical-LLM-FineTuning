@@ -1,0 +1,33 @@
+patient_id: B064
+maximum_opening_without_pain: 32mm
+patient_age: 22
+maximum_opening: 51mm
+diet_score: 5
+disability_rating: 8
+sleep_apnea_diagnosed: false
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | clenching
+physical_therapy_status: chiropractic treatment | acial massage therapy | speech therapy
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: jaw muscles | moderate
+headache_location: temporal | posterior head area
+current_appliance: 3 x 3 lower retainer
+average_daily_pain_intensity: 4
+headache_intensity: 3 | present
+pain_onset_date: 13 or 14 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 8
+sleep_disorder_type: daytime somnolence
+current_medications: motrim
+disc_displacement: left disc displacement without reduction | right disc displacement without reduction
+muscle_pain_location: temporalis | posterior neck | shoulders
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from age 14 to 17 years old | orthodontics from age 19 to 20 years old
+joint_pain_areas: tmj | right tmj | left tmj | right shoulder

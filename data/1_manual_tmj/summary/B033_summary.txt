@@ -1,0 +1,25 @@
+patient_id: B033
+patient_age: 60
+diet_score: 5
+disability_rating: 4
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching
+earache_present: false
+headache_frequency: every morning and evening
+jaw_clicking: right tmj
+muscle_pain_score: mild to moderate
+headache_location: temporal
+average_daily_pain_intensity: 7
+headache_intensity: 7 | present
+pain_onset_date: 10 to 12 years ago
+tmj_pain_rating: 4
+sleep_disorder_type: daytime somnolence | snoring
+current_medications: tylenol | advil | ibuprofen
+disc_displacement: left disc anteriorly and laterally displaced | right disc anteriorly and laterally displaced
+muscle_pain_location: temporalis | left posterior neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontic treatment 5 years ago for 2 years
+joint_pain_areas: tmj

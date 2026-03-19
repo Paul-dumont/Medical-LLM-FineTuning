@@ -1,0 +1,18 @@
+patient_id: B961
+patient_age: 28
+maximum_opening: 46 mm
+diet_score: 3
+disability_rating: 7
+jaw_function_score: 5
+onset_triggers: motor vehicle
+jaw_clicking: rigth tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal | posterior head | behind eyes
+average_daily_pain_intensity: 7
+headache_intensity: 10
+pain_onset_date: 9 years ago
+tmj_pain_rating: 0
+current_medications: Ortho-Tri-Cyclen | clonazepam | Zoloft | OxyContin | ibuprofen
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | styloid 
+joint_arthritis_location: left tmj | right tmj

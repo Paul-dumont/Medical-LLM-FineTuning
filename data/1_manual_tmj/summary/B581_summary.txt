@@ -1,0 +1,22 @@
+1.patient_id: B581
+2.maximum_opening_without_pain: 35 mm 
+3.patient_age: 18
+4.maximum_opening: 55 mm 
+6.diet_score: 3
+8.disability_rating: 2
+9.sleep_apnea_diagnosed: Unkown
+10.jaw_function_score: 5
+11.tinnitus_present: True
+12.vertigo_present: True
+18.earache_present: False
+23.airway_obstruction_present: True
+27.muscle_symptoms_present: True
+28.jaw_clicking: True
+34.average_daily_pain_intensity: 4
+35.headache_intensity: 0
+37.pain_onset_date: 11 years of age 
+39.tmj_pain_rating: 3
+40.sleep_disorder_type: Snoring | Somnolence
+42.disc_displacement: Left TMJ | Rigth TMJ
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+46.joint_pain_areas: Hips

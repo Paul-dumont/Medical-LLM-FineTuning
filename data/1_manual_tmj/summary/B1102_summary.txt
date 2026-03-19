@@ -1,0 +1,26 @@
+patient_id: B1102
+patient_age: 40
+maximum_opening: 42mm
+diet_score: 2
+disability_rating: 2
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: cats | dogs | sulfa
+airway_obstruction_present: true
+depression_present: true
+headache_frequency: 2 a week
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: mild
+headache_location: frontal | temple
+average_daily_pain_intensity: 4
+headache_intensity: 4
+pain_onset_date: 40 years old
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 4
+current_medications: advil 
+muscle_pain_location: masseter | styloid 
+joint_arthritis_location: left tmj | right tmj

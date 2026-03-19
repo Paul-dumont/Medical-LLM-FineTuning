@@ -1,0 +1,9 @@
+patient_id: B1096
+patient_age: 37
+maximum_opening: 38mm
+sleep_apnea_diagnosed: false
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+jaw_clicking: right tmj

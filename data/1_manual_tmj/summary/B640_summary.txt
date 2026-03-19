@@ -1,0 +1,25 @@
+1.patient_id: B640
+3.patient_age: 47 
+4.maximum_opening: 33 mm 
+6.diet_score: 5
+8.disability_rating: 8
+10.jaw_function_score: 6
+11.tinnitus_present: False
+12.vertigo_present: True
+13.hearing_loss_present: True
+15.neck_pain_present: True
+20.adverse_reactions: Penicillin
+26.pain_frequency: Daily
+27.muscle_symptoms_present: True
+30.muscle_pain_score: Mild
+31.migraine_history: True
+32.headache_location: Frontal | Temporal | Posterior head
+33.current_appliance: Splint 
+34.average_daily_pain_intensity: 3
+35.headache_intensity: 10
+39.tmj_pain_rating: 10
+41.current_medications:  Flexeril | Mobic | Lanoxin | Allegra | Celexa 
+43.muscle_pain_location: Temporalis | Masseter | Neck
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Splint
+46.joint_pain_areas: Neck | Bacl | Elbows | Hands | Knees

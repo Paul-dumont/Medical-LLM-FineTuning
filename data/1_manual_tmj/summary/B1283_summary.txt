@@ -1,0 +1,22 @@
+patient_id: B1283
+maximum_opening_without_pain: 24 mm
+patient_age: 28
+maximum_opening: 29mm
+diet_score: 4
+disability_rating: 7
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+earache_present: false
+adverse_reactions: morphine | demerol
+muscle_pain_score: moderate
+headache_location: frontal | temporal 
+average_daily_pain_intensity: 5
+headache_intensity: 4
+pain_onset_date: 5 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 5
+sleep_disorder_type: snoring | somnolence
+current_medications: Birth control | Celexa | Advil | Tylenol | Ambien
+muscle_pain_location: temporalis | shoulders | neck | styloid 
+joint_arthritis_location: left tmj | right tmj

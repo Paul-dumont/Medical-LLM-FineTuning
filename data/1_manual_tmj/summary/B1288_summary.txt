@@ -1,0 +1,25 @@
+patient_id: B1288
+maximum_opening_without_pain: 26 mm
+patient_age: 16
+maximum_opening: 39mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+headache_frequency: 1 a week
+jaw_clicking: left tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal
+average_daily_pain_intensity: 5
+headache_intensity: 6
+pain_onset_date: 2 years ago
+tmj_pain_rating: 7
+current_medications: advil 
+disc_displacement: left disc dislocation withouth reduction | right disc dislocation withouth reduction
+muscle_pain_location: temporalis | masseter | scm | 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: ankles | knees | hips

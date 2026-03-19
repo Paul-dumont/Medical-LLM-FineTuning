@@ -1,0 +1,26 @@
+patient_id: B786
+patient_age: 50
+maximum_opening: 42mm
+diet_score: 2
+disability_rating: 3
+sleep_apnea_diagnosed: true
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+neck_pain_present: false
+earache_present: false
+adverse_reactions: erythromycin
+airway_obstruction_present: true
+headache_frequency: occasional
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal
+autoimmune_condition: psoriasis
+pain_onset_date: 20 years ago
+tmj_pain_rating: 0
+sleep_disorder_type: sleep apnea | snoring | somnolence
+current_medications: flonase
+muscle_pain_location: neck 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: hands | knees | hips

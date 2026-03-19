@@ -1,0 +1,26 @@
+patient_id: B1297
+patient_age: 54
+diet_score: 1
+disability_rating: true
+sleep_apnea_diagnosed: false
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: true
+neck_pain_present: false
+pain_aggravating_factors: splint
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+average_daily_pain_intensity: 4
+headache_intensity: 0
+pain_onset_date: 6 years ago
+tmj_pain_rating: 7.5
+sleep_disorder_type: snoring
+current_medications: and | aspirin | baby | day | lipitor | per
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

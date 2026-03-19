@@ -1,0 +1,18 @@
+patient_id: B827
+patient_age: 41
+maximum_opening: 40 mm
+diet_score: 3
+disability_rating: 1
+jaw_function_score: 3
+pain_aggravating_factors: crossbite
+airway_obstruction_present: true
+jaw_clicking: rigth tmj
+headache_location: frontal
+headache_intensity: 2
+pain_onset_date: 41 years old
+tmj_pain_rating: 2
+sleep_disorder_type: snoring
+current_medications: Demulen
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

@@ -1,0 +1,27 @@
+patient_id: B1233
+patient_age: 2
+maximum_opening: 48mm
+diet_score: 4
+pain_duration: morning
+disability_rating: 2
+sleep_apnea_diagnosed: true
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+back_pain_present: true
+neck_pain_present: true
+physical_therapy_status: physical therapy
+earache_present: true
+airway_obstruction_present: true
+headache_frequency: daily
+jaw_clicking: left tmj | right tmj
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 6
+headache_intensity: 7
+pain_onset_date: 12 years of age
+tmj_pain_rating: 4
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint

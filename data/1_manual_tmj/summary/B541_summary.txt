@@ -1,0 +1,20 @@
+patient_id: B541
+patient_age:45
+maximum_opening: 52mm
+diet_score: 2
+disability_rating: 3
+jaw_function_score: 5
+airway_obstruction_present: True
+headache_frequency: Occasional
+muscle_symptoms_present: False
+jaw_clicking: Rigth TMJ | Left TMJ
+headache_location: Temporal
+current_appliance: None
+headache_intensity: 5
+tmj_pain_rating: 0
+sleep_disorder_type: Snoring | Somnolence 
+current_medications: None
+disc_displacement: Rigth TMJ | Left TMJ
+joint_arthritis_location: Rigth TMJ | Left TMJ
+appliance_history: None
+joint_pain_areas: Shoulder | Wrists

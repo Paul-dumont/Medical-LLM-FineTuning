@@ -1,0 +1,12 @@
+1.patient_id: B685
+3.patient_age: 7
+4.maximum_opening: 52 mm 
+11.tinnitus_present: False
+12.vertigo_present: True
+17.physical_therapy_status: Physical theraphy
+18.earache_present: True
+27.muscle_symptoms_present: True
+28.jaw_clicking: Left TMJ | Rigth TMJ 
+37.pain_onset_date: 5 years of age
+41.current_medications: Motrin | Klonopin
+45.appliance_history: Splint

@@ -1,0 +1,11 @@
+1.patient_id: B617
+3.patient_age: 21
+4.maximum_opening: 28 mm
+27.muscle_symptoms_present: True
+28.jaw_clicking: Left TMJ
+30.muscle_pain_score: Minimal
+38.jaw_crepitus: Rigth TMJ
+42.disc_displacement: Left TMJ
+43.muscle_pain_location: Temporalis | Masseter | Styloid
+44.joint_arthritis_location: Rigth TMJ | Left TMJ
+45.appliance_history: Orthodontics | Splint

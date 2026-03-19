@@ -1,0 +1,22 @@
+patient_id: B814
+patient_age: 19
+diet_score: 6
+disability_rating: 4
+jaw_function_score: 7
+vertigo_present: true
+earache_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 5
+pain_onset_date: 14 years of age
+jaw_crepitus: right tmj
+tmj_pain_rating: unknow7n
+current_medications: Yasmin | Lexapro
+disc_displacement: left disc dislocation with reduction | right disc dislocation withouth reduction
+muscle_pain_location: temporalis | masseter | retromandibular | shoulders 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knees | elbows | shoulders

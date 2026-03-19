@@ -1,0 +1,15 @@
+1.patient_id: B632
+3.patient_age: 55
+4.maximum_opening: 40 mm 
+11.tinnitus_present: False
+12.vertigo_present: True
+18.earache_present: False
+22.jaw_locking: True
+27.muscle_symptoms_present: True
+28.jaw_clicking: False
+35.headache_intensity: 0
+39.tmj_pain_rating: 0
+42.disc_displacement: Left disc dislocation | Rigth disc dislocation
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Orthodontics
+46.joint_pain_areas: Hip

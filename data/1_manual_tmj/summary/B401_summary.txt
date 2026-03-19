@@ -1,0 +1,24 @@
+patient_id: B401
+patient_age: 46
+maximum_opening: 53mm
+diet_score: 6
+disability_rating: 4
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+pain_aggravating_factors: clenching | right posterior cross bite
+earache_present: true
+headache_frequency: twice a week
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal | temporal
+current_appliance: orthodontic treatment for about 9 months
+average_daily_pain_intensity: 5
+headache_intensity: 5
+tmj_pain_rating: 5
+current_medications: aciphex | aspirin
+disc_displacement: left disc lingual displacement | right disc lingual displacement | left disc medial displacement
+muscle_pain_location: right styloid | left masseter | left medial pterygoid | bilateral scms
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: hands | fingers | knees | ankles | toes | left tmj

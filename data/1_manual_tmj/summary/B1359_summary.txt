@@ -1,0 +1,25 @@
+patient_id: B1359
+patient_age: 43
+maximum_opening: 39 mm
+diet_score: 7
+disability_rating: 9
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+adverse_reactions: steroids | darvocet
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: high 
+migraine_history: true
+headache_location: temporal 
+average_daily_pain_intensity: 10
+headache_intensity: 10
+pain_onset_date: 28 years of age
+tmj_pain_rating: 9
+current_medications: Fioricet | Percocet | Flexeril | Ativan
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | retromandibular | shoulders |  
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas:  back

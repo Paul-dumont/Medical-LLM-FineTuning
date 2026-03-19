@@ -1,0 +1,14 @@
+patient_id: B1348
+maximum_opening: 39mm
+diet_score: 3
+disability_rating: false
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_intensity: 0
+tmj_pain_rating: 0
+muscle_pain_location: temporalis | masseter | retromandibular | scm | shoulders 

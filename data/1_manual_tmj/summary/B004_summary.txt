@@ -1,0 +1,16 @@
+patient_id: B004
+patient_age: 15
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+onset_triggers: splint removal
+headache_frequency: 2 to 3 hours without splint | after a day without splint
+muscle_symptoms_present: true
+muscle_pain_score: mild
+migraine_history: true
+current_appliance: splint
+headache_intensity: 0with splint | 3 without splint for 2 to 3 hours
+autoimmune_condition: undetermined connective tissue autoimmune disease
+tmj_pain_rating: 0 with splint
+current_medications: enbrel | etodolac
+muscle_pain_location: shoulders | posterior neck | styloid areas

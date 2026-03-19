@@ -1,0 +1,21 @@
+patient_id: B1516
+patient_age: 35
+maximum_opening: 50mm
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: rigth tmj
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: Zyrtec | Avianne
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | rigth tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: tmj

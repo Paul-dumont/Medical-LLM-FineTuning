@@ -1,0 +1,26 @@
+patient_id: B343
+patient_age: 17
+maximum_opening: 57mm
+diet_score: 7
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: right posterior cross bite
+earache_present: false
+adverse_reactions: pollen | hayfever | animal dander
+airway_obstruction_present: false | true
+headache_frequency: daily
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: very severe to mild
+headache_location: entire head
+average_daily_pain_intensity: 5
+headache_intensity: 2 but can escalate to 10 | present
+tmj_pain_rating: 5
+current_medications: singulair | albuterol inhaler | zyrtec | advil | tylenol | alleve
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction | right disc anterior dislocation with late reduction
+muscle_pain_location: right styloid | right masseter | right temporalis | left masseter | left styloid area | posterior neck | left temporalis
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

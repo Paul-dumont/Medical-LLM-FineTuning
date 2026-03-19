@@ -1,0 +1,26 @@
+patient_id: B1081
+patient_age: 47
+maximum_opening: 52mm
+diet_score: 4
+disability_rating: 7
+sleep_apnea_diagnosed: true
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+adverse_reactions: pollens
+depression_present: true
+jaw_clicking: left tmj | rigth tmj
+muscle_pain_score: moderate
+headache_location: frontal | temple
+average_daily_pain_intensity: 5
+headache_intensity: 8
+pain_onset_date: 28 years ago
+tmj_pain_rating: 8
+sleep_disorder_type: sleep apnea
+current_medications: none
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: ankles | neck

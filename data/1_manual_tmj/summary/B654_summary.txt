@@ -1,0 +1,26 @@
+1.patient_id: B654
+4.maximum_opening: 48 mm 
+6.diet_score: 2
+8.disability_rating: 1
+10.jaw_function_score: 2
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+18.earache_present: False
+22.jaw_locking: True
+23.airway_obstruction_present: True
+25.headache_frequency: Occasionally 
+27.muscle_symptoms_present: True 
+28.jaw_clicking: Left TMJ | Rigth TMJ
+29.previous_medications: Antibiotics
+30.muscle_pain_score: Mild
+32.headache_location: Frontal | Temporal | Posterior head 
+35.headache_intensity: 5
+37.pain_onset_date: 16.5 years of age
+39.tmj_pain_rating: 3
+41.current_medications:  Natazia | Celebrex | Omnaris 
+42.disc_displacement: Left disc dislocation withougth reduction | Rigth disc dislocation witouuth reduction
+43.muscle_pain_location: Masseter | Styloid
+44.joint_arthritis_location: Left TMJ | Rigth TMJ
+45.appliance_history: Orthodontics | Splint 
+46.joint_pain_areas: Wrist

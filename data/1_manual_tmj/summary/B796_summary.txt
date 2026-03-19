@@ -1,0 +1,27 @@
+patient_id: B796
+maximum_opening_without_pain: 18 mm
+patient_age: 18
+maximum_opening: 51 mm
+pain_relieving_factors: splint
+diet_score: 7
+disability_rating: 4
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+onset_triggers: other
+jaw_locking: true
+headache_frequency: 3 a week 
+muscle_symptoms_present: true
+jaw_clicking: rigth tmj
+headache_location: frontal | temporal 
+average_daily_pain_intensity: 6
+headache_intensity: 7
+pain_onset_date: 15 years of age
+tmj_pain_rating: 8.5
+current_medications: Vioxx | Ibuprofen | Tylenol | Zoloft 
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: tmj

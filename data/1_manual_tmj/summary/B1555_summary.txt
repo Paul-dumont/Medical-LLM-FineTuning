@@ -1,0 +1,16 @@
+patient_id: B1555
+patient_age: 49
+maximum_opening: 45mm
+tinnitus_present: false
+vertigo_present: false
+neck_pain_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+current_appliance: orthodontics
+headache_intensity: 0
+jaw_crepitus: left tmj
+tmj_pain_rating: 0
+current_medications: ventolin | advair
+appliance_history: orthodontics

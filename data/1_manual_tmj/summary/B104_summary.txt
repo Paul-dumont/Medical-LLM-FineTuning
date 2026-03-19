@@ -1,0 +1,25 @@
+patient_id: B104
+patient_age: 20
+maximum_opening: 45mm
+diet_score: 2
+disability_rating: 5
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+back_pain_present: false
+neck_pain_present: false
+pain_aggravating_factors: anterior open bite
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 3 times per week
+muscle_symptoms_present: true
+average_daily_pain_intensity: 7
+headache_intensity: 10 | present
+pain_onset_date: 14 years of age | unknown
+tmj_pain_rating: 10
+current_medications: vivanesse, nuvaring, axert, bone maker, hydrocodone
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement without reduction
+muscle_pain_location: masseters | retromandibular area
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: expander at 8 | orthodontics and orthognathic surgery from 12 to 18 years of age | retainers | splints for the past 8 months
+joint_pain_areas: left tmj | right tmj | right tmj | left tmj

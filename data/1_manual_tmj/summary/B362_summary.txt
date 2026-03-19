@@ -1,0 +1,29 @@
+patient_id: B362
+maximum_opening_without_pain: 30mm
+patient_age: 41
+maximum_opening: 38mm
+diet_score: 6
+disability_rating: 8
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+onset_triggers: chronic bruxism
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: two times a week
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: right fronto-temporal | left fronto-temporal
+average_daily_pain_intensity: 5
+headache_intensity: 7 in the right fronto-temporal area and a 4 in the left fronto-temporal | present
+pain_onset_date: 15 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: severe | right side is at a 7, on the left side at 4
+current_medications: advil | vitamins | ecotrin
+disc_displacement: left disc anterior displacement | right disc anterior displacement | left disc dislocation | right disc anterior displacement
+muscle_pain_location: temporalis | posterior neck | right styloid | left masseter
+joint_arthritis_location: left tmj | right tmj
+appliance_history: numerous splints during her 20s and 30s | orthodontics
+joint_pain_areas: tmj | left tmj | right tmj

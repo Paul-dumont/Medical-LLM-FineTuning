@@ -1,0 +1,32 @@
+patient_id: B460
+maximum_opening_without_pain: 14mm
+patient_age: 30
+maximum_opening: 28mm
+diet_score: 5
+disability_rating: 5
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: right posterior crossbite
+physical_therapy_status: extensive physical therapy
+earache_present: false
+adverse_reactions: sulfa
+airway_obstruction_present: true
+headache_frequency: daily
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+previous_medications: different medications
+muscle_pain_score: severe
+headache_location: frontal | temple | bilateral
+average_daily_pain_intensity: 7
+headache_intensity: 5 | severe
+pain_onset_date: age of 18
+jaw_crepitus: left tmj
+tmj_pain_rating: 8 but can escalate to 10 | severe
+current_medications: lortab
+disc_displacement: left disc dislocation | right disc dislocation | left disc displaced at the lateral aspect of the joint but in a more normal position medially | right disc anteriorly displaced at the lateral aspect of the joint
+muscle_pain_location: masseter | styloid areas | posterior neck | medial pterygoids | temporalis | scms | shoulder
+appliance_history: splint therapy x4 | bionater | orthotic type of an appliance
+joint_pain_areas: tmj | left tmj | left tmj | right tmj

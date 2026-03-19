@@ -1,0 +1,25 @@
+patient_id: B834
+patient_age: 20
+maximum_opening: 55mm
+diet_score: 4
+disability_rating: 2
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+earache_present: true
+onset_triggers: orthodontics
+airway_obstruction_present: true
+headache_frequency: 1 a week
+muscle_symptoms_present: true
+jaw_clicking: rigth tmj | left tmj
+muscle_pain_score: mild
+headache_location: frontal | temporal | temple
+headache_intensity: 6.5
+pain_onset_date: 7 years ago
+current_medications: Yasmin | Spironolactone | Advil
+disc_displacement: left disc dislocation withouth reduction | right disc dislocation withouth reduction
+muscle_pain_location: temporalis | masseter | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics
+joint_pain_areas: tmj

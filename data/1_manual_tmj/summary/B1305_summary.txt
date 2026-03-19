@@ -1,0 +1,30 @@
+patient_id: B1305
+patient_age: 24
+maximum_opening: 57mm
+diet_score: 6
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+neck_pain_present: true
+physical_therapy_status: physical therapy
+earache_present: false
+onset_triggers: dust | molds | animals | pollens | grasses | penicillin
+adverse_reactions: penicillin
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: 1 a week
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+current_appliance: orthodontics
+average_daily_pain_intensity: true
+headache_intensity: 8
+autoimmune_condition: 8
+pain_onset_date: 14 years of age
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 7
+current_medications: ibuprofen 
+muscle_pain_location: temporalis | masseter | shoulders 
+appliance_history: orthodontics | splint
+joint_pain_areas:  knees | hips

@@ -1,0 +1,17 @@
+patient_id: B249
+patient_age: 19
+maximum_opening: 49mm
+tinnitus_present: false
+vertigo_present: false
+pain_aggravating_factors: right buccal crossbite tendency | right buccal crossbite tendency | left crossbite
+airway_obstruction_present: true
+muscle_symptoms_present: false
+headache_intensity: 0
+autoimmune_condition: juvenile rheumatoid arthritis
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 0
+current_medications: methotrexate | fibercon
+disc_displacement: left disc medial displacement
+joint_arthritis_location: | left tmj | right tmj | left tmj | right tmjearache_present: false
+appliance_history: orthodontics from 8 to 12.5 years of age
+joint_pain_areas: right knee | fingers | ankles | one toe

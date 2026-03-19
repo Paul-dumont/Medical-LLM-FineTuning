@@ -1,0 +1,12 @@
+patient_id: B838
+patient_age: 13
+maximum_opening: 53mm
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: false
+muscle_pain_score: moderate
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: none
+muscle_pain_location: neck

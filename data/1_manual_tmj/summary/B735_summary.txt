@@ -1,0 +1,25 @@
+patient_id: B735
+patient_age: 14
+maximum_opening: 45 mm
+diet_score: 0
+disability_rating: 3
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: 2 a month
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: temporal
+current_appliance: orthodontics
+average_daily_pain_intensity: 0
+headache_intensity: 4
+tmj_pain_rating: 0
+sleep_disorder_type: snoring 
+current_medications: trileptal | tylenol
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: styloid areas
+appliance_history: orthodontics
+joint_pain_areas: tmj

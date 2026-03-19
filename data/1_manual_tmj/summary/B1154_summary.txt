@@ -1,0 +1,7 @@
+patient_id: B1154
+patient_age: 8
+airway_obstruction_present: true
+headache_location: frontal
+current_appliance: splint
+sleep_disorder_type: snoring
+joint_pain_areas: shoulders

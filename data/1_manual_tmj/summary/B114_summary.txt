@@ -1,0 +1,27 @@
+patient_id: B114
+patient_age: 37
+maximum_opening: 48mm
+diet_score: 2
+disability_rating: 1
+jaw_function_score: 6
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism | anterior open bite
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: once or twice a month
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+current_appliance: nti
+average_daily_pain_intensity: 5
+headache_intensity: 4
+pain_onset_date: 7 to 9 years ago
+jaw_crepitus: right tmj
+tmj_pain_rating: 6
+current_medications: celexa
+disc_displacement: left disc displacement without reduction | right disc anterior dislocation with reduction | right disc dislocation
+muscle_pain_location: right masseter | medial pterygoid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: 3 splints
+joint_pain_areas: tmj

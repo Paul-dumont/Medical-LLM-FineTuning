@@ -1,0 +1,24 @@
+patient_id: B1564
+patient_age: 18
+maximum_opening: 47mm
+diet_score: 0
+disability_rating: 1
+sleep_apnea_diagnosed: true
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+neck_pain_present: true
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal
+average_daily_pain_intensity: 2
+headache_intensity: 0
+pain_onset_date: 5 years ago
+tmj_pain_rating: 3
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | retromandibular | shoulders 
+appliance_history: orthodontics

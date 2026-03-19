@@ -1,0 +1,17 @@
+patient_id: B169
+patient_age: 42
+maximum_opening: 14mm | 24mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+pain_aggravating_factors: clenching | bruxism
+airway_obstruction_present: true
+headache_frequency: occasional
+muscle_symptoms_present: false
+headache_intensity: present
+sleep_disorder_type: daytime somnolence
+current_medications: aleve | klonoin
+disc_displacement: left disc anterior displacement | right disc medial displacement
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 12 to 14

@@ -1,0 +1,13 @@
+patient_id: B742
+patient_age: 20
+maximum_opening: 50mm
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+current_medications: advil
+muscle_pain_location: styloid 
+appliance_history: orthodontics

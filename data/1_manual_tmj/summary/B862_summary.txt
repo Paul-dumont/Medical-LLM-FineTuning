@@ -1,0 +1,18 @@
+patient_id: B862
+maximum_opening_without_pain: 35 mm
+patient_age: 36
+maximum_opening: 45 mm
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+earache_present: true
+adverse_reactions: mold | dust | jewelry
+headache_frequency: 2 a week
+muscle_symptoms_present: true
+headache_location: frontal | back of the head
+headache_intensity: 6
+jaw_crepitus: left tmj | rigth tmj
+current_medications: LeEstron | Zoloft 
+disc_displacement: left disc dislocation wihouth reduction | right disc dislocation withouth reduction
+joint_arthritis_location: left tmj

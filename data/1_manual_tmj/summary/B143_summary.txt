@@ -1,0 +1,21 @@
+patient_id: B143
+patient_age: 21
+maximum_opening: 40mm
+diet_score: 4
+disability_rating: 3
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+pain_aggravating_factors: anterior open bite | clenching
+earache_present: false
+airway_obstruction_present: false
+muscle_symptoms_present: true
+current_appliance: 3x3 retainer
+average_daily_pain_intensity: 2
+headache_intensity: 0
+pain_onset_date: 2 years ago
+tmj_pain_rating: 0
+disc_displacement: right disc anterior displacement without reduction | left disc anterior displacement without reductionmuscle_pain_location: medial pterygoid muscles | retromandibular area | right disc anterior displacement | left disc anterior displacement
+joint_arthritis_location: right tmj | left tmj
+appliance_history: orthodontics from age 10 to 17 | fixed appliance from 15 to 17
+joint_pain_areas: right hip | elbows

@@ -1,0 +1,22 @@
+patient_id: B051
+patient_age: 18 
+maximum_opening: 44mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 3
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+pain_aggravating_factors: anterior open bite | clenching
+earache_present: false
+airway_obstruction_present: true
+headache_frequency: once or twice a month
+headache_location: temporal
+current_appliance: new retainers
+average_daily_pain_intensity: 0
+headache_intensity: 4
+jaw_crepitus: right tmj
+tmj_pain_rating: 0
+joint_arthritis_location: left tmj
+appliance_history: orthodontics | orthodontics from age of 13 to 15

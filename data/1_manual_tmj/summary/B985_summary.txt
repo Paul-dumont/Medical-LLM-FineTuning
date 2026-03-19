@@ -1,0 +1,21 @@
+patient_id: B985
+patient_age: 41
+maximum_opening: 52mm
+diet_score: 3
+disability_rating: 4
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: moderate
+headache_location: frontal
+current_appliance: nigth guard
+average_daily_pain_intensity: 2
+headache_intensity: 0
+pain_onset_date: 41 years old
+tmj_pain_rating: 3
+current_medications hydrocodone 
+muscle_pain_location: masseter
+appliance_history: orthodontics | night guard

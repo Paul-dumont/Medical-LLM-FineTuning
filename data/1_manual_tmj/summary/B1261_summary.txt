@@ -1,0 +1,22 @@
+patient_id: B1261
+patient_age: 17
+maximum_opening: 60 mm
+diet_score: 2
+disability_rating: 1
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: false
+earache_present: false
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: mild
+headache_location: frontal
+average_daily_pain_intensity: 1
+headache_intensity: 2
+tmj_pain_rating: 2
+sleep_disorder_type: somnolence
+muscle_pain_location: retromandibular 
+appliance_history: orthodontics
+joint_pain_areas: knees

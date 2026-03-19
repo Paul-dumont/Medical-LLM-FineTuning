@@ -1,0 +1,13 @@
+1.patient_id: B696
+3.patient_age: 16
+4.maximum_opening: 53 mm 
+11.tinnitus_present: False
+12.vertigo_present: False
+13.hearing_loss_present: False
+15.neck_pain_present: False
+18.earache_present: False
+28.jaw_clicking: Left TMJ | Left TMJ 
+35.headache_intensity: 0
+39.tmj_pain_rating: 0
+42.disc_displacement: Rigth disc dislocation | Left disc dislocation
+45.appliance_history: Orthodontics

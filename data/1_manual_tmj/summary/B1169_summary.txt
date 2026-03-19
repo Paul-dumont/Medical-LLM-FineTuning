@@ -1,0 +1,19 @@
+patient_id: B1169
+patient_age: 48
+maximum_opening: 52mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 1
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+airway_obstruction_present: true
+muscle_pain_score: moderate
+headache_location: temporal
+average_daily_pain_intensity: true
+headache_intensity: 2
+pain_onset_date: 10 years of age
+tmj_pain_rating: 1
+sleep_disorder_type: snoring 
+current_medications: Excedrin | Tylenol
+muscle_pain_location: neck

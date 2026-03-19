@@ -1,0 +1,28 @@
+patient_id: B1041
+maximum_opening_without_pain: 22mm
+patient_age: 53
+maximum_opening: 35 mm
+diet_score: 9
+disability_rating: 9
+jaw_function_score: 9
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: true
+physical_therapy_status: physical therapy
+earache_present: true
+airway_obstruction_present: true
+depression_present: true
+headache_frequency: continuous
+muscle_symptoms_present: true
+muscle_pain_score: severe
+headache_location: frontal | temporal | posterior head 
+average_daily_pain_intensity: 9
+headache_intensity: 7
+pain_onset_date: 14 years of age
+tmj_pain_rating: 10
+sleep_disorder_type: snoring | somnolence
+current_medications: Lotrel | Zoloft | Levothyroxine | Crestor | Carisoprodol
+disc_displacement: left disc dislocation with reduction
+muscle_pain_location: temporalis | masseter | shoulders | styloid 
+joint_arthritis_location: right tmj
+appliance_history: splints

@@ -1,0 +1,13 @@
+patient_id: B482
+patient_age: 19
+maximum_opening: 53mm
+neck_pain_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj
+headache_intensity: present
+pain_onset_date: past 2 ½ years
+disc_displacement: right disc anteriorly displaced | left disc anteriorly displaced without reduction | right disc dislocation without reduction | left disc medial and anterior dislocation | right disc dislocation without reduction | left disc medial and anterior dislocation with reduction
+joint_arthritis_location: right tmj
+appliance_history: orthodontics at 13 | orthodontics at 14 and 15
+joint_pain_areas: tmj

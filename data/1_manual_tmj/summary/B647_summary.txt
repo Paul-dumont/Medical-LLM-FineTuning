@@ -1,0 +1,24 @@
+1.patient_id: B647
+2.maximum_opening_without_pain: 22 mm 
+3.patient_age: 55
+4.maximum_opening: 34 mm
+6.diet_score: 8
+8.disability_rating: 7
+9.sleep_apnea_diagnosed: True
+10.jaw_function_score: 7
+11.tinnitus_present: True
+12.vertigo_present: True
+13.hearing_loss_present: True
+19.onset_triggers: Motor Vehicle
+20.adverse_reactions: Plavix | indomethacin
+23.airway_obstruction_present: True
+25.headache_frequency: Continuous 
+27.muscle_symptoms_present: True
+29.previous_medications: Relafen | aspirin | lidocaine 
+32.headache_location: Temporal | Posterior head
+35.headache_intensity: 8
+37.pain_onset_date: 27
+39.tmj_pain_rating: 6
+40.sleep_disorder_type: Snoring | Somnolence
+41.current_medications: Midrin | Vicodin 
+43.muscle_pain_location: Temporalis | SCMs | Styloid | Masseter

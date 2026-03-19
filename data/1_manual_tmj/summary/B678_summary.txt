@@ -1,0 +1,27 @@
+1.patient_id: B678
+3.patient_age: 59
+4.maximum_opening: 44 mm
+5.pain_relieving_factors: Botox | Splint
+6.diet_score: 1
+8.disability_rating: 2
+10.jaw_function_score: 1
+11.tinnitus_present: False
+12.vertigo_present: True
+15.neck_pain_present: True
+18.earache_present: False
+23.airway_obstruction_present: True
+24.depression_present: True 
+25.headache_frequency: Occasional
+27.muscle_symptoms_present: True
+28.jaw_clicking: Left TMJ
+29.previous_medications: BC powders | morphine | demerol | Maxalt
+30.muscle_pain_score: High
+31.migraine_history: True
+32.headache_location: Temporal | all throughout the head
+33.current_appliance: Splint
+34.average_daily_pain_intensity: 7
+35.headache_intensity: 9
+39.tmj_pain_rating: 3
+40.sleep_disorder_type: Snoring | Somnolence
+41.current_medications:  Synthroid | Topamax | Lexapro | Lunesta 3 | Maxalt-MLT | Darvocet 
+43.muscle_pain_location: Neck | Shoulder | SCMs | Temporalis

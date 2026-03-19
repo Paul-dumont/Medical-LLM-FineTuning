@@ -1,0 +1,14 @@
+patient_id: B129
+patient_age: 14
+maximum_opening: 51mm
+onset_triggers: uknown
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+current_appliance: orthodontics from 12 to current
+pain_onset_date: past year
+sleep_disorder_type: daytime somnolence
+disc_displacement: right disc anterior displacement | left disc anterior displacementmuscle_pain_location: styloid
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics from 8 to 11
+joint_pain_areas: right tmj | left tmj

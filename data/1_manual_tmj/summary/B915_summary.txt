@@ -1,0 +1,21 @@
+patient_id: B915
+maximum_opening_without_pain: 18 mm 
+patient_age: 55
+maximum_opening: 40 mm
+diet_score: 6
+disability_rating: 9
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+muscle_symptoms_present: true
+muscle_pain_score: high 
+headache_location:  top of the head
+headache_intensity: 7
+jaw_crepitus: left tmj 
+tmj_pain_rating: 9
+current_medications: Morphine | Duragesic | Klonopin | Hyzaar | Lipitor | Effexor | Lunesta | Meclizine | Tylenol
+disc_displacement: left disc dislocation
+muscle_pain_location: temporalis | masseter | styloid 
+joint_arthritis_location: left tmj
+joint_pain_areas: knees | neck

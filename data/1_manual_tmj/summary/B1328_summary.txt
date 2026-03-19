@@ -1,0 +1,25 @@
+patient_id: B1328
+patient_age: 22
+diet_score: 2
+disability_rating: 0
+sleep_apnea_diagnosed: true
+jaw_function_score: 9
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+adverse_reactions: carpet | grass
+jaw_locking: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+current_appliance: splint
+average_daily_pain_intensity: 4
+pain_onset_date: 5 years ago
+tmj_pain_rating: 6.5
+current_medications: Allegra-D | Flonase
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction 
+muscle_pain_location: masseter 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

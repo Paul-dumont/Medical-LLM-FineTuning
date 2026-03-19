@@ -1,0 +1,20 @@
+patient_id: B755
+patient_age: 27
+maximum_opening: 35 mm
+diet_score: 7
+disability_rating: 2
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: earrings
+headache_frequency: daily
+jaw_clicking: rigth tmj | left tmj
+headache_location: temporal
+average_daily_pain_intensity: 2
+headache_intensity: 7
+pain_onset_date: 26 years of age
+tmj_pain_rating: 7
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics

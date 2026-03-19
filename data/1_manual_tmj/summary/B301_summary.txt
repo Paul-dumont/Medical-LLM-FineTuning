@@ -1,0 +1,32 @@
+patient_id: B301
+maximum_opening_without_pain: 42mm
+patient_age: 22
+maximum_opening: 57mm
+pain_relieving_factors: bite splint
+diet_score: 3
+disability_rating: 1
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+adverse_reactions: penicillin | codeine | levaquin
+airway_obstruction_present: true
+headache_frequency: frequent
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate to mild
+current_appliance: bite splint since last year
+average_daily_pain_intensity: 0
+headache_intensity: 4
+pain_onset_date: age of 14 or 15
+jaw_crepitus: left tmj
+tmj_pain_rating: 3
+sleep_disorder_type: sleep apnea history
+current_medications: seasonale birth control pill | zoloft | zyrtec | zantac
+disc_displacement: left disc anterior displacement | right disc anterior displacement without reduction
+muscle_pain_location: masseters |  left styloid area | temporalis
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics at age of 7 o 8 | orthodontics at age of 12
+joint_pain_areas: tmj | shoulders |left tmj

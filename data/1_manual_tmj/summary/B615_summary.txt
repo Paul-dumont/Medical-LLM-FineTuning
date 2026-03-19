@@ -1,0 +1,23 @@
+1.patient_id: B615
+3.patient_age: 20
+4.maximum_opening: 56 mm 
+6.diet_score: 2
+8.disability_rating: 0
+10.jaw_function_score: 6
+11.tinnitus_present: False
+12.vertigo_present: False
+15.neck_pain_present: False
+18.earache_present: False
+23.airway_obstruction_present: True
+26.pain_frequency: Ocasional
+27.muscle_symptoms_present: True
+28.jaw_clicking: True
+34.average_daily_pain_intensity: 0
+35.headache_intensity: 0
+37.pain_onset_date: 16.5
+38.jaw_crepitus: True
+39.tmj_pain_rating: 4
+41.current_medications: None
+42.disc_displacement: Rigth TMJ
+44.joint_arthritis_location: Rigth TMJ
+46.joint_pain_areas: Shoulder | Elbow | Knee | Left TMJ 

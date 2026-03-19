@@ -1,0 +1,23 @@
+patient_id: B058
+patient_age: 52
+maximum_opening: 55mm
+diet_score: 1
+disability_rating: 1
+jaw_function_score: 1
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+airway_obstruction_present: false
+headache_frequency: unknown | used to occur at the same time every month, but has decreased significantly
+muscle_pain_score: mild to moderate
+migraine_history: true
+current_appliance: bite splint or night guard 10 years ago until recently
+headache_intensity: none
+pain_onset_date: about 10 years ago
+tmj_pain_rating: 0
+current_medications: vivelle | acebutol
+disc_displacement: left disc dislocation with early reduction | right disc dislocation with early reduction
+muscle_pain_location: masseters
+joint_pain_areas: knees | feet | right tmj

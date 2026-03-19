@@ -1,0 +1,24 @@
+patient_id: B229
+patient_age: 41
+pain_relieving_factors: postering lower jaw forward
+diet_score: 5
+disability_rating: 7
+jaw_function_score: 3
+tinnitus_present: true
+vertigo_present: false
+pain_aggravating_factors: biting posterior teeth together | clenching | bruxism
+earache_present: true
+jaw_locking: true
+airway_obstruction_present: true
+jaw_clicking: jaw joint
+previous_medications: steroid cream from 31 to 33
+headache_location: temple
+average_daily_pain_intensity: 8
+headache_intensity: 6 | present
+pain_onset_date: few years, but worsened recently
+tmj_pain_rating: 7
+current_medications: multivitamins | minerals
+disc_displacement: left disc anterior displacement without reduction | right disc lateral displacement | left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | left tmj | right tmj
+appliance_history: orthodontics 27 to 31 | bite plate at 31 | orthodontic retainer at 34
+joint_pain_areas: tmj

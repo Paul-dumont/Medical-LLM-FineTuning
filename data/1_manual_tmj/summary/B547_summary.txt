@@ -1,0 +1,21 @@
+4.maximum_opening: 47mm
+6.diet_score: 3
+8.disability_rating: 2 
+10.jaw_function_score: 4
+11.tinnitus_present: False
+12.vertigo_present: True
+13.hearing_loss_present: False
+14.back_pain_present: True
+15.neck_pain_present: True
+18.earache_present: True
+25.headache_frequency: daily 
+26.pain_frequency: daily
+27.muscle_symptoms_present: True
+32.headache_location: Frontal | Temporal
+34.average_daily_pain_intensity: 6
+35.headache_intensity: 6
+37.pain_onset_date: 3 weeks ago
+39.tmj_pain_rating: 0
+41.current_medications: Synthroid |  Demadex  | K-Dur (K+)  | Potassium citrate| Soma  | Magnesium. | Zemplar| Norco .
+43.muscle_pain_location: Temporalis | Masseter | Shoulder
+46.joint_pain_areas: Neck | Back | Hips

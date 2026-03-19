@@ -1,0 +1,24 @@
+patient_id: B1350
+patient_age: 44
+maximum_opening: 10 mm
+diet_score: 7
+disability_rating: 8
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+earache_present: true
+headache_frequency: constant
+muscle_symptoms_present: true
+muscle_pain_score: high 
+headache_location: frontal | temporal | posterior head
+current_appliance: splint
+average_daily_pain_intensity: 7
+headache_intensity: 8.5
+sleep_disorder_type: snoring | somnolence
+current_medications: Duragesic | Zoloft | Wellbutrin | Tylenol | Motrin
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | masseter | scm | shoulders | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: knees | elbows | hips

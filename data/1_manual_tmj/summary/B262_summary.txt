@@ -1,0 +1,31 @@
+patient_id: B262
+maximum_opening_without_pain: 18mm
+patient_age: 29
+maximum_opening: 19mm
+diet_score: 6
+disability_rating: 7
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+back_pain_present: true
+neck_pain_present: true
+pain_aggravating_factors: splint therapy
+physical_therapy_status: chiropractic treatment 2 years ago for back | 12 botox shots | intensive physical therapy
+earache_present: true
+fibromyalgia_present: true
+jaw_locking: true
+headache_frequency: daily | twice a week
+jaw_clicking: jaw joints
+muscle_pain_score: severe
+migraine_history: true
+headache_location: frontal |  temporal | posterior head
+average_daily_pain_intensity: 8
+headache_intensity: 8 in the left, 5 in the right | severe
+autoimmune_condition: hashimoto's thyroiditis | elevated ana titer
+jaw_crepitus: jaw joints
+tmj_pain_rating: 9 | severe
+disc_displacement: left disc dislocation with closed lock | right disc dislocation with closed lock | left disc vertical dislocation with early reduction | right disc dislocation with early reduction
+muscle_pain_location: temples
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics as a teenager | splint treatment | splint treatment x 4
+joint_pain_areas: shoulders jaw joints | back | neck | elbows | wrists | fingers | hips | knees | ankles |feet | toes

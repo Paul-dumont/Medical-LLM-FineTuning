@@ -1,0 +1,4 @@
+patient_id: B757
+airway_obstruction_present: true
+sleep_disorder_type: snoring
+joint_arthritis_location: left tmj | right tmj

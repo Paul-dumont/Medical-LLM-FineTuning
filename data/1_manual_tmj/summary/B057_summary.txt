@@ -1,0 +1,20 @@
+patient_id: B057
+patient_age: 28
+maximum_opening: 54mm
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 6
+back_pain_present: true
+pain_aggravating_factors: anterior open bite tendency | bruxism
+airway_obstruction_present: true
+headache_frequency: one time per week
+muscle_symptoms_present: false
+headache_location: behind the eyes | temporal
+average_daily_pain_intensity: 6
+headache_intensity: 8 | present
+pain_onset_date: 23 years old
+tmj_pain_rating: 6
+current_medications: asmanex | albuterol | ortho-tricyclen | motrin
+disc_displacement: left disc anterior dislocation with reduction | right disc anterolateral dislocation with reduction | left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj
+joint_pain_areas: tmj | knees | ankles | hips | hips | lower back | left tmj

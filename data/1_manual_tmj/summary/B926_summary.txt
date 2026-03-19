@@ -1,0 +1,21 @@
+patient_id: B926
+patient_age: 49
+diet_score: 5
+disability_rating: 2
+sleep_apnea_diagnosed: true
+jaw_function_score: 2
+tinnitus_present: true
+vertigo_present: false
+hearing_loss_present: false
+earache_present: true
+adverse_reactions: Amoxicillin
+airway_obstruction_present: true
+headache_frequency: constant
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 4
+headache_intensity: 4
+pain_onset_date: 23 years of age
+tmj_pain_rating: 4
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | masseters | neck
+joint_arthritis_location: left tmj | right tmj

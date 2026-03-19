@@ -1,0 +1,26 @@
+patient_id: B895
+patient_age: 30
+diet_score: 7.5
+disability_rating: 7.5
+sleep_apnea_diagnosed: true
+jaw_function_score: 7.5
+tinnitus_present: false
+vertigo_present: false
+back_pain_present: true
+neck_pain_present: true
+earache_present: false
+headache_frequency: 7 a week
+jaw_clicking: left tmj | rigth tmj
+muscle_pain_score: severe
+headache_location: temporal
+average_daily_pain_intensity: 8
+headache_intensity: 5.5
+pain_onset_date: 29 years of age
+jaw_crepitus: left tmj | rigth tmj
+tmj_pain_rating: 7.5
+sleep_disorder_type: snoring
+current_medications: continues | day | exercises | massage | motrin | per | stretching | times
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: shoulders | neck | back
+joint_arthritis_location: left tmj | right tmj
+appliance_history:  splint

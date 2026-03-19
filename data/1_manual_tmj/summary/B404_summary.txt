@@ -1,0 +1,21 @@
+patient_id: B404
+patient_age: 60
+maximum_opening: 31mm
+diet_score: 0
+disability_rating: 7
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: right posterior cross bite | left  posterior cross bite tendency
+earache_present: false
+onset_triggers: an aggravated assault sustaining trauma to the facial structures
+airway_obstruction_present: false
+average_daily_pain_intensity: 10
+headache_intensity: 0
+pain_onset_date: 4 years ago
+tmj_pain_rating: 10 | severe
+current_medications: nexium | xanax | ambien | zocor | hydrocodone
+disc_displacement: left disc anterior displacement without reduction | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj

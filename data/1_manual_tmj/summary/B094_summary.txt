@@ -1,0 +1,25 @@
+patient_id: B094
+patient_age: 16
+pain_relieving_factors: physical therapy
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: open bite
+physical_therapy_status: physical therapy started 3 months ago
+earache_present: true
+jaw_locking: true
+airway_obstruction_present: true
+headache_frequency: once a week
+jaw_clicking: 53mm | right tmj | left tmj
+headache_location: frontal | temporal
+average_daily_pain_intensity: 1
+headache_intensity: 3
+pain_onset_date: april 2010
+tmj_pain_rating: 0
+disc_displacement: right disc anterior and medial displacement | left disc anterior and medial displacementjoint_pain_areas: none
+joint_arthritis_location: left tmj | right tmj
+appliance_history: 4 rounds of orthodontics, last one finishing 2 years ago | expander at age of 6
+joint_pain_areas: left tmj

@@ -1,0 +1,15 @@
+patient_id: B845
+maximum_opening_without_pain: 24mm
+patient_age: 31
+maximum_opening: 45 mm
+onset_triggers: motor vehicle
+adverse_reactions: penicillin
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal
+sleep_disorder_type: snoring | daytime somnolence
+current_medications: celexa
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: masseter | scm | shoulders | neck | styloid 
+appliance_history: orthodontics

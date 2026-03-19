@@ -1,0 +1,19 @@
+patient_id: B932
+patient_age: 19
+maximum_opening: 30mm
+diet_score: 5
+disability_rating: 7
+jaw_function_score: 9
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+adverse_reactions: medications
+airway_obstruction_present: true
+headache_location: frontal
+headache_intensity: 0
+jaw_crepitus: right tmj
+tmj_pain_rating: 0
+current_medications: Asacol | Prilosec
+appliance_history: orthodontics 

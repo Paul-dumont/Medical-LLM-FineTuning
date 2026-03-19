@@ -1,0 +1,22 @@
+patient_id: B247
+patient_age: 13
+maximum_opening: 58mm
+diet_score: 3
+disability_rating: 1
+jaw_function_score: 4
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+pain_aggravating_factors: clenching | bruxism
+earache_present: false
+adverse_reactions: seasonal
+airway_obstruction_present: true
+jaw_clicking: left tmj | right tmj
+current_appliance: orthodontics since 2 years ago
+headache_intensity: 0
+pain_onset_date: unknown, at least a couople of years
+tmj_pain_rating: 0
+sleep_disorder_type: snoring
+current_medications: singulair | flonase | clarinex
+disc_displacement: left disc anteromedial displacement with reduction | right disc anteromedial displacement with reductionmuscle_tenderness_present: false | left disc medial displacement | right disc anterior and medial displacement
+joint_arthritis_location: left tmj | left tmj | right tmj

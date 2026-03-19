@@ -1,0 +1,23 @@
+patient_id: B883
+patient_age: 43
+maximum_opening: 26mm
+diet_score: 7
+disability_rating: 4
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+headache_frequency: 1 a week
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: temporal
+average_daily_pain_intensity: 5
+headache_intensity: 4
+autoimmune_condition: rheumatoid arthritis
+tmj_pain_rating: 7
+sleep_disorder_type: snoring
+muscle_pain_location: temporalis | masseter | 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splint
+joint_pain_areas: tmj

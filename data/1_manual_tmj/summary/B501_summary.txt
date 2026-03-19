@@ -1,0 +1,17 @@
+patient_id: B501
+maximum_opening_without_pain: 40 mm
+patient_age: 29
+maximum_opening: 48 mm
+pain_relieving_factors: arthroscopy
+pain_aggravating_factors: splints
+onset_triggers: surgery on her left side for extraction
+jaw_locking: left tmj
+airway_obstruction_present: false
+headache_frequency: almost daily
+jaw_clicking: left tmj | right tmj
+headache_intensity: present
+pain_onset_date: 4 years ago
+disc_displacement: left disc anteriorly displaced without reduction | right disc anteriorly displaced with reduction | left disc dislocation without reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splints
+joint_pain_areas: tmj

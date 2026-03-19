@@ -1,0 +1,9 @@
+1.patient_id: B668
+3.patient_age: 52
+11.tinnitus_present: False
+12.vertigo_present: False
+18.earache_present: False
+23.airway_obstruction_present: True
+35.headache_intensity: 0
+39.tmj_pain_rating: 0
+40.sleep_disorder_type: Snoring 

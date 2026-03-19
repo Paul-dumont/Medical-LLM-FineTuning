@@ -1,0 +1,29 @@
+patient_id: B118
+maximum_opening_without_pain: 15mm
+patient_age: 39
+maximum_opening: 37mm
+pain_relieving_factors: splints
+diet_score: 6
+disability_rating: 7
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching
+earache_present: false
+headache_frequency: 2 or 3 times a month
+jaw_clicking: left tmj | right tmj
+previous_medications: primidone
+muscle_pain_score: moderate
+migraine_history: true
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 6
+headache_intensity: 8
+tmj_pain_rating: 6
+sleep_disorder_type: snoring | dayteim somnolence
+current_medications: flerxeril | primidone | zyrtec | toprol | fentanyl patch | flonase | lyrica | prilosec | acidophilus
+disc_displacement: left disc anterior displacement | right disc interiorly displacement | left disc anterior displacement | right disc medial displacement
+muscle_pain_location: medial pterygoids | right masseter
+joint_arthritis_location: left tmj | right tmj
+appliance_history: splintpain_onset_date: 3 years ago | splints
+joint_pain_areas: knees | wrists | ankles | elbows | right tmj | left tmj

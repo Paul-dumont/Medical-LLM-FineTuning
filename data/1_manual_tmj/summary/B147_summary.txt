@@ -1,0 +1,22 @@
+patient_id: B147
+patient_age: 16
+pain_relieving_factors: amitriptyline
+diet_score: 4
+disability_rating: 4
+jaw_function_score: 4 | 5
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: true
+pain_aggravating_factors: anterior open bite | anterior open bite | bilateral posterior crossbite | clenching | bruxism | bilateral posterior crossbite | anterior open bite
+earache_present: false | true
+airway_obstruction_present: true
+headache_frequency: once or twice a week
+headache_location: frontal | temporal | posterior head
+average_daily_pain_intensity: 2 | 4
+headache_intensity: 4 | 5
+tmj_pain_rating: 0
+current_medications: amitriptyline
+disc_displacement: displaced discs | left disc posterior and medial displacement | right disc medial displacement | right disc anterior displacement | right disc medial displacement | left disc medial displacement
+appliance_history: orthodontics
+joint_pain_areas: knees | neck | soulders | none

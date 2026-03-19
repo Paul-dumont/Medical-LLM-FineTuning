@@ -1,0 +1,26 @@
+patient_id: B224
+patient_age: 15
+maximum_opening: 53mm
+diet_score: 1
+disability_rating: 2
+jaw_function_score: 0
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: anterior open bite | anterior open bite tendency
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+average_daily_pain_intensity: 0
+headache_intensity: 0
+pain_onset_date: 4 years ago
+jaw_crepitus: left tmj | right tmj
+tmj_pain_rating: 0
+sleep_disorder_type: sleep apnea symptoms | snoring
+current_medications: none
+disc_displacement: left disc anterior displacement | right disc anterior displacement | left disc dislocation without reduction | right disc anterior displacement without reduction | left disc dislocation without reduction | right disc dislocation without reduction
+muscle_pain_location: masseter
+joint_arthritis_location: left tmj | right tmj
+appliance_history: two orthodontics treatments from 11 to 15 with expander and twin block
+joint_pain_areas: knees

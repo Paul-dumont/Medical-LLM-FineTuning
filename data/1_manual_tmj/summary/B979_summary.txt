@@ -1,0 +1,22 @@
+patient_id: B979
+patient_age: 16
+maximum_opening: 36mm
+diet_score: 0
+disability_rating: 0
+sleep_apnea_diagnosed: true
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_location: frontal
+headache_intensity: 0
+autoimmune_condition: rheumatoid arthritis
+tmj_pain_rating: 0
+current_medications: none
+muscle_pain_location: retromandibular 
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: ankles

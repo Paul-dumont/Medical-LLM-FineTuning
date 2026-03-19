@@ -1,0 +1,11 @@
+patient_id: B1375
+patient_age: 25
+adverse_reactions: mellaril | seroquel | xanax | codeine | Actifed
+jaw_locking: true
+airway_obstruction_present: true
+previous_medications: Depakote | Mellaril
+headache_intensity: 0
+pain_onset_date: 12 years ago
+tmj_pain_rating: 0
+sleep_disorder_type: snoring
+current_medications: Adderall | Benztropine | InnoPran | Risperdal | Melatonin | Multivitamins

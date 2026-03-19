@@ -1,0 +1,5 @@
+patient_id: B731
+patient_age: 11
+airway_obstruction_present: true
+sleep_disorder_type:  snoring | somnolence 
+muscle_pain_location: neck

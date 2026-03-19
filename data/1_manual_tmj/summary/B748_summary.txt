@@ -1,0 +1,23 @@
+patient_id: B748
+patient_age: 26
+maximum_opening: 47mm
+diet_score: 4
+pain_duration: evenings
+disability_rating: 4
+sleep_apnea_diagnosed: true
+jaw_function_score: 6
+neck_pain_present: true
+earache_present: true
+onset_triggers: other
+airway_obstruction_present: true
+depression_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj 
+muscle_pain_score: moderate
+headache_location: back of the head | top of the head | temporal
+average_daily_pain_intensity: 7
+headache_intensity: 8.5
+tmj_pain_rating: 6.5
+sleep_disorder_type: snoring | somnolence
+current_medications: ortho-tricyclen | celexa
+muscle_pain_location: temporalis | masseter | shoulders | 

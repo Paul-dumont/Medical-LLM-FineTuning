@@ -1,0 +1,23 @@
+patient_id: B496
+patient_age: 13
+maximum_opening: 50mm
+diet_score: 0
+disability_rating: 0
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+adverse_reactions: seasonal
+airway_obstruction_present: true
+muscle_symptoms_present: false
+jaw_clicking: left tmj | right tmj
+current_appliance: headgear for about 8 months | full appliances for almost two years
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: claritin
+disc_displacement: left disc anterior displacement without reduction | right disc medial displacement
+joint_arthritis_location: left tmj
+appliance_history: orthodontic treatment including a palatal expander
+joint_pain_areas: none

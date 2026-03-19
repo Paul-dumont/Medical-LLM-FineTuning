@@ -1,0 +1,17 @@
+patient_id: B1517
+patient_age: 49
+maximum_opening: 45mm
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+neck_pain_present: true
+physical_therapy_status: physical therapy | chiropractic
+earache_present: true
+adverse_reactions: bacitracin | nickel | jewelry
+airway_obstruction_present: true
+jaw_clicking: left tmj
+disc_displacement: left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint
+joint_pain_areas: knees | hips | neck

@@ -1,0 +1,16 @@
+patient_id: B939
+patient_age: 14
+maximum_opening: 55mm
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+neck_pain_present: false
+earache_present: false
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: frontal
+headache_intensity: 0
+tmj_pain_rating: 0
+current_medications: none
+muscle_pain_location: neck
+appliance_history: orthodontics

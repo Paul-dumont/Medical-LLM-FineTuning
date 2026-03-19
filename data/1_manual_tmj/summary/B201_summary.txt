@@ -1,0 +1,27 @@
+patient_id: B201
+maximum_opening_without_pain: 21mm
+patient_age: 52
+maximum_opening: 28mm
+diet_score: 8
+disability_rating: 6
+jaw_function_score: 8
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: true
+pain_aggravating_factors: clenching
+earache_present: false
+onset_triggers: brushing teeth
+jaw_locking: true
+headache_frequency: daily
+muscle_symptoms_present: true
+muscle_pain_score: moderate to mild
+headache_location: frontal | temporal | back of the head
+average_daily_pain_intensity: 6
+headache_intensity: 7 | present
+pain_onset_date: 2 weeks ago
+tmj_pain_rating: 8
+current_medications: ibuprofen | skelaxin | aciphex | cozaar
+disc_displacement: left disc anterior displacement with reduction | right disc lateral dislocation without reduction | left disc medial and anterior dislocation on with reduction | right disc medial dislocation
+muscle_pain_location: masseters | right retromolar area | right scm
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left tmj | right tmj

@@ -1,0 +1,24 @@
+patient_id: B286
+patient_age: 45
+maximum_opening: 28mm
+diet_score: 4
+disability_rating: 6
+jaw_function_score: 5
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: clenching | bruxism
+earache_present: true
+onset_triggers: 2 years ago, a gunshot wound that entered her left cheekbone area and exited adjacent to the right temporomandibular joint
+headache_frequency: 2 times per month | 2 times per month
+muscle_symptoms_present: true
+migraine_history: true
+headache_location: left frontal | temporal
+current_appliance: 3 x 3 retainer
+average_daily_pain_intensity: 2
+headache_intensity: 9
+tmj_pain_rating: 4 but can escalate to 8
+disc_displacement: left disc anterior displacement | right disc medial displacementmuscle_pain_score: moderate | left disc medial and anterior displacement | right disc medial and anterior displacement | left disc medial displacement | right disc medial displacement
+muscle_pain_location: right masseter | left posterior neck
+joint_arthritis_location: right tmj | left tmj
+appliance_history: orthodontics done from 5 years ago through 3 years ago
+joint_pain_areas: right tmj

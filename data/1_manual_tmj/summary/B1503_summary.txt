@@ -1,0 +1,12 @@
+patient_id: B1503
+maximum_opening_without_pain: 23 mm
+patient_age: 20
+maximum_opening: 41mm
+airway_obstruction_present: true
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+pain_onset_date: 10 years of age
+sleep_disorder_type: daytime somnolence
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: temporalis | retromandibular | scm
+appliance_history: orthodontics

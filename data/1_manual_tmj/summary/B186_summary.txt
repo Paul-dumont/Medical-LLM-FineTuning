@@ -1,0 +1,21 @@
+patient_id: B186
+patient_age: 11
+maximum_opening: 55mm
+diet_score: 7
+disability_rating: 3
+jaw_function_score: 7
+tinnitus_present: true
+vertigo_present: true
+pain_aggravating_factors: eating
+earache_present: true
+jaw_locking: true
+headache_frequency: present
+jaw_clicking: left tmj | right tmj
+headache_location: temporal | masseter
+average_daily_pain_intensity: 4
+headache_intensity: 5
+pain_onset_date: 12 years of age
+tmj_pain_rating: 5
+disc_displacement: left disc anterior displacement with reduction | right disc anterior displacement with reduction | left disc dislocation with reduction | right disc dislocation with reduction
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | left wrist | knees | ankles

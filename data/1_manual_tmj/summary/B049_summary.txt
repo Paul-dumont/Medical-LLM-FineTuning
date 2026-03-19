@@ -1,0 +1,14 @@
+patient_id: B049
+patient_age: 63
+maximum_opening: 45mm
+sleep_apnea_diagnosed: true
+neck_pain_present: true
+muscle_symptoms_present: true
+jaw_clicking: right tmj
+muscle_pain_score: mild
+jaw_crepitus: right tmj
+sleep_disorder_type: sleep apnea
+disc_displacement: left disc anterior and medial dislocation with reduction | right disc anterior dislocation without reduction | left disc dislocation with reduction | right disc dislocation with reduction
+muscle_pain_location: temporalis | masseter | styloid areas
+joint_arthritis_location: left tmj | right tmj
+joint_pain_areas: tmj | knees | neck

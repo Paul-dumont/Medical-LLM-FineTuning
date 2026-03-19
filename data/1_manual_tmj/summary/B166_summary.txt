@@ -1,0 +1,29 @@
+patient_id: B166
+patient_age: 40
+diet_score: 6
+disability_rating: 4
+jaw_function_score: 5
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: true
+neck_pain_present: true
+pain_aggravating_factors: open bite tendency
+earache_present: true
+onset_triggers: once in seventh grade hit in the jaw with a door | once when patient was 15 was hit in the jaw with a boom on a tiny sailboat
+airway_obstruction_present: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj
+muscle_pain_score: mild
+headache_location: left temporal | top of head
+current_appliance: orthodontics since 34 years of age
+average_daily_pain_intensity: 4
+headache_intensity: present
+pain_onset_date: 18 or 19 years of age
+tmj_pain_rating: 5
+sleep_disorder_type: daytime somnolence
+current_medications: celebrex | tramadol | aleve | fish oil | flax seed oil
+disc_displacement: left disc anterior displacement | right disc anterior and medial displacement | left disc dislocation with possible reduction on wide opening | left disc displacement | right disc anterior and medial displacement
+muscle_pain_location: left masseter | retromandibular area | scms | posterior neck | shoulder
+joint_arthritis_location: left tmj | right tmj | right tmj | left timj
+appliance_history: orthodontics as teenager
+joint_pain_areas: left tmj | left tmj | left elbow | wrist

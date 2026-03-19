@@ -1,0 +1,27 @@
+patient_id: B1116
+patient_age: 30
+maximum_opening: 31 mm
+diet_score: 7
+disability_rating: 6
+jaw_function_score: 8
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+earache_present: false
+adverse_reactions: jewelry
+muscle_symptoms_present: true
+previous_medications: prednisone | methotrexate | Indocin
+muscle_pain_score: moderate
+headache_location: frontal | temporal | posterior head
+current_appliance: orthodontics
+average_daily_pain_intensity: 8
+headache_intensity: 9
+autoimmune_condition: psoriasis
+pain_onset_date: 30 years old
+tmj_pain_rating: 7
+sleep_disorder_type: somnolence | snoring
+current_medications: darvocet | hydrocodone | tramadol | Valium
+muscle_pain_location: temporalis | masseter | scm | shoulders | styloid 
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontic
+joint_pain_areas: tknees | elbows | wrists | hips | back | shoulders | neck | hands

@@ -1,0 +1,11 @@
+patient_id: B1007
+patient_age: 14
+tinnitus_present: false
+vertigo_present: false
+earache_present: false
+onset_triggers: motor vehicle 
+airway_obstruction_present: true
+headache_frequency: occasionally
+headache_intensity: 6
+tmj_pain_rating: 0
+appliance_history: orthodontics

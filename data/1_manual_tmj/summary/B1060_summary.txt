@@ -1,0 +1,21 @@
+patient_id: B1060
+patient_age: 58
+maximum_opening: 57mm
+diet_score: 3
+disability_rating: 6
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: true
+earache_present: false
+adverse_reactions: pollens | animal dander
+airway_obstruction_present: true
+jaw_clicking: left tmj | right tmj
+headache_location: frontal | temporal
+average_daily_pain_intensity: 5
+headache_intensity: 7
+tmj_pain_rating: 2
+sleep_disorder_type: somnolence 
+current_medications: Claritin | Flonase | Pepcid
+disc_displacement: left disc dislocation with reduction
+appliance_history: orthodontics
+joint_pain_areas: hands | knees

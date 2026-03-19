@@ -1,0 +1,19 @@
+patient_id: B1365
+patient_age: 25
+maximum_opening: 25mm
+diet_score: 6
+disability_rating: 6
+jaw_function_score: 6
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+muscle_symptoms_present: true
+muscle_pain_score: mild
+average_daily_pain_intensity: 4
+headache_intensity: 0
+tmj_pain_rating: 4
+current_medications: Amitriptyline | Oroproxin
+disc_displacement: left disc dislocation | right disc dislocation
+muscle_pain_location: masseter | styloid 
+joint_arthritis_location: left tmj | right tmj

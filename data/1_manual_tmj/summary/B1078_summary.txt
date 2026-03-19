@@ -1,0 +1,26 @@
+patient_id: B1078
+patient_age: 23
+maximum_opening: 52mm
+diet_score: true
+disability_rating: true
+jaw_function_score: 4
+tinnitus_present: true
+vertigo_present: true
+hearing_loss_present: false
+pain_aggravating_factors: clenching
+earache_present: false
+onset_triggers: mva
+jaw_locking: true
+muscle_symptoms_present: true
+jaw_clicking: left tmj | right tmj
+muscle_pain_score: moderate
+headache_location: frontal | posterior head
+average_daily_pain_intensity: 5
+headache_intensity: 4
+pain_onset_date: 23 years old
+tmj_pain_rating: 4
+current_medications: advil | for | occasionally
+muscle_pain_location: masseter | masseters | retromandibular | neck
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | night guard
+joint_pain_areas: tmj

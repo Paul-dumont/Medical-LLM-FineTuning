@@ -1,0 +1,19 @@
+patient_id: B218
+patient_age: 52
+maximum_opening: 45mm
+diet_score: 8
+disability_rating: 3
+jaw_function_score: 0
+tinnitus_present: false
+vertigo_present: false
+hearing_loss_present: false
+earache_present: false
+airway_obstruction_present: true | trueappliance_history: orthodontics 41 years ago
+headache_frequency: occasional
+muscle_symptoms_present: false
+headache_location: temple
+current_appliance: orthodontics since 15 months ago
+average_daily_pain_intensity: 3
+headache_intensity: 3
+tmj_pain_rating: 0
+joint_arthritis_location: left tmj | right tmj

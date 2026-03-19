@@ -1,0 +1,10 @@
+patient_id: B710
+patient_age: 27
+tinnitus_present: true
+vertigo_present: true
+earache_present: true
+pain_onset_date: 19.5
+current_medications: Lunesta | Tylenol
+disc_displacement: left disc dislocation | right disc dislocation
+joint_arthritis_location: left tmj | right tmj
+appliance_history: orthodontics | splint

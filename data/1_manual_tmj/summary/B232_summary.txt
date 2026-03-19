@@ -1,0 +1,14 @@
+patient_id: B232
+patient_age: 52
+maximum_opening: 47mm
+sleep_apnea_diagnosed: true
+pain_aggravating_factors: clenching
+adverse_reactions: sulfa drugs | penicillin
+airway_obstruction_present: true | truecurrent_medications: climara patch | prometrium
+muscle_symptoms_present: true
+muscle_pain_score: mild
+headache_intensity: present
+sleep_disorder_type: sleep apnea syndrome | sleep apnea syndrome | snoring | daytime somnolence
+disc_displacement: left disc anterior displacement without reduction | right disc anterior displacement with reduction
+muscle_pain_location: shoulders | styloid areas
+joint_arthritis_location: left tmj | right tmj

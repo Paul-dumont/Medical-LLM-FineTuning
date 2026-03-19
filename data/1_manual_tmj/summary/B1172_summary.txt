@@ -1,0 +1,4 @@
+patient_id: B1172
+patient_age: 17
+headache_intensity: 0
+tmj_pain_rating: 0

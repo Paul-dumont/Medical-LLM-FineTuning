@@ -1,0 +1,27 @@
+patient_id: B1019
+patient_age: 47
+maximum_opening: 27mm
+diet_score: 8
+disability_rating: 10
+sleep_apnea_diagnosed: true
+jaw_function_score: 7
+tinnitus_present: false
+vertigo_present: true
+hearing_loss_present: false
+physical_therapy_status: physical therapy
+earache_present: true
+airway_obstruction_present: true
+muscle_symptoms_present: true
+previous_medications: Lidocaine
+muscle_pain_score: high 
+headache_location: temporal
+average_daily_pain_intensity: 10
+headache_intensity: 7
+pain_onset_date: 4 years ago
+tmj_pain_rating: 10
+sleep_disorder_type: sleep apnea | snoring | somnolence 
+current_medications: Clonidine | Gabapentin | Seroquel | Effexor | Prilosec | Zofran | Visteril | Zantac | Doxepin | Advair
+disc_displacement: left disc dislocation
+muscle_pain_location: temporalis | masseter 
+joint_arthritis_location: left tmj | rigth tmj
+appliance_history: splint 

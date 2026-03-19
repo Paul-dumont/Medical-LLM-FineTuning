@@ -1,0 +1,17 @@
+patient_id: B762
+maximum_opening: 25 mm
+diet_score: 6
+disability_rating: 1
+jaw_function_score: 5
+vertigo_present: true
+earache_present: false
+adverse_reactions: statin
+headache_frequency: periodic
+muscle_symptoms_present: true
+muscle_pain_score: moderate
+headache_location: temporal 
+current_appliance: statin
+average_daily_pain_intensity: 4
+current_medications: Mobic | Nexium | Flexeril | coreg
+muscle_pain_location: temporalis | masseter | masseters | shoulders | neck | styloid areas | posterior neck
+joint_pain_areas: knees | hips | shoulders | neck
