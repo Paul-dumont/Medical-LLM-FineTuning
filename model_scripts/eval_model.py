@@ -4,6 +4,7 @@ from pathlib import Path
 from sentence_transformers import SentenceTransformer, util
 import matplotlib.pyplot as plt
 import seaborn as sns
+from tqdm import tqdm
 
 
 def main(table_number: int, mode: str, model_type: str = "phi"):
@@ -31,7 +32,11 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
     results_dir = project_root / "data" / "5_results" / f"{mode}"
     results_dir.mkdir(parents=True, exist_ok=True)
 
+    print(f"📂 Input file: {json_path}")
+    print(f"📁 Output directory: {results_dir}")
+    print(f"\n⏳ Loading semantic model...")
     semantic_model = SentenceTransformer('all-MiniLM-L6-v2')
+    print(f"✓ Semantic model loaded")
 
     def get_pairs(d):
         """Recrée exactement votre logique de set de paires (clé, valeur_norm)"""
@@ -50,66 +55,69 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
         return pairs
 
     # --- 1. Collecte des données ---
+    print(f"\n📖 Reading input file...")
     results = []
     total_lines = 0
     record_data = []  # Store original/prediction dicts for semantic scoring
     skipped = 0
 
     with open(json_path, "r", encoding="utf-8") as f:
-        for i, line in enumerate(f):
-            total_lines += 1
-            try:
-                record = json.loads(line)
-            except Exception as e:
-                print(f"⚠️  Erreur parsing line {i+1}: {e}")
-                skipped += 1
-                continue
-            
-            try:
-                orig_dict = json.loads(record["original"]).get("extraction", {})
-                # Handle prediction as either dict or JSON string
-                if isinstance(record["prediction"], dict):
-                    # Pour tmj, la structure est nested avec "extraction" à l'intérieur
-                    if mode == "tmj":
-                        pred_dict = record["prediction"].get("extraction", {})
-                    else:
-                        pred_dict = record["prediction"]
+        lines = f.readlines()
+    
+    for i, line in tqdm(enumerate(lines), total=len(lines), desc="Processing records", unit=" records"):
+        total_lines += 1
+        try:
+            record = json.loads(line)
+        except Exception as e:
+            print(f"⚠️  Erreur parsing line {i+1}: {e}")
+            skipped += 1
+            continue
+        
+        try:
+            orig_dict = json.loads(record["original"]).get("extraction", {})
+            # Handle prediction as either dict or JSON string
+            if isinstance(record["prediction"], dict):
+                # Pour tmj, la structure est nested avec "extraction" à l'intérieur
+                if mode == "tmj":
+                    pred_dict = record["prediction"].get("extraction", {})
                 else:
-                    pred_dict = json.loads(record["prediction"]).get("extraction", {})
-            except Exception as e:
-                print(f"⚠️  Erreur extraction line {i+1}: {e}")
-                skipped += 1
-                continue
+                    pred_dict = record["prediction"]
+            else:
+                pred_dict = json.loads(record["prediction"]).get("extraction", {})
+        except Exception as e:
+            print(f"⚠️  Erreur extraction line {i+1}: {e}")
+            skipped += 1
+            continue
 
-            record_data.append((orig_dict, pred_dict))
-            s_orig = get_pairs(orig_dict)
-            s_pred = get_pairs(pred_dict)
+        record_data.append((orig_dict, pred_dict))
+        s_orig = get_pairs(orig_dict)
+        s_pred = get_pairs(pred_dict)
 
-            # TP : intersection des paires (Clé + Valeur identiques)
-            for k, v in s_orig & s_pred:
-                results.append({'feature': k, 'type': 'tp', 'val_orig': v, 'val_pred': v, 'key': k})
+        # TP : intersection des paires (Clé + Valeur identiques)
+        for k, v in s_orig & s_pred:
+            results.append({'feature': k, 'type': 'tp', 'val_orig': v, 'val_pred': v, 'key': k})
 
-            # FP : Dans prédiction mais pas dans original
-            for k, v in s_pred - s_orig:
-                results.append({'feature': k, 'type': 'fp', 'val_orig': orig_dict.get(k, ""), 'val_pred': v, 'key': k})
+        # FP : Dans prédiction mais pas dans original
+        for k, v in s_pred - s_orig:
+            results.append({'feature': k, 'type': 'fp', 'val_orig': orig_dict.get(k, ""), 'val_pred': v, 'key': k})
 
-            # FN : Dans original mais pas dans prédiction
-            for k, v in s_orig - s_pred:
-                results.append({'feature': k, 'type': 'fn', 'val_orig': v, 'val_pred': pred_dict.get(k, ""), 'key': k})
+        # FN : Dans original mais pas dans prédiction
+        for k, v in s_orig - s_pred:
+            results.append({'feature': k, 'type': 'fn', 'val_orig': v, 'val_pred': pred_dict.get(k, ""), 'key': k})
+        
+        # NOUVEAU: FN - Valeurs vides dans prediction alors qu'elles existent dans original
+        for k in orig_dict.keys():
+            k_norm = str(k).lower().strip()
+            v_orig_norm = str(orig_dict[k]).lower().strip() if orig_dict[k] else ""
             
-            # NOUVEAU: FN - Valeurs vides dans prediction alors qu'elles existent dans original
-            for k in orig_dict.keys():
-                k_norm = str(k).lower().strip()
-                v_orig_norm = str(orig_dict[k]).lower().strip() if orig_dict[k] else ""
+            # Vérifier si clé existe dans pred_dict mais est vide
+            if k in pred_dict:
+                v_pred = pred_dict[k]
+                v_pred_norm = str(v_pred).lower().strip() if v_pred else ""
                 
-                # Vérifier si clé existe dans pred_dict mais est vide
-                if k in pred_dict:
-                    v_pred = pred_dict[k]
-                    v_pred_norm = str(v_pred).lower().strip() if v_pred else ""
-                    
-                    # Si original a une valeur mais prediction est vide → FN
-                    if v_orig_norm and not v_pred_norm:
-                        results.append({'feature': k_norm, 'type': 'fn', 'val_orig': v_orig_norm, 'val_pred': "", 'key': k_norm})
+                # Si original a une valeur mais prediction est vide → FN
+                if v_orig_norm and not v_pred_norm:
+                    results.append({'feature': k_norm, 'type': 'fn', 'val_orig': v_orig_norm, 'val_pred': "", 'key': k_norm})
 
     df = pd.DataFrame(results)
 
@@ -121,7 +129,11 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
         print(f"   Résultats: {len(results)}")
         exit(1)
 
+    print(f"✓ Records processed: {total_lines} total, {skipped} skipped")
+    print(f"✓ Result rows created: {len(results)}")
+
     # --- 2. Calcul Sémantique (AMÉLIORÉ v2) ---
+    print(f"\n🧠 Computing semantic scores...")
     # NOUVELLE APPROCHE: Pour chaque feature, comparer les valeurs originals vs predictions
     # même si elles ne matchent pas exactement (formats différents)
     # Cela capture: "0.019\"x0.025\"" vs "19 x 25" → similarité sémantique!
@@ -133,7 +145,8 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
     df.loc[tp_mask, 'sem_score'] = 1.0
 
     # FP/FN: Comparer sémantiquement les valeurs de la MÊME feature
-    for feature in df['feature'].unique():
+    unique_features = df['feature'].unique()
+    for feature in tqdm(unique_features, desc="Semantic scoring", unit=" features"):
         feature_mask = (df['feature'] == feature)
         feature_data = df[feature_mask].copy()
         
@@ -168,8 +181,10 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
                             df.loc[idx_p, 'sem_score'] = max(df.loc[idx_p, 'sem_score'], sim)
 
     df['sem_score'] = df['sem_score'].fillna(0.0)
+    print(f"✓ Semantic scores computed")
 
     # --- 3. Synthèse par Feature ---
+    print(f"\n📊 Summarizing results by feature...")
     summary = []
     for feat, group in df.groupby('feature'):
         tp = len(group[group['type'] == 'tp'])
@@ -302,7 +317,8 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
     summary_df_filtered = pd.DataFrame(complete_features_list)
 
     # Afficher le titre et les en-têtes du tableau
-    print(f"\nTotal features: {features_detected} / {total_features}\n")
+    print(f"\n📈 Results by Feature:\n")
+    print(f"Total features: {features_detected} / {total_features}\n")
     print(f"{'FEATURE':<40} | {'PREC':<5} | {'REC':<5} | {'F1':<5} | {'SEM':<5} | {'COUNT':<5} | {'%':<5}")
     print("-" * 95)
 
@@ -346,7 +362,7 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
     print("-" * 95)
 
     # --- 6. SAVE RESULTS ---
-    print("\n💾 Saving results...")
+    print("\n💾 Saving results to Excel...")
 
     # Create base filename based on model type
     if model_type == "llama":
@@ -414,7 +430,8 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
     print("-" * 95)
     print(f" {mode}, Table {table_number}, Model: {model_type}")
     print("-" * 95)
+    print(f"✅ Evaluation complete!\n")
 
 
 if __name__ == "__main__":
-    main(table_number=4, mode="no_prompt", model_type="llama")
+    main(table_number=5, mode="no_prompt", model_type="llama")

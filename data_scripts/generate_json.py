@@ -7,7 +7,7 @@ from datetime import datetime
 
 
 #TO RUN:
-table_number = 3
+table_number = 5
 
 
 # -----------------------------------------------------------------------------
@@ -27,21 +27,27 @@ json_path_unknow = project_root/"data"/"2_input_model"/"unknow"/f"training_data_
 # 2. Data Preprocessing
 # -----------------------------------------------------------------------------
 sheets = pd.read_excel(table_path, sheet_name=None) # Load table as a Dataframme, name=None to collect every sheets and not only one specific 
-patients = list(sheets.keys())[1:-2] # Create List with patients sheets name  
+patients = list(sheets.keys())[0:-1] # Create List with patients sheets name  
 print("\n")
 print(f"Patients found : {len(patients)} ")
 print("\n")
 
-# Merge patients sheets together
+# Merge patients sheets together - adding sheet name as source for backup patient ID
 patients_sheets = []
 for patient in patients:
-    patients_sheets.append(sheets[patient])
+    df = sheets[patient].copy()
+    df['_source_sheet'] = patient  # Add sheet name as source backup
+    patients_sheets.append(df)
 sheet = pd.concat(patients_sheets, ignore_index=True) # ignore_index = True to adjuste indix with new one and not keep previus index value, not (45 46 1 2 ) but (45 46 47 48)
 
-# Extract and keep Patient ID, Note Date and Note Month columns before dropping
-metadata_df = sheet[[sheet.columns[1], sheet.columns[2], sheet.columns[3]]].copy()
+# Extract and keep Patient ID, Note Date, Note Month and source sheet columns before dropping
+metadata_df = sheet[[sheet.columns[1], sheet.columns[2], sheet.columns[3], '_source_sheet']].copy()
 
 sheet = sheet.drop(sheet.columns[:4], axis=1) # Delete 4 first column (we dont care), axis=1 to delete columns and not row
+
+# Remove source sheet column if it exists
+if "_source_sheet" in sheet.columns:
+    sheet = sheet.drop("_source_sheet", axis=1)
 
 # Remove "Annotated" column if it exists
 if "Annotated" in sheet.columns:
@@ -54,6 +60,69 @@ sheet = sheet.dropna(subset=["Raw Note Text"]) # Delete all Row with no Notes (k
 metadata_df = metadata_df.loc[sheet.index].reset_index(drop=True)
 sheet = sheet.reset_index(drop=True)
 print(sheet)
+print("\n")
+
+# First, rebuild full metadata with patient ID for month calculation
+# Extract Patient ID for each row
+patient_ids_list = []
+for idx in range(len(metadata_df)):
+    patient_id_val = metadata_df.iloc[idx, 0]
+    source_sheet = metadata_df.iloc[idx, 3]
+    
+    if pd.notna(patient_id_val):
+        try:
+            patient_id = str(int(patient_id_val))
+        except (ValueError, TypeError):
+            patient_id = str(patient_id_val)
+    else:
+        patient_id = str(source_sheet) if pd.notna(source_sheet) else "Unknown"
+    
+    patient_ids_list.append(patient_id)
+
+# Add patient IDs to metadata for grouping
+metadata_df_with_ids = metadata_df.copy()
+metadata_df_with_ids['_patient_id'] = patient_ids_list
+
+# Calculate correct note_month based on first visit date for each patient
+from dateutil.relativedelta import relativedelta
+
+def calculate_months_from_first_visit(dates_series):
+    """Calculate months elapsed from first visit for each date"""
+    dates = pd.to_datetime(dates_series, errors='coerce')
+    first_date = dates.min()
+    
+    if pd.isna(first_date):
+        return [0] * len(dates_series)
+    
+    # Calculate months for each date
+    months_list = []
+    for curr_date in dates:
+        if pd.isna(curr_date):
+            months_list.append(0)
+        else:
+            delta = relativedelta(curr_date, first_date)
+            months_list.append(delta.years * 12 + delta.months)
+    
+    return months_list
+
+# Group by patient and calculate corrected months
+corrected_months_dict = {}
+
+for patient_id in metadata_df_with_ids['_patient_id'].unique():
+    mask = metadata_df_with_ids['_patient_id'] == patient_id
+    group_indices = metadata_df_with_ids[mask].index.tolist()
+    
+    # Get dates for this patient using iloc (column 1 is note_date)
+    group_dates = metadata_df.iloc[group_indices, 1]
+    
+    months_for_group = calculate_months_from_first_visit(group_dates)
+    
+    for idx, month in zip(group_indices, months_for_group):
+        corrected_months_dict[idx] = month
+
+metadata_df['_corrected_month'] = metadata_df.index.map(corrected_months_dict)
+
+print("\n✓ Note months recalculated based on first patient visit")
 print("\n")
 
 
@@ -117,13 +186,16 @@ for idx, row in sheet.iterrows():
     
     # Extract Patient ID, Note Date and Note Month from metadata
     patient_id_val = metadata_df.iloc[idx, 0]
+    source_sheet = metadata_df.iloc[idx, 3]  # Get source sheet as backup
+    
     if pd.notna(patient_id_val):
         try:
             patient_id = str(int(patient_id_val))
         except (ValueError, TypeError):
             patient_id = str(patient_id_val)
     else:
-        patient_id = "Unknown"
+        # If no patient_id, use source sheet name as backup
+        patient_id = str(source_sheet) if pd.notna(source_sheet) else "Unknown"
     
     # Keep full date, remove only the time part (00:00:00)
     note_date_str = str(metadata_df.iloc[idx, 1])
@@ -131,7 +203,22 @@ for idx, row in sheet.iterrows():
     
     # Extract Note Month
     note_month_val = metadata_df.iloc[idx, 2]
-    note_month = str(int(note_month_val)) if pd.notna(note_month_val) else "Unknown"
+    corrected_month = metadata_df.iloc[idx, 4]  # Get corrected month from new column
+    
+    if pd.notna(corrected_month):
+        note_month = str(int(corrected_month))
+    elif pd.notna(note_month_val):
+        # Handle both numeric and Timestamp types
+        try:
+            note_month = str(int(note_month_val))
+        except (ValueError, TypeError):
+            # If it's a Timestamp, extract the month
+            if hasattr(note_month_val, 'month'):
+                note_month = str(note_month_val.month)
+            else:
+                note_month = str(note_month_val)
+    else:
+        note_month = "0"
     
     # Create enhanced user message (without metadata in content)
     enhanced_note = f"{note}"
@@ -144,6 +231,10 @@ for idx, row in sheet.iterrows():
     # Loop Value (WITHOUT adding metadata as features)     
     for key, value in raw_features.items():
         if pd.notna(value): # Sparse : keep only positive values 
+            # Convert Timestamp to string for JSON serialization
+            if hasattr(value, 'isoformat'):  # Check if it's a Timestamp or datetime
+                value = value.isoformat()
+            
             if value != 1.0: # Beacause Panda transformed True into 1 in previus step 
                 sparse_features[key] = value 
             else: 

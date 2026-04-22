@@ -1,6 +1,6 @@
 """
 Script to convert TMJ medical notes into JSON training format
-Reads from data_input/ (raw notes) and data_output_clean_46/ (structured summaries)
+Reads from notes/ (raw notes) and summary/ (structured summaries)
 Generates JSONL files with messages in OpenAI chat format
 """
 
@@ -15,8 +15,8 @@ from datetime import datetime
 # 1. Configuration
 # ============================================================================
 script_folder = Path(__file__).resolve().parent
-data_input_folder = script_folder / "data_input"
-data_output_folder = script_folder / "data_output_clean_46"
+notes_folder = script_folder / "notes"
+summary_folder = script_folder / "summary"
 output_folder = script_folder / "json_output"
 
 # Create output folder if it doesn't exist
@@ -81,18 +81,18 @@ def parse_summary_file(summary_path):
 # ============================================================================
 def load_raw_notes():
     """
-    Load all raw note files from data_input folder
+    Load all raw note files from notes/ folder
     Returns dict: {patient_id: note_content}
     """
     notes = {}
-    txt_files = sorted(data_input_folder.glob("*_Word_text.txt"))
+    txt_files = sorted(notes_folder.glob("B*_note.txt"))
     
     print(f"Found {len(txt_files)} note files")
     
     for txt_file in txt_files:
         try:
-            # Extract patient ID from filename (e.g., B001_Word_text.txt -> B001)
-            patient_id = txt_file.stem.replace("_Word_text", "")
+            # Extract patient ID from filename (e.g., B0001_note.txt -> B0001)
+            patient_id = txt_file.stem.replace("_note", "")
             
             with open(txt_file, 'r', encoding='utf-8') as f:
                 note_content = f.read().strip()
@@ -106,17 +106,17 @@ def load_raw_notes():
 
 def load_summaries():
     """
-    Load all summary files from data_output_clean_46 folder
+    Load all summary files from summary/ folder
     Returns dict: {patient_id: summary_dict}
     """
     summaries = {}
-    summary_files = sorted(data_output_folder.glob("*_summary.txt"))
+    summary_files = sorted(summary_folder.glob("B*_summary.txt"))
     
     print(f"Found {len(summary_files)} summary files")
     
     for summary_file in summary_files:
         try:
-            # Extract patient ID from filename (e.g., B001_summary.txt -> B001)
+            # Extract patient ID from filename (e.g., B0001_summary.txt -> B0001)
             patient_id = summary_file.stem.replace("_summary", "")
             
             summary_data = parse_summary_file(summary_file)
@@ -150,14 +150,12 @@ def generate_training_data(notes, summaries):
         # Create JSON response
         json_response = json.dumps({"extraction": extraction_data}, ensure_ascii=False)
         
-        # Build metadata
+        # Build metadata - only patient_id
         metadata = {
-            "patient_id": patient_id,
-            "note_date": summary.get("note_date", "unknown"),
-            "created_at": datetime.now().isoformat()
+            "patient_id": patient_id
         }
         
-        # Chat format
+        # Chat format (with system prompt)
         training_data.append({
             "metadata": metadata,
             "messages": [
@@ -193,10 +191,10 @@ if __name__ == "__main__":
     print("="*70)
     
     # Load data
-    print("\n[1] Loading notes from data_input/")
+    print("\n[1] Loading notes from notes/")
     notes = load_raw_notes()
     
-    print("\n[2] Loading summaries from data_output_clean_46/")
+    print("\n[2] Loading summaries from summary/")
     summaries = load_summaries()
     
     # Generate training data

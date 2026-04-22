@@ -278,4 +278,5 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
 
 
 if __name__ == "__main__":
-    main(table_number=1, mode="no_prompt", model_type="phi")
+    main(table_number=5, mode="no_prompt", model_type="llama")
+    
