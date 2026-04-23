@@ -232,7 +232,28 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
         ]
         total_features = 55
     else:
-        # Orthodontie (défaut)
+        # Orthodontie (défaut) 140 
+        # feature_order = [
+        #     "Upper Wire Size", "Upper Wire Material", "Lower Wire Size", "Lower Wire Material",
+        #     "Changed Upper Arch Wire", "Changed Lower Arch Wire", "Oral Hygiene", "Ligature Method",
+        #     "Right Molar Class", "Left Molar Class", "Left Canine Class", "Right Canine Class",
+        #     "Elastic Pattern Left", "Elastic Pattern Right", "Compliance", "Elastic Type Left",
+        #     "Elastic Type Right", "Overjet (mm)", "Overbite (mm)", "Recods Taken (x-rays; IOS; Photos, Facial scanning)",
+        #     "Upper Arch Bends", "Lower Arch Bends", "Debonded Bracket", "Retainer Check",
+        #     "Re-tie Appointment", "Appliance", "Emergency Type", "Prescription and Bracket Slot",
+        #     "Bracket OR BAND Repositioning", "Retainer", "COS lower", "EMERGENCY",
+        #     "Upper Bonding", "IPR", "Lower Bonding", "Open Spring",
+        #     "Active Space Closure", "COS upper", "Posterior Bite Turbos", "Upper Debond",
+        #     "Lower Debond", "Enameloplasty", "TADs", "Relapse",
+        #     "TMJ symptoms", "Upper Banding", "TPA", "Referral",
+        #     "Extractions", "Posterior Crossbite", "Lower Banding", "Closed Spring",
+        #     "Anterior Bite Turbos", "Maxillary Expander", "Anterior Crossbite", "LLHA",
+        #     "Mandibular Advancement Appliance", "NANCE", "Cantilever", "Tongue Crib",
+        #     "FaceMask"
+        # ]
+        # total_features = 61
+
+        #  44
         feature_order = [
             "Upper Wire Size", "Upper Wire Material", "Lower Wire Size", "Lower Wire Material",
             "Changed Upper Arch Wire", "Changed Lower Arch Wire", "Ligature Method", "Oral Hygiene",
@@ -256,8 +277,8 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
             "Active Traction", "Active Tooth Traction", "Mandibular Advancement Appliance",
             "Teeth Pain", "Arch Coordination"
         ]
-        total_features = 84
-
+        total_features = 80
+        
     # Créer un dictionnaire pour mapper chaque feature (lowercase) à son index
     feature_order_lower = [f.lower() for f in feature_order]
     feature_index_map = {f.lower(): idx for idx, f in enumerate(feature_order)}
@@ -434,4 +455,4 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
 
 
 if __name__ == "__main__":
-    main(table_number=5, mode="no_prompt", model_type="llama")
+    main(table_number=3, mode="no_prompt", model_type="llama")

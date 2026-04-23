@@ -4,7 +4,7 @@ from collections import Counter
 
 
 #TO RUN:
-table_number = 4
+table_number = 5
 mode = "no_prompt"  # Change to "with_cot" or "without_cot" to compare
 
 print("-" * 95)
@@ -51,16 +51,17 @@ print(f"\n✓ Valid: {valid}  |  ✗ Corrupted: {corrupted}")
 print("\n" + "="*70)
 print("FEATURES ANALYSIS (Representation)")
 print("="*70)
-print("\nFEATURE" + " "*37 + "| COUNT | COUNT %")
+
+print("\nFEATURE" + " "*50 + "| COUNT | COUNT %")
 print("-" * 70)
 
 for feature, count in feature_counts.most_common():
     percentage = (count * 100) // total_records if total_records > 0 else 0
-    print(f"{feature:<45} | {count:5} | {percentage:3} %")
+    print(f"{feature:<55} | {count:5} | {percentage:3} %")
 
 print("-" * 70)
-print(f"TOTAL: {total_records}")
-    
+print(f"TOTAL RECORDS: {total_records}")
+print(f"\n✓ UNIQUE FEATURES DETECTED: {len(feature_counts)}")
 print("\n" + "-" * 95)
 print(f" {mode}, Table {table_number} - REPRESENTATION ANALYSIS")
 print("-" * 95)

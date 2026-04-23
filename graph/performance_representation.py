@@ -4,18 +4,26 @@ import numpy as np
 import json
 
 # Load JSON data from external file
-with open('/media/luciacev/Data/Medical-LLM-FineTuning/graph/features_metrics.json', 'r') as f:
+with open('/media/luciacev/Data/Medical-LLM-FineTuning/graph/result_llama_no_prompt_5.json', 'r') as f:
     json_data = json.load(f)
 
-# Filter out entries with null f1_score values
-filtered_data = [item for item in json_data if item['f1_score'] is not None]
+# Helper function to convert French formatted numbers to float
+def parse_value(val):
+    if val == '-' or val is None:
+        return None
+    if isinstance(val, str):
+        return float(val.replace(',', '.'))
+    return float(val)
+
+# Filter out entries with null or invalid f1 values
+filtered_data = [item for item in json_data if parse_value(item['f1']) is not None]
 
 # Extract data for DataFrame
 data = {
-    'Feature': [item['feature'] for item in filtered_data],
-    'Count_Pct': [int(item['percentage'].rstrip('%')) for item in filtered_data],
-    'F1': [item['f1_score'] for item in filtered_data],
-    'SEM': [item['sem'] for item in filtered_data]
+    'Feature': [item['feat'] for item in filtered_data],
+    'Count_Pct': [int(parse_value(item['pct']) * 100) for item in filtered_data],
+    'F1': [parse_value(item['f1']) for item in filtered_data],
+    'SEM': [parse_value(item['sem']) for item in filtered_data]
 }
 
 # Check data length before creating DataFrame

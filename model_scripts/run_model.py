@@ -242,4 +242,4 @@ def main(table_number: int, mode: str, eval_set: str = "test", model_type: str =
 
 
 if __name__ == "__main__":
-    main(table_number=5, mode="no_prompt", eval_set="test", model_type="llama")
+    main(table_number=3, mode="no_prompt", eval_set="test", model_type="llama")

@@ -4,7 +4,7 @@ from transformers import AutoTokenizer
 
 
 #TO RUN:
-table_number = 4
+table_number = 5
 mode = "no_prompt"  # Change to "with_cot" or "without_cot" to compare
 
 print("-" * 95)
