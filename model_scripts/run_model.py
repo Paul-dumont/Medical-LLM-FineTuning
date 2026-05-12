@@ -19,9 +19,16 @@ from utils import grouped_shuffle_split
 # (No energy/power monitoring required)
 
 
-def main(table_number: int, mode: str, eval_set: str = "test", model_type: str = "phi"):
+def main(table_number: int, mode: str, eval_set: str = "test", model_type: str = "phi", full_dataset: bool = False):
     """
     Main function for running the model and generating predictions.
+    
+    Args:
+        table_number: Table number to use
+        mode: Mode (e.g., "no_prompt", "tmj")
+        eval_set: Which set to evaluate ("train", "validation", "test") - ignored if full_dataset=True
+        model_type: Model type ("phi" or "llama")
+        full_dataset: If True, perform inference on the entire dataset (ignores eval_set split)
     """
     print("-" * 95)
     print(f" {mode}, Table {table_number}, Model: {model_type}")
@@ -40,7 +47,7 @@ def main(table_number: int, mode: str, eval_set: str = "test", model_type: str =
     }
     config = model_configs[model_type]
 
-    print(f"Evaluating on {eval_set} set")
+    print(f"Run on {eval_set} set")
 
     # Path Configuration
     script_folder = Path(__file__).resolve().parent
@@ -52,6 +59,10 @@ def main(table_number: int, mode: str, eval_set: str = "test", model_type: str =
         output_path = str(project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_llama_{mode}{table_number}.jsonl")
     else:
         output_path = str(project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_{mode}{table_number}.jsonl")
+    
+    # Modify output filename if using full dataset
+    if full_dataset:
+        output_path = output_path.replace(".jsonl", "_full_dataset.jsonl")
 
     # -------------------------------------------------------------------------
     # 1. Load Model
@@ -71,10 +82,15 @@ def main(table_number: int, mode: str, eval_set: str = "test", model_type: str =
     # -------------------------------------------------------------------------
     print("Load Data...")
     dataset = load_dataset("json", data_files=json_path, split="train")
-    dataset = grouped_shuffle_split(dataset, train_ratio=0.7, val_ratio=0.15, test_ratio=0.15, seed=42)
-    generation_dataset = dataset[eval_set]
-    print(f"Evaluating on {eval_set.upper()} set: {len(generation_dataset)} notes")
-    print(f"  Train: {len(dataset['train'])} | Validation: {len(dataset['validation'])} | Test: {len(dataset['test'])}")
+    
+    if full_dataset:
+        generation_dataset = dataset
+        print(f"Evaluating on FULL DATASET: {len(generation_dataset)} notes")
+    else:
+        dataset = grouped_shuffle_split(dataset, train_ratio=0.7, val_ratio=0.15, test_ratio=0.15, seed=42)
+        generation_dataset = dataset[eval_set]
+        print(f"Evaluating on {eval_set.upper()} set: {len(generation_dataset)} notes")
+        print(f"  Train: {len(dataset['train'])} | Validation: {len(dataset['validation'])} | Test: {len(dataset['test'])}")
 
     # -------------------------------------------------------------------------
     # 3. Generation
@@ -242,4 +258,6 @@ def main(table_number: int, mode: str, eval_set: str = "test", model_type: str =
 
 
 if __name__ == "__main__":
-    main(table_number=3, mode="no_prompt", eval_set="test", model_type="llama")
+    # Pour faire l'inférence sur le DATASET ENTIER, utilisez full_dataset=True
+    main(table_number=1, mode="no_prompt", eval_set="eval", model_type="llama", full_dataset=False)
+    

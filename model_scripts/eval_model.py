@@ -12,7 +12,7 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
     Main function for evaluating model predictions.
     
     Args:
-        table_number: Table number (1-4)
+        table_number: Table number (1-5)
         mode: Training mode (no_prompt, with_cot, without_cot, tmj, dry_run)
         model_type: Model to evaluate ("phi" or "llama")
     """
@@ -25,7 +25,7 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
     
     # Determine input file based on model type
     if model_type == "llama":
-        json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_llama_{mode}{table_number}.jsonl"
+        json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_llama_{mode}{table_number}_full_dataset.jsonl"
     else:
         json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_{mode}{table_number}.jsonl"
     
@@ -215,7 +215,7 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
     # Ordre personnalisé des features selon le mode
     if mode == "tmj":
         feature_order = [
-            "patient_id", "patient_age", "headache_intensity", "tmj_pain_rating",
+            "patient_age", "headache_intensity", "tmj_pain_rating",
             "disc_displacement", "joint_arthritis_location", "jaw_function_score", "maximum_opening",
             "diet_score", "disability_rating", "tinnitus_present", "vertigo_present",
             "joint_pain_areas", "earache_present", "pain_aggravating_factors", "average_daily_pain_intensity",
@@ -226,11 +226,9 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
             "physical_therapy_status", "adverse_reactions", "jaw_crepitus", "jaw_locking",
             "pain_relieving_factors", "back_pain_present", "sleep_apnea_diagnosed", "autoimmune_condition",
             "migraine_history", "previous_medications", "pain_frequency", "depression_present",
-            "pain_duration", "fibromyalgia_present", "migraine_frequency", "bipap_used",
-            "apap_used", "cpap_used", "hearing_sensitivity_present", "anxiety_present",
-            "muscle_spasm_present", "muscle_stiffness_present", "muscle_soreness_present"
+            "pain_duration", "fibromyalgia_present"
         ]
-        total_features = 55
+        total_features = 45
     else:
         # Orthodontie (défaut) 140 
         # feature_order = [
@@ -455,4 +453,4 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
 
 
 if __name__ == "__main__":
-    main(table_number=3, mode="no_prompt", model_type="llama")
+    main(table_number=5, mode="no_prompt", model_type="llama")

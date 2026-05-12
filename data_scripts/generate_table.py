@@ -4,8 +4,8 @@ from pathlib import Path
 
 
 #TO RUN:
-table_number = 4
-mode = "without_cot"  # Options: "with_cot", "without_cot", "dry_run"
+table_number = 5
+mode = "no_prompt"  # Options: "with_cot", "without_cot", "dry_run", "no_prompt"
 
 
 # -----------------------------------------------------------------------------
@@ -15,8 +15,8 @@ script_folder = Path(__file__).resolve().parent #.resolve convert Relatif path i
 project_root = script_folder.parent # move up one level, to get the root project folder
 
 # Adapt paths based on mode
-json_path = project_root/"data"/"3_output_model"/f"{mode}"/f"extraction_{mode}{table_number}.jsonl"
-table_path = project_root/"data"/"4_model_table"/f"{mode}"/f"extraction_features_{mode}{table_number}.xlsx"
+json_path = project_root/"data"/"3_output_model"/f"{mode}"/f"extraction_llama_{mode}{table_number}_full_dataset.jsonl"
+table_path = project_root/"data"/"4_model_table"/f"{mode}"/f"extraction_features_{mode}{table_number}_full_dataset.xlsx"
 
 # Ensure output directory exists
 table_path.parent.mkdir(parents=True, exist_ok=True)

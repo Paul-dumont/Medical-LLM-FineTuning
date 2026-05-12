@@ -4,8 +4,8 @@ from transformers import AutoTokenizer
 
 
 #TO RUN:
-table_number = 5
-mode = "no_prompt"  # Change to "with_cot" or "without_cot" to compare
+table_number = 1
+mode = "tmj"  # Change to "with_cot" or "without_cot" to compare
 
 print("-" * 95)
 print(f" {mode}, Table {table_number} - TOKEN ANALYSIS")

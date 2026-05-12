@@ -122,10 +122,13 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
     else:  # llama
         response_template = "<|start_header_id|>assistant<|end_header_id|>\n\n"
     
-    collator = DataCollatorForCompletionOnlyLM(
-        response_template=response_template, 
-        tokenizer=tokenizer
-    )
+    # Create data collator only for non-TMJ modes (TMJ has issues with custom collator)
+    data_collator = None
+    if mode != "tmj":
+        data_collator = DataCollatorForCompletionOnlyLM(
+            response_template=response_template, 
+            tokenizer=tokenizer
+        )
 
     print("Start Fine Tuning...")
     wandb.login()
@@ -136,7 +139,7 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
         eval_dataset = dataset["validation"],
         dataset_text_field = "text",
         max_seq_length = max_seq_length,
-        data_collator = collator,
+        data_collator = data_collator,
         dataset_num_proc = 12,
         packing = False,
         
@@ -149,7 +152,7 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
             bf16 = True,
             optim = "adamw_8bit",
 
-            num_train_epochs = 3,
+            num_train_epochs = 1, #3
             warmup_ratio = 0.148,
             
             logging_steps = 1,
@@ -278,5 +281,5 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
 
 
 if __name__ == "__main__":
-    main(table_number=3, mode="no_prompt", model_type="llama")
+    main(table_number=5, mode="no_prompt", model_type="llama")
     

@@ -29,6 +29,7 @@ dist/
 
 # Temporary files
 tmp/
+_unsloth_sentencepiece_temp/
 
 #output
 model/
@@ -41,6 +42,8 @@ unsloth_compiled_cache/
 *.safetensors
 *.bin
 *.pt
+
+
 
 # (Option) Data files - uncomment if you don't want to push large training data
 # *.xlsm

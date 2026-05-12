@@ -4,8 +4,8 @@ from collections import Counter
 
 
 #TO RUN:
-table_number = 5
-mode = "no_prompt"  # Change to "with_cot" or "without_cot" to compare
+table_number = 1
+mode = "tmj"  # Change to "with_cot" or "without_cot" to compare
 
 print("-" * 95)
 print(f" {mode}, Table {table_number} - REPRESENTATION ANALYSIS")
@@ -62,6 +62,12 @@ for feature, count in feature_counts.most_common():
 print("-" * 70)
 print(f"TOTAL RECORDS: {total_records}")
 print(f"\n✓ UNIQUE FEATURES DETECTED: {len(feature_counts)}")
+
+# Calculate average representation percentage
+if feature_counts:
+    average_percentage = sum((count * 100) // total_records for count in feature_counts.values()) / len(feature_counts)
+    print(f"\n📊 AVERAGE REPRESENTATION %: {average_percentage:.2f}%")
+
 print("\n" + "-" * 95)
 print(f" {mode}, Table {table_number} - REPRESENTATION ANALYSIS")
 print("-" * 95)
