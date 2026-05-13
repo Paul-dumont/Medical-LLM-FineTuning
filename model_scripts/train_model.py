@@ -281,5 +281,5 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
 
 
 if __name__ == "__main__":
-    main(table_number=5, mode="no_prompt", model_type="llama")
+    main(table_number=6, mode="no_prompt", model_type="llama")
     

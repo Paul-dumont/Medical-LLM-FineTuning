@@ -25,7 +25,7 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
     
     # Determine input file based on model type
     if model_type == "llama":
-        json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_llama_{mode}{table_number}_full_dataset.jsonl"
+        json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_llama_{mode}{table_number}_validation.jsonl"
     else:
         json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_{mode}{table_number}.jsonl"
     
@@ -230,52 +230,52 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
         ]
         total_features = 45
     else:
-        # Orthodontie (défaut) 140 
-        # feature_order = [
-        #     "Upper Wire Size", "Upper Wire Material", "Lower Wire Size", "Lower Wire Material",
-        #     "Changed Upper Arch Wire", "Changed Lower Arch Wire", "Oral Hygiene", "Ligature Method",
-        #     "Right Molar Class", "Left Molar Class", "Left Canine Class", "Right Canine Class",
-        #     "Elastic Pattern Left", "Elastic Pattern Right", "Compliance", "Elastic Type Left",
-        #     "Elastic Type Right", "Overjet (mm)", "Overbite (mm)", "Recods Taken (x-rays; IOS; Photos, Facial scanning)",
-        #     "Upper Arch Bends", "Lower Arch Bends", "Debonded Bracket", "Retainer Check",
-        #     "Re-tie Appointment", "Appliance", "Emergency Type", "Prescription and Bracket Slot",
-        #     "Bracket OR BAND Repositioning", "Retainer", "COS lower", "EMERGENCY",
-        #     "Upper Bonding", "IPR", "Lower Bonding", "Open Spring",
-        #     "Active Space Closure", "COS upper", "Posterior Bite Turbos", "Upper Debond",
-        #     "Lower Debond", "Enameloplasty", "TADs", "Relapse",
-        #     "TMJ symptoms", "Upper Banding", "TPA", "Referral",
-        #     "Extractions", "Posterior Crossbite", "Lower Banding", "Closed Spring",
-        #     "Anterior Bite Turbos", "Maxillary Expander", "Anterior Crossbite", "LLHA",
-        #     "Mandibular Advancement Appliance", "NANCE", "Cantilever", "Tongue Crib",
-        #     "FaceMask"
-        # ]
-        # total_features = 61
-
-        #  44
+        # Orthodontie 140 
         feature_order = [
             "Upper Wire Size", "Upper Wire Material", "Lower Wire Size", "Lower Wire Material",
-            "Changed Upper Arch Wire", "Changed Lower Arch Wire", "Ligature Method", "Oral Hygiene",
-            "Elastic Pattern Left", "Right Canine Class", "Left Canine Class", "Right Molar Class",
-            "Left Molar Class", "Class II elastic", "Elastic Pattern Right", "Compliance",
-            "Overjet (mm)", "Elastic Type Left", "Elastic Type Right", "Overbite (mm)",
-            "Debonded Bracket", "Lower Retainer", "Emergency Type", "Upper Retainer",
-            "Space closure sliding mechanics", "Photos taken", "Upper Arch Bends", "Class I elastic",
-            "Class III elastic", "Appliance", "Lower Arch Bends", "Retainer Check",
-            "Xrays taken", "Intra Oral Scanning Taken", "EMERGENCY", "Lower Arch Reverse Curve of Spee",
-            "Bracket OR BAND Repositioning", "Open Spring", "Upper Bonding", "IPR",
-            "Re-tie Appointment", "Lower Bonding", "Posterior Bite Turbos", "Cross Elastic",
-            "Upper Arch Accentuated Curve of Spee", "Upper Debond", "Lower Debond", "TADs",
-            "Prescription and Bracket Slot", "TMJ symptoms", "Enameloplasty", "Referral",
-            "Unilateral Posterior Crossbite", "Extractions", "TPA", "Space closure loop mechanics",
-            "Upper Banding", "Relapse", "Upper Active movement", "Lower Active movement",
-            "Closed Spring", "Lower Banding", "Patient ID.1", "NiTi Closing Spring",
-            "Anterior Bite Turbos", "TADs.1", "Upper Arch Reverse Curve of Spee", "Maxillary Expander",
-            "LLHA", "Anterior Crossbite", "Debonded Bracket/Band", "Lower Arch Curve of Spee",
-            "Intrusion Arch", "Bilateral Posterior Crossbite", "Lower Arch Accentuated Curve of Spee",
-            "Active Traction", "Active Tooth Traction", "Mandibular Advancement Appliance",
-            "Teeth Pain", "Arch Coordination"
+            "Changed Upper Arch Wire", "Changed Lower Arch Wire", "Oral Hygiene", "Ligature Method",
+            "Right Molar Class", "Left Molar Class", "Left Canine Class", "Right Canine Class",
+            "Elastic Pattern Left", "Elastic Pattern Right", "Compliance", "Elastic Type Left",
+            "Elastic Type Right", "Overjet (mm)", "Overbite (mm)", "Recods Taken (x-rays; IOS; Photos, Facial scanning)",
+            "Upper Arch Bends", "Lower Arch Bends", "Debonded Bracket", "Retainer Check",
+            "Re-tie Appointment", "Appliance", "Emergency Type", "Prescription and Bracket Slot",
+            "Bracket OR BAND Repositioning", "Retainer", "COS lower", "EMERGENCY",
+            "Upper Bonding", "IPR", "Lower Bonding", "Open Spring",
+            "Active Space Closure", "COS upper", "Posterior Bite Turbos", "Upper Debond",
+            "Lower Debond", "Enameloplasty", "TADs", "Relapse",
+            "TMJ symptoms", "Upper Banding", "TPA", "Referral",
+            "Extractions", "Posterior Crossbite", "Lower Banding", "Closed Spring",
+            "Anterior Bite Turbos", "Maxillary Expander", "Anterior Crossbite", "LLHA",
+            "Mandibular Advancement Appliance", "NANCE", "Cantilever", "Tongue Crib",
+            "FaceMask"
         ]
-        total_features = 80
+        total_features = 61
+
+        #  44
+        # feature_order = [
+        #     "Upper Wire Size", "Upper Wire Material", "Lower Wire Size", "Lower Wire Material",
+        #     "Changed Upper Arch Wire", "Changed Lower Arch Wire", "Ligature Method", "Oral Hygiene",
+        #     "Elastic Pattern Left", "Right Canine Class", "Left Canine Class", "Right Molar Class",
+        #     "Left Molar Class", "Class II elastic", "Elastic Pattern Right", "Compliance",
+        #     "Overjet (mm)", "Elastic Type Left", "Elastic Type Right", "Overbite (mm)",
+        #     "Debonded Bracket", "Lower Retainer", "Emergency Type", "Upper Retainer",
+        #     "Space closure sliding mechanics", "Photos taken", "Upper Arch Bends", "Class I elastic",
+        #     "Class III elastic", "Appliance", "Lower Arch Bends", "Retainer Check",
+        #     "Xrays taken", "Intra Oral Scanning Taken", "EMERGENCY", "Lower Arch Reverse Curve of Spee",
+        #     "Bracket OR BAND Repositioning", "Open Spring", "Upper Bonding", "IPR",
+        #     "Re-tie Appointment", "Lower Bonding", "Posterior Bite Turbos", "Cross Elastic",
+        #     "Upper Arch Accentuated Curve of Spee", "Upper Debond", "Lower Debond", "TADs",
+        #     "Prescription and Bracket Slot", "TMJ symptoms", "Enameloplasty", "Referral",
+        #     "Unilateral Posterior Crossbite", "Extractions", "TPA", "Space closure loop mechanics",
+        #     "Upper Banding", "Relapse", "Upper Active movement", "Lower Active movement",
+        #     "Closed Spring", "Lower Banding", "Patient ID.1", "NiTi Closing Spring",
+        #     "Anterior Bite Turbos", "TADs.1", "Upper Arch Reverse Curve of Spee", "Maxillary Expander",
+        #     "LLHA", "Anterior Crossbite", "Debonded Bracket/Band", "Lower Arch Curve of Spee",
+        #     "Intrusion Arch", "Bilateral Posterior Crossbite", "Lower Arch Accentuated Curve of Spee",
+        #     "Active Traction", "Active Tooth Traction", "Mandibular Advancement Appliance",
+        #     "Teeth Pain", "Arch Coordination"
+        # ]
+        # total_features = 80
         
     # Créer un dictionnaire pour mapper chaque feature (lowercase) à son index
     feature_order_lower = [f.lower() for f in feature_order]
@@ -453,4 +453,4 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
 
 
 if __name__ == "__main__":
-    main(table_number=5, mode="no_prompt", model_type="llama")
+    main(table_number=6, mode="no_prompt", model_type="llama")

@@ -7,7 +7,7 @@ from datetime import datetime
 
 
 #TO RUN:
-table_number = 5
+table_number = "7_Human2"
 
 
 # -----------------------------------------------------------------------------

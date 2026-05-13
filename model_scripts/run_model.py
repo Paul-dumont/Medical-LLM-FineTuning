@@ -259,5 +259,5 @@ def main(table_number: int, mode: str, eval_set: str = "test", model_type: str =
 
 if __name__ == "__main__":
     # Pour faire l'inférence sur le DATASET ENTIER, utilisez full_dataset=True
-    main(table_number=1, mode="no_prompt", eval_set="eval", model_type="llama", full_dataset=False)
+    main(table_number="6", mode="no_prompt", eval_set="test", model_type="llama", full_dataset=True)
     

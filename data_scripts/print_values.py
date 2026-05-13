@@ -3,8 +3,8 @@ from pathlib import Path
 from collections import defaultdict
 
 # TO RUN:
-table_number = 4
-mode = "with_cot"  # Change to "with_cot" or "without_cot"
+table_number = "7_Human1"
+mode = "no_prompt"  # Change to "with_cot" or "without_cot"
 
 # Path Configuration
 script_folder = Path(__file__).resolve().parent
