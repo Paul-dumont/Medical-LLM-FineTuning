@@ -25,7 +25,7 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
     
     # Determine input file based on model type
     if model_type == "llama":
-        json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_llama_{mode}{table_number}_validation.jsonl"
+        json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_llama_{mode}{table_number}_all.jsonl"
     else:
         json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_{mode}{table_number}.jsonl"
     

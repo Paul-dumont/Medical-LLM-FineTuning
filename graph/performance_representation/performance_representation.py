@@ -3,47 +3,30 @@ import matplotlib.pyplot as plt
 import numpy as np
 import json
 
-# Load JSON data from external file
-with open('/media/luciacev/Data/Medical-LLM-FineTuning/graph/result_llama_no_prompt_5.json', 'r') as f:
-    json_data = json.load(f)
+# Load data from Excel file
+df_raw = pd.read_excel('/media/luciacev/Data/Medical-LLM-FineTuning/data/5_results/no_prompt/result_llama_no_prompt_6_all.xlsx')
 
 # Helper function to convert French formatted numbers to float
 def parse_value(val):
-    if val == '-' or val is None:
+    if pd.isna(val) or val == '-':
         return None
     if isinstance(val, str):
-        return float(val.replace(',', '.'))
+        return float(val.replace(',', '.').replace(' ', ''))
     return float(val)
 
-# Filter out entries with null or invalid f1 values
-filtered_data = [item for item in json_data if parse_value(item['f1']) is not None]
+# Prepare lists to build the DataFrame
+filtered_data = []
+for _, row in df_raw.iterrows():
+    f1_val = parse_value(row['f1'])
+    if f1_val is not None:
+        filtered_data.append({
+            'Feature': row['feat'],
+            'Count_Pct': parse_value(row['pct']) * 100 if row['pct'] is not None else 0,
+            'F1': f1_val,
+            'SEM': parse_value(row['sem'])
+        })
 
-# Extract data for DataFrame
-data = {
-    'Feature': [item['feat'] for item in filtered_data],
-    'Count_Pct': [int(parse_value(item['pct']) * 100) for item in filtered_data],
-    'F1': [parse_value(item['f1']) for item in filtered_data],
-    'SEM': [parse_value(item['sem']) for item in filtered_data]
-}
-
-# Check data length before creating DataFrame
-print("🔍 Data length verification:")
-print(f"  Count_Pct: {len(data['Count_Pct'])} elements")
-print(f"  F1: {len(data['F1'])} elements")
-print(f"  SEM: {len(data['SEM'])} elements")
-
-# Verify that all lengths are identical
-lengths = [len(data['Count_Pct']), len(data['F1']), len(data['SEM'])]
-if len(set(lengths)) != 1:
-    print(f"\n❌ ERROR: Lengths don't match!")
-    print(f"  Count_Pct: {len(data['Count_Pct'])}")
-    print(f"  F1: {len(data['F1'])}")
-    print(f"  SEM: {len(data['SEM'])}")
-    exit(1)
-else:
-    print(f"\n✅ All data has the same length: {lengths[0]} elements (after filtering nulls)\n")
-
-df = pd.DataFrame(data)
+df = pd.DataFrame(filtered_data)
 print(len(df))
 
 # Identifier les 10 features les plus fréquentes
