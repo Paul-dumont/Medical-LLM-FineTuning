@@ -3,7 +3,7 @@ from pathlib import Path
 from collections import defaultdict
 
 # TO RUN:
-table_number = "7_Human1"
+table_number = "6"
 mode = "no_prompt"  # Change to "with_cot" or "without_cot"
 
 # Path Configuration

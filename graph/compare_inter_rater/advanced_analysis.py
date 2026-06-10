@@ -167,10 +167,10 @@ mean_m_h1 = df_all_common['F1 vs Hum1'].dropna().mean()
 mean_m_h2 = df_all_common['F1 vs Hum2'].dropna().mean()
 mean_m_soft = df_all_common['F1 vs Either (Soft)'].dropna().mean()
 
-fig5, ax5 = plt.subplots(figsize=(10, 7), facecolor='white')
-categories = ['Human 1\nvs Human 2\n(Inter-Rater)', 'Model\nvs Human 1', 'Model\nvs Human 2', 'Model\nvs Either\n(Soft Match)']
-means = [mean_h1_h2, mean_m_h1, mean_m_h2, mean_m_soft]
-bar_colors = ['#1f4e79', '#ff7f0e', '#2ca02c', '#d62728']
+fig5, ax5 = plt.subplots(figsize=(12, 7), facecolor='white')
+categories = ['Human 1\nvs Human 2\n(Inter-Rater)', 'Model\nvs Human 1', 'Model\nvs Human 2', 'Model\nvs Either\n(Soft Match)', 'Latest AI model\nwithout training\n(Gemini 3 Pro)']
+means = [mean_h1_h2, mean_m_h1, mean_m_h2, mean_m_soft, 0.448]
+bar_colors = ['#2ca02c', '#2ca02c', '#2ca02c', '#2ca02c', '#d62728']
 
 bars5 = ax5.bar(categories, means, color=bar_colors, edgecolor='black', width=0.5, alpha=0.9)
 ax5.set_ylabel('Overall Macro Average F1 Score', fontsize=12, fontweight='bold')
@@ -211,8 +211,8 @@ w_m_h1 = get_weighted_avg(df_weighted, 'F1 vs Hum1')
 w_m_h2 = get_weighted_avg(df_weighted, 'F1 vs Hum2')
 w_m_soft = get_weighted_avg(df_weighted, 'F1 vs Either (Soft)')
 
-fig6, ax6 = plt.subplots(figsize=(10, 7), facecolor='white')
-means_w = [w_h1_h2, w_m_h1, w_m_h2, w_m_soft]
+fig6, ax6 = plt.subplots(figsize=(12, 7), facecolor='white')
+means_w = [w_h1_h2, w_m_h1, w_m_h2, w_m_soft, 0.448]
 
 bars6 = ax6.bar(categories, means_w, color=bar_colors, edgecolor='black', width=0.5, alpha=0.9)
 ax6.set_ylabel('Overall *Weighted* Average F1 Score', fontsize=12, fontweight='bold')

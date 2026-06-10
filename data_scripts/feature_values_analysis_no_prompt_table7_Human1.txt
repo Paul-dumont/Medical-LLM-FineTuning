@@ -1,0 +1,6 @@
+-----------------------------------------------------------------------------------------------
+FEATURE VALUES ANALYSIS - no_prompt, Table 7_Human1
+-----------------------------------------------------------------------------------------------
+
+Analyzing: /media/luciacev/Data/Medical-LLM-FineTuning/data/2_input_model/no_prompt/training_data_no_prompt7_Human1.jsonl
+

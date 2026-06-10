@@ -5,7 +5,7 @@ from datasets import load_dataset
 from unsloth import FastLanguageModel
 import torch
 from trl import SFTTrainer, DataCollatorForCompletionOnlyLM
-from transformers import TrainingArguments
+from transformers import TrainingArgument
 import wandb
 from pathlib import Path
 import shutil

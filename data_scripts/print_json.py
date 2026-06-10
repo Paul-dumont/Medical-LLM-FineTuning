@@ -3,7 +3,7 @@ from pathlib import Path
 
 
 # TO RUN:
-table_number = "7_Human2"
+table_number = "6"
 mode = "no_prompt"  # "with_cot", "without_cot", or "dry_run"
 element_index = 1  # Index of the element to visualize (0 = first, 1 = second, etc.)
 
