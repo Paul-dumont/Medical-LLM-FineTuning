@@ -5,7 +5,7 @@ from datasets import load_dataset
 from unsloth import FastLanguageModel
 import torch
 from trl import SFTTrainer, DataCollatorForCompletionOnlyLM
-from transformers import TrainingArgument
+from transformers import TrainingArguments, EarlyStoppingCallback
 import wandb
 from pathlib import Path
 import shutil
@@ -175,6 +175,7 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
             lr_scheduler_type = "cosine",
             seed = 3407,    
         ),
+        # callbacks=[EarlyStoppingCallback(early_stopping_patience=3)]
     )
 
     # Training 

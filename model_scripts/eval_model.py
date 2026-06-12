@@ -134,15 +134,28 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
 
     # --- 2. Calcul Sémantique (AMÉLIORÉ v2) ---
     print(f"\n🧠 Computing semantic scores...")
-    # NOUVELLE APPROCHE: Pour chaque feature, comparer les valeurs originals vs predictions
-    # même si elles ne matchent pas exactement (formats différents)
-    # Cela capture: "0.019\"x0.025\"" vs "19 x 25" → similarité sémantique!
 
     df['sem_score'] = 0.0
 
     # TP parfait (match exact) = 1.0
     tp_mask = (df['type'] == 'tp')
     df.loc[tp_mask, 'sem_score'] = 1.0
+
+    # -------------------------------------------------------------
+    # OPTIMIZATION: Batch encode all unique string values first
+    # -------------------------------------------------------------
+    print("⏳ Batch encoding all unique values...")
+    unique_origs = set(df.loc[~tp_mask & (df['val_orig'].astype(str).str.strip() != ''), 'val_orig'].astype(str).str.strip().unique())
+    unique_preds = set(df.loc[~tp_mask & (df['val_pred'].astype(str).str.strip() != ''), 'val_pred'].astype(str).str.strip().unique())
+    all_unique_texts = list(unique_origs | unique_preds)
+    
+    # Pre-compute embeddings for all unique texts
+    text_to_emb = {}
+    if all_unique_texts:
+        # Encode with batching (much faster than one-by-one)
+        embeddings = semantic_model.encode(all_unique_texts, batch_size=256, convert_to_tensor=True)
+        for text, emb in zip(all_unique_texts, embeddings):
+            text_to_emb[text] = emb
 
     # FP/FN: Comparer sémantiquement les valeurs de la MÊME feature
     unique_features = df['feature'].unique()
@@ -154,31 +167,33 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
         origins = feature_data[feature_data['val_orig'].astype(str).str.strip() != '']
         predictions = feature_data[feature_data['val_pred'].astype(str).str.strip() != '']
         
-        # CAS 1 : PLUSIEURS occurrences (mismatch de format avec patterns)
-        # CAS 2 : UNE SEULE occurrence (single-occurrence format mismatch)
         if len(origins) > 0 and len(predictions) > 0:
-            # Obtenir les indices pour cette feature
             indices_orig = origins.index.tolist()
             indices_pred = predictions.index.tolist()
             
             # Comparer les valeurs
             for idx_o in indices_orig:
+                if df.loc[idx_o, 'type'] == 'tp':
+                    continue
+                val_o = str(df.loc[idx_o, 'val_orig']).strip()
+                emb1 = text_to_emb.get(val_o)
+                if emb1 is None: continue
+                
                 for idx_p in indices_pred:
-                    val_o = str(df.loc[idx_o, 'val_orig']).strip()
+                    if df.loc[idx_p, 'type'] == 'tp':
+                        continue
                     val_p = str(df.loc[idx_p, 'val_pred']).strip()
+                    emb2 = text_to_emb.get(val_p)
+                    if emb2 is None: continue
                     
-                    # Si pas un TP parfait ET les deux valeurs existent
-                    if val_o and val_p and not ((df.loc[idx_o, 'type'] == 'tp') or (df.loc[idx_p, 'type'] == 'tp')):
-                        # Calculer similitude sémantique (même pour single-occurrence)
-                        emb1 = semantic_model.encode(val_o, convert_to_tensor=True)
-                        emb2 = semantic_model.encode(val_p, convert_to_tensor=True)
-                        sim = util.cos_sim(emb1, emb2).item()
-                        
-                        # Appliquer ce score aux lignes concernées si elles sont FP/FN
-                        if df.loc[idx_o, 'type'] == 'fn':
-                            df.loc[idx_o, 'sem_score'] = max(df.loc[idx_o, 'sem_score'], sim)
-                        if df.loc[idx_p, 'type'] == 'fp':
-                            df.loc[idx_p, 'sem_score'] = max(df.loc[idx_p, 'sem_score'], sim)
+                    sim = util.cos_sim(emb1, emb2).item()
+                    
+                    if df.loc[idx_o, 'type'] == 'fn':
+                        if sim > df.loc[idx_o, 'sem_score']:
+                            df.loc[idx_o, 'sem_score'] = sim
+                    if df.loc[idx_p, 'type'] == 'fp':
+                        if sim > df.loc[idx_p, 'sem_score']:
+                            df.loc[idx_p, 'sem_score'] = sim
 
     df['sem_score'] = df['sem_score'].fillna(0.0)
     print(f"✓ Semantic scores computed")

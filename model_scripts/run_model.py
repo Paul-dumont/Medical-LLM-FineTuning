@@ -56,7 +56,7 @@ def main(table_number: int, mode: str, eval_set: str = "test", model_type: str =
     model_path = str(project_root / "model" / f"{config['model_name'].split('/')[-1]}_{mode}{table_number}")
     json_path = str(project_root / "data" / "2_input_model" / f"{mode}" / f"training_data_{mode}{table_number}.jsonl")
     if model_type == "llama":
-        output_path = str(project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_llama_{mode}{table_number}.jsonl")
+        output_path = str(project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_llama_{mode}{table_number}_10_patients.jsonl")
     else:
         output_path = str(project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_{mode}{table_number}.jsonl")
     
@@ -259,5 +259,5 @@ def main(table_number: int, mode: str, eval_set: str = "test", model_type: str =
 
 if __name__ == "__main__":
     # Pour faire l'inférence sur le DATASET ENTIER, utilisez full_dataset=True
-    main(table_number="6", mode="no_prompt", eval_set="test", model_type="llama", full_dataset=True)
+    main(table_number="6", mode="no_prompt", eval_set="test", model_type="llama", full_dataset=False)
     
