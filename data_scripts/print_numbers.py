@@ -11,7 +11,7 @@ mode = "no_prompt"  # "with_cot", "without_cot", or "dry_run"
 script_folder = Path(__file__).resolve().parent
 project_root = script_folder.parent
 
-json_path = project_root / "data" / "2_input_model" / mode / f"training_data_{mode}{table_number}.jsonl"
+json_path = project_root / "data" / "2_input_model" / mode / f"training_data_{mode}{table_number}_Human1.jsonl"
 
 # Check if file exists
 if not json_path.exists():

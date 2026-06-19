@@ -44,6 +44,11 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
         "llama": {
             "model_name": "unsloth/Meta-Llama-3.1-8B-Instruct",
             "target_modules": ["q_proj", "k_proj", "v_proj", "o_proj", "up_proj", "down_proj"],
+        },
+        "qwen": {
+            "model_name": "unsloth/Qwen2.5-7B-Instruct",
+            "target_modules": ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"
+            ],
         }
     }
     
@@ -116,9 +121,14 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
     # -------------------------------------------------------------------------
     # 5. Training 
     # -------------------------------------------------------------------------
+# -------------------------------------------------------------------------
+    # 5. Training 
+    # -------------------------------------------------------------------------
     # Adapt response template based on model
     if model_type == "phi":
         response_template = "<|assistant|>\n"
+    elif model_type == "qwen":
+        response_template = "<|im_start|>assistant\n"
     else:  # llama
         response_template = "<|start_header_id|>assistant<|end_header_id|>\n\n"
     
@@ -282,5 +292,8 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
 
 
 if __name__ == "__main__":
-    main(table_number=6, mode="no_prompt", model_type="llama")
+    main(table_number=6, mode="no_prompt", model_type="qwen")
+
+#qwen
+#llama
     

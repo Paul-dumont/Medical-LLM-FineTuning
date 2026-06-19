@@ -25,9 +25,13 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
     
     # Determine input file based on model type
     if model_type == "llama":
-        json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_llama_{mode}{table_number}_all.jsonl"
+        json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_llama_{mode}{table_number}_10_patients_full_dataset.jsonl"
+    if model_type == "qwen":
+        json_path = str(project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_qwen_{mode}{table_number}.jsonl")
     else:
         json_path = project_root / "data" / "3_output_model" / f"{mode}" / f"extraction_{mode}{table_number}.jsonl"
+
+
     
     results_dir = project_root / "data" / "5_results" / f"{mode}"
     results_dir.mkdir(parents=True, exist_ok=True)
@@ -401,6 +405,8 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
     # Create base filename based on model type
     if model_type == "llama":
         base_filename = f"result_llama_{mode}_{table_number}"
+    elif model_type == "qwen":  # ⬅️ Ligne ajoutée pour Qwen
+        base_filename = f"result_qwen_{mode}_{table_number}"  # ⬅️ Ligne ajoutée pour Qwen
     else:
         base_filename = f"result_{mode}_{table_number}"
 
@@ -468,4 +474,4 @@ def main(table_number: int, mode: str, model_type: str = "phi"):
 
 
 if __name__ == "__main__":
-    main(table_number=6, mode="no_prompt", model_type="llama")
+    main(table_number=6, mode="no_prompt", model_type="qwen")

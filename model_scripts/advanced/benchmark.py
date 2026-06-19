@@ -68,44 +68,6 @@ def benchmark(model_name: str = "phi"):
             "target_modules": ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
             "response_template": "<|assistant|>\n",
         },
-
-        # ==========================================
-        # 2. LES SPÉCIALISTES MÉDICAUX
-        # ==========================================
-        "openbiollm": {
-            # Fine-tuné spécifiquement sur des données médicales à partir de Llama 3
-            "model_name": "aaditya/OpenBioLLM-Llama3-8B",
-            "target_modules": ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
-            "response_template": "<|start_header_id|>assistant<|end_header_id|>\n\n",
-        },
-        "biomistral": {
-            # Pré-entraîné en continu sur PubMed Central
-            "model_name": "BioMistral/BioMistral-7B",
-            "target_modules": ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
-            "response_template": "[/INST]",
-        },
-
-        # ==========================================
-        # 3. LES OUTSIDERS HAUTES PERFORMANCES (Format strict & NLP)
-        # ==========================================
-        "qwen_2_5_coder": {
-            # Les modèles "Coder" sont excellents pour forcer des extractions en JSON strict
-            "model_name": "unsloth/Qwen2.5-Coder-7B-Instruct",
-            "target_modules": ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
-            "response_template": "<|im_start|>assistant\n",
-        },
-        "internlm_2_5": {
-            # Modèle très robuste avec une grande fenêtre de contexte
-            "model_name": "internlm/internlm2_5-7b-chat",
-            "target_modules": ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
-            "response_template": "<|im_start|>assistant\n",
-        },
-        "yi_1_5": {
-            # Excellent modèle 9B avec une très forte capacité de compréhension de lecture
-            "model_name": "01-ai/Yi-1.5-9B-Chat",
-            "target_modules": ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"],
-            "response_template": "<|im_start|>assistant\n",
-        }
     }
     
     config = model_configs[model_name]
@@ -254,10 +216,8 @@ if __name__ == "__main__":
     
     parser = argparse.ArgumentParser()
     parser.add_argument("--models", type=str, nargs="+", 
-                        default=["gemma_2", "openbiollm", "biomistral", "qwen_2_5_coder", "internlm_2_5", "yi_1_5"],
-                        choices=["phi_3_5", "llama_3_1", "mistral_v0_3", "qwen_2_5", "gemma_2", "openbiollm", "biomistral", "qwen_2_5_coder", "internlm_2_5", "yi_1_5"],
-                        help="Models to benchmark")
-    
+                        default=["gemma_2", "llama_3_1", "qwen_2_5", "mistral_v0_3", "phi_3_5"], # ⬅️ ON NE GARDE QUE CEUX QUI EXISTENT
+    )
     args = parser.parse_args()
     
     print("\n" + "=" * 80)

@@ -170,7 +170,7 @@ mean_m_soft = df_all_common['F1 vs Either (Soft)'].dropna().mean()
 fig5, ax5 = plt.subplots(figsize=(12, 7), facecolor='white')
 categories = ['Human 1\nvs Human 2\n(Inter-Rater)', 'Model\nvs Human 1', 'Model\nvs Human 2', 'Model\nvs Either\n(Soft Match)', 'Latest AI model\nwithout training\n(Gemini 3 Pro)']
 means = [mean_h1_h2, mean_m_h1, mean_m_h2, mean_m_soft, 0.448]
-bar_colors = ['#2ca02c', '#2ca02c', '#2ca02c', '#2ca02c', '#d62728']
+bar_colors = ["#1663bb", '#2ca02c', '#2ca02c', '#2ca02c', '#d62728']
 
 bars5 = ax5.bar(categories, means, color=bar_colors, edgecolor='black', width=0.5, alpha=0.9)
 ax5.set_ylabel('Overall Macro Average F1 Score', fontsize=12, fontweight='bold')
